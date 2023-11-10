@@ -11,6 +11,6 @@ const config: Config = {
     },
   },
   plugins: [],
-  safelist: [{ pattern: /./ }],
+  safelist: [{ pattern: /./ }, 'pl-[22px]'],
 };
 export default config;
