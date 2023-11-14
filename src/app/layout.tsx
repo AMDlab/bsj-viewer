@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'bSJ IFC Viewer',
-  description: 'A simple IFC viewer to view IFC files in the browser',
+  description: 'A simple viewer to view IFC data in the browser',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
