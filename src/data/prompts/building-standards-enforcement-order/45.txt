@@ -1,0 +1,18 @@
+ArticleCaption: （階段等の手すり等）
+ArticleTitle: 第二十五条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 階段には、手すりを設けなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 階段及びその踊場の両側（手すりが設けられた側を除く。）には、側壁又はこれに代わるものを設けなければならない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 階段の幅が三メートルをこえる場合においては、中間に手すりを設けなければならない。
+    Sentence: ただし、けあげが十五センチメートル以下で、かつ、踏面が三十センチメートル以上のものにあつては、この限りでない。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 前三項の規定は、高さ一メートル以下の階段の部分には、適用しない。

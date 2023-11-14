@@ -1,0 +1,6 @@
+ArticleCaption: （避雷設備）
+ArticleTitle: 第三十三条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 高さ二十メートルをこえる建築物には、有効に避雷設備を設けなければならない。
+    Sentence: ただし、周囲の状況によつて安全上支障がない場合においては、この限りでない。

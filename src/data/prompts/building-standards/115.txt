@@ -1,0 +1,13 @@
+ArticleCaption: （委員の欠格条項）
+ArticleTitle: 第八十条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 次の各号のいずれかに該当する者は、委員となることができない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 破産手続開始の決定を受けて復権を得ない者
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 禁錮以上の刑に処せられ、その執行を終わるまで又はその執行を受けることがなくなるまでの者

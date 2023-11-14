@@ -1,0 +1,9 @@
+ArticleCaption: （居室の天井の高さ）
+ArticleTitle: 第二十一条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 居室の天井の高さは、二・一メートル以上でなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項の天井の高さは、室の床面から測り、一室で天井の高さの異なる部分がある場合においては、その平均の高さによるものとする。

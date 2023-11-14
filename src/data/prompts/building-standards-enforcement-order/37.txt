@@ -1,0 +1,135 @@
+ArticleCaption: （居室を有する建築物の換気設備についてのホルムアルデヒドに関する技術的基準）
+ArticleTitle: 第二十条の八
+Paragraph:
+  ParagraphSentence:
+    Sentence: 換気設備についてのホルムアルデヒドに関する法第二十八条の二第三号の政令で定める技術的基準は、次のとおりとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 居室には、次のいずれかに適合する構造の換気設備を設けること。
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 機械換気設備（ロに規定する方式を用いるものでロ（１）から（３）までに掲げる構造とするものを除く。）にあつては、第百二十九条の二の五第二項の規定によるほか、次に掲げる構造とすること。
+      Subitem2:
+        Subitem2Title: （１）
+        Subitem2Sentence:
+          Sentence: 有効換気量（立方メートル毎時で表した量とする。（２）において同じ。）が、次の式によつて計算した必要有効換気量以上であること。
+        List:
+          ListSentence:
+            Sentence: Ｖｒ＝ｎＡｈ
+        List:
+          ListSentence:
+            Sentence: （この式において、Ｖｒ、ｎ、Ａ及びｈは、それぞれ次の数値を表すものとする。
+        List:
+          ListSentence:
+            Column:
+              Sentence: Ｖｒ
+            Column:
+              Sentence: 必要有効換気量（単位
+            Column:
+              Sentence: 一時間につき立方メートル）
+        List:
+          ListSentence:
+            Column:
+              Sentence: ｎ
+            Column:
+              Sentence: 前条第一項第二号の表備考一の号に規定する住宅等の居室（次項において単に「住宅等の居室」という。）にあつては〇・五、その他の居室にあつては〇・三
+        List:
+          ListSentence:
+            Column:
+              Sentence: Ａ
+            Column:
+              Sentence: 居室の床面積（単位
+            Column:
+              Sentence: 平方メートル）
+        List:
+          ListSentence:
+            Column:
+              Sentence: ｈ
+            Column:
+              Sentence: 居室の天井の高さ（単位
+            Column:
+              Sentence: メートル））
+      Subitem2:
+        Subitem2Title: （２）
+        Subitem2Sentence:
+          Sentence: 一の機械換気設備が二以上の居室に係る場合にあつては、当該換気設備の有効換気量が、当該二以上の居室のそれぞれの必要有効換気量の合計以上であること。
+      Subitem2:
+        Subitem2Title: （３）
+        Subitem2Sentence:
+          Sentence: （１）及び（２）に掲げるもののほか、ホルムアルデヒドの発散による衛生上の支障がないようにするために必要な換気を確保することができるものとして、国土交通大臣が定めた構造方法を用いるものであること。
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 居室内の空気を浄化して供給する方式を用いる機械換気設備にあつては、第百二十九条の二の五第二項の規定によるほか、次に掲げる構造とすること。
+      Subitem2:
+        Subitem2Title: （１）
+        Subitem2Sentence:
+          Sentence: 次の式によつて計算した有効換気換算量がイ（１）の式によつて計算した必要有効換気量以上であるものとして、国土交通大臣が定めた構造方法を用いるもの又は国土交通大臣の認定を受けたものであること。
+        List:
+          ListSentence:
+            Sentence: Ｖｑ＝Ｑ（（Ｃ－Ｃｐ）／Ｃ）＋Ｖ
+        List:
+          ListSentence:
+            Sentence: （この式において、Ｖｑ、Ｑ、Ｃ、Ｃｐ及びＶは、それぞれ次の数値を表すものとする。
+        List:
+          ListSentence:
+            Column:
+              Sentence: Ｖｑ
+            Column:
+              Sentence: 有効換気換算量（単位
+            Column:
+              Sentence: 一時間につき立方メートル）
+        List:
+          ListSentence:
+            Column:
+              Sentence: Ｑ
+            Column:
+              Sentence: 浄化して供給する空気の量（単位
+            Column:
+              Sentence: 一時間につき立方メートル）
+        List:
+          ListSentence:
+            Column:
+              Sentence: Ｃ
+            Column:
+              Sentence: 浄化前の空気に含まれるホルムアルデヒドの量（単位
+            Column:
+              Sentence: 一立方メートルにつきミリグラム）
+        List:
+          ListSentence:
+            Column:
+              Sentence: Ｃｐ
+            Column:
+              Sentence: 浄化して供給する空気に含まれるホルムアルデヒドの量（単位
+            Column:
+              Sentence: 一立方メートルにつきミリグラム）
+        List:
+          ListSentence:
+            Column:
+              Sentence: Ｖ
+            Column:
+              Sentence: 有効換気量（単位
+            Column:
+              Sentence: 一時間につき立方メートル））
+      Subitem2:
+        Subitem2Title: （２）
+        Subitem2Sentence:
+          Sentence: 一の機械換気設備が二以上の居室に係る場合にあつては、当該換気設備の有効換気換算量が、当該二以上の居室のそれぞれの必要有効換気量の合計以上であること。
+      Subitem2:
+        Subitem2Title: （３）
+        Subitem2Sentence:
+          Sentence: （１）及び（２）に掲げるもののほか、ホルムアルデヒドの発散による衛生上の支障がないようにするために必要な換気を確保することができるものとして、国土交通大臣が定めた構造方法を用いるものであること。
+    Subitem1:
+      Subitem1Title: ハ
+      Subitem1Sentence:
+        Sentence: 中央管理方式の空気調和設備にあつては、第百二十九条の二の五第三項の規定によるほか、ホルムアルデヒドの発散による衛生上の支障がないようにするために必要な換気を確保することができるものとして、国土交通大臣が定めた構造方法を用いる構造又は国土交通大臣の認定を受けた構造とすること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 法第三十四条第二項に規定する建築物又は各構えの床面積の合計が千平方メートルを超える地下街に設ける機械換気設備（一の居室のみに係るものを除く。）又は中央管理方式の空気調和設備にあつては、これらの制御及び作動状態の監視を中央管理室において行うことができるものとすること。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項の規定は、同項に規定する基準に適合する換気設備を設ける住宅等の居室又はその他の居室とそれぞれ同等以上にホルムアルデヒドの発散による衛生上の支障がないようにするために必要な換気を確保することができるものとして、国土交通大臣が定めた構造方法を用いる住宅等の居室若しくはその他の居室又は国土交通大臣の認定を受けた住宅等の居室若しくはその他の居室については、適用しない。

@@ -1,0 +1,5 @@
+ArticleCaption: （申請に係る建築協定の公告）
+ArticleTitle: 第七十一条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 市町村の長は、前条第一項又は第四項の規定による建築協定書の提出があつた場合においては、遅滞なく、その旨を公告し、二十日以上の相当の期間を定めて、これを関係人の縦覧に供さなければならない。

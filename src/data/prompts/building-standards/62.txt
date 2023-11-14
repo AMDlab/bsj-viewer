@@ -1,0 +1,9 @@
+ArticleCaption: （災害危険区域）
+ArticleTitle: 第三十九条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 地方公共団体は、条例で、津波、高潮、出水等による危険の著しい区域を災害危険区域として指定することができる。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 災害危険区域内における住居の用に供する建築物の建築の禁止その他建築物の建築に関する制限で災害防止上必要なものは、前項の条例で定める。

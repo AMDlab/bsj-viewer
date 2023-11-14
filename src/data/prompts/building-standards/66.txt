@@ -1,0 +1,116 @@
+SectionTitle: 第二節　建築物又はその敷地と道路又は壁面線との関係等
+Article:
+  ArticleCaption: （敷地等と道路との関係）
+  ArticleTitle: 第四十三条
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 建築物の敷地は、道路（次に掲げるものを除く。第四十四条第一項を除き、以下同じ。）に二メートル以上接しなければならない。
+    Item:
+      ItemTitle: 一
+      ItemSentence:
+        Sentence: 自動車のみの交通の用に供する道路
+    Item:
+      ItemTitle: 二
+      ItemSentence:
+        Sentence: 地区計画の区域（地区整備計画が定められている区域のうち都市計画法第十二条の十一の規定により建築物その他の工作物の敷地として併せて利用すべき区域として定められている区域に限る。）内の道路
+  Paragraph:
+    ParagraphNum: ２
+    ParagraphSentence:
+      Sentence: 前項の規定は、次の各号のいずれかに該当する建築物については、適用しない。
+    Item:
+      ItemTitle: 一
+      ItemSentence:
+        Sentence: その敷地が幅員四メートル以上の道（道路に該当するものを除き、避難及び通行の安全上必要な国土交通省令で定める基準に適合するものに限る。）に二メートル以上接する建築物のうち、利用者が少数であるものとしてその用途及び規模に関し国土交通省令で定める基準に適合するもので、特定行政庁が交通上、安全上、防火上及び衛生上支障がないと認めるもの
+    Item:
+      ItemTitle: 二
+      ItemSentence:
+        Sentence: その敷地の周囲に広い空地を有する建築物その他の国土交通省令で定める基準に適合する建築物で、特定行政庁が交通上、安全上、防火上及び衛生上支障がないと認めて建築審査会の同意を得て許可したもの
+  Paragraph:
+    ParagraphNum: ３
+    ParagraphSentence:
+      Sentence: 地方公共団体は、次の各号のいずれかに該当する建築物について、その用途、規模又は位置の特殊性により、第一項の規定によつては避難又は通行の安全の目的を十分に達成することが困難であると認めるときは、条例で、その敷地が接しなければならない道路の幅員、その敷地が道路に接する部分の長さその他その敷地又は建築物と道路との関係に関して必要な制限を付加することができる。
+    Item:
+      ItemTitle: 一
+      ItemSentence:
+        Sentence: 特殊建築物
+    Item:
+      ItemTitle: 二
+      ItemSentence:
+        Sentence: 階数が三以上である建築物
+    Item:
+      ItemTitle: 三
+      ItemSentence:
+        Sentence: 政令で定める窓その他の開口部を有しない居室を有する建築物
+    Item:
+      ItemTitle: 四
+      ItemSentence:
+        Sentence: 延べ面積（同一敷地内に二以上の建築物がある場合にあつては、その延べ面積の合計。次号、第四節、第七節及び別表第三において同じ。）が千平方メートルを超える建築物
+    Item:
+      ItemTitle: 五
+      ItemSentence:
+        Sentence: その敷地が袋路状道路（その一端のみが他の道路に接続したものをいう。）にのみ接する建築物で、延べ面積が百五十平方メートルを超えるもの（一戸建ての住宅を除く。）
+Article:
+  ArticleCaption: （その敷地が四メートル未満の道路にのみ接する建築物に対する制限の付加）
+  ArticleTitle: 第四十三条の二
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 地方公共団体は、交通上、安全上、防火上又は衛生上必要があると認めるときは、その敷地が第四十二条第三項の規定により水平距離が指定された道路にのみ二メートル（前条第三項各号のいずれかに該当する建築物で同項の条例によりその敷地が道路に接する部分の長さの制限が付加されているものにあつては、当該長さ）以上接する建築物について、条例で、その敷地、構造、建築設備又は用途に関して必要な制限を付加することができる。
+Article:
+  ArticleCaption: （道路内の建築制限）
+  ArticleTitle: 第四十四条
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 建築物又は敷地を造成するための擁壁は、道路内に、又は道路に突き出して建築し、又は築造してはならない。
+      Sentence: ただし、次の各号のいずれかに該当する建築物については、この限りでない。
+    Item:
+      ItemTitle: 一
+      ItemSentence:
+        Sentence: 地盤面下に設ける建築物
+    Item:
+      ItemTitle: 二
+      ItemSentence:
+        Sentence: 公衆便所、巡査派出所その他これらに類する公益上必要な建築物で特定行政庁が通行上支障がないと認めて建築審査会の同意を得て許可したもの
+    Item:
+      ItemTitle: 三
+      ItemSentence:
+        Sentence: 第四十三条第一項第二号の道路の上空又は路面下に設ける建築物のうち、当該道路に係る地区計画の内容に適合し、かつ、政令で定める基準に適合するものであつて特定行政庁が安全上、防火上及び衛生上支障がないと認めるもの
+    Item:
+      ItemTitle: 四
+      ItemSentence:
+        Sentence: 公共用歩廊その他政令で定める建築物で特定行政庁が安全上、防火上及び衛生上他の建築物の利便を妨げ、その他周囲の環境を害するおそれがないと認めて許可したもの
+  Paragraph:
+    ParagraphNum: ２
+    ParagraphSentence:
+      Sentence: 特定行政庁は、前項第四号の規定による許可をする場合においては、あらかじめ、建築審査会の同意を得なければならない。
+Article:
+  ArticleCaption: （私道の変更又は廃止の制限）
+  ArticleTitle: 第四十五条
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 私道の変更又は廃止によつて、その道路に接する敷地が第四十三条第一項の規定又は同条第三項の規定に基づく条例の規定に抵触することとなる場合においては、特定行政庁は、その私道の変更又は廃止を禁止し、又は制限することができる。
+  Paragraph:
+    ParagraphNum: ２
+    ParagraphSentence:
+      Sentence: 第九条第二項から第六項まで及び第十五項の規定は、前項の措置を命ずる場合に準用する。
+Article:
+  ArticleCaption: （壁面線の指定）
+  ArticleTitle: 第四十六条
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 特定行政庁は、街区内における建築物の位置を整えその環境の向上を図るために必要があると認める場合においては、建築審査会の同意を得て、壁面線を指定することができる。
+      Sentence: この場合においては、あらかじめ、その指定に利害関係を有する者の出頭を求めて公開による意見の聴取を行わなければならない。
+  Paragraph:
+    ParagraphNum: ２
+    ParagraphSentence:
+      Sentence: 前項の規定による意見の聴取を行う場合においては、同項の規定による指定の計画並びに意見の聴取の期日及び場所を期日の三日前までに公告しなければならない。
+  Paragraph:
+    ParagraphNum: ３
+    ParagraphSentence:
+      Sentence: 特定行政庁は、第一項の規定による指定をした場合においては、遅滞なく、その旨を公告しなければならない。
+Article:
+  ArticleCaption: （壁面線による建築制限）
+  ArticleTitle: 第四十七条
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 建築物の壁若しくはこれに代る柱又は高さ二メートルをこえる門若しくはへいは、壁面線を越えて建築してはならない。
+      Sentence: ただし、地盤面下の部分又は特定行政庁が建築審査会の同意を得て許可した歩廊の柱その他これに類するものについては、この限りでない。

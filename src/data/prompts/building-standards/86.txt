@@ -1,0 +1,33 @@
+ArticleCaption: （認証の取消し）
+ArticleTitle: 第六十八条の二十一
+Paragraph:
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、認証型式部材等製造者が次の各号のいずれかに該当するときは、その認証を取り消さなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 第六十八条の十二第一号又は第三号に該当するに至つたとき。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 当該認証に係る型式適合認定が取り消されたとき。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、認証型式部材等製造者が次の各号のいずれかに該当するときは、その認証を取り消すことができる。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 第六十八条の十六、第六十八条の十八又は第六十八条の十九第二項の規定に違反したとき。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 認証型式部材等の製造設備、検査設備、検査方法、品質管理方法その他品質保持に必要な技術的生産条件が、第六十八条の十三第二号の国土交通省令で定める技術的基準に適合していないと認めるとき。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 不正な手段により認証を受けたとき。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、前二項の規定により認証を取り消したときは、国土交通省令で定めるところにより、その旨を公示しなければならない。

@@ -1,0 +1,21 @@
+ArticleCaption: （コンクリートの強度）
+ArticleTitle: 第七十四条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 鉄筋コンクリート造に使用するコンクリートの強度は、次に定めるものでなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 四週圧縮強度は、一平方ミリメートルにつき十二ニュートン（軽量骨材を使用する場合においては、九ニュートン）以上であること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 設計基準強度（設計に際し採用する圧縮強度をいう。以下同じ。）との関係において国土交通大臣が安全上必要であると認めて定める基準に適合するものであること。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項に規定するコンクリートの強度を求める場合においては、国土交通大臣が指定する強度試験によらなければならない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: コンクリートは、打上りが均質で密実になり、かつ、必要な強度が得られるようにその調合を定めなければならない。

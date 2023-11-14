@@ -1,0 +1,33 @@
+ArticleCaption: （構造）
+ArticleTitle: 第百二十六条の七
+Paragraph:
+  ParagraphSentence:
+    Sentence: 前条の非常用の進入口は、次の各号に定める構造としなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 進入口は、道又は道に通ずる幅員四メートル以上の通路その他の空地に面する各階の外壁面に設けること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 進入口の間隔は、四十メートル以下であること。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 進入口の幅、高さ及び下端の床面からの高さが、それぞれ、七十五センチメートル以上、一・二メートル以上及び八十センチメートル以下であること。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 進入口は、外部から開放し、又は破壊して室内に進入できる構造とすること。
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: 進入口には、奥行き一メートル以上、長さ四メートル以上のバルコニーを設けること。
+  Item:
+    ItemTitle: 六
+    ItemSentence:
+      Sentence: 進入口又はその近くに、外部から見やすい方法で赤色灯の標識を掲示し、及び非常用の進入口である旨を赤色で表示すること。
+  Item:
+    ItemTitle: 七
+    ItemSentence:
+      Sentence: 前各号に定めるもののほか、国土交通大臣が非常用の進入口としての機能を確保するために必要があると認めて定める基準に適合する構造とすること。

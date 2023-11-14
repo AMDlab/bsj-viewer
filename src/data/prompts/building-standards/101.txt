@@ -1,0 +1,9 @@
+ArticleCaption: （建築協定の廃止）
+ArticleTitle: 第七十六条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 建築協定区域内の土地の所有者等（当該建築協定の効力が及ばない者を除く。）は、第七十三条第一項の規定による認可を受けた建築協定を廃止しようとする場合においては、その過半数の合意をもつてその旨を定め、これを特定行政庁に申請してその認可を受けなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 特定行政庁は、前項の認可をした場合においては、遅滞なく、その旨を公告しなければならない。

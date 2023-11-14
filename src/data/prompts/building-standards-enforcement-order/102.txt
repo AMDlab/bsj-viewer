@@ -1,0 +1,9 @@
+ArticleCaption: （適用の範囲）
+ArticleTitle: 第七十一条
+Paragraph:
+  ParagraphSentence:
+    Sentence: この節の規定は、鉄筋コンクリート造の建築物又は鉄筋コンクリート造と鉄骨造その他の構造とを併用する建築物の鉄筋コンクリート造の構造部分に適用する。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 高さが四メートル以下で、かつ、延べ面積が三十平方メートル以内の建築物又は高さが三メートル以下のへいについては、この節の規定中第七十二条、第七十五条及び第七十九条の規定に限り適用する。

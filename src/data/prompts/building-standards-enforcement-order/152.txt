@@ -1,0 +1,21 @@
+ArticleCaption: （エレベーターの駆動装置及び制御器）
+ArticleTitle: 第百二十九条の八
+Paragraph:
+  ParagraphSentence:
+    Sentence: エレベーターの駆動装置及び制御器は、地震その他の震動によつて転倒し又は移動するおそれがないものとして国土交通大臣が定める方法により設置しなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: エレベーターの制御器の構造は、次に掲げる基準に適合するものとして、国土交通大臣が定めた構造方法を用いるもの又は国土交通大臣の認定を受けたものとしなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 荷重の変動によりかごの停止位置が著しく移動しないこととするものであること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: かご及び昇降路のすべての出入口の戸が閉じた後、かごを昇降させるものであること。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: エレベーターの保守点検を安全に行うために必要な制御ができるものであること。

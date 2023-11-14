@@ -1,0 +1,13 @@
+ArticleCaption: （型式部材等製造者の認証）
+ArticleTitle: 第六十八条の十一
+Paragraph:
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、申請により、規格化された型式の建築材料、建築物の部分又は建築物で、国土交通省令で定めるもの（以下この章において「型式部材等」という。）の製造又は新築（以下この章において単に「製造」という。）をする者について、当該型式部材等の製造者としての認証を行う。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項の申請をしようとする者は、国土交通省令で定めるところにより、国土交通省令で定める事項を記載した申請書を提出して、これを行わなければならない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、第一項の規定による認証をしたときは、国土交通省令で定めるところにより、その旨を公示しなければならない。

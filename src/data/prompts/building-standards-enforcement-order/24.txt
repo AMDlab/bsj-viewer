@@ -1,0 +1,16 @@
+ArticleTitle: 第十四条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 建築監視員は、次の各号のいずれかに該当する者でなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 三年以上の建築行政に関する実務の経験を有する者
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 建築士で一年以上の建築行政に関する実務の経験を有するもの
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 建築の実務に関し技術上の責任のある地位にあつた建築士で国土交通大臣が前二号のいずれかに該当する者と同等以上の建築行政に関する知識及び能力を有すると認めたもの

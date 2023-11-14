@@ -1,0 +1,80 @@
+ArticleCaption: （階段及びその踊場の幅並びに階段の蹴上げ及び踏面の寸法）
+ArticleTitle: 第二十三条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 階段及びその踊場の幅並びに階段の蹴上げ及び踏面の寸法は、次の表によらなければならない。
+    Sentence: ただし、屋外階段の幅は、第百二十条又は第百二十一条の規定による直通階段にあつては九十センチメートル以上、その他のものにあつては六十センチメートル以上、住宅の階段（共同住宅の共用の階段を除く。）の蹴上げは二十三センチメートル以下、踏面は十五センチメートル以上とすることができる。
+  TableStruct:
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: 階段の種別
+        TableColumn:
+          Sentence: 階段及びその踊場の幅
+        TableColumn:
+          Sentence: 蹴上げの寸法
+        TableColumn:
+          Sentence: 踏面の寸法
+      TableRow:
+        TableColumn:
+          Sentence: （単位　センチメートル）
+        TableColumn:
+          Sentence: （単位　センチメートル）
+        TableColumn:
+          Sentence: （単位　センチメートル）
+      TableRow:
+        TableColumn:
+          Sentence: （一）
+        TableColumn:
+          Sentence: 小学校（義務教育学校の前期課程を含む。）における児童用のもの
+        TableColumn:
+          Sentence: 一四〇以上
+        TableColumn:
+          Sentence: 一六以下
+        TableColumn:
+          Sentence: 二六以上
+      TableRow:
+        TableColumn:
+          Sentence: （二）
+        TableColumn:
+          Sentence: 中学校（義務教育学校の後期課程を含む。）、高等学校若しくは中等教育学校における生徒用のもの又は物品販売業（物品加工修理業を含む。第百三十条の五の三を除き、以下同じ。）を営む店舗で床面積の合計が千五百平方メートルを超えるもの、劇場、映画館、演芸場、観覧場、公会堂若しくは集会場における客用のもの
+        TableColumn:
+          Sentence: 一四〇以上
+        TableColumn:
+          Sentence: 一八以下
+        TableColumn:
+          Sentence: 二六以上
+      TableRow:
+        TableColumn:
+          Sentence: （三）
+        TableColumn:
+          Sentence: 直上階の居室の床面積の合計が二百平方メートルを超える地上階又は居室の床面積の合計が百平方メートルを超える地階若しくは地下工作物内におけるもの
+        TableColumn:
+          Sentence: 一二〇以上
+        TableColumn:
+          Sentence: 二〇以下
+        TableColumn:
+          Sentence: 二四以上
+      TableRow:
+        TableColumn:
+          Sentence: （四）
+        TableColumn:
+          Sentence: （一）から（三）までに掲げる階段以外のもの
+        TableColumn:
+          Sentence: 七五以上
+        TableColumn:
+          Sentence: 二二以下
+        TableColumn:
+          Sentence: 二一以上
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 回り階段の部分における踏面の寸法は、踏面の狭い方の端から三十センチメートルの位置において測るものとする。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 階段及びその踊場に手すり及び階段の昇降を安全に行うための設備でその高さが五十センチメートル以下のもの（以下この項において「手すり等」という。）が設けられた場合における第一項の階段及びその踊場の幅は、手すり等の幅が十センチメートルを限度として、ないものとみなして算定する。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 第一項の規定は、同項の規定に適合する階段と同等以上に昇降を安全に行うことができるものとして国土交通大臣が定めた構造方法を用いる階段については、適用しない。

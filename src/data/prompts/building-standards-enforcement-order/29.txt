@@ -1,0 +1,96 @@
+ArticleCaption: （居室の採光）
+ArticleTitle: 第十九条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 法第二十八条第一項（法第八十七条第三項において準用する場合を含む。以下この条及び次条において同じ。）の政令で定める建築物は、児童福祉施設（幼保連携型認定こども園を除く。）、助産所、身体障害者社会参加支援施設（補装具製作施設及び視聴覚障害者情報提供施設を除く。）、保護施設（医療保護施設を除く。）、婦人保護施設、老人福祉施設、有料老人ホーム、母子保健施設、障害者支援施設、地域活動支援センター、福祉ホーム又は障害福祉サービス事業（生活介護、自立訓練、就労移行支援又は就労継続支援を行う事業に限る。）の用に供する施設（以下「児童福祉施設等」という。）とする。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 法第二十八条第一項の政令で定める居室は、次に掲げるものとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 保育所及び幼保連携型認定こども園の保育室
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 診療所の病室
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 児童福祉施設等の寝室（入所する者の使用するものに限る。）
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 児童福祉施設等（保育所を除く。）の居室のうちこれらに入所し、又は通う者に対する保育、訓練、日常生活に必要な便宜の供与その他これらに類する目的のために使用されるもの
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: 病院、診療所及び児童福祉施設等の居室のうち入院患者又は入所する者の談話、娯楽その他これらに類する目的のために使用されるもの
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 法第二十八条第一項の政令で定める割合は、次の表の上欄に掲げる居室の種類の区分に応じ、それぞれ同表の下欄に掲げる割合とする。
+    Sentence: ただし、同表の（一）の項から（六）の項までの上欄に掲げる居室のうち、国土交通大臣が定める基準に従い、照明設備の設置、有効な採光方法の確保その他これらに準ずる措置が講じられているものにあつては、それぞれ同表の下欄に掲げる割合から十分の一までの範囲内において国土交通大臣が別に定める割合とする。
+  TableStruct:
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: 居室の種類
+        TableColumn:
+          Sentence: 割合
+      TableRow:
+        TableColumn:
+          Sentence: （一）
+        TableColumn:
+          Sentence: 幼稚園、小学校、中学校、義務教育学校、高等学校、中等教育学校又は幼保連携型認定こども園の教室
+        TableColumn:
+          Sentence: 五分の一
+      TableRow:
+        TableColumn:
+          Sentence: （二）
+        TableColumn:
+          Sentence: 前項第一号に掲げる居室
+        TableColumn:
+
+      TableRow:
+        TableColumn:
+          Sentence: （三）
+        TableColumn:
+          Sentence: 住宅の居住のための居室
+        TableColumn:
+          Sentence: 七分の一
+      TableRow:
+        TableColumn:
+          Sentence: （四）
+        TableColumn:
+          Sentence: 病院又は診療所の病室
+        TableColumn:
+
+      TableRow:
+        TableColumn:
+          Sentence: （五）
+        TableColumn:
+          Sentence: 寄宿舎の寝室又は下宿の宿泊室
+        TableColumn:
+
+      TableRow:
+        TableColumn:
+          Sentence: （六）
+        TableColumn:
+          Sentence: 前項第三号及び第四号に掲げる居室
+        TableColumn:
+
+      TableRow:
+        TableColumn:
+          Sentence: （七）
+        TableColumn:
+          Sentence: （一）の項に掲げる学校以外の学校の教室
+        TableColumn:
+          Sentence: 十分の一
+      TableRow:
+        TableColumn:
+          Sentence: （八）
+        TableColumn:
+          Sentence: 前項第五号に掲げる居室
+        TableColumn:

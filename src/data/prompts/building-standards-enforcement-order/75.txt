@@ -1,0 +1,17 @@
+ArticleCaption: （組積造の施工）
+ArticleTitle: 第五十二条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 組積造に使用するれんが、石、コンクリートブロツクその他の組積材は、組積するに当たつて充分に水洗いをしなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 組積材は、その目地塗面の全部にモルタルが行きわたるように組積しなければならない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 前項のモルタルは、セメントモルタルでセメントと砂との容積比が一対三のもの若しくはこれと同等以上の強度を有するもの又は石灰入りセメントモルタルでセメントと石灰と砂との容積比が一対二対五のもの若しくはこれと同等以上の強度を有するものとしなければならない。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 組積材は、芋目地ができないように組積しなければならない。

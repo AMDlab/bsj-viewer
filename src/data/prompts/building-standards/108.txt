@@ -1,0 +1,375 @@
+SectionTitle: 第三節　指定構造計算適合性判定機関
+Article:
+  ArticleCaption: （指定）
+  ArticleTitle: 第七十七条の三十五の二
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 第十八条の二第一項の規定による指定（以下この節において単に「指定」という。）は、構造計算適合性判定の業務を行おうとする者の申請により行う。
+  Paragraph:
+    ParagraphNum: ２
+    ParagraphSentence:
+      Sentence: 前項の申請は、国土交通省令で定めるところにより、構造計算適合性判定の業務を行う区域（以下この節において「業務区域」という。）を定めてしなければならない。
+  Paragraph:
+    ParagraphNum: ３
+    ParagraphSentence:
+      Sentence: 国土交通大臣は、指定をしようとするときは、あらかじめ、業務区域を所轄する都道府県知事の意見を聴かなければならない。
+Article:
+  ArticleCaption: （欠格条項）
+  ArticleTitle: 第七十七条の三十五の三
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 次の各号のいずれかに該当する者は、指定を受けることができない。
+    Item:
+      ItemTitle: 一
+      ItemSentence:
+        Sentence: 未成年者
+    Item:
+      ItemTitle: 二
+      ItemSentence:
+        Sentence: 破産手続開始の決定を受けて復権を得ない者
+    Item:
+      ItemTitle: 三
+      ItemSentence:
+        Sentence: 禁錮以上の刑に処せられ、又は建築基準法令の規定により刑に処せられ、その執行を終わり、又は執行を受けることがなくなつた日から起算して五年を経過しない者
+    Item:
+      ItemTitle: 四
+      ItemSentence:
+        Sentence: 第七十七条の三十五第二項の規定により第七十七条の十八第一項に規定する指定を取り消され、その取消しの日から起算して五年を経過しない者
+    Item:
+      ItemTitle: 五
+      ItemSentence:
+        Sentence: 第七十七条の三十五の十九第一項又は第二項の規定により指定を取り消され、その取消しの日から起算して五年を経過しない者
+    Item:
+      ItemTitle: 六
+      ItemSentence:
+        Sentence: 第七十七条の六十二第二項（第七十七条の六十六第二項において準用する場合を含む。）の規定により第七十七条の五十八第一項又は第七十七条の六十六第一項の登録を消除され、その消除の日から起算して五年を経過しない者
+    Item:
+      ItemTitle: 七
+      ItemSentence:
+        Sentence: 建築士法第七条第四号又は第二十三条の四第一項第三号に該当する者
+    Item:
+      ItemTitle: 八
+      ItemSentence:
+        Sentence: 公務員で懲戒免職の処分を受け、その処分の日から起算して三年を経過しない者
+    Item:
+      ItemTitle: 九
+      ItemSentence:
+        Sentence: 心身の故障により構造計算適合性判定の業務を適正に行うことができない者として国土交通省令で定めるもの
+    Item:
+      ItemTitle: 十
+      ItemSentence:
+        Sentence: 法人であつて、その役員のうちに前各号のいずれかに該当する者があるもの
+    Item:
+      ItemTitle: 十一
+      ItemSentence:
+        Sentence: その者の親会社等が前各号のいずれかに該当する者
+Article:
+  ArticleCaption: （指定の基準）
+  ArticleTitle: 第七十七条の三十五の四
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 国土交通大臣又は都道府県知事は、指定の申請が次に掲げる基準に適合していると認めるときでなければ、指定をしてはならない。
+    Item:
+      ItemTitle: 一
+      ItemSentence:
+        Sentence: 第七十七条の三十五の九第一項の構造計算適合性判定員（職員である者に限る。）の数が、構造計算適合性判定を行おうとする建築物の規模及び数に応じて国土交通省令で定める数以上であること。
+    Item:
+      ItemTitle: 二
+      ItemSentence:
+        Sentence: 前号に定めるもののほか、職員、設備、構造計算適合性判定の業務の実施の方法その他の事項についての構造計算適合性判定の業務の実施に関する計画が、構造計算適合性判定の業務の適確な実施のために適切なものであること。
+    Item:
+      ItemTitle: 三
+      ItemSentence:
+        Sentence: その者の有する財産の評価額（その者が法人である場合にあつては、資本金、基本金その他これらに準ずるものの額）が国土交通省令で定める額以上であること。
+    Item:
+      ItemTitle: 四
+      ItemSentence:
+        Sentence: 前号に定めるもののほか、第二号の構造計算適合性判定の業務の実施に関する計画を適確に実施するに足りる経理的基礎を有するものであること。
+    Item:
+      ItemTitle: 五
+      ItemSentence:
+        Sentence: 法人にあつては役員、第七十七条の二十第五号の国土交通省令で定める構成員又は職員（第七十七条の三十五の九第一項の構造計算適合性判定員を含む。以下この号において同じ。）の構成が、法人以外の者にあつてはその者及びその職員の構成が、構造計算適合性判定の業務の公正な実施に支障を及ぼすおそれがないものであること。
+    Item:
+      ItemTitle: 六
+      ItemSentence:
+        Sentence: その者又はその者の親会社等が指定確認検査機関である場合には、当該指定確認検査機関に対してされた第六条の二第一項の規定による確認の申請に係る建築物の計画について、第十八条の二第四項の規定により読み替えて適用される第六条の三第一項の規定による構造計算適合性判定を行わないものであること。
+    Item:
+      ItemTitle: 七
+      ItemSentence:
+        Sentence: 前号に定めるもののほか、その者又はその者の親会社等が構造計算適合性判定の業務以外の業務を行つている場合には、その業務を行うことによつて構造計算適合性判定の業務の公正な実施に支障を及ぼすおそれがないものであること。
+    Item:
+      ItemTitle: 八
+      ItemSentence:
+        Sentence: 前各号に定めるもののほか、構造計算適合性判定の業務を行うにつき十分な適格性を有するものであること。
+Article:
+  ArticleCaption: （指定の公示等）
+  ArticleTitle: 第七十七条の三十五の五
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 国土交通大臣又は都道府県知事は、指定をしたときは、指定を受けた者（以下この節及び第百条において「指定構造計算適合性判定機関」という。）の名称及び住所並びに業務区域を公示しなければならない。
+  Paragraph:
+    ParagraphNum: ２
+    ParagraphSentence:
+      Sentence: 指定構造計算適合性判定機関は、その名称又は住所を変更しようとするときは、変更しようとする日の二週間前までに、その指定をした国土交通大臣又は都道府県知事（以下この節において「国土交通大臣等」という。）にその旨を届け出なければならない。
+  Paragraph:
+    ParagraphNum: ３
+    ParagraphSentence:
+      Sentence: 国土交通大臣等は、前項の規定による届出があつたときは、その旨を公示しなければならない。
+Article:
+  ArticleCaption: （業務区域の変更）
+  ArticleTitle: 第七十七条の三十五の六
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 指定構造計算適合性判定機関は、業務区域を増加し、又は減少しようとするときは、国土交通大臣等の認可を受けなければならない。
+  Paragraph:
+    ParagraphNum: ２
+    ParagraphSentence:
+      Sentence: 国土交通大臣は、指定構造計算適合性判定機関が業務区域を減少しようとするときは、当該業務区域の減少により構造計算適合性判定の業務の適正かつ確実な実施が損なわれるおそれがないと認めるときでなければ、前項の認可をしてはならない。
+  Paragraph:
+    ParagraphNum: ３
+    ParagraphSentence:
+      Sentence: 第七十七条の三十五の二第三項及び第七十七条の三十五の四第一号から第四号までの規定は、第一項の認可について準用する。
+      Sentence: この場合において、第七十七条の三十五の二第三項中「業務区域」とあるのは、「増加し、又は減少しようとする業務区域」と読み替えるものとする。
+  Paragraph:
+    ParagraphNum: ４
+    ParagraphSentence:
+      Sentence: 国土交通大臣等は、第一項の認可をしたときは、その旨を公示しなければならない。
+Article:
+  ArticleCaption: （指定の更新）
+  ArticleTitle: 第七十七条の三十五の七
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 指定は、五年以上十年以内において政令で定める期間ごとにその更新を受けなければ、その期間の経過によつて、その効力を失う。
+  Paragraph:
+    ParagraphNum: ２
+    ParagraphSentence:
+      Sentence: 第七十七条の三十五の二から第七十七条の三十五の四までの規定は、前項の指定の更新の場合について準用する。
+Article:
+  ArticleCaption: （委任の公示等）
+  ArticleTitle: 第七十七条の三十五の八
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 第十八条の二第一項の規定により指定構造計算適合性判定機関にその構造計算適合性判定を行わせることとした都道府県知事（以下「委任都道府県知事」という。）は、当該指定構造計算適合性判定機関の名称及び住所、業務区域並びに当該構造計算適合性判定の業務を行う事務所の所在地並びに当該指定構造計算適合性判定機関に行わせることとした構造計算適合性判定の業務及び当該構造計算適合性判定の業務の開始の日を公示しなければならない。
+  Paragraph:
+    ParagraphNum: ２
+    ParagraphSentence:
+      Sentence: 国土交通大臣の指定に係る指定構造計算適合性判定機関は、その名称又は住所を変更しようとするときは委任都道府県知事に、構造計算適合性判定の業務を行う事務所の所在地を変更しようとするときは関係委任都道府県知事に、それぞれ、変更しようとする日の二週間前までに、その旨を届け出なければならない。
+  Paragraph:
+    ParagraphNum: ３
+    ParagraphSentence:
+      Sentence: 都道府県知事の指定に係る指定構造計算適合性判定機関は、構造計算適合性判定の業務を行う事務所の所在地を変更しようとするときは、変更しようとする日の二週間前までに、その旨を委任都道府県知事に届け出なければならない。
+  Paragraph:
+    ParagraphNum: ４
+    ParagraphSentence:
+      Sentence: 委任都道府県知事は、前二項の規定による届出があつたときは、その旨を公示しなければならない。
+Article:
+  ArticleCaption: （構造計算適合性判定員）
+  ArticleTitle: 第七十七条の三十五の九
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 指定構造計算適合性判定機関は、構造計算適合性判定を行うときは、構造計算適合性判定員に構造計算適合性判定を実施させなければならない。
+  Paragraph:
+    ParagraphNum: ２
+    ParagraphSentence:
+      Sentence: 構造計算適合性判定員は、第七十七条の六十六第一項の登録を受けた者のうちから選任しなければならない。
+  Paragraph:
+    ParagraphNum: ３
+    ParagraphSentence:
+      Sentence: 指定構造計算適合性判定機関は、構造計算適合性判定員を選任し、又は解任したときは、国土交通省令で定めるところにより、その旨を国土交通大臣等に届け出なければならない。
+  Paragraph:
+    ParagraphNum: ４
+    ParagraphSentence:
+      Sentence: 国土交通大臣等は、構造計算適合性判定員の在任により指定構造計算適合性判定機関が第七十七条の三十五の四第五号に掲げる基準に適合しなくなつたときは、指定構造計算適合性判定機関に対し、その構造計算適合性判定員を解任すべきことを命ずることができる。
+Article:
+  ArticleCaption: （秘密保持義務等）
+  ArticleTitle: 第七十七条の三十五の十
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 指定構造計算適合性判定機関（その者が法人である場合にあつては、その役員。次項において同じ。）及びその職員（構造計算適合性判定員を含む。次項において同じ。）並びにこれらの者であつた者は、構造計算適合性判定の業務に関して知り得た秘密を漏らし、又は盗用してはならない。
+  Paragraph:
+    ParagraphNum: ２
+    ParagraphSentence:
+      Sentence: 指定構造計算適合性判定機関及びその職員で構造計算適合性判定の業務に従事するものは、刑法その他の罰則の適用については、法令により公務に従事する職員とみなす。
+Article:
+  ArticleCaption: （構造計算適合性判定の義務）
+  ArticleTitle: 第七十七条の三十五の十一
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 指定構造計算適合性判定機関は、構造計算適合性判定を行うべきことを求められたときは、正当な理由がある場合を除き、遅滞なく、構造計算適合性判定を行わなければならない。
+Article:
+  ArticleCaption: （構造計算適合性判定業務規程）
+  ArticleTitle: 第七十七条の三十五の十二
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 指定構造計算適合性判定機関は、構造計算適合性判定の業務に関する規程（以下この節において「構造計算適合性判定業務規程」という。）を定め、国土交通大臣等の認可を受けなければならない。
+      Sentence: これを変更しようとするときも、同様とする。
+  Paragraph:
+    ParagraphNum: ２
+    ParagraphSentence:
+      Sentence: 構造計算適合性判定業務規程で定めるべき事項は、国土交通省令で定める。
+  Paragraph:
+    ParagraphNum: ３
+    ParagraphSentence:
+      Sentence: 国土交通大臣等は、第一項の認可をした構造計算適合性判定業務規程が構造計算適合性判定の公正かつ適確な実施上不適当となつたと認めるときは、その構造計算適合性判定業務規程を変更すべきことを命ずることができる。
+Article:
+  ArticleCaption: （業務区域等の掲示）
+  ArticleTitle: 第七十七条の三十五の十三
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 指定構造計算適合性判定機関は、国土交通省令で定めるところにより、業務区域その他国土交通省令で定める事項を、その事務所において公衆に見やすいように掲示しなければならない。
+Article:
+  ArticleCaption: （帳簿の備付け等）
+  ArticleTitle: 第七十七条の三十五の十四
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 指定構造計算適合性判定機関は、国土交通省令で定めるところにより、構造計算適合性判定の業務に関する事項で国土交通省令で定めるものを記載した帳簿を備え付け、これを保存しなければならない。
+  Paragraph:
+    ParagraphNum: ２
+    ParagraphSentence:
+      Sentence: 前項に定めるもののほか、指定構造計算適合性判定機関は、国土交通省令で定めるところにより、構造計算適合性判定の業務に関する書類で国土交通省令で定めるものを保存しなければならない。
+Article:
+  ArticleCaption: （書類の閲覧）
+  ArticleTitle: 第七十七条の三十五の十五
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 指定構造計算適合性判定機関は、国土交通省令で定めるところにより、構造計算適合性判定の業務を行う事務所に次に掲げる書類を備え置き、構造計算適合性判定を受けようとする者その他の関係者の求めに応じ、これを閲覧させなければならない。
+    Item:
+      ItemTitle: 一
+      ItemSentence:
+        Sentence: 当該指定構造計算適合性判定機関の業務の実績を記載した書類
+    Item:
+      ItemTitle: 二
+      ItemSentence:
+        Sentence: 構造計算適合性判定員の氏名及び略歴を記載した書類
+    Item:
+      ItemTitle: 三
+      ItemSentence:
+        Sentence: 構造計算適合性判定の業務に関し生じた損害を賠償するために必要な金額を担保するための保険契約の締結その他の措置を講じている場合にあつては、その内容を記載した書類
+    Item:
+      ItemTitle: 四
+      ItemSentence:
+        Sentence: その他指定構造計算適合性判定機関の業務及び財務に関する書類で国土交通省令で定めるもの
+Article:
+  ArticleCaption: （監督命令）
+  ArticleTitle: 第七十七条の三十五の十六
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 国土交通大臣等は、構造計算適合性判定の業務の公正かつ適確な実施を確保するため必要があると認めるときは、その指定に係る指定構造計算適合性判定機関に対し、構造計算適合性判定の業務に関し監督上必要な命令をすることができる。
+  Paragraph:
+    ParagraphNum: ２
+    ParagraphSentence:
+      Sentence: 国土交通大臣等は、前項の規定による命令をしたときは、国土交通省令で定めるところにより、その旨を公示しなければならない。
+Article:
+  ArticleCaption: （報告、検査等）
+  ArticleTitle: 第七十七条の三十五の十七
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 国土交通大臣等又は委任都道府県知事は、構造計算適合性判定の業務の公正かつ適確な実施を確保するため必要があると認めるときは、国土交通大臣等にあつてはその指定に係る指定構造計算適合性判定機関に対し、委任都道府県知事にあつてはその構造計算適合性判定を行わせることとした指定構造計算適合性判定機関に対し、構造計算適合性判定の業務に関し必要な報告を求め、又はその職員に、指定構造計算適合性判定機関の事務所に立ち入り、構造計算適合性判定の業務の状況若しくは設備、帳簿、書類その他の物件を検査させ、若しくは関係者に質問させることができる。
+  Paragraph:
+    ParagraphNum: ２
+    ParagraphSentence:
+      Sentence: 委任都道府県知事は、前項の規定による立入検査の結果、当該指定構造計算適合性判定機関（国土交通大臣の指定に係る者に限る。）が、構造計算適合性判定業務規程に違反する行為をし、又は構造計算適合性判定の業務に関し著しく不適当な行為をした事実があると認めるときは、国土交通省令で定めるところにより、その旨を国土交通大臣に報告しなければならない。
+  Paragraph:
+    ParagraphNum: ３
+    ParagraphSentence:
+      Sentence: 前項の規定による報告を受けた場合において、国土交通大臣は、必要に応じ、第七十七条の三十五の十九第二項の規定による構造計算適合性判定の業務の全部又は一部の停止命令その他の措置を講ずるものとする。
+  Paragraph:
+    ParagraphNum: ４
+    ParagraphSentence:
+      Sentence: 第十五条の二第二項及び第三項の規定は、第一項の場合について準用する。
+Article:
+  ArticleCaption: （構造計算適合性判定の業務の休廃止等）
+  ArticleTitle: 第七十七条の三十五の十八
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 指定構造計算適合性判定機関は、国土交通大臣等の許可を受けなければ、構造計算適合性判定の業務の全部又は一部を休止し、又は廃止してはならない。
+  Paragraph:
+    ParagraphNum: ２
+    ParagraphSentence:
+      Sentence: 国土交通大臣は、指定構造計算適合性判定機関の構造計算適合性判定の業務の全部又は一部の休止又は廃止により構造計算適合性判定の業務の適正かつ確実な実施が損なわれるおそれがないと認めるときでなければ、前項の許可をしてはならない。
+  Paragraph:
+    ParagraphNum: ３
+    ParagraphSentence:
+      Sentence: 国土交通大臣は、第一項の許可をしようとするときは、関係委任都道府県知事の意見を聴かなければならない。
+  Paragraph:
+    ParagraphNum: ４
+    ParagraphSentence:
+      Sentence: 国土交通大臣等が第一項の規定により構造計算適合性判定の業務の全部の廃止を許可したときは、当該許可に係る指定は、その効力を失う。
+  Paragraph:
+    ParagraphNum: ５
+    ParagraphSentence:
+      Sentence: 国土交通大臣等は、第一項の許可をしたときは、その旨を公示しなければならない。
+Article:
+  ArticleCaption: （指定の取消し等）
+  ArticleTitle: 第七十七条の三十五の十九
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 国土交通大臣等は、その指定に係る指定構造計算適合性判定機関が第七十七条の三十五の三各号（第五号を除く。）のいずれかに該当するに至つたときは、その指定を取り消さなければならない。
+  Paragraph:
+    ParagraphNum: ２
+    ParagraphSentence:
+      Sentence: 国土交通大臣等は、その指定に係る指定構造計算適合性判定機関が次の各号のいずれかに該当するときは、その指定を取り消し、又は期間を定めて構造計算適合性判定の業務の全部若しくは一部の停止を命ずることができる。
+    Item:
+      ItemTitle: 一
+      ItemSentence:
+        Sentence: 第十八条の二第四項の規定により読み替えて適用される第六条の三第四項から第六項まで若しくは第十八条第七項から第九項までの規定又は第十八条の三第三項、第七十七条の三十五の五第二項、第七十七条の三十五の六第一項、第七十七条の三十五の八第二項若しくは第三項、第七十七条の三十五の九第一項から第三項まで、第七十七条の三十五の十一、第七十七条の三十五の十三から第七十七条の三十五の十五まで若しくは前条第一項の規定に違反したとき。
+    Item:
+      ItemTitle: 二
+      ItemSentence:
+        Sentence: 第七十七条の三十五の十二第一項の認可を受けた構造計算適合性判定業務規程によらないで構造計算適合性判定を行つたとき。
+    Item:
+      ItemTitle: 三
+      ItemSentence:
+        Sentence: 第七十七条の三十五の九第四項、第七十七条の三十五の十二第三項又は第七十七条の三十五の十六第一項の規定による命令に違反したとき。
+    Item:
+      ItemTitle: 四
+      ItemSentence:
+        Sentence: 第七十七条の三十五の四各号に掲げる基準に適合していないと認めるとき。
+    Item:
+      ItemTitle: 五
+      ItemSentence:
+        Sentence: 構造計算適合性判定の業務に関し著しく不適当な行為をしたとき、又はその業務に従事する構造計算適合性判定員若しくは法人にあつてはその役員が、構造計算適合性判定の業務に関し著しく不適当な行為をしたとき。
+    Item:
+      ItemTitle: 六
+      ItemSentence:
+        Sentence: 不正な手段により指定を受けたとき。
+  Paragraph:
+    ParagraphNum: ３
+    ParagraphSentence:
+      Sentence: 国土交通大臣等は、前二項の規定により指定を取り消し、又は前項の規定により構造計算適合性判定の業務の全部若しくは一部の停止を命じたときは、その旨を公示するとともに、国土交通大臣にあつては関係都道府県知事に通知しなければならない。
+Article:
+  ArticleCaption: （構造計算適合性判定の委任の解除）
+  ArticleTitle: 第七十七条の三十五の二十
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 委任都道府県知事は、指定構造計算適合性判定機関に構造計算適合性判定の全部又は一部を行わせないこととするときは、その六月前までに、その旨を指定構造計算適合性判定機関に通知しなければならない。
+  Paragraph:
+    ParagraphNum: ２
+    ParagraphSentence:
+      Sentence: 委任都道府県知事は、指定構造計算適合性判定機関に構造計算適合性判定の全部又は一部を行わせないこととしたときは、その旨を公示しなければならない。
+Article:
+  ArticleCaption: （委任都道府県知事による構造計算適合性判定の実施）
+  ArticleTitle: 第七十七条の三十五の二十一
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 委任都道府県知事は、指定構造計算適合性判定機関が次の各号のいずれかに該当するときは、第十八条の二第三項の規定にかかわらず、当該指定構造計算適合性判定機関が休止し、停止を命じられ、又は実施することが困難となつた構造計算適合性判定の業務のうち他の指定構造計算適合性判定機関によつて行われないものを自ら行うものとする。
+    Item:
+      ItemTitle: 一
+      ItemSentence:
+        Sentence: 第七十七条の三十五の十八第一項の規定により構造計算適合性判定の業務の全部又は一部を休止したとき。
+    Item:
+      ItemTitle: 二
+      ItemSentence:
+        Sentence: 第七十七条の三十五の十九第二項の規定により構造計算適合性判定の業務の全部又は一部の停止を命じられたとき。
+    Item:
+      ItemTitle: 三
+      ItemSentence:
+        Sentence: 天災その他の事由により構造計算適合性判定の業務の全部又は一部を実施することが困難となつた場合において委任都道府県知事が必要があると認めるとき。
+  Paragraph:
+    ParagraphNum: ２
+    ParagraphSentence:
+      Sentence: 委任都道府県知事は、前項の規定により構造計算適合性判定の業務を行い、又は同項の規定により行つている構造計算適合性判定の業務を行わないこととしようとするときは、あらかじめ、その旨を公示しなければならない。
+  Paragraph:
+    ParagraphNum: ３
+    ParagraphSentence:
+      Sentence: 委任都道府県知事が第一項の規定により構造計算適合性判定の業務を行うこととし、又は国土交通大臣等が第七十七条の三十五の六第一項の規定により業務区域の減少を認可し、第七十七条の三十五の十八第一項の規定により構造計算適合性判定の業務の廃止を許可し、若しくは第七十七条の三十五の十九第一項若しくは第二項の規定により指定を取り消した場合における構造計算適合性判定の業務の引継ぎその他の必要な事項は、国土交通省令で定める。

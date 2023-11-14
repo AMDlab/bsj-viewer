@@ -1,0 +1,9 @@
+ArticleCaption: （壁の長さ）
+ArticleTitle: 第五十四条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 組積造の壁の長さは、十メートル以下としなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項の壁の長さは、その壁に相隣つて接着する二つの壁（控壁でその基礎の部分における長さが、控壁の接着する壁の高さの三分の一以上のものを含む。以下この節において「対隣壁」という。）がその壁に接着する部分間の中心距離をいう。

@@ -1,0 +1,26 @@
+ArticleCaption: （基礎）
+ArticleTitle: 第三十八条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 建築物の基礎は、建築物に作用する荷重及び外力を安全に地盤に伝え、かつ、地盤の沈下又は変形に対して構造耐力上安全なものとしなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 建築物には、異なる構造方法による基礎を併用してはならない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 建築物の基礎の構造は、建築物の構造、形態及び地盤の状況を考慮して国土交通大臣が定めた構造方法を用いるものとしなければならない。
+    Sentence: この場合において、高さ十三メートル又は延べ面積三千平方メートルを超える建築物で、当該建築物に作用する荷重が最下階の床面積一平方メートルにつき百キロニュートンを超えるものにあつては、基礎の底部（基礎ぐいを使用する場合にあつては、当該基礎ぐいの先端）を良好な地盤に達することとしなければならない。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 前二項の規定は、建築物の基礎について国土交通大臣が定める基準に従つた構造計算によつて構造耐力上安全であることが確かめられた場合においては、適用しない。
+Paragraph:
+  ParagraphNum: ５
+  ParagraphSentence:
+    Sentence: 打撃、圧力又は振動により設けられる基礎ぐいは、それを設ける際に作用する打撃力その他の外力に対して構造耐力上安全なものでなければならない。
+Paragraph:
+  ParagraphNum: ６
+  ParagraphSentence:
+    Sentence: 建築物の基礎に木ぐいを使用する場合においては、その木ぐいは、平家建の木造の建築物に使用する場合を除き、常水面下にあるようにしなければならない。

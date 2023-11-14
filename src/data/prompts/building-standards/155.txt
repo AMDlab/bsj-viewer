@@ -1,0 +1,33 @@
+ArticleCaption: （手数料）
+ArticleTitle: 第九十七条の四
+Paragraph:
+  ParagraphSentence:
+    Sentence: 国土交通大臣が行う次に掲げる処分の申請をしようとする者は、国土交通省令で定めるところにより、実費を勘案して国土交通省令で定める額の手数料を国に納めなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 構造方法等の認定
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 特殊構造方法等認定
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 型式適合認定
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 第六十八条の十一第一項の認証又はその更新
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: 第六十八条の二十二第一項の認証又はその更新
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 指定認定機関、承認認定機関、指定性能評価機関又は承認性能評価機関が行う前項第三号から第五号までに掲げる処分又は性能評価の申請をしようとする者は、国土交通省令で定めるところにより、実費を勘案して国土交通省令で定める額の手数料を当該指定認定機関、承認認定機関、指定性能評価機関又は承認性能評価機関に納めなければならない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 前項の規定により指定認定機関、承認認定機関、指定性能評価機関又は承認性能評価機関に納められた手数料は、当該指定認定機関、承認認定機関、指定性能評価機関又は承認性能評価機関の収入とする。

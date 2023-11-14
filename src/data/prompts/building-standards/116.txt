@@ -1,0 +1,17 @@
+ArticleCaption: （委員の解任）
+ArticleTitle: 第八十条の二
+Paragraph:
+  ParagraphSentence:
+    Sentence: 市町村長又は都道府県知事は、それぞれその任命に係る委員が前条各号のいずれかに該当するに至つた場合においては、その委員を解任しなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 市町村長又は都道府県知事は、それぞれその任命に係る委員が次の各号のいずれかに該当する場合においては、その委員を解任することができる。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 心身の故障のため職務の執行に堪えないと認められる場合
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 職務上の義務違反その他委員たるに適しない非行があると認められる場合

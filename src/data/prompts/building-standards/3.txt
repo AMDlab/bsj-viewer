@@ -1,0 +1,29 @@
+ArticleCaption: （建築主事）
+ArticleTitle: 第四条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 政令で指定する人口二十五万以上の市は、その長の指揮監督の下に、第六条第一項の規定による確認に関する事務をつかさどらせるために、建築主事を置かなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 市町村（前項の市を除く。）は、その長の指揮監督の下に、第六条第一項の規定による確認に関する事務をつかさどらせるために、建築主事を置くことができる。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 市町村は、前項の規定により建築主事を置こうとする場合においては、あらかじめ、その設置について、都道府県知事に協議しなければならない。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 市町村が前項の規定により協議して建築主事を置くときは、当該市町村の長は、建築主事が置かれる日の三十日前までにその旨を公示し、かつ、これを都道府県知事に通知しなければならない。
+Paragraph:
+  ParagraphNum: ５
+  ParagraphSentence:
+    Sentence: 都道府県は、都道府県知事の指揮監督の下に、第一項又は第二項の規定によつて建築主事を置いた市町村（第九十七条の二を除き、以下「建築主事を置く市町村」という。）の区域外における建築物に係る第六条第一項の規定による確認に関する事務をつかさどらせるために、建築主事を置かなければならない。
+Paragraph:
+  ParagraphNum: ６
+  ParagraphSentence:
+    Sentence: 第一項、第二項及び前項の建築主事は、市町村又は都道府県の職員で第七十七条の五十八第一項の登録を受けた者のうちから、それぞれ市町村の長又は都道府県知事が命ずる。
+Paragraph:
+  ParagraphNum: ７
+  ParagraphSentence:
+    Sentence: 特定行政庁は、その所轄区域を分けて、その区域を所管する建築主事を指定することができる。

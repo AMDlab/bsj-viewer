@@ -1,0 +1,34 @@
+ArticleCaption: （開口部）
+ArticleTitle: 第五十七条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 組積造の壁における窓、出入口その他の開口部は、次の各号に定めるところによらなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 各階の対隣壁によつて区画されたおのおのの壁における開口部の幅の総和は、その壁の長さの二分の一以下とすること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 各階における開口部の幅の総和は、その階における壁の長さの総和の三分の一以下とすること。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 一の開口部とその直上にある開口部との垂直距離は、六十センチメートル以上とすること。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 組積造の壁の各階における開口部相互間又は開口部と対隣壁の中心との水平距離は、その壁の厚さの二倍以上としなければならない。
+    Sentence: ただし、開口部周囲を鉄骨又は鉄筋コンクリートで補強した場合においては、この限りでない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 幅が一メートルをこえる開口部の上部には、鉄筋コンクリート造のまぐさを設けなければならない。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 組積造のはね出し窓又ははね出し縁は、鉄骨又は鉄筋コンクリートで補強しなければならない。
+Paragraph:
+  ParagraphNum: ５
+  ParagraphSentence:
+    Sentence: 壁付暖炉の組積造の炉胸は、暖炉及び煙突を充分に支持するに足りる基礎の上に造り、かつ、上部を積出しとしない構造とし、木造の建築物に設ける場合においては、更に鋼材で補強しなければならない。

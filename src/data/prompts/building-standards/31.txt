@@ -1,0 +1,9 @@
+ArticleCaption: （都道府県知事又は国土交通大臣の勧告、助言又は援助）
+ArticleTitle: 第十四条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 建築主事を置く市町村の長は、都道府県知事又は国土交通大臣に、都道府県知事は、国土交通大臣に、この法律の施行に関し必要な助言又は援助を求めることができる。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、特定行政庁に対して、都道府県知事は、建築主事を置く市町村の長に対して、この法律の施行に関し必要な勧告、助言若しくは援助をし、又は必要な参考資料を提供することができる。

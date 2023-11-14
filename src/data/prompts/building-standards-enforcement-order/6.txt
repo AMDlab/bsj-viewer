@@ -1,0 +1,9 @@
+ArticleCaption: （建築基準適合判定資格者検定の施行）
+ArticleTitle: 第五条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 建築基準適合判定資格者検定は、毎年一回以上行う。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 建築基準適合判定資格者検定の期日及び場所は、国土交通大臣が、あらかじめ、官報で公告する。

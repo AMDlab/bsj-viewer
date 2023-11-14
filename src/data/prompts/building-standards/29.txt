@@ -1,0 +1,26 @@
+ArticleCaption: （建築設備等検査員資格者証）
+ArticleTitle: 第十二条の三
+Paragraph:
+  ParagraphSentence:
+    Sentence: 建築設備等検査員資格者証の種類は、国土交通省令で定める。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 建築設備等検査員が第十二条第三項の検査及び同条第四項の点検（次項第一号において「検査等」という。）を行うことができる建築設備等の種類は、前項の建築設備等検査員資格者証の種類に応じて国土交通省令で定める。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、次の各号のいずれかに該当する者に対し、建築設備等検査員資格者証を交付する。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 検査等に関する講習で建築設備等検査員資格者証の種類ごとに国土交通省令で定めるものの課程を修了した者
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 前号に掲げる者と同等以上の専門的知識及び能力を有すると国土交通大臣が認定した者
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 前条第二項から第四項までの規定は、建築設備等検査員資格者証について準用する。
+    Sentence: この場合において、同条第二項中「前項」とあるのは「次条第三項」と、同項第四号及び同条第三項第三号中「調査等」とあるのは「次条第二項に規定する検査等」と読み替えるものとする。

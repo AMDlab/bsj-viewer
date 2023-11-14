@@ -1,0 +1,9 @@
+ArticleCaption: （受検の申込み）
+ArticleTitle: 第八条の二
+Paragraph:
+  ParagraphSentence:
+    Sentence: 建築基準適合判定資格者検定（指定建築基準適合判定資格者検定機関が行うものを除く。）の受検の申込みは、住所地又は勤務地の都道府県知事を経由して行わなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項の規定により都道府県が処理することとされている事務は、地方自治法（昭和二十二年法律第六十七号）第二条第九項第一号に規定する第一号法定受託事務とする。

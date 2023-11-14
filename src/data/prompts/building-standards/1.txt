@@ -1,0 +1,313 @@
+ArticleCaption: （用語の定義）
+ArticleTitle: 第二条
+Paragraph:
+  ParagraphSentence:
+    Sentence: この法律において次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Column:
+        Sentence: 建築物
+      Column:
+        Sentence: 土地に定着する工作物のうち、屋根及び柱若しくは壁を有するもの（これに類する構造のものを含む。）、これに附属する門若しくは塀、観覧のための工作物又は地下若しくは高架の工作物内に設ける事務所、店舗、興行場、倉庫その他これらに類する施設（鉄道及び軌道の線路敷地内の運転保安に関する施設並びに
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Column:
+        Sentence: 特殊建築物
+      Column:
+        Sentence: 学校（専修学校及び各種学校を含む。以下同様とする。）、体育館、病院、劇場、観覧場、集会場、展示場、百貨店、市場、ダンスホール、遊技場、公衆浴場、旅館、共同住宅、寄宿舎、下宿、工場、倉庫、自動車車庫、危険物の貯蔵場、と畜場、火葬場、汚物処理場その他これらに類する用途に供する建築物をいう。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Column:
+        Sentence: 建築設備
+      Column:
+        Sentence: 建築物に設ける電気、ガス、給水、排水、換気、暖房、冷房、消火、排煙若しくは汚物処理の設備又は煙突、昇降機若しくは避雷針をいう。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Column:
+        Sentence: 居室
+      Column:
+        Sentence: 居住、執務、作業、集会、娯楽その他これらに類する目的のために継続的に使用する室をいう。
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Column:
+        Sentence: 主要構造部
+      Column:
+        Sentence: 壁、柱、床、はり、屋根又は階段をいい、建築物の構造上重要でない間仕切壁、間柱、付け柱、揚げ床、最下階の床、回り舞台の床、小ばり、ひさし、局部的な小階段、屋外階段その他これらに類する建築物の部分を除くものとする。
+  Item:
+    ItemTitle: 六
+    ItemSentence:
+      Column:
+        Sentence: 延焼のおそれのある部分
+      Column:
+        Sentence: 隣地境界線、道路中心線又は同一敷地内の二以上の建築物（延べ面積の合計が五百平方メートル以内の建築物は、一の建築物とみなす。）相互の外壁間の中心線（ロにおいて「隣地境界線等」という。）から、一階にあつては三メートル以下、二階以上にあつては五メートル以下の距離にある建築物の部分をいう。
+        Sentence: ただし、次のイ又はロのいずれかに該当する部分を除く。
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 防火上有効な公園、広場、川その他の空地又は水面、耐火構造の壁その他これらに類するものに面する部分
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 建築物の外壁面と隣地境界線等との角度に応じて、当該建築物の周囲において発生する通常の火災時における火熱により燃焼するおそれのないものとして国土交通大臣が定める部分
+  Item:
+    ItemTitle: 七
+    ItemSentence:
+      Column:
+        Sentence: 耐火構造
+      Column:
+        Sentence: 壁、柱、床その他の建築物の部分の構造のうち、耐火性能（通常の火災が終了するまでの間当該火災による建築物の倒壊及び延焼を防止するために当該建築物の部分に必要とされる性能をいう。）に関して政令で定める技術的基準に適合する鉄筋コンクリート造、れんが造その他の構造で、国土交通大臣が定めた構造方法を用いるもの又は国土交通大臣の認定を受けたものをいう。
+  Item:
+    ItemTitle: 七の二
+    ItemSentence:
+      Column:
+        Sentence: 準耐火構造
+      Column:
+        Sentence: 壁、柱、床その他の建築物の部分の構造のうち、準耐火性能（通常の火災による延焼を抑制するために当該建築物の部分に必要とされる性能をいう。第九号の三ロにおいて同じ。）に関して政令で定める技術的基準に適合するもので、国土交通大臣が定めた構造方法を用いるもの又は国土交通大臣の認定を受けたものをいう。
+  Item:
+    ItemTitle: 八
+    ItemSentence:
+      Column:
+        Sentence: 防火構造
+      Column:
+        Sentence: 建築物の外壁又は軒裏の構造のうち、防火性能（建築物の周囲において発生する通常の火災による延焼を抑制するために当該外壁又は軒裏に必要とされる性能をいう。）に関して政令で定める技術的基準に適合する鉄網モルタル塗、しつくい塗その他の構造で、国土交通大臣が定めた構造方法を用いるもの又は国土交通大臣の認定を受けたものをいう。
+  Item:
+    ItemTitle: 九
+    ItemSentence:
+      Column:
+        Sentence: 不燃材料
+      Column:
+        Sentence: 建築材料のうち、不燃性能（通常の火災時における火熱により燃焼しないことその他の政令で定める性能をいう。）に関して政令で定める技術的基準に適合するもので、国土交通大臣が定めたもの又は国土交通大臣の認定を受けたものをいう。
+  Item:
+    ItemTitle: 九の二
+    ItemSentence:
+      Column:
+        Sentence: 耐火建築物
+      Column:
+        Sentence: 次に掲げる基準に適合する建築物をいう。
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: その主要構造部が（１）又は（２）のいずれかに該当すること。
+      Subitem2:
+        Subitem2Title: （１）
+        Subitem2Sentence:
+          Sentence: 耐火構造であること。
+      Subitem2:
+        Subitem2Title: （２）
+        Subitem2Sentence:
+          Sentence: 次に掲げる性能（外壁以外の主要構造部にあつては、（ｉ）に掲げる性能に限る。）に関して政令で定める技術的基準に適合するものであること。
+        Subitem3:
+          Subitem3Title: （ｉ）
+          Subitem3Sentence:
+            Sentence: 当該建築物の構造、建築設備及び用途に応じて屋内において発生が予測される火災による火熱に当該火災が終了するまで耐えること。
+        Subitem3:
+          Subitem3Title: （ｉｉ）
+          Subitem3Sentence:
+            Sentence: 当該建築物の周囲において発生する通常の火災による火熱に当該火災が終了するまで耐えること。
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: その外壁の開口部で延焼のおそれのある部分に、防火戸その他の政令で定める防火設備（その構造が遮炎性能（通常の火災時における火炎を有効に遮るために防火設備に必要とされる性能をいう。第二十七条第一項において同じ。）に関して政令で定める技術的基準に適合するもので、国土交通大臣が定めた構造方法を用いるもの又は国土交通大臣の認定を受けたものに限る。）を有すること。
+  Item:
+    ItemTitle: 九の三
+    ItemSentence:
+      Column:
+        Sentence: 準耐火建築物
+      Column:
+        Sentence: 耐火建築物以外の建築物で、イ又はロのいずれかに該当し、外壁の開口部で延焼のおそれのある部分に前号ロに規定する防火設備を有するものをいう。
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 主要構造部を準耐火構造としたもの
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: イに掲げる建築物以外の建築物であつて、イに掲げるものと同等の準耐火性能を有するものとして主要構造部の防火の措置その他の事項について政令で定める技術的基準に適合するもの
+  Item:
+    ItemTitle: 十
+    ItemSentence:
+      Column:
+        Sentence: 設計
+      Column:
+        Sentence: 建築士法（昭和二十五年法律第二百二号）第二条第六項に規定する設計をいう。
+  Item:
+    ItemTitle: 十一
+    ItemSentence:
+      Column:
+        Sentence: 工事監理者
+      Column:
+        Sentence: 建築士法第二条第八項に規定する工事監理をする者をいう。
+  Item:
+    ItemTitle: 十二
+    ItemSentence:
+      Column:
+        Sentence: 設計図書
+      Column:
+        Sentence: 建築物、その敷地又は第八十八条第一項から第三項までに規定する工作物に関する工事用の図面（現寸図その他これに類するものを除く。）及び仕様書をいう。
+  Item:
+    ItemTitle: 十三
+    ItemSentence:
+      Column:
+        Sentence: 建築
+      Column:
+        Sentence: 建築物を新築し、増築し、改築し、又は移転することをいう。
+  Item:
+    ItemTitle: 十四
+    ItemSentence:
+      Column:
+        Sentence: 大規模の修繕
+      Column:
+        Sentence: 建築物の主要構造部の一種以上について行う過半の修繕をいう。
+  Item:
+    ItemTitle: 十五
+    ItemSentence:
+      Column:
+        Sentence: 大規模の模様替
+      Column:
+        Sentence: 建築物の主要構造部の一種以上について行う過半の模様替をいう。
+  Item:
+    ItemTitle: 十六
+    ItemSentence:
+      Column:
+        Sentence: 建築主
+      Column:
+        Sentence: 建築物に関する工事の請負契約の注文者又は請負契約によらないで自らその工事をする者をいう。
+  Item:
+    ItemTitle: 十七
+    ItemSentence:
+      Column:
+        Sentence: 設計者
+      Column:
+        Sentence: その者の責任において、設計図書を作成した者をいい、建築士法第二十条の二第三項又は第二十条の三第三項の規定により建築物が構造関係規定（同法第二十条の二第二項に規定する構造関係規定をいう。第五条の六第二項及び第六条第三項第二号において同じ。）又は設備関係規定（同法第二十条の三第二項に規定する設備関係規定をいう。第五条の六第三項及び第六条第三項第三号において同じ。）に適合することを確認した構造設計一級建築士（同法第十条の三第四項に規定する構造設計一級建築士をいう。第五条の六第二項及び第六条第三項第二号において同じ。）又は設備設計一級建築士（同法第十条の三第四項に規定する設備設計一級建築士をいう。第五条の六第三項及び第六条第三項第三号において同じ。）を含むものとする。
+  Item:
+    ItemTitle: 十八
+    ItemSentence:
+      Column:
+        Sentence: 工事施工者
+      Column:
+        Sentence: 建築物、その敷地若しくは第八十八条第一項から第三項までに規定する工作物に関する工事の請負人又は請負契約によらないで自らこれらの工事をする者をいう。
+  Item:
+    ItemTitle: 十九
+    ItemSentence:
+      Column:
+        Sentence: 都市計画
+      Column:
+        Sentence: 都市計画法（昭和四十三年法律第百号）第四条第一項に規定する都市計画をいう。
+  Item:
+    ItemTitle: 二十
+    ItemSentence:
+      Column:
+        Sentence: 都市計画区域又は準都市計画区域
+      Column:
+        Sentence: それぞれ、都市計画法第四条第二項に規定する都市計画区域又は準都市計画区域をいう。
+  Item:
+    ItemTitle: 二十一
+    ItemSentence:
+      Column:
+        Sentence: 第一種低層住居専用地域、第二種低層住居専用地域、第一種中高層住居専用地域、第二種中高層住居専用地域、第一種住居地域、第二種住居地域、準住居地域、田園住居地域、近隣商業地域、商業地域、準工業地域、工業地域、工業専用地域、特別用途地区、特定用途制限地域、特例容積率適用地区、高層住居誘導地区、高度地区、高度利用地区、特定街区、都市再生特別地区、居住環境向上用途誘導地区、特定用途誘導地区、防火地域、準防火地域、特定防災街区整備地区又は景観地区
+      Column:
+        Sentence: それぞれ、都市計画法第八条第一項第一号から第六号までに掲げる第一種低層住居専用地域、第二種低層住居専用地域、第一種中高層住居専用地域、第二種中高層住居専用地域、第一種住居地域、第二種住居地域、準住居地域、田園住居地域、近隣商業地域、商業地域、準工業地域、工業地域、工業専用地域、特別用途地区、特定用途制限地域、特例容積率適用地区、高層住居誘導地区、高度地区、高度利用地区、特定街区、都市再生特別地区、居住環境向上用途誘導地区、特定用途誘導地区、防火地域、準防火地域、特定防災街区整備地区又は景観地区をいう。
+  Item:
+    ItemTitle: 二十二
+    ItemSentence:
+      Column:
+        Sentence: 地区計画
+      Column:
+        Sentence: 都市計画法第十二条の四第一項第一号に掲げる地区計画をいう。
+  Item:
+    ItemTitle: 二十三
+    ItemSentence:
+      Column:
+        Sentence: 地区整備計画
+      Column:
+        Sentence: 都市計画法第十二条の五第二項第一号に掲げる地区整備計画をいう。
+  Item:
+    ItemTitle: 二十四
+    ItemSentence:
+      Column:
+        Sentence: 防災街区整備地区計画
+      Column:
+        Sentence: 都市計画法第十二条の四第一項第二号に掲げる防災街区整備地区計画をいう。
+  Item:
+    ItemTitle: 二十五
+    ItemSentence:
+      Column:
+        Sentence: 特定建築物地区整備計画
+      Column:
+        Sentence: 密集市街地における防災街区の整備の促進に関する法律（平成九年法律第四十九号。以下「密集市街地整備法」という。）第三十二条第二項第一号に規定する特定建築物地区整備計画をいう。
+  Item:
+    ItemTitle: 二十六
+    ItemSentence:
+      Column:
+        Sentence: 防災街区整備地区整備計画
+      Column:
+        Sentence: 密集市街地整備法第三十二条第二項第二号に規定する防災街区整備地区整備計画をいう。
+  Item:
+    ItemTitle: 二十七
+    ItemSentence:
+      Column:
+        Sentence: 歴史的風致維持向上地区計画
+      Column:
+        Sentence: 都市計画法第十二条の四第一項第三号に掲げる歴史的風致維持向上地区計画をいう。
+  Item:
+    ItemTitle: 二十八
+    ItemSentence:
+      Column:
+        Sentence: 歴史的風致維持向上地区整備計画
+      Column:
+        Sentence: 地域における歴史的風致の維持及び向上に関する法律（平成二十年法律第四十号。以下「地域歴史的風致法」という。）第三十一条第二項第一号に規定する歴史的風致維持向上地区整備計画をいう。
+  Item:
+    ItemTitle: 二十九
+    ItemSentence:
+      Column:
+        Sentence: 沿道地区計画
+      Column:
+        Sentence: 都市計画法第十二条の四第一項第四号に掲げる沿道地区計画をいう。
+  Item:
+    ItemTitle: 三十
+    ItemSentence:
+      Column:
+        Sentence: 沿道地区整備計画
+      Column:
+        Sentence: 幹線道路の沿道の整備に関する法律（昭和五十五年法律第三十四号。以下「沿道整備法」という。）第九条第二項第一号に掲げる沿道地区整備計画をいう。
+  Item:
+    ItemTitle: 三十一
+    ItemSentence:
+      Column:
+        Sentence: 集落地区計画
+      Column:
+        Sentence: 都市計画法第十二条の四第一項第五号に掲げる集落地区計画をいう。
+  Item:
+    ItemTitle: 三十二
+    ItemSentence:
+      Column:
+        Sentence: 集落地区整備計画
+      Column:
+        Sentence: 集落地域整備法（昭和六十二年法律第六十三号）第五条第三項に規定する集落地区整備計画をいう。
+  Item:
+    ItemTitle: 三十三
+    ItemSentence:
+      Column:
+        Sentence: 地区計画等
+      Column:
+        Sentence: 都市計画法第四条第九項に規定する地区計画等をいう。
+  Item:
+    ItemTitle: 三十四
+    ItemSentence:
+      Column:
+        Sentence: プログラム
+      Column:
+        Sentence: 電子計算機に対する指令であつて、一の結果を得ることができるように組み合わされたものをいう。
+  Item:
+    ItemTitle: 三十五
+    ItemSentence:
+      Column:
+        Sentence: 特定行政庁
+      Column:
+        Sentence: 建築主事を置く市町村の区域については当該市町村の長をいい、その他の市町村の区域については都道府県知事をいう。
+        Sentence: ただし、第九十七条の二第一項又は第九十七条の三第一項の規定により建築主事を置く市町村の区域内の政令で定める建築物については、都道府県知事とする。

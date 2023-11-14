@@ -1,0 +1,5 @@
+ArticleCaption: （建築基準適合判定資格者検定委員の勤務）
+ArticleTitle: 第八条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 建築基準適合判定資格者検定委員は、非常勤とする。

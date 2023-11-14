@@ -1,0 +1,10 @@
+ArticleCaption: （目地及び空胴部）
+ArticleTitle: 第六十二条の六
+Paragraph:
+  ParagraphSentence:
+    Sentence: コンクリートブロツクは、その目地塗面の全部にモルタルが行きわたるように組積し、鉄筋を入れた空胴部及び縦目地に接する空胴部は、モルタル又はコンクリートで埋めなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 補強コンクリートブロック造の耐力壁、門又はへいの縦筋は、コンクリートブロックの空胴部内で継いではならない。
+    Sentence: ただし、溶接接合その他これと同等以上の強度を有する接合方法による場合においては、この限りでない。

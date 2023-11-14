@@ -1,0 +1,22 @@
+ArticleCaption: （維持保全）
+ArticleTitle: 第八条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 建築物の所有者、管理者又は占有者は、その建築物の敷地、構造及び建築設備を常時適法な状態に維持するように努めなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 次の各号のいずれかに該当する建築物の所有者又は管理者は、その建築物の敷地、構造及び建築設備を常時適法な状態に維持するため、必要に応じ、その建築物の維持保全に関する準則又は計画を作成し、その他適切な措置を講じなければならない。
+    Sentence: ただし、国、都道府県又は建築主事を置く市町村が所有し、又は管理する建築物については、この限りでない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 特殊建築物で安全上、防火上又は衛生上特に重要であるものとして政令で定めるもの
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 前号の特殊建築物以外の特殊建築物その他政令で定める建築物で、特定行政庁が指定するもの
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、前項各号のいずれかに該当する建築物の所有者又は管理者による同項の準則又は計画の適確な作成に資するため、必要な指針を定めることができる。

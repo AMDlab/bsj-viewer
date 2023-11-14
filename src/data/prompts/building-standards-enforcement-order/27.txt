@@ -1,0 +1,36 @@
+ArticleTitle: 第十六条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 法第十二条第一項の安全上、防火上又は衛生上特に重要であるものとして政令で定める建築物は、次に掲げるもの（避難階以外の階を法別表第一（い）欄（一）項から（四）項までに掲げる用途に供しないことその他の理由により通常の火災時において避難上著しい支障が生ずるおそれの少ないものとして国土交通大臣が定めるものを除く。）とする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 地階又は三階以上の階を法別表第一（い）欄（一）項に掲げる用途に供する建築物及び当該用途に供する部分（客席の部分に限る。）の床面積の合計が百平方メートル以上の建築物
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 劇場、映画館又は演芸場の用途に供する建築物で、主階が一階にないもの
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 法別表第一（い）欄（二）項又は（四）項に掲げる用途に供する建築物
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 三階以上の階を法別表第一（い）欄（三）項に掲げる用途に供する建築物及び当該用途に供する部分の床面積の合計が二千平方メートル以上の建築物
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 法第十二条第一項の政令で定める建築物は、第十四条の二に規定する建築物とする。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 法第十二条第三項の政令で定める特定建築設備等は、次に掲げるものとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 第百二十九条の三第一項各号に掲げる昇降機（使用頻度が低く劣化が生じにくいことその他の理由により人が危害を受けるおそれのある事故が発生するおそれの少ないものとして国土交通大臣が定めるものを除く。）
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 防火設備のうち、法第六条第一項第一号に掲げる建築物で第一項各号に掲げるものに設けるもの（常時閉鎖をした状態にあることその他の理由により通常の火災時において避難上著しい支障が生ずるおそれの少ないものとして国土交通大臣が定めるものを除く。）

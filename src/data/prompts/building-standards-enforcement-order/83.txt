@@ -1,0 +1,5 @@
+ArticleCaption: （補強を要する組積造）
+ArticleTitle: 第五十九条の二
+Paragraph:
+  ParagraphSentence:
+    Sentence: 高さ十三メートル又は軒の高さが九メートルを超える建築物にあつては、国土交通大臣が定める構造方法により、鉄筋、鉄骨又は鉄筋コンクリートによつて補強しなければならない。

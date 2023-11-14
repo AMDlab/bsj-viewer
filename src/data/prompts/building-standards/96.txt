@@ -1,0 +1,26 @@
+ArticleCaption: （建築協定の認可）
+ArticleTitle: 第七十三条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 特定行政庁は、当該建築協定の認可の申請が、次に掲げる条件に該当するときは、当該建築協定を認可しなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 建築協定の目的となつている土地又は建築物の利用を不当に制限するものでないこと。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 第六十九条の目的に合致するものであること。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 建築協定において建築協定区域隣接地を定める場合には、その区域の境界が明確に定められていることその他の建築協定区域隣接地について国土交通省令で定める基準に適合するものであること。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 特定行政庁は、前項の認可をした場合においては、遅滞なく、その旨を公告しなければならない。
+    Sentence: この場合において、当該建築協定が建築主事を置く市町村の区域外の区域に係るものであるときは、都道府県知事は、その認可した建築協定に係る建築協定書の写し一通を当該建築協定区域及び建築協定区域隣接地の所在地の市町村の長に送付しなければならない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 第一項の規定による認可をした市町村の長又は前項の規定によつて建築協定書の写の送付を受けた市町村の長は、その建築協定書を当該市町村の事務所に備えて、一般の縦覧に供さなければならない。

@@ -1,0 +1,134 @@
+ArticleCaption: （法第三十一条第二項等の規定に基づく汚物処理性能に関する技術的基準）
+ArticleTitle: 第三十二条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 屎尿浄化槽の法第三十一条第二項の政令で定める技術的基準及び合併処理浄化槽（屎尿と併せて雑排水を処理する浄化槽をいう。以下同じ。）について法第三十六条の規定により定めるべき構造に関する技術的基準のうち処理性能に関するもの（以下「汚物処理性能に関する技術的基準」と総称する。）は、次のとおりとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 通常の使用状態において、次の表に掲げる区域及び処理対象人員の区分に応じ、それぞれ同表に定める性能を有するものであること。
+    TableStruct:
+      Table:
+        TableRow:
+          TableColumn:
+            Sentence: 屎尿浄化槽又は合併処理浄化槽を設ける区域
+          TableColumn:
+            Sentence: 処理対象人員（単位　人）
+          TableColumn:
+            Sentence: 性能
+        TableRow:
+          TableColumn:
+            Sentence: 生物化学的酸素要求量の除去率（単位　パーセント）
+          TableColumn:
+            Sentence: 屎尿浄化槽又は合併処理浄化槽からの放流水の生物化学的酸素要求量（単位　一リットルにつきミリグラム）
+        TableRow:
+          TableColumn:
+            Sentence: 特定行政庁が衛生上特に支障があると認めて規則で指定する区域
+          TableColumn:
+            Sentence: 五〇以下
+          TableColumn:
+            Sentence: 六五以上
+          TableColumn:
+            Sentence: 九〇以下
+        TableRow:
+          TableColumn:
+            Sentence: 五一以上
+            Sentence: 五〇〇以下
+          TableColumn:
+            Sentence: 七〇以上
+          TableColumn:
+            Sentence: 六〇以下
+        TableRow:
+          TableColumn:
+            Sentence: 五〇一以上
+          TableColumn:
+            Sentence: 八五以上
+          TableColumn:
+            Sentence: 三〇以下
+        TableRow:
+          TableColumn:
+            Sentence: 特定行政庁が衛生上特に支障がないと認めて規則で指定する区域
+          TableColumn:
+            Sentence: 　
+          TableColumn:
+            Sentence: 五五以上
+          TableColumn:
+            Sentence: 一二〇以下
+        TableRow:
+          TableColumn:
+            Sentence: その他の区域
+          TableColumn:
+            Sentence: 五〇〇以下
+          TableColumn:
+            Sentence: 六五以上
+          TableColumn:
+            Sentence: 九〇以下
+        TableRow:
+          TableColumn:
+            Sentence: 五〇一以上
+            Sentence: 二、〇〇〇以下
+          TableColumn:
+            Sentence: 七〇以上
+          TableColumn:
+            Sentence: 六〇以下
+        TableRow:
+          TableColumn:
+            Sentence: 二、〇〇一以上
+          TableColumn:
+            Sentence: 八五以上
+          TableColumn:
+            Sentence: 三〇以下
+        TableRow:
+          TableColumn:
+            Sentence: 一　この表における処理対象人員の算定は、国土交通大臣が定める方法により行うものとする。
+            Sentence: 二　この表において、生物化学的酸素要求量の除去率とは、屎尿浄化槽又は合併処理浄化槽への流入水の生物化学的酸素要求量の数値から屎尿浄化槽又は合併処理浄化槽からの放流水の生物化学的酸素要求量の数値を減じた数値を屎尿浄化槽又は合併処理浄化槽への流入水の生物化学的酸素要求量の数値で除して得た割合をいうものとする。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 放流水に含まれる大腸菌群数が、一立方センチメートルにつき三千個以下とする性能を有するものであること。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 特定行政庁が地下浸透方式により汚物（便所から排出する汚物をいい、これと併せて雑排水を処理する場合にあつては雑排水を含む。次項及び第三十五条第一項において同じ。）を処理することとしても衛生上支障がないと認めて規則で指定する区域内に設ける当該方式に係る汚物処理性能に関する技術的基準は、前項の規定にかかわらず、通常の使用状態において、次の表に定める性能及び同項第二号に掲げる性能を有するものであることとする。
+  TableStruct:
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: 性能
+      TableRow:
+        TableColumn:
+          Sentence: 一次処理装置による浮遊物質量の除去率
+          Sentence: （単位　パーセント）
+        TableColumn:
+          Sentence: 一次処理装置からの流出水に含まれる浮遊物質量
+          Sentence: （単位　一リットルにつきミリグラム）
+        TableColumn:
+          Sentence: 地下浸透能力
+      TableRow:
+        TableColumn:
+          Sentence: 五五以上
+        TableColumn:
+          Sentence: 二五〇以下
+        TableColumn:
+          Sentence: 一次処理装置からの流出水が滞留しない程度のものであること。
+      TableRow:
+        TableColumn:
+          Sentence: この表において、一次処理装置による浮遊物質量の除去率とは、一次処理装置への流入水に含まれる浮遊物質量の数値から一次処理装置からの流出水に含まれる浮遊物質量の数値を減じた数値を一次処理装置への流入水に含まれる浮遊物質量の数値で除して得た割合をいうものとする。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 次の各号に掲げる場合における汚物処理性能に関する技術的基準は、第一項の規定にかかわらず、通常の使用状態において、汚物を当該各号に定める基準に適合するよう処理する性能及び同項第二号に掲げる性能を有するものであることとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Column:
+        Sentence: 水質汚濁防止法（昭和四十五年法律第百三十八号）第三条第一項又は第三項の規定による排水基準により、屎尿浄化槽又は合併処理浄化槽からの放流水について、第一項第一号の表に掲げる生物化学的酸素要求量に関する基準より厳しい基準が定められ、又は生物化学的酸素要求量以外の項目に関しても基準が定められている場合
+      Column:
+        Sentence: 当該排水基準
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Column:
+        Sentence: 浄化槽法第四条第一項の規定による技術上の基準により、屎尿浄化槽又は合併処理浄化槽からの放流水について、第一項第一号の表に掲げる生物化学的酸素要求量に関する基準より厳しい基準が定められ、又は生物化学的酸素要求量以外の項目に関しても基準が定められている場合
+      Column:
+        Sentence: 当該技術上の基準

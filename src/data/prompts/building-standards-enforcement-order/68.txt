@@ -1,0 +1,18 @@
+ArticleCaption: （筋かい）
+ArticleTitle: 第四十五条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 引張り力を負担する筋かいは、厚さ一・五センチメートル以上で幅九センチメートル以上の木材又は径九ミリメートル以上の鉄筋を使用したものとしなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 圧縮力を負担する筋かいは、厚さ三センチメートル以上で幅九センチメートル以上の木材を使用したものとしなければならない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 筋かいは、その端部を、柱とはりその他の横架材との仕口に接近して、ボルト、かすがい、くぎその他の金物で緊結しなければならない。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 筋かいには、欠込みをしてはならない。
+    Sentence: ただし、筋かいをたすき掛けにするためにやむを得ない場合において、必要な補強を行なつたときは、この限りでない。

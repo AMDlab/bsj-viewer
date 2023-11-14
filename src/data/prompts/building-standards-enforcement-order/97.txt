@@ -1,0 +1,6 @@
+ArticleCaption: （柱の脚部）
+ArticleTitle: 第六十六条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 構造耐力上主要な部分である柱の脚部は、国土交通大臣が定める基準に従つたアンカーボルトによる緊結その他の構造方法により基礎に緊結しなければならない。
+    Sentence: ただし、滑節構造である場合においては、この限りでない。

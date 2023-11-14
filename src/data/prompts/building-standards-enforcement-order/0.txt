@@ -1,0 +1,47 @@
+ArticleCaption: （用語の定義）
+ArticleTitle: 第一条
+Paragraph:
+  ParagraphSentence:
+    Sentence: この政令において次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Column:
+        Sentence: 敷地
+      Column:
+        Sentence: 一の建築物又は用途上不可分の関係にある二以上の建築物のある一団の土地をいう。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Column:
+        Sentence: 地階
+      Column:
+        Sentence: 床が地盤面下にある階で、床面から地盤面までの高さがその階の天井の高さの三分の一以上のものをいう。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Column:
+        Sentence: 構造耐力上主要な部分
+      Column:
+        Sentence: 基礎、基礎ぐい、壁、柱、小屋組、土台、斜材（筋かい、方づえ、火打材その他これらに類するものをいう。）、床版、屋根版又は横架材（はり、けたその他これらに類するものをいう。）で、建築物の自重若しくは積載荷重、積雪荷重、風圧、土圧若しくは水圧又は地震その他の震動若しくは衝撃を支えるものをいう。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Column:
+        Sentence: 耐水材料
+      Column:
+        Sentence: れんが、石、人造石、コンクリート、アスファルト、陶磁器、ガラスその他これらに類する耐水性の建築材料をいう。
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Column:
+        Sentence: 準不燃材料
+      Column:
+        Sentence: 建築材料のうち、通常の火災による火熱が加えられた場合に、加熱開始後十分間第百八条の二各号（建築物の外部の仕上げに用いるものにあつては、同条第一号及び第二号）に掲げる要件を満たしているものとして、国土交通大臣が定めたもの又は国土交通大臣の認定を受けたものをいう。
+  Item:
+    ItemTitle: 六
+    ItemSentence:
+      Column:
+        Sentence: 難燃材料
+      Column:
+        Sentence: 建築材料のうち、通常の火災による火熱が加えられた場合に、加熱開始後五分間第百八条の二各号（建築物の外部の仕上げに用いるものにあつては、同条第一号及び第二号）に掲げる要件を満たしているものとして、国土交通大臣が定めたもの又は国土交通大臣の認定を受けたものをいう。

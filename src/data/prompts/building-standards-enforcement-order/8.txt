@@ -1,0 +1,5 @@
+ArticleCaption: （建築基準適合判定資格者検定委員の定員）
+ArticleTitle: 第七条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 建築基準適合判定資格者検定委員の数は、十人以内とする。

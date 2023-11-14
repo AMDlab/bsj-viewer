@@ -1,0 +1,68 @@
+ArticleCaption: （直通階段の設置）
+ArticleTitle: 第百二十条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 建築物の避難階以外の階（地下街におけるものを除く。次条第一項において同じ。）においては、避難階又は地上に通ずる直通階段（傾斜路を含む。以下同じ。）を次の表の上欄に掲げる居室の種類の区分に応じ当該各居室からその一に至る歩行距離が同表の中欄又は下欄に掲げる場合の区分に応じそれぞれ同表の中欄又は下欄に掲げる数値以下となるように設けなければならない。
+  TableStruct:
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: 居室の種類
+        TableColumn:
+          Sentence: 構造
+        TableColumn:
+          Sentence: 主要構造部が準耐火構造であるか又は不燃材料で造られている場合
+        TableColumn:
+          Sentence: その他の場合
+      TableRow:
+        TableColumn:
+          Sentence: （単位　メートル）
+        TableColumn:
+          Sentence: （単位　メートル）
+      TableRow:
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 　
+      TableRow:
+        TableColumn:
+          Sentence: （一）
+        TableColumn:
+          Sentence: 第百十六条の二第一項第一号に該当する窓その他の開口部を有しない居室（当該居室の床面積、当該居室からの避難の用に供する廊下その他の通路の構造並びに消火設備、排煙設備、非常用の照明装置及び警報設備の設置の状況及び構造に関し避難上支障がないものとして国土交通大臣が定める基準に適合するものを除く。）又は法別表第一（い）欄（四）項に掲げる用途に供する特殊建築物の主たる用途に供する居室
+        TableColumn:
+          Sentence: 三〇
+        TableColumn:
+          Sentence: 三〇
+      TableRow:
+        TableColumn:
+          Sentence: （二）
+        TableColumn:
+          Sentence: 法別表第一（い）欄（二）項に掲げる用途に供する特殊建築物の主たる用途に供する居室
+        TableColumn:
+          Sentence: 五〇
+        TableColumn:
+          Sentence: 三〇
+      TableRow:
+        TableColumn:
+          Sentence: （三）
+        TableColumn:
+          Sentence: （一）の項又は（二）の項に掲げる居室以外の居室
+        TableColumn:
+          Sentence: 五〇
+        TableColumn:
+          Sentence: 四〇
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 主要構造部が準耐火構造であるか又は不燃材料で造られている建築物の居室で、当該居室及びこれから地上に通ずる主たる廊下、階段その他の通路の壁（床面からの高さが一・二メートル以下の部分を除く。）及び天井（天井のない場合においては、屋根）の室内に面する部分（回り縁、窓台その他これらに類する部分を除く。）の仕上げを準不燃材料でしたものについては、前項の表の数値に十を加えた数値を同項の表の数値とする。
+    Sentence: ただし、十五階以上の階の居室については、この限りでない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 十五階以上の階の居室については、前項本文の規定に該当するものを除き、第一項の表の数値から十を減じた数値を同項の表の数値とする。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 第一項の規定は、主要構造部を準耐火構造とした共同住宅の住戸でその階数が二又は三であり、かつ、出入口が一の階のみにあるものの当該出入口のある階以外の階については、その居室の各部分から避難階又は地上に通ずる直通階段の一に至る歩行距離が四十メートル以下である場合においては、適用しない。

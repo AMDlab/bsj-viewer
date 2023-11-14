@@ -1,0 +1,5 @@
+ArticleCaption: （工事を終えたときに中間検査を申請しなければならない工程）
+ArticleTitle: 第十一条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 法第七条の三第一項第一号の政令で定める工程は、二階の床及びこれを支持するはりに鉄筋を配置する工事の工程とする。

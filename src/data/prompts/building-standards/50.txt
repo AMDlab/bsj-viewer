@@ -1,0 +1,5 @@
+ArticleCaption: （地階における住宅等の居室）
+ArticleTitle: 第二十九条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 住宅の居室、学校の教室、病院の病室又は寄宿舎の寝室で地階に設けるものは、壁及び床の防湿の措置その他の事項について衛生上必要な政令で定める技術的基準に適合するものとしなければならない。

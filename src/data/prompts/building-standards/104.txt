@@ -1,0 +1,5 @@
+ArticleCaption: （建築物の借主の地位）
+ArticleTitle: 第七十七条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 建築協定の目的となつている建築物に関する基準が建築物の借主の権限に係る場合においては、その建築協定については、当該建築物の借主は、土地の所有者等とみなす。

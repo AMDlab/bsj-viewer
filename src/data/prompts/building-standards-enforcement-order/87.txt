@@ -1,0 +1,9 @@
+ArticleCaption: （適用の範囲）
+ArticleTitle: 第六十二条の二
+Paragraph:
+  ParagraphSentence:
+    Sentence: この節の規定は、補強コンクリートブロツク造の建築物又は補強コンクリートブロツク造と鉄筋コンクリート造その他の構造とを併用する建築物の補強コンクリートブロツク造の構造部分に適用する。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 高さが四メートル以下で、かつ、延べ面積が二十平方メートル以内の建築物については、この節の規定中第六十二条の六及び第六十二条の七の規定に限り適用する。

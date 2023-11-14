@@ -1,0 +1,13 @@
+ArticleCaption: （建築基準適合判定資格者検定の方法）
+ArticleTitle: 第四条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 建築基準適合判定資格者検定は、経歴審査及び考査によつて行う。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項の経歴審査は、建築行政又は確認検査の業務若しくは第二条の三各号に掲げる業務に関する実務の経歴について行う。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 第一項の考査は、法第六条第一項の建築基準関係規定に関する知識について行う。

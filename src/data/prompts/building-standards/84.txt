@@ -1,0 +1,9 @@
+ArticleCaption: （表示等）
+ArticleTitle: 第六十八条の十九
+Paragraph:
+  ParagraphSentence:
+    Sentence: 認証型式部材等製造者は、その認証に係る型式部材等の製造をしたときは、これに当該型式部材等が認証型式部材等製造者が製造をした型式部材等であることを示す国土交通省令で定める方式による特別な表示を付することができる。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 何人も、前項の規定による場合を除くほか、建築材料、建築物の部分又は建築物に、同項の表示又はこれと紛らわしい表示を付してはならない。

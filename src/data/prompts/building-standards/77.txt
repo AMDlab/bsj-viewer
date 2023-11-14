@@ -1,0 +1,17 @@
+ArticleCaption: （欠格条項）
+ArticleTitle: 第六十八条の十二
+Paragraph:
+  ParagraphSentence:
+    Sentence: 次の各号のいずれかに該当する者は、前条第一項の規定による認証を受けることができない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 建築基準法令の規定により刑に処せられ、その執行を終わり、又は執行を受けることがなくなつた日から起算して二年を経過しない者
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 第六十八条の二十一第一項若しくは第二項又は第六十八条の二十三第一項若しくは第二項の規定により認証を取り消され、その取消しの日から起算して二年を経過しない者
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 法人であつて、その役員のうちに前二号のいずれかに該当する者があるもの

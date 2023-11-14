@@ -1,0 +1,49 @@
+ArticleCaption: （認証の取消し）
+ArticleTitle: 第六十八条の二十三
+Paragraph:
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、認証外国型式部材等製造者が次の各号のいずれかに該当するときは、その認証を取り消さなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 前条第二項において準用する第六十八条の十二第一号又は第三号に該当するに至つたとき。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 当該認証に係る型式適合認定が取り消されたとき。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、認証外国型式部材等製造者が次の各号のいずれかに該当するときは、その認証を取り消すことができる。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 前条第二項において準用する第六十八条の十六、第六十八条の十八又は第六十八条の十九第二項の規定に違反したとき。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 認証に係る型式部材等の製造設備、検査設備、検査方法、品質管理方法その他品質保持に必要な技術的生産条件が、前条第二項において準用する第六十八条の十三第二号の国土交通省令で定める技術的基準に適合していないと認めるとき。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 不正な手段により認証を受けたとき。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 第十五条の二第一項の規定による報告若しくは物件の提出をせず、又は虚偽の報告若しくは虚偽の物件の提出をしたとき。
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: 第十五条の二第一項の規定による検査若しくは試験を拒み、妨げ、若しくは忌避し、又は同項の規定による質問に対して答弁をせず、若しくは虚偽の答弁をしたとき。
+  Item:
+    ItemTitle: 六
+    ItemSentence:
+      Sentence: 第四項の規定による費用の負担をしないとき。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、前二項の規定により認証を取り消したときは、国土交通省令で定めるところにより、その旨を公示しなければならない。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 第十五条の二第一項の規定による検査又は試験に要する費用（政令で定めるものに限る。）は、当該検査又は試験を受ける認証外国型式部材等製造者の負担とする。

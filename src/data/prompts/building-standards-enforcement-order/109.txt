@@ -1,0 +1,26 @@
+ArticleCaption: （床版の構造）
+ArticleTitle: 第七十七条の二
+Paragraph:
+  ParagraphSentence:
+    Sentence: 構造耐力上主要な部分である床版は、次に定める構造としなければならない。
+    Sentence: ただし、第八十二条第四号に掲げる構造計算によつて振動又は変形による使用上の支障が起こらないことが確かめられた場合においては、この限りでない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 厚さは、八センチメートル以上とし、かつ、短辺方向における有効張り間長さの四十分の一以上とすること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 最大曲げモーメントを受ける部分における引張鉄筋の間隔は、短辺方向において二十センチメートル以下、長辺方向において三十センチメートル以下で、かつ、床版の厚さの三倍以下とすること。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項の床版のうちプレキャスト鉄筋コンクリートで造られた床版は、同項の規定によるほか、次に定める構造としなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 周囲のはり等との接合部は、その部分の存在応力を伝えることができるものとすること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 二以上の部材を組み合わせるものにあつては、これらの部材相互を緊結すること。

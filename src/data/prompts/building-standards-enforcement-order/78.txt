@@ -1,0 +1,59 @@
+ArticleCaption: （壁の厚さ）
+ArticleTitle: 第五十五条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 組積造の壁の厚さ（仕上材料の厚さを含まないものとする。以下この節において同じ。）は、その建築物の階数及びその壁の長さ（前条第二項の壁の長さをいう。以下この節において同じ。）に応じて、それぞれ次の表の数値以上としなければならない。
+  TableStruct:
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: 建築物の階数
+        TableColumn:
+          Sentence: 壁の長さ
+        TableColumn:
+          Sentence: 五メートル以下の場合
+        TableColumn:
+          Sentence: 五メートルをこえる場合
+      TableRow:
+        TableColumn:
+          Sentence: （単位　センチメートル）
+        TableColumn:
+          Sentence: （単位　センチメートル）
+      TableRow:
+        TableColumn:
+          Sentence: 　
+      TableRow:
+        TableColumn:
+          Sentence: 階数が二以上の建築物
+        TableColumn:
+          Sentence: 三〇
+        TableColumn:
+          Sentence: 四〇
+      TableRow:
+        TableColumn:
+          Sentence: 階数が一の建築物
+        TableColumn:
+          Sentence: 二〇
+        TableColumn:
+          Sentence: 三〇
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 組積造の各階の壁の厚さは、その階の壁の高さの十五分の一以上としなければならない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 組積造の間仕切壁の壁の厚さは、前二項の規定による壁の厚さより十センチメートル以下を減らすことができる。
+    Sentence: ただし、二十センチメートル以下としてはならない。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 組積造の壁を二重壁とする場合においては、前三項の規定は、そのいずれか一方の壁について適用する。
+Paragraph:
+  ParagraphNum: ５
+  ParagraphSentence:
+    Sentence: 組積造の各階の壁の厚さは、その上にある壁の厚さより薄くしてはならない。
+Paragraph:
+  ParagraphNum: ６
+  ParagraphSentence:
+    Sentence: 鉄骨造、鉄筋コンクリート造又は鉄骨鉄筋コンクリート造の建築物における組積造の帳壁は、この条の規定の適用については、間仕切壁とみなす。

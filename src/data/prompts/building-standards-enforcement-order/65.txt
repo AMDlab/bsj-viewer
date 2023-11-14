@@ -1,0 +1,23 @@
+ArticleCaption: （土台及び基礎）
+ArticleTitle: 第四十二条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 構造耐力上主要な部分である柱で最下階の部分に使用するものの下部には、土台を設けなければならない。
+    Sentence: ただし、次の各号のいずれかに該当する場合においては、この限りでない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 当該柱を基礎に緊結した場合
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 平家建ての建築物（地盤が軟弱な区域として特定行政庁が国土交通大臣の定める基準に基づいて規則で指定する区域内にあるものを除く。次項において同じ。）で足固めを使用した場合
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 当該柱と基礎とをだぼ継ぎその他の国土交通大臣が定める構造方法により接合し、かつ、当該柱に構造耐力上支障のある引張応力が生じないことが国土交通大臣が定める方法によつて確かめられた場合
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 土台は、基礎に緊結しなければならない。
+    Sentence: ただし、平家建ての建築物で延べ面積が五十平方メートル以内のものについては、この限りでない。

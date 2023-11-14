@@ -1,0 +1,22 @@
+ArticleCaption: （建築物に関する完了検査）
+ArticleTitle: 第七条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 建築主は、第六条第一項の規定による工事を完了したときは、国土交通省令で定めるところにより、建築主事の検査を申請しなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項の規定による申請は、第六条第一項の規定による工事が完了した日から四日以内に建築主事に到達するように、しなければならない。
+    Sentence: ただし、申請をしなかつたことについて国土交通省令で定めるやむを得ない理由があるときは、この限りでない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 前項ただし書の場合における検査の申請は、その理由がやんだ日から四日以内に建築主事に到達するように、しなければならない。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 建築主事が第一項の規定による申請を受理した場合においては、建築主事又はその委任を受けた当該市町村若しくは都道府県の職員（以下この章において「建築主事等」という。）は、その申請を受理した日から七日以内に、当該工事に係る建築物及びその敷地が建築基準関係規定に適合しているかどうかを検査しなければならない。
+Paragraph:
+  ParagraphNum: ５
+  ParagraphSentence:
+    Sentence: 建築主事等は、前項の規定による検査をした場合において、当該建築物及びその敷地が建築基準関係規定に適合していることを認めたときは、国土交通省令で定めるところにより、当該建築物の建築主に対して検査済証を交付しなければならない。

@@ -1,0 +1,34 @@
+ArticleCaption: （建築基準適合判定資格者検定）
+ArticleTitle: 第五条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 建築基準適合判定資格者検定は、建築士の設計に係る建築物が第六条第一項の建築基準関係規定に適合するかどうかを判定するために必要な知識及び経験について行う。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 建築基準適合判定資格者検定は、国土交通大臣が行う。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 建築基準適合判定資格者検定は、一級建築士試験に合格した者で、建築行政又は第七十七条の十八第一項の確認検査の業務その他これに類する業務で政令で定めるものに関して、二年以上の実務の経験を有するものでなければ受けることができない。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 建築基準適合判定資格者検定に関する事務をつかさどらせるために、国土交通省に、建築基準適合判定資格者検定委員を置く。
+    Sentence: ただし、次条第一項の指定建築基準適合判定資格者検定機関が同項の建築基準適合判定資格者検定事務を行う場合においては、この限りでない。
+Paragraph:
+  ParagraphNum: ５
+  ParagraphSentence:
+    Sentence: 建築基準適合判定資格者検定委員は、建築及び行政に関し学識経験のある者のうちから、国土交通大臣が命ずる。
+Paragraph:
+  ParagraphNum: ６
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、不正の手段によつて建築基準適合判定資格者検定を受け、又は受けようとした者に対しては、合格の決定を取り消し、又はその建築基準適合判定資格者検定を受けることを禁止することができる。
+Paragraph:
+  ParagraphNum: ７
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、前項又は次条第二項の規定による処分を受けた者に対し、情状により、二年以内の期間を定めて建築基準適合判定資格者検定を受けることができないものとすることができる。
+Paragraph:
+  ParagraphNum: ８
+  ParagraphSentence:
+    Sentence: 前各項に定めるものを除くほか、建築基準適合判定資格者検定の手続及び基準その他建築基準適合判定資格者検定に関し必要な事項は、政令で定める。

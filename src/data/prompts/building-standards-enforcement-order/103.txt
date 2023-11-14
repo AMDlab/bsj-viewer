@@ -1,0 +1,17 @@
+ArticleCaption: （コンクリートの材料）
+ArticleTitle: 第七十二条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 鉄筋コンクリート造に使用するコンクリートの材料は、次の各号に定めるところによらなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 骨材、水及び混和材料は、鉄筋をさびさせ、又はコンクリートの凝結及び硬化を妨げるような酸、塩、有機物又は泥土を含まないこと。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 骨材は、鉄筋相互間及び鉄筋とせき板との間を容易に通る大きさであること。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 骨材は、適切な粒度及び粒形のもので、かつ、当該コンクリートに必要な強度、耐久性及び耐火性が得られるものであること。

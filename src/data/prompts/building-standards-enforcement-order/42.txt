@@ -1,0 +1,30 @@
+ArticleTitle: 第二十二条の三
+Paragraph:
+  ParagraphSentence:
+    Sentence: 法第三十条第一項第一号（法第八十七条第三項において準用する場合を含む。）の政令で定める技術的基準は、次の表の上欄に掲げる振動数の音に対する透過損失がそれぞれ同表の下欄に掲げる数値以上であることとする。
+  TableStruct:
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: 振動数（単位　ヘルツ）
+        TableColumn:
+          Sentence: 透過損失（単位　デシベル）
+      TableRow:
+        TableColumn:
+          Sentence: 一二五
+        TableColumn:
+          Sentence: 二五
+      TableRow:
+        TableColumn:
+          Sentence: 五〇〇
+        TableColumn:
+          Sentence: 四〇
+      TableRow:
+        TableColumn:
+          Sentence: 二、〇〇〇
+        TableColumn:
+          Sentence: 五〇
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 法第三十条第二項（法第八十七条第三項において準用する場合を含む。）の政令で定める技術的基準は、前項に規定する基準とする。

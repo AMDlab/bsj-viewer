@@ -1,0 +1,39 @@
+ArticleCaption: （エレベーターの荷重）
+ArticleTitle: 第百二十九条の五
+Paragraph:
+  ParagraphSentence:
+    Sentence: エレベーターの各部の固定荷重は、当該エレベーターの実況に応じて計算しなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: エレベーターのかごの積載荷重は、当該エレベーターの実況に応じて定めなければならない。
+    Sentence: ただし、かごの種類に応じて、次の表に定める数値（用途が特殊なエレベーターで国土交通大臣が定めるものにあつては、当該用途に応じて国土交通大臣が定める数値）を下回つてはならない。
+  TableStruct:
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: かごの種類
+        TableColumn:
+          Sentence: 積載荷重（単位　ニュートン）
+      TableRow:
+        TableColumn:
+          Sentence: 乗用エレベーター（人荷共用エレベーターを含み、寝台用エレベーターを除く。以下この節において同じ。）のかご
+        TableColumn:
+          Sentence: 床面積が一・五平方メートル以下のもの
+        TableColumn:
+          Sentence: 床面積一平方メートルにつき三、六〇〇として計算した数値
+      TableRow:
+        TableColumn:
+          Sentence: 床面積が一・五平方メートルを超え三平方メートル以下のもの
+        TableColumn:
+          Sentence: 床面積の一・五平方メートルを超える面積に対して一平方メートルにつき四、九〇〇として計算した数値に五、四〇〇を加えた数値
+      TableRow:
+        TableColumn:
+          Sentence: 床面積が三平方メートルを超えるもの
+        TableColumn:
+          Sentence: 床面積の三平方メートルを超える面積に対して一平方メートルにつき五、九〇〇として計算した数値に一三、〇〇〇を加えた数値
+      TableRow:
+        TableColumn:
+          Sentence: 乗用エレベーター以外のエレベーターのかご
+        TableColumn:
+          Sentence: 床面積一平方メートルにつき二、五〇〇（自動車運搬用エレベーターにあつては、一、五〇〇）として計算した数値

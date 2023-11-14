@@ -1,0 +1,4 @@
+ArticleTitle: 第五十三条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 削除

@@ -1,0 +1,13 @@
+ArticleCaption: （構造）
+ArticleTitle: 第百二十九条の十五
+Paragraph:
+  ParagraphSentence:
+    Sentence: 前条の避雷設備の構造は、次に掲げる基準に適合するものとしなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 雷撃によつて生ずる電流を建築物に被害を及ぼすことなく安全に地中に流すことができるものとして、国土交通大臣が定めた構造方法を用いるもの又は国土交通大臣の認定を受けたものであること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 避雷設備の雨水等により腐食のおそれのある部分にあつては、腐食しにくい材料を用いるか、又は有効な腐食防止のための措置を講じたものであること。

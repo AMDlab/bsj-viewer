@@ -1,0 +1,17 @@
+ArticleCaption: （階段に代わる傾斜路）
+ArticleTitle: 第二十六条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 階段に代わる傾斜路は、次の各号に定めるところによらなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 勾配は、八分の一をこえないこと。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 表面は、粗面とし、又はすべりにくい材料で仕上げること。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前三条の規定（けあげ及び踏面に関する部分を除く。）は、前項の傾斜路に準用する。

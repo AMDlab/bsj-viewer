@@ -1,0 +1,5 @@
+ArticleCaption: （国土交通大臣又は都道府県知事への報告）
+ArticleTitle: 第十六条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、特定行政庁に対して、都道府県知事は、建築主事を置く市町村の長に対して、この法律の施行に関して必要な報告又は統計の資料の提出を求めることができる。

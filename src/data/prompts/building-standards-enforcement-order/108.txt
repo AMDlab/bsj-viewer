@@ -1,0 +1,30 @@
+ArticleCaption: （柱の構造）
+ArticleTitle: 第七十七条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 構造耐力上主要な部分である柱は、次に定める構造としなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 主筋は、四本以上とすること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 主筋は、帯筋と緊結すること。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 帯筋の径は、六ミリメートル以上とし、その間隔は、十五センチメートル（柱に接着する壁、はりその他の横架材から上方又は下方に柱の小径の二倍以内の距離にある部分においては、十センチメートル）以下で、かつ、最も細い主筋の径の十五倍以下とすること。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 帯筋比（柱の軸を含むコンクリートの断面の面積に対する帯筋の断面積の和の割合として国土交通大臣が定める方法により算出した数値をいう。）は、〇・二パーセント以上とすること。
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: 柱の小径は、その構造耐力上主要な支点間の距離の十五分の一以上とすること。
+      Sentence: ただし、国土交通大臣が定める基準に従つた構造計算によつて構造耐力上安全であることが確かめられた場合においては、この限りでない。
+  Item:
+    ItemTitle: 六
+    ItemSentence:
+      Sentence: 主筋の断面積の和は、コンクリートの断面積の〇・八パーセント以上とすること。

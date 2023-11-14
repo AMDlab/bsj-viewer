@@ -1,0 +1,38 @@
+ArticleCaption: （耐力壁）
+ArticleTitle: 第六十二条の四
+Paragraph:
+  ParagraphSentence:
+    Sentence: 各階の補強コンクリートブロツク造の耐力壁の中心線により囲まれた部分の水平投影面積は、六十平方メートル以下としなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 各階の張り間方向及びけた行方向に配置する補強コンクリートブロツク造の耐力壁の長さのそれぞれの方向についての合計は、その階の床面積一平方メートルにつき十五センチメートル以上としなければならない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 補強コンクリートブロツク造の耐力壁の厚さは、十五センチメートル以上で、かつ、その耐力壁に作用するこれと直角な方向の水平力に対する構造耐力上主要な支点間の水平距離（以下第六十二条の五第二項において「耐力壁の水平力に対する支点間の距離」という。）の五十分の一以上としなければならない。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 補強コンクリートブロック造の耐力壁は、その端部及び隅角部に径十二ミリメートル以上の鉄筋を縦に配置するほか、径九ミリメートル以上の鉄筋を縦横に八十センチメートル以内の間隔で配置したものとしなければならない。
+Paragraph:
+  ParagraphNum: ５
+  ParagraphSentence:
+    Sentence: 補強コンクリートブロツク造の耐力壁は、前項の規定による縦筋の末端をかぎ状に折り曲げてその縦筋の径の四十倍以上基礎又は基礎ばり及び臥梁又は屋根版に定着する等の方法により、これらと互いにその存在応力を伝えることができる構造としなければならない。
+Paragraph:
+  ParagraphNum: ６
+  ParagraphSentence:
+    Sentence: 第四項の規定による横筋は、次の各号に定めるところによらなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 末端は、かぎ状に折り曲げること。
+      Sentence: ただし、補強コンクリートブロック造の耐力壁の端部以外の部分における異形鉄筋の末端にあつては、この限りでない。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 継手の重ね長さは、溶接する場合を除き、径の二十五倍以上とすること。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 補強コンクリートブロック造の耐力壁の端部が他の耐力壁又は構造耐力上主要な部分である柱に接着する場合には、横筋の末端をこれらに定着するものとし、これらの鉄筋に溶接する場合を除き、定着される部分の長さを径の二十五倍以上とすること。

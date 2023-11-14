@@ -1,0 +1,21 @@
+ArticleCaption: （屋外への出口等の施錠装置の構造等）
+ArticleTitle: 第百二十五条の二
+Paragraph:
+  ParagraphSentence:
+    Sentence: 次の各号に掲げる出口に設ける戸の施錠装置は、当該建築物が法令の規定により人を拘禁する目的に供せられるものである場合を除き、屋内からかぎを用いることなく解錠できるものとし、かつ、当該戸の近くの見やすい場所にその解錠方法を表示しなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 屋外に設ける避難階段に屋内から通ずる出口
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 避難階段から屋外に通ずる出口
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 前二号に掲げる出口以外の出口のうち、維持管理上常時鎖錠状態にある出口で、火災その他の非常の場合に避難の用に供すべきもの
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項に規定するもののほか、同項の施錠装置の構造及び解錠方法の表示の基準は、国土交通大臣が定める。

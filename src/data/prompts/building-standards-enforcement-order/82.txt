@@ -1,0 +1,5 @@
+ArticleCaption: （鉄骨組積造である壁）
+ArticleTitle: 第五十九条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 鉄骨組積造である壁の組積造の部分は、鉄骨の軸組にボルト、かすがいその他の金物で緊結しなければならない。

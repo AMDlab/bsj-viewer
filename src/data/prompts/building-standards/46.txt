@@ -1,0 +1,26 @@
+ArticleCaption: （防火壁等）
+ArticleTitle: 第二十六条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 延べ面積が千平方メートルを超える建築物は、防火上有効な構造の防火壁又は防火床によつて有効に区画し、かつ、各区画の床面積の合計をそれぞれ千平方メートル以内としなければならない。
+    Sentence: ただし、次の各号のいずれかに該当する建築物については、この限りでない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 耐火建築物又は準耐火建築物
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 卸売市場の上家、機械製作工場その他これらと同等以上に火災の発生のおそれが少ない用途に供する建築物で、次のイ又はロのいずれかに該当するもの
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 主要構造部が不燃材料で造られたものその他これに類する構造のもの
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 構造方法、主要構造部の防火の措置その他の事項について防火上必要な政令で定める技術的基準に適合するもの
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 畜舎その他の政令で定める用途に供する建築物で、その周辺地域が農業上の利用に供され、又はこれと同様の状況にあつて、その構造及び用途並びに周囲の状況に関し避難上及び延焼防止上支障がないものとして国土交通大臣が定める基準に適合するもの

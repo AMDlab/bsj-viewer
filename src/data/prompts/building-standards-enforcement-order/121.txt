@@ -1,0 +1,5 @@
+ArticleCaption: （客席からの出口の戸）
+ArticleTitle: 第百十八条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 劇場、映画館、演芸場、観覧場、公会堂又は集会場における客席からの出口の戸は、内開きとしてはならない。

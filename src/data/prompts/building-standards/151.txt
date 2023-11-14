@@ -1,0 +1,4 @@
+ArticleTitle: 第九十六条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 削除

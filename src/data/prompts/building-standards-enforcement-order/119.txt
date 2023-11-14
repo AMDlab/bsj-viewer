@@ -1,0 +1,17 @@
+ArticleCaption: （窓その他の開口部を有しない居室等）
+ArticleTitle: 第百十六条の二
+Paragraph:
+  ParagraphSentence:
+    Sentence: 法第三十五条（法第八十七条第三項において準用する場合を含む。第百二十七条において同じ。）の規定により政令で定める窓その他の開口部を有しない居室は、次の各号に該当する窓その他の開口部を有しない居室とする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 面積（第二十条の規定より計算した採光に有効な部分の面積に限る。）の合計が、当該居室の床面積の二十分の一以上のもの
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 開放できる部分（天井又は天井から下方八十センチメートル以内の距離にある部分に限る。）の面積の合計が、当該居室の床面積の五十分の一以上のもの
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: ふすま、障子その他随時開放することができるもので仕切られた二室は、前項の規定の適用については、一室とみなす。

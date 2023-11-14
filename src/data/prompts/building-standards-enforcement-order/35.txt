@@ -1,0 +1,13 @@
+ArticleCaption: （居室を有する建築物の建築材料についてのクロルピリホスに関する技術的基準）
+ArticleTitle: 第二十条の六
+Paragraph:
+  ParagraphSentence:
+    Sentence: 建築材料についてのクロルピリホスに関する法第二十八条の二第三号の政令で定める技術的基準は、次のとおりとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 建築材料にクロルピリホスを添加しないこと。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: クロルピリホスをあらかじめ添加した建築材料（添加したときから長期間経過していることその他の理由によりクロルピリホスを発散させるおそれがないものとして国土交通大臣が定めたものを除く。）を使用しないこと。

@@ -1,0 +1,38 @@
+ArticleCaption: （収用委員会の裁決の申請手続）
+ArticleTitle: 第十五条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 補償金額について不服がある者が、法第十一条第二項（法第八十八条第一項から第三項までにおいて準用する場合を含む。）の規定によつて収用委員会の裁決を求めようとする場合においては、土地収用法（昭和二十六年法律第二百十九号）第九十四条第三項の規定による裁決申請書には、同項各号の規定にかかわらず、次の各号に掲げる事項を記載しなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 申請者の住所及び氏名
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 当該建築物又は工作物の所在地
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 当該建築物又は工作物について申請者の有する権利
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 当該建築物又は工作物の用途及び構造の概要、附近見取図、配置図並びに各階平面図。
+      Sentence: ただし、命ぜられた措置に関係がない部分は、省略することができる。
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: 法第十一条第一項（法第八十八条第一項から第三項までにおいて準用する場合を含む。）の規定によつて特定行政庁が命じた措置
+  Item:
+    ItemTitle: 六
+    ItemSentence:
+      Sentence: 通知を受けた補償金額及びその通知を受領した年月日
+  Item:
+    ItemTitle: 七
+    ItemSentence:
+      Sentence: 通知を受けた補償金額を不服とする理由並びに申請者が求める補償金額及びその内訳
+  Item:
+    ItemTitle: 八
+    ItemSentence:
+      Sentence: 前各号に掲げるものを除くほか、申請者が必要と認める事項

@@ -1,0 +1,6 @@
+ArticleCaption: （条例への委任）
+ArticleTitle: 第八十三条
+Paragraph:
+  ParagraphSentence:
+    Sentence: この章に規定するものを除くほか、建築審査会の組織、議事並びに委員の任期、報酬及び費用弁償その他建築審査会に関して必要な事項は、条例で定める。
+    Sentence: この場合において、委員の任期については、国土交通省令で定める基準を参酌するものとする。

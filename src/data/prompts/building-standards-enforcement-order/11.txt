@@ -1,0 +1,13 @@
+ArticleCaption: （受検手数料）
+ArticleTitle: 第八条の三
+Paragraph:
+  ParagraphSentence:
+    Sentence: 法第五条の三第一項の受検手数料の額は、三万円とする。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項の受検手数料は、これを納付した者が検定を受けなかつた場合においても、返還しない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 建築基準適合判定資格者検定の受検手数料であつて指定建築基準適合判定資格者検定機関に納付するものの納付の方法は、法第七十七条の九第一項の建築基準適合判定資格者検定事務規程の定めるところによる。

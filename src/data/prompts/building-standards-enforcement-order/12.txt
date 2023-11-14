@@ -1,0 +1,17 @@
+ArticleCaption: （受検資格）
+ArticleTitle: 第八条の四
+Paragraph:
+  ParagraphSentence:
+    Sentence: 法第五条の四第三項の政令で定める業務は、次のとおりとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 建築士法（昭和二十五年法律第二百二号）第二条第七項に規定する構造設計の業務
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 法第六条第四項若しくは法第十八条第三項に規定する審査又は法第六条の二第一項の規定による確認のための審査の業務（法第二十条第一項に規定する基準に適合するかどうかの審査の業務を含むものに限る。）
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 建築物の構造の安全上の観点からする審査の業務（法第六条の三第一項の構造計算適合性判定の業務を除く。）であつて国土交通大臣が同項の構造計算適合性判定の業務と同等以上の知識及び能力を要すると認めたもの

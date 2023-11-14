@@ -1,0 +1,13 @@
+ArticleCaption: （認証の基準）
+ArticleTitle: 第六十八条の十三
+Paragraph:
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、第六十八条の十一第一項の申請が次に掲げる基準に適合していると認めるときは、同項の規定による認証をしなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 申請に係る型式部材等の型式で型式部材等の種類ごとに国土交通省令で定めるものが型式適合認定を受けたものであること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 申請に係る型式部材等の製造設備、検査設備、検査方法、品質管理方法その他品質保持に必要な技術的生産条件が国土交通省令で定める技術的基準に適合していると認められること。

@@ -1,0 +1,38 @@
+ArticleCaption: （耐力壁）
+ArticleTitle: 第七十八条の二
+Paragraph:
+  ParagraphSentence:
+    Sentence: 耐力壁は、次に定める構造としなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 厚さは、十二センチメートル以上とすること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 開口部周囲に径十二ミリメートル以上の補強筋を配置すること。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 径九ミリメートル以上の鉄筋を縦横に三十センチメートル（複配筋として配置する場合においては、四十五センチメートル）以下の間隔で配置すること。
+      Sentence: ただし、平家建ての建築物にあつては、その間隔を三十五センチメートル（複配筋として配置する場合においては、五十センチメートル）以下とすることができる。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 周囲の柱及びはりとの接合部は、その部分の存在応力を伝えることができるものとすること。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 壁式構造の耐力壁は、前項の規定によるほか、次に定める構造としなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 長さは、四十五センチメートル以上とすること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: その端部及び隅角部に径十二ミリメートル以上の鉄筋を縦に配置すること。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 各階の耐力壁は、その頂部及び脚部を当該耐力壁の厚さ以上の幅の壁ばり（最下階の耐力壁の脚部にあつては、布基礎又は基礎ばり）に緊結し、耐力壁の存在応力を相互に伝えることができるようにすること。

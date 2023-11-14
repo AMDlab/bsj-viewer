@@ -1,0 +1,22 @@
+ArticleCaption: （組積造のへい）
+ArticleTitle: 第六十一条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 組積造のへいは、次の各号に定めるところによらなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 高さは、一・二メートル以下とすること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 各部分の壁の厚さは、その部分から壁頂までの垂直距離の十分の一以上とすること。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 長さ四メートル以下ごとに、壁面からその部分における壁の厚さの一・五倍以上突出した控壁（木造のものを除く。）を設けること。
+      Sentence: ただし、その部分における壁の厚さが前号の規定による壁の厚さの一・五倍以上ある場合においては、この限りでない。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 基礎の根入れの深さは、二十センチメートル以上とすること。

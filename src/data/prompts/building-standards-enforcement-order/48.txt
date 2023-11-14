@@ -1,0 +1,6 @@
+ArticleCaption: （便所の採光及び換気）
+ArticleTitle: 第二十八条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 便所には、採光及び換気のため直接外気に接する窓を設けなければならない。
+    Sentence: ただし、水洗便所で、これに代わる設備をした場合においては、この限りでない。

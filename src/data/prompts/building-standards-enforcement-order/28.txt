@@ -1,0 +1,4 @@
+ArticleTitle: 第十七条及び第十八条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 削除

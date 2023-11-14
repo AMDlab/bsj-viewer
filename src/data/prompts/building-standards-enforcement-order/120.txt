@@ -1,0 +1,17 @@
+ArticleCaption: （適用の範囲）
+ArticleTitle: 第百十七条
+Paragraph:
+  ParagraphSentence:
+    Sentence: この節の規定は、法別表第一（い）欄（一）項から（四）項までに掲げる用途に供する特殊建築物、階数が三以上である建築物、前条第一項第一号に該当する窓その他の開口部を有しない居室を有する階又は延べ面積が千平方メートルをこえる建築物に限り適用する。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 次に掲げる建築物の部分は、この節の規定の適用については、それぞれ別の建築物とみなす。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 建築物が開口部のない耐火構造の床又は壁で区画されている場合における当該区画された部分
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 建築物の二以上の部分の構造が通常の火災時において相互に火熱又は煙若しくはガスによる防火上有害な影響を及ぼさないものとして国土交通大臣が定めた構造方法を用いるものである場合における当該部分

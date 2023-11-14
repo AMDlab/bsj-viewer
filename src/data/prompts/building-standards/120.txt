@@ -1,0 +1,9 @@
+ArticleCaption: （被災市街地における建築制限）
+ArticleTitle: 第八十四条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 特定行政庁は、市街地に災害のあつた場合において都市計画又は土地区画整理法による土地区画整理事業のため必要があると認めるときは、区域を指定し、災害が発生した日から一月以内の期間を限り、その区域内における建築物の建築を制限し、又は禁止することができる。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 特定行政庁は、更に一月を超えない範囲内において前項の期間を延長することができる。

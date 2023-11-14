@@ -1,0 +1,4 @@
+ArticleTitle: 第六十二条の三
+Paragraph:
+  ParagraphSentence:
+    Sentence: 削除

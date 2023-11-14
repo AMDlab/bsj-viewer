@@ -1,0 +1,9 @@
+ArticleCaption: （鉄骨のかぶり厚さ）
+ArticleTitle: 第七十九条の三
+Paragraph:
+  ParagraphSentence:
+    Sentence: 鉄骨に対するコンクリートのかぶり厚さは、五センチメートル以上としなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項の規定は、水、空気、酸又は塩による鉄骨の腐食を防止し、かつ、鉄骨とコンクリートとを有効に付着させることにより、同項に規定するかぶり厚さとした場合と同等以上の耐久性及び強度を有するものとして、国土交通大臣が定めた構造方法を用いる部材及び国土交通大臣の認定を受けた部材については、適用しない。

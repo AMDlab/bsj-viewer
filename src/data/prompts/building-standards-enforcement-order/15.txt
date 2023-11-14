@@ -1,0 +1,68 @@
+ArticleTitle: 第九条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 法第六条第一項（法第八十七条第一項、法第八十七条の四（法第八十八条第一項及び第二項において準用する場合を含む。）並びに法第八十八条第一項及び第二項において準用する場合を含む。）の政令で定める規定は、次に掲げる法律の規定並びにこれらの規定に基づく命令及び条例の規定で建築物の敷地、構造又は建築設備に係るものとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 消防法（昭和二十三年法律第百八十六号）第九条、第九条の二、第十五条及び第十七条
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 屋外広告物法（昭和二十四年法律第百八十九号）第三条から第五条まで（広告物の表示及び広告物を掲出する物件の設置の禁止又は制限に係る部分に限る。）
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 港湾法（昭和二十五年法律第二百十八号）第四十条第一項（同法第五十条の五第二項の規定により読み替えて適用する場合を含む。）
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 高圧ガス保安法（昭和二十六年法律第二百四号）第二十四条
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: ガス事業法（昭和二十九年法律第五十一号）第百六十二条
+  Item:
+    ItemTitle: 六
+    ItemSentence:
+      Sentence: 駐車場法（昭和三十二年法律第百六号）第二十条（都市再生特別措置法（平成十四年法律第二十二号）第十九条の十四、第六十二条の十二及び第百七条並びに都市の低炭素化の促進に関する法律（平成二十四年法律第八十四号）第二十条の規定により読み替えて適用する場合を含む。）
+  Item:
+    ItemTitle: 七
+    ItemSentence:
+      Sentence: 水道法（昭和三十二年法律第百七十七号）第十六条
+  Item:
+    ItemTitle: 八
+    ItemSentence:
+      Sentence: 下水道法（昭和三十三年法律第七十九号）第十条第一項及び第三項、第二十五条の二並びに第三十条第一項
+  Item:
+    ItemTitle: 九
+    ItemSentence:
+      Sentence: 宅地造成及び特定盛土等規制法（昭和三十六年法律第百九十一号）第十二条第一項、第十六条第一項、第三十条第一項及び第三十五条第一項
+  Item:
+    ItemTitle: 十
+    ItemSentence:
+      Sentence: 流通業務市街地の整備に関する法律（昭和四十一年法律第百十号）第五条第一項
+  Item:
+    ItemTitle: 十一
+    ItemSentence:
+      Sentence: 液化石油ガスの保安の確保及び取引の適正化に関する法律（昭和四十二年法律第百四十九号）第三十八条の二
+  Item:
+    ItemTitle: 十二
+    ItemSentence:
+      Sentence: 都市計画法（昭和四十三年法律第百号）第二十九条第一項及び第二項、第三十五条の二第一項、第四十一条第二項（同法第三十五条の二第四項において準用する場合を含む。）、第四十二条、第四十三条第一項並びに第五十三条第一項（都市再生特別措置法第三十六条の四の規定により読み替えて適用する場合を含む。）並びに都市計画法第五十三条第二項において準用する同法第五十二条の二第二項
+  Item:
+    ItemTitle: 十三
+    ItemSentence:
+      Sentence: 特定空港周辺航空機騒音対策特別措置法（昭和五十三年法律第二十六号）第五条第一項から第三項まで（同条第五項において準用する場合を含む。）
+  Item:
+    ItemTitle: 十四
+    ItemSentence:
+      Sentence: 自転車の安全利用の促進及び自転車等の駐車対策の総合的推進に関する法律（昭和五十五年法律第八十七号）第五条第四項
+  Item:
+    ItemTitle: 十五
+    ItemSentence:
+      Sentence: 浄化槽法（昭和五十八年法律第四十三号）第三条の二第一項
+  Item:
+    ItemTitle: 十六
+    ItemSentence:
+      Sentence: 特定都市河川浸水被害対策法（平成十五年法律第七十七号）第十条

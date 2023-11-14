@@ -1,0 +1,13 @@
+ArticleCaption: （廃止の届出）
+ArticleTitle: 第六十八条の十七
+Paragraph:
+  ParagraphSentence:
+    Sentence: 認証型式部材等製造者は、当該認証に係る型式部材等の製造の事業を廃止しようとするときは、国土交通省令で定めるところにより、あらかじめ、その旨を国土交通大臣に届け出なければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項の規定による届出があつたときは、当該届出に係る第六十八条の十一第一項の規定による認証は、その効力を失う。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、第一項の規定による届出があつたときは、その旨を公示しなければならない。

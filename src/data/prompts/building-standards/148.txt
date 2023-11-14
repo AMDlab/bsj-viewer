@@ -1,0 +1,5 @@
+ArticleCaption: （国土交通省令への委任）
+ArticleTitle: 第九十三条の三
+Paragraph:
+  ParagraphSentence:
+    Sentence: この法律に定めるもののほか、この法律の規定に基づく許可その他の処分に関する手続その他この法律の実施のため必要な事項は、国土交通省令で定める。

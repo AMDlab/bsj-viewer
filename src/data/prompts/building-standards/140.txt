@@ -1,0 +1,13 @@
+ArticleCaption: （工事現場の危害の防止）
+ArticleTitle: 第九十条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 建築物の建築、修繕、模様替又は除却のための工事の施工者は、当該工事の施工に伴う地盤の崩落、建築物又は工事用の工作物の倒壊等による危害を防止するために必要な措置を講じなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項の措置の技術的基準は、政令で定める。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 第三条第二項及び第三項、第九条（第十三項及び第十四項を除く。）、第九条の二、第九条の三（設計者及び宅地建物取引業者に係る部分を除く。）並びに第十八条第一項及び第二十五項の規定は、第一項の工事の施工について準用する。

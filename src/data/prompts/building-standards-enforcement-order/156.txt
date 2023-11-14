@@ -1,0 +1,112 @@
+ArticleCaption: （エスカレーターの構造）
+ArticleTitle: 第百二十九条の十二
+Paragraph:
+  ParagraphSentence:
+    Sentence: エスカレーターは、次に定める構造としなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 国土交通大臣が定めるところにより、通常の使用状態において人又は物が挟まれ、又は障害物に衝突することがないようにすること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 勾配は、三十度以下とすること。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 踏段（人を乗せて昇降する部分をいう。以下同じ。）の両側に手すりを設け、手すりの上端部が踏段と同一方向に同一速度で連動するようにすること。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 踏段の幅は、一・一メートル以下とし、踏段の端から当該踏段の端の側にある手すりの上端部の中心までの水平距離は、二十五センチメートル以下とすること。
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: 踏段の定格速度は、五十メートル以下の範囲内において、エスカレーターの勾配に応じ国土交通大臣が定める毎分の速度以下とすること。
+  Item:
+    ItemTitle: 六
+    ItemSentence:
+      Sentence: 地震その他の震動によつて脱落するおそれがないものとして、国土交通大臣が定めた構造方法を用いるもの又は国土交通大臣の認定を受けたものとすること。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 建築物に設けるエスカレーターについては、第百二十九条の四（第三項第五号から第七号までを除く。）及び第百二十九条の五第一項の規定を準用する。
+    Sentence: この場合において、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句に読み替えるものとする。
+  TableStruct:
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: 第百二十九条の四の見出し、同条第一項各号列記以外の部分、第二項及び第三項並びに第百二十九条の五の見出し及び同条第一項
+        TableColumn:
+          Sentence: エレベーター
+        TableColumn:
+          Sentence: エスカレーター
+      TableRow:
+        TableColumn:
+          Sentence: 第百二十九条の四
+        TableColumn:
+          Sentence: かご
+        TableColumn:
+          Sentence: 踏段
+      TableRow:
+        TableColumn:
+          Sentence: 第百二十九条の四第一項第二号
+        TableColumn:
+          Sentence: 主索で吊るエレベーター、油圧エレベーターその他国土交通大臣が定めるエレベーター
+        TableColumn:
+          Sentence: くさりで吊るエスカレーターその他国土交通大臣が定めるエスカレーター
+      TableRow:
+        TableColumn:
+          Sentence: 第百二十九条の四第一項第二号及び第二項
+        TableColumn:
+          Sentence: エレベーター強度検証法
+        TableColumn:
+          Sentence: エスカレーター強度検証法
+      TableRow:
+        TableColumn:
+          Sentence: 第百二十九条の四第二項第一号
+        TableColumn:
+          Sentence: 次条
+        TableColumn:
+          Sentence: 次条第一項及び第百二十九条の十二第三項
+      TableRow:
+        TableColumn:
+          Sentence: 第百二十九条の四第二項第二号
+        TableColumn:
+          Sentence: 次条第二項に規定する積載荷重
+        TableColumn:
+          Sentence: 第百二十九条の十二第三項に規定する積載荷重
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: エスカレーターの踏段の積載荷重は、次の式によつて計算した数値以上としなければならない。
+  List:
+    ListSentence:
+      Sentence: Ｐ＝２，６００Ａ
+  List:
+    ListSentence:
+      Sentence: （この式において、Ｐ及びＡは、それぞれ次の数値を表すものとする。
+  List:
+    ListSentence:
+      Column:
+        Sentence: Ｐ
+      Column:
+        Sentence: エスカレーターの積載荷重（単位
+      Column:
+        Sentence: ニュートン）
+  List:
+    ListSentence:
+      Column:
+        Sentence: Ａ
+      Column:
+        Sentence: エスカレーターの踏段面の水平投影面積（単位
+      Column:
+        Sentence: 平方メートル））
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: エスカレーターには、制動装置及び昇降口において踏段の昇降を停止させることができる装置を設けなければならない。
+Paragraph:
+  ParagraphNum: ５
+  ParagraphSentence:
+    Sentence: 前項の制動装置の構造は、動力が切れた場合、駆動装置に故障が生じた場合、人又は物が挟まれた場合その他の人が危害を受け又は物が損傷するおそれがある場合に自動的に作動し、踏段に生ずる進行方向の加速度が一・二五メートル毎秒毎秒を超えることなく安全に踏段を制止させることができるものとして、国土交通大臣が定めた構造方法を用いるもの又は国土交通大臣の認定を受けたものとしなければならない。

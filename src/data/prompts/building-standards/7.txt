@@ -1,0 +1,23 @@
+ArticleCaption: （構造計算適合判定資格者検定）
+ArticleTitle: 第五条の四
+Paragraph:
+  ParagraphSentence:
+    Sentence: 構造計算適合判定資格者検定は、建築士の設計に係る建築物の計画について第六条の三第一項の構造計算適合性判定を行うために必要な知識及び経験について行う。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 構造計算適合判定資格者検定は、国土交通大臣が行う。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 構造計算適合判定資格者検定は、一級建築士試験に合格した者で、第六条の三第一項の構造計算適合性判定の業務その他これに類する業務で政令で定めるものに関して、五年以上の実務の経験を有するものでなければ受けることができない。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 構造計算適合判定資格者検定に関する事務をつかさどらせるために、国土交通省に、構造計算適合判定資格者検定委員を置く。
+    Sentence: ただし、次条第一項の指定構造計算適合判定資格者検定機関が同項の構造計算適合判定資格者検定事務を行う場合においては、この限りでない。
+Paragraph:
+  ParagraphNum: ５
+  ParagraphSentence:
+    Sentence: 第五条第五項の規定は構造計算適合判定資格者検定委員に、同条第六項から第八項までの規定は構造計算適合判定資格者検定について準用する。
+    Sentence: この場合において、同条第七項中「次条第二項」とあるのは、「第五条の五第二項において準用する第五条の二第二項」と読み替えるものとする。

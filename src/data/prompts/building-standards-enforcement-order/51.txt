@@ -1,0 +1,25 @@
+ArticleCaption: （改良便槽）
+ArticleTitle: 第三十一条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 改良便槽は、次に定める構造としなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 便槽は、貯留槽及びくみ取槽を組み合わせた構造とすること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 便槽の天井、底、周壁及び隔壁は、耐水材料で造り、防水モルタル塗その他これに類する有効な防水の措置を講じて漏水しないものとすること。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 貯留槽は、二槽以上に区分し、汚水を貯留する部分の深さは八十センチメートル以上とし、その容積は〇・七五立方メートル以上で、かつ、百日以上（国土交通大臣が定めるところにより汚水の温度の低下を防止するための措置が講じられたものにあつては、その容積は〇・六立方メートル以上で、かつ、八十日以上）貯留できるようにすること。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 貯留槽には、掃除するために必要な大きさの穴を設け、かつ、これに密閉することができるふたを設けること。
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: 小便器からの汚水管は、その先端を貯留槽の汚水面下四十センチメートル以上の深さに差し入れること。

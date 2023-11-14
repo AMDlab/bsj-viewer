@@ -1,0 +1,10 @@
+ArticleCaption: （臥梁）
+ArticleTitle: 第六十二条の五
+Paragraph:
+  ParagraphSentence:
+    Sentence: 補強コンクリートブロツク造の耐力壁には、その各階の壁頂に鉄筋コンクリート造の臥梁を設けなければならない。
+    Sentence: ただし、階数が一の建築物で、その壁頂に鉄筋コンクリート造の屋根版が接着する場合においては、この限りでない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 臥梁の有効幅は、二十センチメートル以上で、かつ、耐力壁の水平力に対する支点間の距離の二十分の一以上としなければならない。

@@ -1,0 +1,17 @@
+ArticleCaption: （受検資格）
+ArticleTitle: 第二条の三
+Paragraph:
+  ParagraphSentence:
+    Sentence: 法第五条第三項に規定する政令で定める業務は、次のとおりとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 建築審査会の委員として行う業務
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 学校教育法（昭和二十二年法律第二十六号）による大学（短期大学を除く。）の学部、専攻科又は大学院において教授又は准教授として建築に関する教育又は研究を行う業務
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 建築物の敷地、構造及び建築設備の安全上、防火上又は衛生上の観点からする審査又は検査の業務（法第七十七条の十八第一項の確認検査の業務（以下「確認検査の業務」という。）を除く。）であつて国土交通大臣が確認検査の業務と同等以上の知識及び能力を要すると認めたもの

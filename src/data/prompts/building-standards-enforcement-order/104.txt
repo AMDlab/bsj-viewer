@@ -1,0 +1,28 @@
+ArticleCaption: （鉄筋の継手及び定着）
+ArticleTitle: 第七十三条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 鉄筋の末端は、かぎ状に折り曲げて、コンクリートから抜け出ないように定着しなければならない。
+    Sentence: ただし、次の各号に掲げる部分以外の部分に使用する異形鉄筋にあつては、その末端を折り曲げないことができる。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 柱及びはり（基礎ばりを除く。）の出すみ部分
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 煙突
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 主筋又は耐力壁の鉄筋（以下この項において「主筋等」という。）の継手の重ね長さは、継手を構造部材における引張力の最も小さい部分に設ける場合にあつては、主筋等の径（径の異なる主筋等をつなぐ場合にあつては、細い主筋等の径。以下この条において同じ。）の二十五倍以上とし、継手を引張り力の最も小さい部分以外の部分に設ける場合にあつては、主筋等の径の四十倍以上としなければならない。
+    Sentence: ただし、国土交通大臣が定めた構造方法を用いる継手にあつては、この限りでない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 柱に取り付けるはりの引張り鉄筋は、柱の主筋に溶接する場合を除き、柱に定着される部分の長さをその径の四十倍以上としなければならない。
+    Sentence: ただし、国土交通大臣が定める基準に従つた構造計算によつて構造耐力上安全であることが確かめられた場合においては、この限りでない。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 軽量骨材を使用する鉄筋コンクリート造について前二項の規定を適用する場合には、これらの項中「二十五倍」とあるのは「三十倍」と、「四十倍」とあるのは「五十倍」とする。

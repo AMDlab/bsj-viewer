@@ -1,0 +1,102 @@
+ArticleCaption: （柱の小径）
+ArticleTitle: 第四十三条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 構造耐力上主要な部分である柱の張り間方向及びけた行方向の小径は、それぞれの方向でその柱に接着する土台、足固め、胴差、はり、けたその他の構造耐力上主要な部分である横架材の相互間の垂直距離に対して、次の表に掲げる割合以上のものでなければならない。
+    Sentence: ただし、国土交通大臣が定める基準に従つた構造計算によつて構造耐力上安全であることが確かめられた場合においては、この限りでない。
+  TableStruct:
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: 建築物
+        TableColumn:
+          Sentence: 柱
+        TableColumn:
+          Sentence: 張り間方向又はけた行方向に相互の間隔が十メートル以上の柱又は学校、保育所、劇場、映画館、演芸場、観覧場、公会堂、集会場、物品販売業を営む店舗（床面積の合計が十平方メートル以内のものを除く。）若しくは公衆浴場の用途に供する建築物の柱
+        TableColumn:
+          Sentence: 上欄以外の柱
+      TableRow:
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 最上階又は階数が一の建築物の柱
+        TableColumn:
+          Sentence: その他の階の柱
+        TableColumn:
+          Sentence: 最上階又は階数が一の建築物の柱
+        TableColumn:
+          Sentence: その他の階の柱
+      TableRow:
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 　
+      TableRow:
+        TableColumn:
+          Sentence: （一）
+        TableColumn:
+          Sentence: 土蔵造の建築物その他これに類する壁の重量が特に大きい建築物
+        TableColumn:
+          Sentence: 二十二分の一
+        TableColumn:
+          Sentence: 二十分の一
+        TableColumn:
+          Sentence: 二十五分の一
+        TableColumn:
+          Sentence: 二十二分の一
+      TableRow:
+        TableColumn:
+          Sentence: （二）
+        TableColumn:
+          Sentence: （一）に掲げる建築物以外の建築物で屋根を金属板、石板、木板その他これらに類する軽い材料でふいたもの
+        TableColumn:
+          Sentence: 三十分の一
+        TableColumn:
+          Sentence: 二十五分の一
+        TableColumn:
+          Sentence: 三十三分の一
+        TableColumn:
+          Sentence: 三十分の一
+      TableRow:
+        TableColumn:
+          Sentence: （三）
+        TableColumn:
+          Sentence: （一）及び（二）に掲げる建築物以外の建築物
+        TableColumn:
+          Sentence: 二十五分の一
+        TableColumn:
+          Sentence: 二十二分の一
+        TableColumn:
+          Sentence: 三十分の一
+        TableColumn:
+          Sentence: 二十八分の一
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 地階を除く階数が二を超える建築物の一階の構造耐力上主要な部分である柱の張り間方向及びけた行方向の小径は、十三・五センチメートルを下回つてはならない。
+    Sentence: ただし、当該柱と土台又は基礎及び当該柱とはり、けたその他の横架材とをそれぞれボルト締その他これに類する構造方法により緊結し、かつ、国土交通大臣が定める基準に従つた構造計算によつて構造耐力上安全であることが確かめられた場合においては、この限りでない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 法第四十一条の規定によつて、条例で、法第二十一条第一項及び第二項の規定の全部若しくは一部を適用せず、又はこれらの規定による制限を緩和する場合においては、当該条例で、柱の小径の横架材の相互間の垂直距離に対する割合を補足する規定を設けなければならない。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 前三項の規定による柱の小径に基づいて算定した柱の所要断面積の三分の一以上を欠き取る場合においては、その部分を補強しなければならない。
+Paragraph:
+  ParagraphNum: ５
+  ParagraphSentence:
+    Sentence: 階数が二以上の建築物におけるすみ柱又はこれに準ずる柱は、通し柱としなければならない。
+    Sentence: ただし、接合部を通し柱と同等以上の耐力を有するように補強した場合においては、この限りでない。
+Paragraph:
+  ParagraphNum: ６
+  ParagraphSentence:
+    Sentence: 構造耐力上主要な部分である柱の有効細長比（断面の最小二次率半径に対する座屈長さの比をいう。以下同じ。）は、百五十以下としなければならない。

@@ -1,0 +1,9 @@
+ArticleCaption: （型わく及び支柱の除去）
+ArticleTitle: 第七十六条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 構造耐力上主要な部分に係る型わく及び支柱は、コンクリートが自重及び工事の施工中の荷重によつて著しい変形又はひび割れその他の損傷を受けない強度になるまでは、取りはずしてはならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項の型わく及び支柱の取りはずしに関し必要な技術的基準は、国土交通大臣が定める。

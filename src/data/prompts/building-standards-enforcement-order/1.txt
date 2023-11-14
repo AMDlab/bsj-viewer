@@ -1,0 +1,157 @@
+ArticleCaption: （面積、高さ等の算定方法）
+ArticleTitle: 第二条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 次の各号に掲げる面積、高さ及び階数の算定方法は、当該各号に定めるところによる。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Column:
+        Sentence: 敷地面積
+      Column:
+        Sentence: 敷地の水平投影面積による。
+        Sentence: ただし、建築基準法（以下「法」という。）第四十二条第二項、第三項又は第五項の規定によつて道路の境界線とみなされる線と道との間の部分の敷地は、算入しない。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Column:
+        Sentence: 建築面積
+      Column:
+        Sentence: 建築物（地階で地盤面上一メートル以下にある部分を除く。以下この号において同じ。）の外壁又はこれに代わる柱の中心線（軒、ひさし、はね出し縁その他これらに類するもの（以下この号において「軒等」という。）で当該中心線から水平距離一メートル以上突き出たもの（建築物の建蔽率の算定の基礎となる建築面積を算定する場合に限り、工場又は倉庫の用途に供する建築物において専ら貨物の積卸しその他これに類する業務のために設ける軒等でその端と敷地境界線との間の敷地の部分に有効な空地が確保されていることその他の理由により安全上、防火上及び衛生上支障がないものとして国土交通大臣が定める軒等（以下この号において「特例軒等」という。）のうち当該中心線から突き出た距離が水平距離一メートル以上五メートル未満のものであるものを除く。）がある場合においては、その端から水平距離一メートル後退した線（建築物の建蔽率の算定の基礎となる建築面積を算定する場合に限り、特例軒等のうち当該中心線から水平距離五メートル以上突き出たものにあつては、その端から水平距離五メートル以内で当該特例軒等の構造に応じて国土交通大臣が定める距離後退した線））で囲まれた部分の水平投影面積による。
+        Sentence: ただし、国土交通大臣が高い開放性を有すると認めて指定する構造の建築物又はその部分については、当該建築物又はその部分の端から水平距離一メートル以内の部分の水平投影面積は、当該建築物の建築面積に算入しない。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Column:
+        Sentence: 床面積
+      Column:
+        Sentence: 建築物の各階又はその一部で壁その他の区画の中心線で囲まれた部分の水平投影面積による。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Column:
+        Sentence: 延べ面積
+      Column:
+        Sentence: 建築物の各階の床面積の合計による。
+        Sentence: ただし、法第五十二条第一項に規定する延べ面積（建築物の容積率の最低限度に関する規制に係る当該容積率の算定の基礎となる延べ面積を除く。）には、次に掲げる建築物の部分の床面積を算入しない。
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 自動車車庫その他の専ら自動車又は自転車の停留又は駐車のための施設（誘導車路、操車場所及び乗降場を含む。）の用途に供する部分（第三項第一号及び第百三十七条の八において「自動車車庫等部分」という。）
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 専ら防災のために設ける備蓄倉庫の用途に供する部分（第三項第二号及び第百三十七条の八において「備蓄倉庫部分」という。）
+    Subitem1:
+      Subitem1Title: ハ
+      Subitem1Sentence:
+        Sentence: 蓄電池（床に据え付けるものに限る。）を設ける部分（第三項第三号及び第百三十七条の八において「蓄電池設置部分」という。）
+    Subitem1:
+      Subitem1Title: ニ
+      Subitem1Sentence:
+        Sentence: 自家発電設備を設ける部分（第三項第四号及び第百三十七条の八において「自家発電設備設置部分」という。）
+    Subitem1:
+      Subitem1Title: ホ
+      Subitem1Sentence:
+        Sentence: 貯水槽を設ける部分（第三項第五号及び第百三十七条の八において「貯水槽設置部分」という。）
+    Subitem1:
+      Subitem1Title: ヘ
+      Subitem1Sentence:
+        Sentence: 宅配ボックス（配達された物品（荷受人が不在その他の事由により受け取ることができないものに限る。）の一時保管のための荷受箱をいう。）を設ける部分（第三項第六号及び第百三十七条の八において「宅配ボックス設置部分」という。）
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Column:
+        Sentence: 築造面積
+      Column:
+        Sentence: 工作物の水平投影面積による。
+        Sentence: ただし、国土交通大臣が別に算定方法を定めた工作物については、その算定方法による。
+  Item:
+    ItemTitle: 六
+    ItemSentence:
+      Column:
+        Sentence: 建築物の高さ
+      Column:
+        Sentence: 地盤面からの高さによる。
+        Sentence: ただし、次のイ、ロ又はハのいずれかに該当する場合においては、それぞれイ、ロ又はハに定めるところによる。
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 法第五十六条第一項第一号の規定並びに第百三十条の十二及び第百三十五条の十九の規定による高さの算定については、前面道路の路面の中心からの高さによる。
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 法第三十三条及び法第五十六条第一項第三号に規定する高さ並びに法第五十七条の四第一項、法第五十八条第一項及び第二項、法第六十条の二の二第三項並びに法第六十条の三第二項に規定する高さ（北側の前面道路又は隣地との関係についての建築物の各部分の高さの最高限度が定められている場合におけるその高さに限る。）を算定する場合を除き、階段室、昇降機塔、装飾塔、物見塔、屋窓その他これらに類する建築物の屋上部分の水平投影面積の合計が当該建築物の建築面積の八分の一以内の場合においては、その部分の高さは、十二メートル（法第五十五条第一項から第三項まで、法第五十六条の二第四項、法第五十九条の二第一項（法第五十五条第一項に係る部分に限る。）並びに法別表第四（ろ）欄二の項、三の項及び四の項ロの場合には、五メートル）までは、当該建築物の高さに算入しない。
+    Subitem1:
+      Subitem1Title: ハ
+      Subitem1Sentence:
+        Sentence: 棟飾、防火壁の屋上突出部その他これらに類する屋上突出物は、当該建築物の高さに算入しない。
+  Item:
+    ItemTitle: 七
+    ItemSentence:
+      Column:
+        Sentence: 軒の高さ
+      Column:
+        Sentence: 地盤面（第百三十条の十二第一号イの場合には、前面道路の路面の中心）から建築物の小屋組又はこれに代わる横架材を支持する壁、敷桁又は柱の上端までの高さによる。
+  Item:
+    ItemTitle: 八
+    ItemSentence:
+      Column:
+        Sentence: 階数
+      Column:
+        Sentence: 昇降機塔、装飾塔、物見塔その他これらに類する建築物の屋上部分又は地階の倉庫、機械室その他これらに類する建築物の部分で、水平投影面積の合計がそれぞれ当該建築物の建築面積の八分の一以下のものは、当該建築物の階数に算入しない。
+        Sentence: また、建築物の一部が吹抜きとなつている場合、建築物の敷地が斜面又は段地である場合その他建築物の部分によつて階数を異にする場合においては、これらの階数のうち最大なものによる。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項第二号、第六号又は第七号の「地盤面」とは、建築物が周囲の地面と接する位置の平均の高さにおける水平面をいい、その接する位置の高低差が三メートルを超える場合においては、その高低差三メートル以内ごとの平均の高さにおける水平面をいう。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 第一項第四号ただし書の規定は、次の各号に掲げる建築物の部分の区分に応じ、当該敷地内の建築物の各階の床面積の合計（同一敷地内に二以上の建築物がある場合においては、それらの建築物の各階の床面積の合計の和）に当該各号に定める割合を乗じて得た面積を限度として適用するものとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Column:
+        Sentence: 自動車車庫等部分
+      Column:
+        Sentence: 五分の一
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Column:
+        Sentence: 備蓄倉庫部分
+      Column:
+        Sentence: 五十分の一
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Column:
+        Sentence: 蓄電池設置部分
+      Column:
+        Sentence: 五十分の一
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Column:
+        Sentence: 自家発電設備設置部分
+      Column:
+        Sentence: 百分の一
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Column:
+        Sentence: 貯水槽設置部分
+      Column:
+        Sentence: 百分の一
+  Item:
+    ItemTitle: 六
+    ItemSentence:
+      Column:
+        Sentence: 宅配ボックス設置部分
+      Column:
+        Sentence: 百分の一
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 第一項第六号ロ又は第八号の場合における水平投影面積の算定方法は、同項第二号の建築面積の算定方法によるものとする。

@@ -1,0 +1,111 @@
+SectionTitle: 第四節の二　都市再生特別地区、居住環境向上用途誘導地区及び特定用途誘導地区
+Article:
+  ArticleCaption: （都市再生特別地区）
+  ArticleTitle: 第六十条の二
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 都市再生特別地区内においては、建築物の容積率及び建蔽率、建築物の建築面積（同一敷地内に二以上の建築物がある場合においては、それぞれの建築面積）並びに建築物の高さは、都市再生特別地区に関する都市計画において定められた内容に適合するものでなければならない。
+      Sentence: ただし、次の各号のいずれかに該当する建築物については、この限りでない。
+    Item:
+      ItemTitle: 一
+      ItemSentence:
+        Sentence: 主要構造部が木造、鉄骨造、コンクリートブロック造その他これらに類する構造であつて、階数が二以下で、かつ、地階を有しない建築物で、容易に移転し、又は除却することができるもの
+    Item:
+      ItemTitle: 二
+      ItemSentence:
+        Sentence: 公衆便所、巡査派出所その他これらに類する建築物で、公益上必要なもの
+    Item:
+      ItemTitle: 三
+      ItemSentence:
+        Sentence: 学校、駅舎、卸売市場その他これらに類する公益上必要な建築物で、特定行政庁が用途上又は構造上やむを得ないと認めて許可したもの
+  Paragraph:
+    ParagraphNum: ２
+    ParagraphSentence:
+      Sentence: 都市再生特別地区内においては、建築物の壁又はこれに代わる柱は、建築物の地盤面下の部分及び国土交通大臣が指定する歩廊の柱その他これに類するものを除き、都市再生特別地区に関する都市計画において定められた壁面の位置の制限に反して建築してはならない。
+      Sentence: ただし、前項各号のいずれかに該当する建築物については、この限りでない。
+  Paragraph:
+    ParagraphNum: ３
+    ParagraphSentence:
+      Sentence: 都市再生特別地区に関する都市計画において定められた誘導すべき用途に供する建築物については、第四十八条から第四十九条の二までの規定は、適用しない。
+  Paragraph:
+    ParagraphNum: ４
+    ParagraphSentence:
+      Sentence: 都市再生特別地区内の建築物については、当該都市再生特別地区に関する都市計画において定められた建築物の容積率の最高限度を第五十二条第一項各号に掲げる数値（第五十七条の二第六項の規定により当該数値とみなされる特例容積率の限度の数値を含む。）とみなして、第五十二条の規定を適用する。
+  Paragraph:
+    ParagraphNum: ５
+    ParagraphSentence:
+      Sentence: 都市再生特別地区内の建築物については、第五十六条、第五十七条の四、第五十八条及び第六十条の三第二項の規定は、適用しない。
+  Paragraph:
+    ParagraphNum: ６
+    ParagraphSentence:
+      Sentence: 都市再生特別地区内の建築物については、第五十六条の二第一項に規定する対象区域外にある建築物とみなして、同条の規定を適用する。
+      Sentence: この場合における同条第四項の規定の適用については、同項中「対象区域内の土地」とあるのは、「対象区域（都市再生特別地区を除く。）内の土地」とする。
+  Paragraph:
+    ParagraphNum: ７
+    ParagraphSentence:
+      Sentence: 第四十四条第二項の規定は、第一項第三号の規定による許可をする場合に準用する。
+Article:
+  ArticleCaption: （居住環境向上用途誘導地区）
+  ArticleTitle: 第六十条の二の二
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 居住環境向上用途誘導地区内においては、建築物の建蔽率は、居住環境向上用途誘導地区に関する都市計画において建築物の建蔽率の最高限度が定められたときは、当該最高限度以下でなければならない。
+      Sentence: ただし、次の各号のいずれかに該当する建築物については、この限りでない。
+    Item:
+      ItemTitle: 一
+      ItemSentence:
+        Sentence: 公衆便所、巡査派出所その他これらに類する建築物で、公益上必要なもの
+    Item:
+      ItemTitle: 二
+      ItemSentence:
+        Sentence: 学校、駅舎、卸売市場その他これらに類する公益上必要な建築物で、特定行政庁が用途上又は構造上やむを得ないと認めて許可したもの
+  Paragraph:
+    ParagraphNum: ２
+    ParagraphSentence:
+      Sentence: 居住環境向上用途誘導地区内においては、建築物の壁又はこれに代わる柱は、居住環境向上用途誘導地区に関する都市計画において壁面の位置の制限が定められたときは、建築物の地盤面下の部分及び国土交通大臣が指定する歩廊の柱その他これに類するものを除き、当該壁面の位置の制限に反して建築してはならない。
+      Sentence: ただし、前項各号のいずれかに該当する建築物については、この限りでない。
+  Paragraph:
+    ParagraphNum: ３
+    ParagraphSentence:
+      Sentence: 居住環境向上用途誘導地区内においては、建築物の高さは、居住環境向上用途誘導地区に関する都市計画において建築物の高さの最高限度が定められたときは、当該最高限度以下でなければならない。
+      Sentence: ただし、特定行政庁が用途上又は構造上やむを得ないと認めて許可したものについては、この限りでない。
+  Paragraph:
+    ParagraphNum: ４
+    ParagraphSentence:
+      Sentence: 居住環境向上用途誘導地区内においては、地方公共団体は、その地区の指定の目的のために必要と認める場合においては、国土交通大臣の承認を得て、条例で、第四十八条第一項から第十三項までの規定による制限を緩和することができる。
+  Paragraph:
+    ParagraphNum: ５
+    ParagraphSentence:
+      Sentence: 第四十四条第二項の規定は、第一項第二号又は第三項ただし書の規定による許可をする場合に準用する。
+Article:
+  ArticleCaption: （特定用途誘導地区）
+  ArticleTitle: 第六十条の三
+  Paragraph:
+    ParagraphSentence:
+      Sentence: 特定用途誘導地区内においては、建築物の容積率及び建築物の建築面積（同一敷地内に二以上の建築物がある場合においては、それぞれの建築面積）は、特定用途誘導地区に関する都市計画において建築物の容積率の最低限度及び建築物の建築面積の最低限度が定められたときは、それぞれ、これらの最低限度以上でなければならない。
+      Sentence: ただし、次の各号のいずれかに該当する建築物については、この限りでない。
+    Item:
+      ItemTitle: 一
+      ItemSentence:
+        Sentence: 主要構造部が木造、鉄骨造、コンクリートブロック造その他これらに類する構造であつて、階数が二以下で、かつ、地階を有しない建築物で、容易に移転し、又は除却することができるもの
+    Item:
+      ItemTitle: 二
+      ItemSentence:
+        Sentence: 公衆便所、巡査派出所その他これらに類する建築物で、公益上必要なもの
+    Item:
+      ItemTitle: 三
+      ItemSentence:
+        Sentence: 学校、駅舎、卸売市場その他これらに類する公益上必要な建築物で、特定行政庁が用途上又は構造上やむを得ないと認めて許可したもの
+  Paragraph:
+    ParagraphNum: ２
+    ParagraphSentence:
+      Sentence: 特定用途誘導地区内においては、建築物の高さは、特定用途誘導地区に関する都市計画において建築物の高さの最高限度が定められたときは、当該最高限度以下でなければならない。
+      Sentence: ただし、特定行政庁が用途上又は構造上やむを得ないと認めて許可したものについては、この限りでない。
+  Paragraph:
+    ParagraphNum: ３
+    ParagraphSentence:
+      Sentence: 特定用途誘導地区内においては、地方公共団体は、その地区の指定の目的のために必要と認める場合においては、国土交通大臣の承認を得て、条例で、第四十八条第一項から第十三項までの規定による制限を緩和することができる。
+  Paragraph:
+    ParagraphNum: ４
+    ParagraphSentence:
+      Sentence: 第四十四条第二項の規定は、第一項第三号又は第二項ただし書の規定による許可をする場合に準用する。

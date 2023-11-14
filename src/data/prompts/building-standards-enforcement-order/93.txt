@@ -1,0 +1,35 @@
+ArticleCaption: （塀）
+ArticleTitle: 第六十二条の八
+Paragraph:
+  ParagraphSentence:
+    Sentence: 補強コンクリートブロック造の塀は、次の各号（高さ一・二メートル以下の塀にあつては、第五号及び第七号を除く。）に定めるところによらなければならない。
+    Sentence: ただし、国土交通大臣が定める基準に従つた構造計算によつて構造耐力上安全であることが確かめられた場合においては、この限りでない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 高さは、二・二メートル以下とすること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 壁の厚さは、十五センチメートル（高さ二メートル以下の塀にあつては、十センチメートル）以上とすること。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 壁頂及び基礎には横に、壁の端部及び隅角部には縦に、それぞれ径九ミリメートル以上の鉄筋を配置すること。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 壁内には、径九ミリメートル以上の鉄筋を縦横に八十センチメートル以下の間隔で配置すること。
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: 長さ三・四メートル以下ごとに、径九ミリメートル以上の鉄筋を配置した控壁で基礎の部分において壁面から高さの五分の一以上突出したものを設けること。
+  Item:
+    ItemTitle: 六
+    ItemSentence:
+      Sentence: 第三号及び第四号の規定により配置する鉄筋の末端は、かぎ状に折り曲げて、縦筋にあつては壁頂及び基礎の横筋に、横筋にあつてはこれらの縦筋に、それぞれかぎ掛けして定着すること。
+      Sentence: ただし、縦筋をその径の四十倍以上基礎に定着させる場合にあつては、縦筋の末端は、基礎の横筋にかぎ掛けしないことができる。
+  Item:
+    ItemTitle: 七
+    ItemSentence:
+      Sentence: 基礎の丈は、三十五センチメートル以上とし、根入れの深さは三十センチメートル以上とすること。

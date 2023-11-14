@@ -1,0 +1,192 @@
+ArticleCaption: （構造耐力上必要な軸組等）
+ArticleTitle: 第四十六条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 構造耐力上主要な部分である壁、柱及び横架材を木造とした建築物にあつては、すべての方向の水平力に対して安全であるように、各階の張り間方向及びけた行方向に、それぞれ壁を設け又は筋かいを入れた軸組を釣合い良く配置しなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項の規定は、次の各号のいずれかに該当する木造の建築物又は建築物の構造部分については、適用しない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 次に掲げる基準に適合するもの
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 構造耐力上主要な部分である柱及び横架材（間柱、小ばりその他これらに類するものを除く。以下この号において同じ。）に使用する集成材その他の木材の品質が、当該柱及び横架材の強度及び耐久性に関し国土交通大臣の定める基準に適合していること。
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 構造耐力上主要な部分である柱の脚部が、一体の鉄筋コンクリート造の布基礎に緊結している土台に緊結し、又は鉄筋コンクリート造の基礎に緊結していること。
+    Subitem1:
+      Subitem1Title: ハ
+      Subitem1Sentence:
+        Sentence: イ及びロに掲げるもののほか、国土交通大臣が定める基準に従つた構造計算によつて、構造耐力上安全であることが確かめられた構造であること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 方づえ（その接着する柱が添木等によつて補強されているものに限る。）、控柱又は控壁があつて構造耐力上支障がないもの
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 床組及び小屋ばり組には木板その他これに類するものを国土交通大臣が定める基準に従つて打ち付け、小屋組には振れ止めを設けなければならない。
+    Sentence: ただし、国土交通大臣が定める基準に従つた構造計算によつて構造耐力上安全であることが確かめられた場合においては、この限りでない。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 階数が二以上又は延べ面積が五十平方メートルを超える木造の建築物においては、第一項の規定によつて各階の張り間方向及びけた行方向に配置する壁を設け又は筋かいを入れた軸組を、それぞれの方向につき、次の表一の軸組の種類の欄に掲げる区分に応じて当該軸組の長さに同表の倍率の欄に掲げる数値を乗じて得た長さの合計が、その階の床面積（その階又は上の階の小屋裏、天井裏その他これらに類する部分に物置等を設ける場合にあつては、当該物置等の床面積及び高さに応じて国土交通大臣が定める面積をその階の床面積に加えた面積）に次の表二に掲げる数値（特定行政庁が第八十八条第二項の規定によつて指定した区域内における場合においては、表二に掲げる数値のそれぞれ一・五倍とした数値）を乗じて得た数値以上で、かつ、その階（その階より上の階がある場合においては、当該上の階を含む。）の見付面積（張り間方向又はけた行方向の鉛直投影面積をいう。以下同じ。）からその階の床面からの高さが一・三五メートル以下の部分の見付面積を減じたものに次の表三に掲げる数値を乗じて得た数値以上となるように、国土交通大臣が定める基準に従つて設置しなければならない。
+  TableStruct:
+    TableStructTitle: 一
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 軸組の種類
+        TableColumn:
+          Sentence: 倍率
+      TableRow:
+        TableColumn:
+          Sentence: （一）
+        TableColumn:
+          Sentence: 土塗壁又は木ずりその他これに類するものを柱及び間柱の片面に打ち付けた壁を設けた軸組
+        TableColumn:
+          Sentence: 〇・五
+      TableRow:
+        TableColumn:
+          Sentence: （二）
+        TableColumn:
+          Sentence: 木ずりその他これに類するものを柱及び間柱の両面に打ち付けた壁を設けた軸組
+        TableColumn:
+          Sentence: 一
+      TableRow:
+        TableColumn:
+          Sentence: 厚さ一・五センチメートル以上で幅九センチメートル以上の木材又は径九ミリメートル以上の鉄筋の筋かいを入れた軸組
+      TableRow:
+        TableColumn:
+          Sentence: （三）
+        TableColumn:
+          Sentence: 厚さ三センチメートル以上で幅九センチメートル以上の木材の筋かいを入れた軸組
+        TableColumn:
+          Sentence: 一・五
+      TableRow:
+        TableColumn:
+          Sentence: （四）
+        TableColumn:
+          Sentence: 厚さ四・五センチメートル以上で幅九センチメートル以上の木材の筋かいを入れた軸組
+        TableColumn:
+          Sentence: 二
+      TableRow:
+        TableColumn:
+          Sentence: （五）
+        TableColumn:
+          Sentence: 九センチメートル角以上の木材の筋かいを入れた軸組
+        TableColumn:
+          Sentence: 三
+      TableRow:
+        TableColumn:
+          Sentence: （六）
+        TableColumn:
+          Sentence: （二）から（四）までに掲げる筋かいをたすき掛けに入れた軸組
+        TableColumn:
+          Sentence: （二）から（四）までのそれぞれの数値の二倍
+      TableRow:
+        TableColumn:
+          Sentence: （七）
+        TableColumn:
+          Sentence: （五）に掲げる筋かいをたすき掛けに入れた軸組
+        TableColumn:
+          Sentence: 五
+      TableRow:
+        TableColumn:
+          Sentence: （八）
+        TableColumn:
+          Sentence: その他（一）から（七）までに掲げる軸組と同等以上の耐力を有するものとして国土交通大臣が定めた構造方法を用いるもの又は国土交通大臣の認定を受けたもの
+        TableColumn:
+          Sentence: 〇・五から五までの範囲内において国土交通大臣が定める数値
+      TableRow:
+        TableColumn:
+          Sentence: （九）
+        TableColumn:
+          Sentence: （一）又は（二）に掲げる壁と（二）から（六）までに掲げる筋かいとを併用した軸組
+        TableColumn:
+          Sentence: （一）又は（二）のそれぞれの数値と（二）から（六）までのそれぞれの数値との和
+  TableStruct:
+    TableStructTitle: 二
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: 建築物
+        TableColumn:
+          Sentence: 階の床面積に乗ずる数値（単位　一平方メートルにつきセンチメートル）
+      TableRow:
+        TableColumn:
+          Sentence: 階数が一の建築物
+        TableColumn:
+          Sentence: 階数が二の建築物の一階
+        TableColumn:
+          Sentence: 階数が二の建築物の二階
+        TableColumn:
+          Sentence: 階数が三の建築物の一階
+        TableColumn:
+          Sentence: 階数が三の建築物の二階
+        TableColumn:
+          Sentence: 階数が三の建築物の三階
+      TableRow:
+        TableColumn:
+          Sentence: 第四十三条第一項の表の（一）又は（三）に掲げる建築物
+        TableColumn:
+          Sentence: 一五
+        TableColumn:
+          Sentence: 三三
+        TableColumn:
+          Sentence: 二一
+        TableColumn:
+          Sentence: 五〇
+        TableColumn:
+          Sentence: 三九
+        TableColumn:
+          Sentence: 二四
+      TableRow:
+        TableColumn:
+          Sentence: 第四十三条第一項の表の（二）に掲げる建築物
+        TableColumn:
+          Sentence: 一一
+        TableColumn:
+          Sentence: 二九
+        TableColumn:
+          Sentence: 一五
+        TableColumn:
+          Sentence: 四六
+        TableColumn:
+          Sentence: 三四
+        TableColumn:
+          Sentence: 一八
+      TableRow:
+        TableColumn:
+          Sentence: この表における階数の算定については、地階の部分の階数は、算入しないものとする。
+  TableStruct:
+    TableStructTitle: 三
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 区域
+        TableColumn:
+          Sentence: 見付面積に乗ずる数値（単位　一平方メートルにつきセンチメートル）
+      TableRow:
+        TableColumn:
+          Sentence: （一）
+        TableColumn:
+          Sentence: 特定行政庁がその地方における過去の風の記録を考慮してしばしば強い風が吹くと認めて規則で指定する区域
+        TableColumn:
+          Sentence: 五〇を超え、七五以下の範囲内において特定行政庁がその地方における風の状況に応じて規則で定める数値
+      TableRow:
+        TableColumn:
+          Sentence: （二）
+        TableColumn:
+          Sentence: （一）に掲げる区域以外の区域
+        TableColumn:
+          Sentence: 五〇

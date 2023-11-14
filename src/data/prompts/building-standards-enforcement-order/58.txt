@@ -1,0 +1,13 @@
+ArticleCaption: （構造設計の原則）
+ArticleTitle: 第三十六条の三
+Paragraph:
+  ParagraphSentence:
+    Sentence: 建築物の構造設計に当たつては、その用途、規模及び構造の種別並びに土地の状況に応じて柱、はり、床、壁等を有効に配置して、建築物全体が、これに作用する自重、積載荷重、積雪荷重、風圧、土圧及び水圧並びに地震その他の震動及び衝撃に対して、一様に構造耐力上安全であるようにすべきものとする。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 構造耐力上主要な部分は、建築物に作用する水平力に耐えるように、釣合い良く配置すべきものとする。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 建築物の構造耐力上主要な部分には、使用上の支障となる変形又は振動が生じないような剛性及び瞬間的破壊が生じないような靱性をもたすべきものとする。

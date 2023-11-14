@@ -1,0 +1,10 @@
+ArticleCaption: （受検手数料）
+ArticleTitle: 第八条の六
+Paragraph:
+  ParagraphSentence:
+    Sentence: 法第五条の五第二項において準用する法第五条の三第一項の受検手数料の額は、三万五千円とする。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 第八条の三第二項及び第三項の規定は、前項の受検手数料について準用する。
+    Sentence: この場合において、同条第三項中「第七十七条の九第一項」とあるのは、「第七十七条の十七の二第二項において準用する法第七十七条の九第一項」と読み替えるものとする。

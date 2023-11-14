@@ -1,0 +1,5 @@
+ArticleCaption: （適用の範囲）
+ArticleTitle: 第七十九条の二
+Paragraph:
+  ParagraphSentence:
+    Sentence: この節の規定は、鉄骨鉄筋コンクリート造の建築物又は鉄骨鉄筋コンクリート造と鉄筋コンクリート造その他の構造とを併用する建築物の鉄骨鉄筋コンクリート造の構造部分に適用する。

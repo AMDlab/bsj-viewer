@@ -1,0 +1,18 @@
+ArticleCaption: （敷地の衛生及び安全）
+ArticleTitle: 第十九条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 建築物の敷地は、これに接する道の境より高くなければならず、建築物の地盤面は、これに接する周囲の土地より高くなければならない。
+    Sentence: ただし、敷地内の排水に支障がない場合又は建築物の用途により防湿の必要がない場合においては、この限りでない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 湿潤な土地、出水のおそれの多い土地又はごみその他これに類する物で埋め立てられた土地に建築物を建築する場合においては、盛土、地盤の改良その他衛生上又は安全上必要な措置を講じなければならない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 建築物の敷地には、雨水及び汚水を排出し、又は処理するための適当な下水管、下水溝又はためますその他これらに類する施設をしなければならない。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 建築物ががけ崩れ等による被害を受けるおそれのある場合においては、擁壁の設置その他安全上適当な措置を講じなければならない。

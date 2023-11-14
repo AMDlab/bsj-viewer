@@ -1,0 +1,5 @@
+ArticleCaption: （委員の除斥）
+ArticleTitle: 第八十二条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 委員は、自己又は三親等以内の親族の利害に関係のある事件については、この法律に規定する同意又は第九十四条第一項前段の審査請求に対する裁決に関する議事に加わることができない。

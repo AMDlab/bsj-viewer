@@ -1,0 +1,23 @@
+ArticleCaption: （高力ボルト、ボルト及びリベット）
+ArticleTitle: 第六十八条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 高力ボルト、ボルト又はリベットの相互間の中心距離は、その径の二・五倍以上としなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 高力ボルト孔の径は、高力ボルトの径より二ミリメートルを超えて大きくしてはならない。
+    Sentence: ただし、高力ボルトの径が二十七ミリメートル以上であり、かつ、構造耐力上支障がない場合においては、高力ボルト孔の径を高力ボルトの径より三ミリメートルまで大きくすることができる。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 前項の規定は、同項の規定に適合する高力ボルト接合と同等以上の効力を有するものとして国土交通大臣の認定を受けた高力ボルト接合については、適用しない。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: ボルト孔の径は、ボルトの径より一ミリメートルを超えて大きくしてはならない。
+    Sentence: ただし、ボルトの径が二十ミリメートル以上であり、かつ、構造耐力上支障がない場合においては、ボルト孔の径をボルトの径より一・五ミリメートルまで大きくすることができる。
+Paragraph:
+  ParagraphNum: ５
+  ParagraphSentence:
+    Sentence: リベットは、リベット孔に充分埋まるように打たなければならない。

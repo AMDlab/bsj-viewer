@@ -1,0 +1,6 @@
+ArticleCaption: （手すり又は手すり壁）
+ArticleTitle: 第六十条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 手すり又は手すり壁は、組積造としてはならない。
+    Sentence: ただし、これらの頂部に鉄筋コンクリート造の臥梁を設けた場合においては、この限りでない。

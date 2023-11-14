@@ -1,0 +1,57 @@
+ArticleCaption: （建築物調査員資格者証）
+ArticleTitle: 第十二条の二
+Paragraph:
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、次の各号のいずれかに該当する者に対し、建築物調査員資格者証を交付する。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 前条第一項の調査及び同条第二項の点検（次項第四号及び第三項第三号において「調査等」という。）に関する講習で国土交通省令で定めるものの課程を修了した者
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 前号に掲げる者と同等以上の専門的知識及び能力を有すると国土交通大臣が認定した者
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、前項の規定にかかわらず、次の各号のいずれかに該当する者に対しては、建築物調査員資格者証の交付を行わないことができる。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 未成年者
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 建築基準法令の規定により刑に処せられ、その執行を終わり、又はその執行を受けることがなくなつた日から起算して二年を経過しない者
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 次項（第二号を除く。）の規定により建築物調査員資格者証の返納を命ぜられ、その日から起算して一年を経過しない者
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 心身の故障により調査等の業務を適正に行うことができない者として国土交通省令で定めるもの
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、建築物調査員が次の各号のいずれかに該当すると認めるときは、その建築物調査員資格者証の返納を命ずることができる。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: この法律又はこれに基づく命令の規定に違反したとき。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 前項第三号又は第四号のいずれかに該当するに至つたとき。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 調査等に関して不誠実な行為をしたとき。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 偽りその他不正の手段により建築物調査員資格者証の交付を受けたとき。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 建築物調査員資格者証の交付の手続その他建築物調査員資格者証に関し必要な事項は、国土交通省令で定める。

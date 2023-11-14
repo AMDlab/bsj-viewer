@@ -1,0 +1,10 @@
+ArticleCaption: （公開による意見の聴取）
+ArticleTitle: 第七十二条
+Paragraph:
+  ParagraphSentence:
+    Sentence: 市町村の長は、前条の縦覧期間の満了後、関係人の出頭を求めて公開による意見の聴取を行わなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 建築主事を置く市町村以外の市町村の長は、前項の意見の聴取をした後、遅滞なく、当該建築協定書を、同項の規定による意見の聴取の記録を添えて、都道府県知事に送付しなければならない。
+    Sentence: この場合において、当該市町村の長は、当該建築協定書の内容について意見があるときは、その意見を付さなければならない。

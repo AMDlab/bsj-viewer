@@ -1,0 +1,12 @@
+ArticleTitle: 第十四条の二
+Paragraph:
+  ParagraphSentence:
+    Sentence: 法第十条第一項の政令で定める建築物は、次に掲げるものとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 法別表第一（い）欄に掲げる用途に供する特殊建築物のうち階数が三以上でその用途に供する部分の床面積の合計が百平方メートルを超え二百平方メートル以下のもの
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 事務所その他これに類する用途に供する建築物（法第六条第一項第一号に掲げる建築物を除く。）のうち階数が三以上で延べ面積が二百平方メートルを超えるもの
