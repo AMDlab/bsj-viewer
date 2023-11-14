@@ -46,3 +46,10 @@ export const programMapping: { [key: string]: string } = {
   floorAreaRatio: '',
   roomHeight: join(programDir, 'room-height.json'),
 };
+
+export const questionMapping: { [key: string]: string } = {
+  floorAreaRatio:
+    'この法規を基に容積率が適しているかどうか判定するjavascriptのプログラムを書いてください。',
+  roomHeight:
+    'この法規を基に居室の天井高さが適しているかどうか判定するjavascriptのプログラムを書いてください。',
+};

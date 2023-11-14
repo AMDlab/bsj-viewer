@@ -1,6 +1,6 @@
 import OpenAI from 'openai';
 import { readFileSync } from 'fs';
-import { programMapping, promptMapping } from '@/const/law';
+import { programMapping, promptMapping, questionMapping } from '@/const/law';
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
@@ -14,7 +14,7 @@ export async function GET() {
       const prompt = promptMapping[key]
         .map((path: string) => readFileSync(path, { encoding: 'utf-8' }))
         .join('\n');
-      const fullPrompt = `${prompt}\n\nQ: プログラムを書いてください。`;
+      const fullPrompt = `${prompt}\n\nQ: ${questionMapping[key]}`;
       const program = readFileSync(programMapping[key], { encoding: 'utf-8' });
       return {
         messages: [

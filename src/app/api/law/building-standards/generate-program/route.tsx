@@ -1,5 +1,5 @@
 import OpenAI from 'openai';
-import { promptMapping } from '@/const/law';
+import { promptMapping, questionMapping } from '@/const/law';
 import { readFileSync } from 'fs';
 
 const openai = new OpenAI({
@@ -17,7 +17,7 @@ export async function GET(request: Request) {
     const prompt = promptMapping[key]
       .map((path: string) => readFileSync(path, { encoding: 'utf-8' }))
       .join('\n');
-    const fullPrompt = `${prompt}\n\nQ: プログラムを書いてください。`;
+    const fullPrompt = `${prompt}\n\nQ: ${questionMapping[key]}`;
     const response = await openai.chat.completions.create({
       model,
       messages: [{ role: 'user', content: fullPrompt }],
