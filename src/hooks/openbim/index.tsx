@@ -8,6 +8,7 @@ export * from './useToolbar';
 export * from './useFragmentClassifier';
 export * from './useIFCPropertiesProcessor';
 export * from './custom/roomHeightChecker/useRoomHeightChecker';
+export * from './custom/programGenerator/useProgramGenerator';
 
 const initComponents = async (container: HTMLElement) => {
   const components = new OBC.Components();

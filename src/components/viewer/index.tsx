@@ -10,6 +10,7 @@ import useOBC, {
   useFragmentClassifier,
   useIFCPropertiesProcessor,
   useRoomHeightChecker,
+  useProgramGenerator,
 } from '@/hooks/openbim';
 import * as OBC from 'openbim-components';
 import { remToPx } from '@/lib/utils/styles';
@@ -24,6 +25,7 @@ export default function Viewer() {
   const { setFragmentClassifier } = useFragmentClassifier();
   const { setIFCPropertiesProcessor, processFragmentGroup } = useIFCPropertiesProcessor();
   const { setRoomHeightChecker, setFragmentGroup } = useRoomHeightChecker();
+  const { setProgramGenerator } = useProgramGenerator();
 
   const onInitialized = async (components: OBC.Components) => {
     setDirectionalLight(components, { position: { x: 5, y: 10, z: 3 }, intensity: 1 });
@@ -63,6 +65,7 @@ export default function Viewer() {
     });
 
     setRoomHeightChecker(components, { toolbar });
+    setProgramGenerator(components, { toolbar });
   };
   useOBC(ref, { onInitialized, withGrid: true });
 
