@@ -11,7 +11,7 @@ import useOBC, {
   useIFCPropertiesProcessor,
 } from '@/hooks/openbim';
 import * as OBC from 'openbim-components';
-import { remToPx } from '@/utils/styles';
+import { remToPx } from '@/lib/utils/styles';
 
 const defaultWindowVisibleMaxWidth = 600;
 export default function Viewer() {
