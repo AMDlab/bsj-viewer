@@ -10,9 +10,11 @@ export async function GET(request: Request) {
   try {
     const { searchParams } = new URL(request.url);
     const model = searchParams.get('model');
+    const key = searchParams.get('key');
     if (!model) return new Response('model is required', { status: 400 });
+    if (!key) return new Response('key is required', { status: 400 });
 
-    const prompt = promptMapping['floorAreaRatio']
+    const prompt = promptMapping[key]
       .map((path: string) => readFileSync(path, { encoding: 'utf-8' }))
       .join('\n');
     const fullPrompt = `${prompt}\n\nQ: プログラムを書いてください。`;
