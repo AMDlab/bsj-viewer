@@ -7,6 +7,7 @@ export * from './useHighlighter';
 export * from './useToolbar';
 export * from './useFragmentClassifier';
 export * from './useIFCPropertiesProcessor';
+export * from './custom/roomHeightChecker/useRoomHeightChecker';
 
 const initComponents = async (container: HTMLElement) => {
   const components = new OBC.Components();

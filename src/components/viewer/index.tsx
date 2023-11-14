@@ -9,6 +9,7 @@ import useOBC, {
   useFragmentTree,
   useFragmentClassifier,
   useIFCPropertiesProcessor,
+  useRoomHeightChecker,
 } from '@/hooks/openbim';
 import * as OBC from 'openbim-components';
 import { remToPx } from '@/lib/utils/styles';
@@ -22,6 +23,7 @@ export default function Viewer() {
   const { setFragmentTree, updateFragmentTree } = useFragmentTree();
   const { setFragmentClassifier } = useFragmentClassifier();
   const { setIFCPropertiesProcessor, processFragmentGroup } = useIFCPropertiesProcessor();
+  const { setRoomHeightChecker, setFragmentGroup } = useRoomHeightChecker();
 
   const onInitialized = async (components: OBC.Components) => {
     setDirectionalLight(components, { position: { x: 5, y: 10, z: 3 }, intensity: 1 });
@@ -34,6 +36,7 @@ export default function Viewer() {
       fragmentClassifier.byEntity(data);
       updateFragmentTree(['storeys', 'entities']);
       processFragmentGroup(data);
+      setFragmentGroup(data);
     });
 
     const isWindowVisible = ref.current!.clientWidth > defaultWindowVisibleMaxWidth;
@@ -58,6 +61,8 @@ export default function Viewer() {
       size: windowSize,
       visible: isWindowVisible,
     });
+
+    setRoomHeightChecker(components, { toolbar });
   };
   useOBC(ref, { onInitialized, withGrid: true });
 
