@@ -1,6 +1,7 @@
 ArticleCaption: （火を使用する室に設けなければならない換気設備等）
 ArticleTitle: 第二十条の三
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 法第二十八条第三項の規定により政令で定める室は、次に掲げるものとする。
   Item:
@@ -76,3 +77,5 @@ Paragraph:
     ItemTitle: 四
     ItemSentence:
       Sentence: 火を使用する設備又は器具の近くに排気フードを有する排気筒を設ける場合においては、排気フードは、不燃材料で造ること。
+        Section:
+          SectionTitle: 第一節の三　石綿その他の物質の飛散又は発散に対する衛生上の措置

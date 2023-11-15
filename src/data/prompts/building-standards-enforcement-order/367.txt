@@ -1,0 +1,6 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この政令は、都市計画法及び建築基準法の一部を改正する法律（以下「改正法」という。）の施行の日（平成五年六月二十五日）から施行する。

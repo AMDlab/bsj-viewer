@@ -1,0 +1,7 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この法律は、公布の日から施行する。
+    Sentence: ただし、第百四十六条の改正規定、第百五十一条の次に一条を加える改正規定及び附則第三条から第五条までの規定は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。

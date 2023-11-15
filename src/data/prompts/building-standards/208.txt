@@ -1,0 +1,14 @@
+ArticleCaption: （指定の公示等）
+ArticleTitle: 第七十七条の三十九
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、指定をしたときは、指定を受けた者（以下この節、第九十七条の四及び第百条において「指定認定機関」という。）の名称及び住所、指定の区分、業務区域、認定等の業務を行う事務所の所在地並びに認定等の業務の開始の日を公示しなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 指定認定機関は、その名称若しくは住所又は認定等の業務を行う事務所の所在地を変更しようとするときは、変更しようとする日の二週間前までに、その旨を国土交通大臣に届け出なければならない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、前項の規定による届出があつたときは、その旨を公示しなければならない。

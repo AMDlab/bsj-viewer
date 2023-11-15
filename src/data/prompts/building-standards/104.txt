@@ -1,5 +1,8 @@
-ArticleCaption: （建築物の借主の地位）
-ArticleTitle: 第七十七条
+ArticleCaption: （第三十八条の準用）
+ArticleTitle: 第六十七条の二
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: 建築協定の目的となつている建築物に関する基準が建築物の借主の権限に係る場合においては、その建築協定については、当該建築物の借主は、土地の所有者等とみなす。
+    Sentence: 第三十八条の規定は、その予想しない特殊の構造方法又は建築材料を用いる建築物に対する前条第一項及び第二項の規定の適用について準用する。
+        Section:
+          SectionTitle: 第六節　景観地区

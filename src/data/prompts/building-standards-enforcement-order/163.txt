@@ -1,0 +1,6 @@
+ArticleCaption: （警報設備を設けた場合に耐火建築物等とすることを要しないこととなる用途）
+ArticleTitle: 第百十条の四
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第二十七条第一項第一号の政令で定める用途は、病院、診療所（患者の収容施設があるものに限る。）、ホテル、旅館、下宿、共同住宅、寄宿舎及び児童福祉施設等（入所する者の寝室があるものに限る。）とする。

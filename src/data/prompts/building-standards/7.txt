@@ -1,6 +1,7 @@
 ArticleCaption: （構造計算適合判定資格者検定）
 ArticleTitle: 第五条の四
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 構造計算適合判定資格者検定は、建築士の設計に係る建築物の計画について第六条の三第一項の構造計算適合性判定を行うために必要な知識及び経験について行う。
 Paragraph:

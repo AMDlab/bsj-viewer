@@ -1,0 +1,30 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この法律は、公布の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、津波防災地域づくりに関する法律（平成二十三年法律第百二十三号）の施行の日から施行する。
+  Sentence: ただし、第二条の規定並びに第六条中都市計画法第三十三条第一項第七号及び第三十六条第三項の改正規定は、津波防災地域づくりに関する法律附則ただし書に規定する日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+ParagraphSentence:
+  Sentence: この法律は、子ども・子育て支援法の施行の日から施行する。
+  Sentence: ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。
+Item:
+  ItemTitle: 一
+  ItemSentence:
+    Column:
+      Sentence: 第二十五条及び第七十三条の規定
+    Column:
+      Sentence: 公布の日
+    SupplProvision:
+      SupplProvisionLabel: 附　則

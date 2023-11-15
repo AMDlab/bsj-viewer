@@ -1,0 +1,138 @@
+ArticleCaption: （エレベーターの構造上主要な部分）
+ArticleTitle: 第百二十九条の四
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: エレベーターのかご及びかごを支え、又は吊
+    Sentence: る構造上主要な部分（以下この条において「主要な支持部分」という。）の構造は、次の各号のいずれかに適合するものとしなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 設置時及び使用時のかご及び主要な支持部分の構造が、次に掲げる基準に適合するものとして、通常の使用状態における摩損及び疲労破壊を考慮して国土交通大臣が定めた構造方法を用いるものであること。
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: かごの昇降によつて摩損又は疲労破壊を生ずるおそれのある部分以外の部分は、通常の昇降時の衝撃及び安全装置が作動した場合の衝撃により損傷を生じないこと。
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: かごの昇降によつて摩損又は疲労破壊を生ずるおそれのある部分については、通常の使用状態において、通常の昇降時の衝撃及び安全装置が作動した場合の衝撃によりかごの落下をもたらすような損傷が生じないこと。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: かごを主索で吊
+      Sentence: るエレベーター、油圧エレベーターその他国土交通大臣が定めるエレベーターにあつては、設置時及び使用時のかご及び主要な支持部分の構造が、通常の使用状態における摩損及び疲労破壊を考慮したエレベーター強度検証法により、前号イ及びロに掲げる基準に適合するものであることについて確かめられたものであること。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 設置時及び使用時のかご及び主要な支持部分の構造が、それぞれ第一号イ及びロに掲げる基準に適合することについて、通常の使用状態における摩損又は疲労破壊を考慮して行う国土交通大臣の認定を受けたものであること。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項の「エレベーター強度検証法」とは、次に定めるところにより、エレベーターの設置時及び使用時のかご及び主要な支持部分の強度を検証する方法をいう。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 次条に規定する荷重によつて主要な支持部分並びにかごの床版及び枠（以下この条において「主要な支持部分等」という。）に生ずる力を計算すること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 前号の主要な支持部分等の断面に生ずる常時及び安全装置の作動時の各応力度を次の表に掲げる式によつて計算すること。
+    TableStruct:
+      Table:
+        TableRow:
+          TableColumn:
+            Sentence: 荷重について想定する状態
+          TableColumn:
+            Sentence: 式
+        TableRow:
+          TableColumn:
+            Sentence: 常時
+          TableColumn:
+            Sentence:
+              ArithFormula: Ｇ
+                Sub: １
+              ArithFormula: ＋α
+                Sub: １
+              ArithFormula: （Ｇ
+                Sub: ２
+              ArithFormula: ＋Ｐ）
+        TableRow:
+          TableColumn:
+            Sentence: 安全装置の作動時
+          TableColumn:
+            Sentence:
+              ArithFormula: Ｇ
+                Sub: １
+              ArithFormula: ＋α
+                Sub: ２
+              ArithFormula: （Ｇ
+                Sub: ２
+              ArithFormula: ＋Ｐ）
+        TableRow:
+          TableColumn:
+            Sentence: この表において、Ｇ
+              Sub: １
+            Sentence: 、Ｇ
+              Sub: ２
+            Sentence: 及びＰはそれぞれ次の力を、α
+              Sub: １
+            Sentence: 及びα
+              Sub: ２
+            Sentence: はそれぞれ次の数値を表すものとする。
+            Sentence: Ｇ
+              Sub: １
+            Sentence: 　次条第一項に規定する固定荷重のうち昇降する部分以外の部分に係るものによつて生ずる力
+            Sentence: Ｇ
+              Sub: ２
+            Sentence: 　次条第一項に規定する固定荷重のうち昇降する部分に係るものによつて生ずる力
+            Sentence: Ｐ　次条第二項に規定する積載荷重によつて生ずる力
+            Sentence: α
+              Sub: １
+            Sentence: 　通常の昇降時に昇降する部分に生ずる加速度を考慮して国土交通大臣が定める数値
+            Sentence: α
+              Sub: ２
+            Sentence: 　安全装置が作動した場合に昇降する部分に生ずる加速度を考慮して国土交通大臣が定める数値
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 前号の規定によつて計算した常時及び安全装置の作動時の各応力度が、それぞれ主要な支持部分等の材料の破壊強度を安全率（エレベーターの設置時及び使用時の別に応じて、主要な支持部分等の材料の摩損又は疲労破壊による強度の低下を考慮して国土交通大臣が定めた数値をいう。）で除して求めた許容応力度を超えないことを確かめること。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 次項第二号に基づき設けられる独立してかごを支え、又は吊
+      Sentence: ることができる部分について、その一がないものとして第一号及び第二号に定めるところにより計算した各応力度が、当該部分の材料の破壊強度を限界安全率（エレベーターの設置時及び使用時の別に応じて、当該部分にかごの落下をもたらすような損傷が生じないように材料の摩損又は疲労破壊による強度の低下を考慮して国土交通大臣が定めた数値をいう。）で除して求めた限界の許容応力度を超えないことを確かめること。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 前二項に定めるもののほか、エレベーターのかご及び主要な支持部分の構造は、次に掲げる基準に適合するものとしなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: エレベーターのかご及び主要な支持部分のうち、腐食又は腐朽のおそれのあるものにあつては、腐食若しくは腐朽しにくい材料を用いるか、又は有効なさび止め若しくは防腐のための措置を講じたものであること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 主要な支持部分のうち、摩損又は疲労破壊を生ずるおそれのあるものにあつては、二以上の部分で構成され、かつ、それぞれが独立してかごを支え、又は吊
+      Sentence: ることができるものであること。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 滑節構造とした接合部にあつては、地震その他の震動によつて外れるおそれがないものとして国土交通大臣が定めた構造方法を用いるものであること。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 滑車を使用してかごを吊
+      Sentence: るエレベーターにあつては、地震その他の震動によつて索が滑車から外れるおそれがないものとして国土交通大臣が定めた構造方法を用いるものであること。
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: 釣合おもりを用いるエレベーターにあつては、地震その他の震動によつて釣合おもりが脱落するおそれがないものとして国土交通大臣が定めた構造方法を用いるものであること。
+  Item:
+    ItemTitle: 六
+    ItemSentence:
+      Sentence: 国土交通大臣が定める基準に従つた構造計算により地震その他の震動に対して構造耐力上安全であることが確かめられたものであること。
+  Item:
+    ItemTitle: 七
+    ItemSentence:
+      Sentence: 屋外に設けるエレベーターで昇降路の壁の全部又は一部を有しないものにあつては、国土交通大臣が定める基準に従つた構造計算により風圧に対して構造耐力上安全であることが確かめられたものであること。

@@ -1,0 +1,6 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この政令は、行政不服審査法の施行の日（平成二十八年四月一日）から施行する。

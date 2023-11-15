@@ -1,0 +1,6 @@
+ArticleCaption: （処分又は手続に関する経過措置）
+ArticleTitle: 第三条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この法律の施行前に旧法の規定によりされた許可、申請等の処分又は手続は、それぞれ新法の相当規定によりされた処分又は手続とみなす。

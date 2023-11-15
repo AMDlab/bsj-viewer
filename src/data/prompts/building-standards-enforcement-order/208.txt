@@ -1,0 +1,20 @@
+ArticleCaption: （冷却塔設備）
+ArticleTitle: 第百二十九条の二の六
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 地階を除く階数が十一以上である建築物の屋上に設ける冷房のための冷却塔設備の設置及び構造は、次の各号のいずれかに掲げるものとしなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 主要な部分を不燃材料で造るか、又は防火上支障がないものとして国土交通大臣が定めた構造方法を用いるものとすること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 冷却塔の構造に応じ、建築物の他の部分までの距離を国土交通大臣が定める距離以上としたものとすること。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 冷却塔設備の内部が燃焼した場合においても建築物の他の部分を国土交通大臣が定める温度以上に上昇させないものとして国土交通大臣の認定を受けたものとすること。
+        Section:
+          SectionTitle: 第二節　昇降機

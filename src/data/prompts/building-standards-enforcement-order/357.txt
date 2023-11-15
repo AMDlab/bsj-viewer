@@ -1,0 +1,6 @@
+ArticleCaption: （権限の委任）
+ArticleTitle: 第百四十七条の五
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この政令に規定する国土交通大臣の権限は、国土交通省令で定めるところにより、その一部を地方整備局長又は北海道開発局長に委任することができる。

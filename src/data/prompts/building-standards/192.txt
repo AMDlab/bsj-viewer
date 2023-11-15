@@ -1,0 +1,18 @@
+ArticleCaption: （構造計算適合性判定員）
+ArticleTitle: 第七十七条の三十五の九
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 指定構造計算適合性判定機関は、構造計算適合性判定を行うときは、構造計算適合性判定員に構造計算適合性判定を実施させなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 構造計算適合性判定員は、第七十七条の六十六第一項の登録を受けた者のうちから選任しなければならない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 指定構造計算適合性判定機関は、構造計算適合性判定員を選任し、又は解任したときは、国土交通省令で定めるところにより、その旨を国土交通大臣等に届け出なければならない。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 国土交通大臣等は、構造計算適合性判定員の在任により指定構造計算適合性判定機関が第七十七条の三十五の四第五号に掲げる基準に適合しなくなつたときは、指定構造計算適合性判定機関に対し、その構造計算適合性判定員を解任すべきことを命ずることができる。

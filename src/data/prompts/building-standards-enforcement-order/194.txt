@@ -1,0 +1,6 @@
+ArticleCaption: （適用の範囲）
+ArticleTitle: 第百二十七条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この節の規定は、法第三十五条に掲げる建築物に適用する。

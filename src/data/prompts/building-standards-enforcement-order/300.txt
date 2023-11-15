@@ -1,0 +1,6 @@
+ArticleCaption: （指定認定機関等に係る指定等の有効期間）
+ArticleTitle: 第百三十六条の二の十七
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第七十七条の四十一第一項（法第七十七条の五十四第二項、法第七十七条の五十六第二項又は法第七十七条の五十七第二項において準用する場合を含む。）の政令で定める期間は、五年とする。

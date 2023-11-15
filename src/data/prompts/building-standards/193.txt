@@ -1,0 +1,10 @@
+ArticleCaption: （秘密保持義務等）
+ArticleTitle: 第七十七条の三十五の十
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 指定構造計算適合性判定機関（その者が法人である場合にあつては、その役員。次項において同じ。）及びその職員（構造計算適合性判定員を含む。次項において同じ。）並びにこれらの者であつた者は、構造計算適合性判定の業務に関して知り得た秘密を漏らし、又は盗用してはならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 指定構造計算適合性判定機関及びその職員で構造計算適合性判定の業務に従事するものは、刑法その他の罰則の適用については、法令により公務に従事する職員とみなす。

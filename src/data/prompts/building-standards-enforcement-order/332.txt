@@ -1,0 +1,22 @@
+ArticleCaption: （公共事業の施行等による敷地面積の減少について法第三条等の規定を準用する事業）
+ArticleTitle: 第百三十七条の十七
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第八十六条の九第一項第二号の政令で定める事業は、次に掲げるものとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 土地区画整理法（昭和二十九年法律第百十九号）による土地区画整理事業（同法第三条第一項の規定により施行するものを除く。）
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 都市再開発法（昭和四十四年法律第三十八号）による第一種市街地再開発事業（同法第二条の二第一項の規定により施行するものを除く。）
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 大都市地域における住宅及び住宅地の供給の促進に関する特別措置法（昭和五十年法律第六十七号）による住宅街区整備事業（同法第二十九条第一項の規定により施行するものを除く。）
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 密集市街地における防災街区の整備の促進に関する法律による防災街区整備事業（同法第百十九条第一項の規定により施行するものを除く。）

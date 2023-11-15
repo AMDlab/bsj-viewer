@@ -1,0 +1,34 @@
+ArticleCaption: （用途地域の制限に適合しない建築物の増築等の許可に当たり意見の聴取等を要しない場合等）
+ArticleTitle: 第百三十条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第四十八条第十六項第一号の政令で定める場合は、次に掲げる要件に該当する場合とする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 増築、改築又は移転が特例許可を受けた際における敷地内におけるものであること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 増築又は改築後の法第四十八条各項（第十五項から第十七項までを除く。次号において同じ。）の規定に適合しない用途に供する建築物の部分の床面積の合計が、特例許可を受けた際におけるその部分の床面積の合計を超えないこと。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 法第四十八条各項の規定に適合しない事由が原動機の出力、機械の台数又は容器等の容量による場合においては、増築、改築又は移転後のそれらの出力、台数又は容量の合計が、特例許可を受けた際におけるそれらの出力、台数又は容量の合計を超えないこと。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 法第四十八条第十六項第二号の政令で定める建築物は、次に掲げるものとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 日用品の販売を主たる目的とする店舗で第一種低層住居専用地域又は第二種低層住居専用地域内にあるもの
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 共同給食調理場（二以上の学校（法別表第二（い）項第四号に規定する学校に限る。）において給食を実施するために必要な施設をいう。）で第一種中高層住居専用地域、第二種中高層住居専用地域、第一種住居地域、第二種住居地域又は準住居地域内にあるもの
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 自動車修理工場で第一種住居地域、第二種住居地域又は準住居地域内にあるもの

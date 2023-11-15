@@ -1,6 +1,7 @@
 ArticleCaption: （居室の採光）
 ArticleTitle: 第十九条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 法第二十八条第一項（法第八十七条第三項において準用する場合を含む。以下この条及び次条において同じ。）の政令で定める建築物は、児童福祉施設（幼保連携型認定こども園を除く。）、助産所、身体障害者社会参加支援施設（補装具製作施設及び視聴覚障害者情報提供施設を除く。）、保護施設（医療保護施設を除く。）、婦人保護施設、老人福祉施設、有料老人ホーム、母子保健施設、障害者支援施設、地域活動支援センター、福祉ホーム又は障害福祉サービス事業（生活介護、自立訓練、就労移行支援又は就労継続支援を行う事業に限る。）の用に供する施設（以下「児童福祉施設等」という。）とする。
 Paragraph:
@@ -52,7 +53,7 @@ Paragraph:
         TableColumn:
           Sentence: 前項第一号に掲げる居室
         TableColumn:
-
+        Sentence:
       TableRow:
         TableColumn:
           Sentence: （三）
@@ -66,21 +67,21 @@ Paragraph:
         TableColumn:
           Sentence: 病院又は診療所の病室
         TableColumn:
-
+        Sentence:
       TableRow:
         TableColumn:
           Sentence: （五）
         TableColumn:
           Sentence: 寄宿舎の寝室又は下宿の宿泊室
         TableColumn:
-
+        Sentence:
       TableRow:
         TableColumn:
           Sentence: （六）
         TableColumn:
           Sentence: 前項第三号及び第四号に掲げる居室
         TableColumn:
-
+        Sentence:
       TableRow:
         TableColumn:
           Sentence: （七）
@@ -94,3 +95,4 @@ Paragraph:
         TableColumn:
           Sentence: 前項第五号に掲げる居室
         TableColumn:
+        Sentence:

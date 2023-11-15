@@ -8,7 +8,7 @@ const openai = new OpenAI({
 
 const model = 'gpt-3.5-turbo-1106';
 export async function GET() {
-  const keys = ['roomHeight'];
+  const keys = Object.keys(programMapping);
   try {
     const data = keys.map((key: string) => {
       const prompt = promptMapping[key]

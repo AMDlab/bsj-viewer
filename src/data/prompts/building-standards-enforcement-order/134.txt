@@ -1,57 +1,50 @@
-ArticleCaption: （構造）
-ArticleTitle: 第百二十六条の三
+ArticleCaption: （コンクリート）
+ArticleTitle: 第九十一条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: 前条第一項の排煙設備は、次に定める構造としなければならない。
-  Item:
-    ItemTitle: 一
-    ItemSentence:
-      Sentence: 建築物をその床面積五百平方メートル以内ごとに、防煙壁で区画すること。
-  Item:
-    ItemTitle: 二
-    ItemSentence:
-      Sentence: 排煙設備の排煙口、風道その他煙に接する部分は、不燃材料で造ること。
-  Item:
-    ItemTitle: 三
-    ItemSentence:
-      Sentence: 排煙口は、第一号の規定により区画された部分（以下「防煙区画部分」という。）のそれぞれについて、当該防煙区画部分の各部分から排煙口の一に至る水平距離が三十メートル以下となるように、天井又は壁の上部（天井から八十センチメートル（たけの最も短い防煙壁のたけが八十センチメートルに満たないときは、その値）以内の距離にある部分をいう。）に設け、直接外気に接する場合を除き、排煙風道に直結すること。
-  Item:
-    ItemTitle: 四
-    ItemSentence:
-      Sentence: 排煙口には、手動開放装置を設けること。
-  Item:
-    ItemTitle: 五
-    ItemSentence:
-      Sentence: 前号の手動開放装置のうち手で操作する部分は、壁に設ける場合においては床面から八十センチメートル以上一・五メートル以下の高さの位置に、天井から吊り下げて設ける場合においては床面からおおむね一・八メートルの高さの位置に設け、かつ、見やすい方法でその使用方法を表示すること。
-  Item:
-    ItemTitle: 六
-    ItemSentence:
-      Sentence: 排煙口には、第四号の手動開放装置若しくは煙感知器と連動する自動開放装置又は遠隔操作方式による開放装置により開放された場合を除き閉鎖状態を保持し、かつ、開放時に排煙に伴い生ずる気流により閉鎖されるおそれのない構造の戸その他これに類するものを設けること。
-  Item:
-    ItemTitle: 七
-    ItemSentence:
-      Sentence: 排煙風道は、第百十五条第一項第三号に定める構造とし、かつ、防煙壁を貫通する場合においては、当該風道と防煙壁とのすき間をモルタルその他の不燃材料で埋めること。
-  Item:
-    ItemTitle: 八
-    ItemSentence:
-      Sentence: 排煙口が防煙区画部分の床面積の五十分の一以上の開口面積を有し、かつ、直接外気に接する場合を除き、排煙機を設けること。
-  Item:
-    ItemTitle: 九
-    ItemSentence:
-      Sentence: 前号の排煙機は、一の排煙口の開放に伴い自動的に作動し、かつ、一分間に、百二十立方メートル以上で、かつ、防煙区画部分の床面積一平方メートルにつき一立方メートル（二以上の防煙区画部分に係る排煙機にあつては、当該防煙区画部分のうち床面積の最大のものの床面積一平方メートルにつき二立方メートル）以上の空気を排出する能力を有するものとすること。
-  Item:
-    ItemTitle: 十
-    ItemSentence:
-      Sentence: 電源を必要とする排煙設備には、予備電源を設けること。
-  Item:
-    ItemTitle: 十一
-    ItemSentence:
-      Sentence: 法第三十四条第二項に規定する建築物又は各構えの床面積の合計が千平方メートルを超える地下街における排煙設備の制御及び作動状態の監視は、中央管理室において行うことができるものとすること。
-  Item:
-    ItemTitle: 十二
-    ItemSentence:
-      Sentence: 前各号に定めるもののほか、火災時に生ずる煙を有効に排出することができるものとして国土交通大臣が定めた構造方法を用いるものとすること。
+    Sentence: コンクリートの許容応力度は、次の表の数値によらなければならない。
+    Sentence: ただし、異形鉄筋を用いた付着について、国土交通大臣が異形鉄筋の種類及び品質に応じて別に数値を定めた場合は、当該数値によることができる。
+  TableStruct:
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: 長期に生ずる力に対する許容応力度（単位　一平方ミリメートルにつきニュートン）
+        TableColumn:
+          Sentence: 短期に生ずる力に対する許容応力度（単位　一平方ミリメートルにつきニュートン）
+      TableRow:
+        TableColumn:
+          Sentence: 圧縮
+        TableColumn:
+          Sentence: 引張り
+        TableColumn:
+          Sentence: せん断
+        TableColumn:
+          Sentence: 付着
+        TableColumn:
+          Sentence: 圧縮
+        TableColumn:
+          Sentence: 引張り
+        TableColumn:
+          Sentence: せん断
+        TableColumn:
+          Sentence: 付着
+      TableRow:
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／３
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／３０
+          Sentence: （Ｆが二一を超えるコンクリートについて、国土交通大臣がこれと異なる数値を定めた場合は、その定めた数値）
+        TableColumn:
+          Sentence: 〇・七（軽量骨材を使用するものにあつては、〇・六）
+        TableColumn:
+          Sentence: 長期に生ずる力に対する圧縮、引張り、せん断又は付着の許容応力度のそれぞれの数値の二倍（Ｆが二一を超えるコンクリートの引張り及びせん断について、国土交通大臣がこれと異なる数値を定めた場合は、その定めた数値）とする。
+      TableRow:
+        TableColumn:
+          Sentence: この表において、Ｆは、設計基準強度（単位　一平方ミリメートルにつきニュートン）を表すものとする。
 Paragraph:
   ParagraphNum: ２
   ParagraphSentence:
-    Sentence: 前項の規定は、送風機を設けた排煙設備その他の特殊な構造の排煙設備で、通常の火災時に生ずる煙を有効に排出することができるものとして国土交通大臣が定めた構造方法を用いるものについては、適用しない。
+    Sentence: 特定行政庁がその地方の気候、骨材の性状等に応じて規則で設計基準強度の上限の数値を定めた場合において、設計基準強度が、その数値を超えるときは、前項の表の適用に関しては、その数値を設計基準強度とする。

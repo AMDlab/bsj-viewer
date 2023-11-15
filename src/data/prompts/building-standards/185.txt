@@ -1,0 +1,14 @@
+ArticleCaption: （指定）
+ArticleTitle: 第七十七条の三十五の二
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 第十八条の二第一項の規定による指定（以下この節において単に「指定」という。）は、構造計算適合性判定の業務を行おうとする者の申請により行う。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項の申請は、国土交通省令で定めるところにより、構造計算適合性判定の業務を行う区域（以下この節において「業務区域」という。）を定めてしなければならない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、指定をしようとするときは、あらかじめ、業務区域を所轄する都道府県知事の意見を聴かなければならない。

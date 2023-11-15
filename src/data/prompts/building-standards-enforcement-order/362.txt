@@ -1,0 +1,52 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この政令は、公布の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+ParagraphSentence:
+  Sentence: この政令は、公布の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この政令は、建築基準法の一部を改正する法律（昭和四十五年法律第百九号。以下「改正法」という。）の施行の日（昭和四十六年一月一日）から施行する。
+      Paragraph:
+ParagraphCaption: （改正前の建築基準法第四十二条第一項第五号の規定による指定）
+ParagraphNum: ２
+ParagraphSentence:
+  Sentence: この政令の施行の際現に改正法による改正前の建築基準法第四十二条第一項第五号の規定による道路の位置の指定を受けている道は、この政令による改正後の建築基準法施行令第百四十四条の四第一項各号に掲げる基準に適合するものとみなす。
+      Paragraph:
+ParagraphCaption: （用途地域等に関する経過措置）
+ParagraphNum: ３
+ParagraphSentence:
+  Sentence: 改正法附則第十三項の規定による改正前の都市計画法（昭和四十三年法律第百号。以下「改正前の都市計画法」という。）の規定による都市計画区域でこの政令の施行の際現に存するものの内の建築物、建築物の敷地又は建築物若しくはその敷地の部分については、この政令の施行の日から起算して三年を経過する日（その日前に同項の規定による改正後の都市計画法第二章の規定により、当該都市計画区域について用途地域に関する都市計画が決定されたときは、同法第二十条第一項（同法第二十二条第一項において読み替える場合を含む。）の規定による告示があつた日。附則第十五項において同じ。）までの間は、この政令による改正後の建築基準法施行令第二条第一項第四号及び第五号、第二十条第一項第一号、第百三十条の二第一項第一号、第百三十条の三から第百三十一条まで、第百三十三条、第百三十四条第一項、第百三十五条第一項、第百三十五条の三から第百三十六条まで、第百三十七条、第百三十七条の四、第百三十七条の五、第百三十七条の九並びに第百三十七条の十第一項及び第二項の規定は、適用せず、この政令による改正前の建築基準法施行令第二条第一項第四号及び第五号、第二十条第一項第一号、第百三十条の二第一項第一号、第百三十条の三から第百三十一条まで、第百三十三条、第百三十四条第一項、第百三十五条第一項、第百三十五条の三、第百三十五条の四、第百三十七条、第百三十七条の四、第百三十七条の五、第百三十七条の九並びに第百三十七条の十第一項及び第二項の規定は、なおその効力を有する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この政令は、昭和四十六年六月二十四日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この政令は、法の施行の日（昭和四十七年十二月二十日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+ParagraphSentence:
+  Sentence: この政令は、昭和四十九年一月一日から施行する。
+  Sentence: ただし、第百三十六条の改正規定は、公布の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

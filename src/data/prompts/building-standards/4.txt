@@ -1,6 +1,7 @@
 ArticleCaption: （建築基準適合判定資格者検定）
 ArticleTitle: 第五条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 建築基準適合判定資格者検定は、建築士の設計に係る建築物が第六条第一項の建築基準関係規定に適合するかどうかを判定するために必要な知識及び経験について行う。
 Paragraph:

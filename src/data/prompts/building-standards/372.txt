@@ -1,0 +1,7 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日（以下「施行日」という。）から施行する。
+    Sentence: ただし、第四条の規定（住宅金融公庫法第十七条第八項の改正規定を除く。）並びに第五条並びに附則第五条及び第六条の規定は、公布の日から施行する。

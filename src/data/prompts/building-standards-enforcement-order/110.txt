@@ -1,5 +1,7 @@
 ArticleCaption: （はりの構造）
 ArticleTitle: 第七十八条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: 構造耐力上主要な部分であるはりは、複筋ばりとし、これにあばら筋をはりの丈の四分の三（臥梁にあつては、三十センチメートル）以下の間隔で配置しなければならない。
+    Sentence: 構造耐力上主要な部分であるはりは、複筋ばりとし、これにあばら筋をはりの丈の四分の三（臥梁
+    Sentence: にあつては、三十センチメートル）以下の間隔で配置しなければならない。

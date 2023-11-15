@@ -54,9 +54,10 @@ export default function Viewer() {
       toolbar,
       highlighter,
       size: windowSize,
-      visible: isWindowVisible,
+      visible: false,
     });
     await setIFCPropertiesProcessor(components, {
+      title: 'プロパティ',
       toolbar,
       highlighter,
       position: propertiesWindowPosition,
@@ -64,7 +65,7 @@ export default function Viewer() {
       visible: isWindowVisible,
     });
 
-    setRoomHeightChecker(components, { toolbar });
+    setRoomHeightChecker(components, { toolbar, highlighter, size: windowSize });
     setProgramGenerator(components, { toolbar });
   };
   useOBC(ref, { onInitialized, withGrid: true });

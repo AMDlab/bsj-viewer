@@ -1,5 +1,8 @@
 ArticleCaption: （避難施設等に関する工事に含まれない軽易な工事）
 ArticleTitle: 第十三条の二
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 法第七条の六第一項の政令で定める軽易な工事は、バルコニーの手すりの塗装の工事、出入口又は屋外への出口の戸に用いるガラスの取替えの工事、非常用の照明装置に用いる照明カバーの取替えの工事その他当該避難施設等の機能の確保に支障を及ぼさないことが明らかな工事とする。
+        Section:
+          SectionTitle: 第三節の四　維持保全に関する準則の作成等を要する建築物

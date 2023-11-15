@@ -1,0 +1,27 @@
+ArticleCaption: （独立部分）
+ArticleTitle: 第百三十七条の十四
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第八十六条の七第二項（法第八十八条第一項において準用する場合を含む。）の政令で定める部分は、次の各号に掲げる建築物の部分の区分に応じ、当該各号に定める部分とする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Column:
+        Sentence: 法第二十条第一項に規定する基準の適用上一の建築物であつても別の建築物とみなすことができる部分
+      Column:
+        Sentence: 第三十六条の四に規定する建築物の部分
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Column:
+        Sentence: 法第三十五条（第五章第二節（第百十七条第二項を除く。）及び第四節に規定する技術的基準に係る部分に限る。）に規定する基準の適用上一の建築物であつても別の建築物とみなすことができる部分
+      Column:
+        Sentence: 第百十七条第二項各号に掲げる建築物の部分
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Column:
+        Sentence: 法第三十五条（第五章第三節（第百二十六条の二第二項を除く。）に規定する技術的基準に係る部分に限る。）に規定する基準の適用上一の建築物であつても別の建築物とみなすことができる部分
+      Column:
+        Sentence: 第百二十六条の二第二項各号に掲げる建築物の部分

@@ -1,0 +1,46 @@
+ArticleCaption: （罰則に関する経過措置）
+ArticleTitle: 第四条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。
+      Paragraph:
+ParagraphCaption: （処分又は手続に関する経過措置）
+ParagraphNum: ２
+ParagraphSentence:
+  Sentence: この法律の施行前に第二条の規定による改正前の建築基準法の規定によりされた許可、申請等の処分又は手続は、それぞれ同条の規定による改正後の建築基準法の相当規定によりされた処分又は手続とみなす。
+      Paragraph:
+ParagraphCaption: （罰則に関する経過措置）
+ParagraphNum: ３
+ParagraphSentence:
+  Sentence: この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

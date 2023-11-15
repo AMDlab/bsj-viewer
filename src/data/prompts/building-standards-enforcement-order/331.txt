@@ -1,0 +1,14 @@
+ArticleCaption: （移転）
+ArticleTitle: 第百三十七条の十六
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第八十六条の七第四項の政令で定める範囲は、次の各号のいずれかに該当することとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 移転が同一敷地内におけるものであること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 移転が交通上、安全上、防火上、避難上、衛生上及び市街地の環境の保全上支障がないと特定行政庁が認めるものであること。

@@ -1,6 +1,7 @@
 ArticleCaption: （建築物に関する完了検査）
 ArticleTitle: 第七条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 建築主は、第六条第一項の規定による工事を完了したときは、国土交通省令で定めるところにより、建築主事の検査を申請しなければならない。
 Paragraph:

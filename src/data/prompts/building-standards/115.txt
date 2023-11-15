@@ -1,13 +1,42 @@
-ArticleCaption: （委員の欠格条項）
-ArticleTitle: 第八十条
+ArticleCaption: （道路の位置の指定に関する特例）
+ArticleTitle: 第六十八条の六
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: 次の各号のいずれかに該当する者は、委員となることができない。
+    Sentence: 地区計画等に道の配置及び規模又はその区域が定められている場合には、当該地区計画等の区域（次の各号に掲げる地区計画等の区分に応じて、当該各号に定める事項が定められている区域に限る。次条第一項において同じ。）における第四十二条第一項第五号の規定による位置の指定は、地区計画等に定められた道の配置又はその区域に即して行わなければならない。
+    Sentence: ただし、建築物の敷地として利用しようとする土地の位置と現に存する道路の位置との関係その他の事由によりこれにより難いと認められる場合においては、この限りでない。
   Item:
     ItemTitle: 一
     ItemSentence:
-      Sentence: 破産手続開始の決定を受けて復権を得ない者
+      Column:
+        Sentence: 地区計画
+      Column:
+        Sentence: 再開発等促進区若しくは開発整備促進区（いずれも都市計画法第十二条の五第五項第一号に規定する施設の配置及び規模が定められているものに限る。）又は地区整備計画
   Item:
     ItemTitle: 二
     ItemSentence:
-      Sentence: 禁錮以上の刑に処せられ、その執行を終わるまで又はその執行を受けることがなくなるまでの者
+      Column:
+        Sentence: 防災街区整備地区計画
+      Column:
+        Sentence: 地区防災施設の区域又は防災街区整備地区整備計画
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Column:
+        Sentence: 歴史的風致維持向上地区計画
+      Column:
+        Sentence: 歴史的風致維持向上地区整備計画
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Column:
+        Sentence: 沿道地区計画
+      Column:
+        Sentence: 沿道再開発等促進区（沿道整備法第九条第四項第一号に規定する施設の配置及び規模が定められているものに限る。）又は沿道地区整備計画
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Column:
+        Sentence: 集落地区計画
+      Column:
+        Sentence: 集落地区整備計画

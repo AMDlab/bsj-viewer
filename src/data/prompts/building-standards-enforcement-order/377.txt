@@ -1,0 +1,6 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この政令は、地方自治法等の一部を改正する法律（平成十年法律第五十四号。以下「法」という。）の施行の日（平成十二年四月一日。以下「施行日」という。）から施行する。

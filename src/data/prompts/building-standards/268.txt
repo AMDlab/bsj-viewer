@@ -1,0 +1,6 @@
+ArticleCaption: （面積、高さ及び階数の算定）
+ArticleTitle: 第九十二条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 建築物の敷地面積、建築面積、延べ面積、床面積及び高さ、建築物の軒、天井及び床の高さ、建築物の階数並びに工作物の築造面積の算定方法は、政令で定める。

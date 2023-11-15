@@ -1,0 +1,8 @@
+ArticleCaption: （火災の防止）
+ArticleTitle: 第百三十六条の八
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 建築工事等において火気を使用する場合においては、その場所に不燃材料の囲いを設ける等防火上必要な措置を講じなければならない。
+      Chapter:
+        ChapterTitle: 第七章の九　簡易な構造の建築物に対する制限の緩和

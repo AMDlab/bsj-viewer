@@ -1,0 +1,6 @@
+ArticleCaption: （屋外階段の構造）
+ArticleTitle: 第百二十一条の二
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 前二条の規定による直通階段で屋外に設けるものは、木造（準耐火構造のうち有効な防腐措置を講じたものを除く。）としてはならない。

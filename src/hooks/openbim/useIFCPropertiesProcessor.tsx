@@ -9,6 +9,7 @@ export const useIFCPropertiesProcessor = () => {
   const setIFCPropertiesProcessor = async (
     components: OBC.Components,
     options: {
+      title?: string;
       toolbar: OBC.Toolbar;
       highlighter: OBC.FragmentHighlighter;
       position?: { left?: number; top?: number };
@@ -17,7 +18,11 @@ export const useIFCPropertiesProcessor = () => {
     }
   ) => {
     ifcPropertiesProcessorRef.current = new OBC.IfcPropertiesProcessor(components);
-    ifcPropertiesProcessorRef.current.uiElement.get('propertiesWindow').visible = !!options.visible;
+    const propertyWindow = ifcPropertiesProcessorRef.current.uiElement.get(
+      'propertiesWindow'
+    ) as OBC.FloatingWindow;
+    propertyWindow.visible = !!options.visible;
+    if (options.title) propertyWindow.title = options.title;
 
     const highlighterEvents = options.highlighter.events;
     highlighterEvents.select.onClear.add(() => {
@@ -28,7 +33,13 @@ export const useIFCPropertiesProcessor = () => {
 
       const fragmentID = Object.keys(selection)[0];
       const expressID = Number(Array.from(selection[fragmentID])[0]);
-      ifcPropertiesProcessorRef.current!.renderProperties(fragmentsGroup.current!, expressID);
+      ifcPropertiesProcessorRef
+        .current!.renderProperties(fragmentsGroup.current!, expressID)
+        .then(() => {
+          const tree = ifcPropertiesProcessorRef.current!.uiElement.get('propsList')
+            .children[0] as OBC.TreeView;
+          tree?.expand(true);
+        });
     });
 
     const propertiesWindow = ifcPropertiesProcessorRef.current.uiElement.get('propertiesWindow');
@@ -44,7 +55,9 @@ export const useIFCPropertiesProcessor = () => {
         propertiesWindow.domElement.style.height = `${options.size.height}px`;
     }
 
-    options.toolbar.addChild(ifcPropertiesProcessorRef.current.uiElement.get('main'));
+    const mainButton = ifcPropertiesProcessorRef.current.uiElement.get('main') as OBC.Button;
+    mainButton.tooltip = 'プロパティ';
+    options.toolbar.addChild(mainButton);
 
     return ifcPropertiesProcessorRef.current;
   };

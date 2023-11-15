@@ -1,5 +1,6 @@
 ArticleCaption: （大規模の木造建築物等の外壁等）
 ArticleTitle: 第二十五条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 延べ面積（同一敷地内に二以上の木造建築物等がある場合においては、その延べ面積の合計）が千平方メートルを超える木造建築物等は、その外壁及び軒裏で延焼のおそれのある部分を防火構造とし、その屋根の構造を第二十二条第一項に規定する構造としなければならない。

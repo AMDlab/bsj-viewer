@@ -1,0 +1,6 @@
+ArticleCaption: （型式部材等製造者等に係る認証の有効期間）
+ArticleTitle: 第百三十六条の二の十二
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第六十八条の十四第一項（法第六十八条の二十二第二項において準用する場合を含む。）（これらの規定を法第八十八条第一項において準用する場合を含む。）の政令で定める期間は、五年とする。

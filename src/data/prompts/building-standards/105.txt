@@ -1,232 +1,55 @@
-SectionTitle: 第一節　指定建築基準適合判定資格者検定機関
-Article:
-  ArticleCaption: （指定）
-  ArticleTitle: 第七十七条の二
-  Paragraph:
-    ParagraphSentence:
-      Sentence: 第五条の二第一項の規定による指定は、一を限り、建築基準適合判定資格者検定事務を行おうとする者の申請により行う。
-Article:
-  ArticleCaption: （欠格条項）
-  ArticleTitle: 第七十七条の三
-  Paragraph:
-    ParagraphSentence:
-      Sentence: 次の各号のいずれかに該当する者は、第五条の二第一項の規定による指定を受けることができない。
-    Item:
-      ItemTitle: 一
-      ItemSentence:
-        Sentence: 一般社団法人又は一般財団法人以外の者
-    Item:
-      ItemTitle: 二
-      ItemSentence:
-        Sentence: 建築基準法令の規定により刑に処せられ、その執行を終わり、又は執行を受けることがなくなつた日から起算して二年を経過しない者
-    Item:
-      ItemTitle: 三
-      ItemSentence:
-        Sentence: 第七十七条の十五第一項又は第二項の規定により指定を取り消され、その取消しの日から起算して二年を経過しない者
-    Item:
-      ItemTitle: 四
-      ItemSentence:
-        Sentence: その役員のうちに、イ又はロのいずれかに該当する者がある者
-      Subitem1:
-        Subitem1Title: イ
-        Subitem1Sentence:
-          Sentence: 第二号に該当する者
-      Subitem1:
-        Subitem1Title: ロ
-        Subitem1Sentence:
-          Sentence: 第七十七条の六第二項の規定による命令により解任され、その解任の日から起算して二年を経過しない者
-Article:
-  ArticleCaption: （指定の基準）
-  ArticleTitle: 第七十七条の四
-  Paragraph:
-    ParagraphSentence:
-      Sentence: 国土交通大臣は、第五条の二第一項の規定による指定の申請が次に掲げる基準に適合していると認めるときでなければ、その指定をしてはならない。
-    Item:
-      ItemTitle: 一
-      ItemSentence:
-        Sentence: 職員（第七十七条の七第一項の建築基準適合判定資格者検定委員を含む。）、設備、建築基準適合判定資格者検定事務の実施の方法その他の事項についての建築基準適合判定資格者検定事務の実施に関する計画が、建築基準適合判定資格者検定事務の適確な実施のために適切なものであること。
-    Item:
-      ItemTitle: 二
-      ItemSentence:
-        Sentence: 前号の建築基準適合判定資格者検定事務の実施に関する計画を適確に実施するに足りる経理的及び技術的な基礎を有するものであること。
-    Item:
-      ItemTitle: 三
-      ItemSentence:
-        Sentence: 建築基準適合判定資格者検定事務以外の業務を行つている場合には、その業務を行うことによつて建築基準適合判定資格者検定事務の公正な実施に支障を及ぼすおそれがないものであること。
-Article:
-  ArticleCaption: （指定の公示等）
-  ArticleTitle: 第七十七条の五
-  Paragraph:
-    ParagraphSentence:
-      Sentence: 国土交通大臣は、第五条の二第一項の規定による指定をしたときは、指定建築基準適合判定資格者検定機関の名称及び住所、建築基準適合判定資格者検定事務を行う事務所の所在地並びに建築基準適合判定資格者検定事務の開始の日を公示しなければならない。
-  Paragraph:
-    ParagraphNum: ２
-    ParagraphSentence:
-      Sentence: 指定建築基準適合判定資格者検定機関は、その名称若しくは住所又は建築基準適合判定資格者検定事務を行う事務所の所在地を変更しようとするときは、変更しようとする日の二週間前までに、その旨を国土交通大臣に届け出なければならない。
-  Paragraph:
-    ParagraphNum: ３
-    ParagraphSentence:
-      Sentence: 国土交通大臣は、前項の規定による届出があつたときは、その旨を公示しなければならない。
-Article:
-  ArticleCaption: （役員の選任及び解任）
-  ArticleTitle: 第七十七条の六
-  Paragraph:
-    ParagraphSentence:
-      Sentence: 指定建築基準適合判定資格者検定機関の役員の選任及び解任は、国土交通大臣の認可を受けなければ、その効力を生じない。
-  Paragraph:
-    ParagraphNum: ２
-    ParagraphSentence:
-      Sentence: 国土交通大臣は、指定建築基準適合判定資格者検定機関の役員が、第七十七条の九第一項の認可を受けた建築基準適合判定資格者検定事務規程に違反したとき、又は建築基準適合判定資格者検定事務に関し著しく不適当な行為をしたときは、指定建築基準適合判定資格者検定機関に対し、その役員を解任すべきことを命ずることができる。
-Article:
-  ArticleCaption: （建築基準適合判定資格者検定委員）
-  ArticleTitle: 第七十七条の七
-  Paragraph:
-    ParagraphSentence:
-      Sentence: 指定建築基準適合判定資格者検定機関は、建築基準適合判定資格者検定の問題の作成及び採点を建築基準適合判定資格者検定委員に行わせなければならない。
-  Paragraph:
-    ParagraphNum: ２
-    ParagraphSentence:
-      Sentence: 建築基準適合判定資格者検定委員は、建築及び行政に関し学識経験のある者のうちから選任しなければならない。
-  Paragraph:
-    ParagraphNum: ３
-    ParagraphSentence:
-      Sentence: 指定建築基準適合判定資格者検定機関は、建築基準適合判定資格者検定委員を選任し、又は解任したときは、国土交通省令で定めるところにより、その旨を国土交通大臣に届け出なければならない。
-  Paragraph:
-    ParagraphNum: ４
-    ParagraphSentence:
-      Sentence: 国土交通大臣は、建築基準適合判定資格者検定委員が、第七十七条の九第一項の認可を受けた建築基準適合判定資格者検定事務規程に違反したとき、又は建築基準適合判定資格者検定事務に関し著しく不適当な行為をしたときは、指定建築基準適合判定資格者検定機関に対し、その建築基準適合判定資格者検定委員を解任すべきことを命ずることができる。
-Article:
-  ArticleCaption: （秘密保持義務等）
-  ArticleTitle: 第七十七条の八
-  Paragraph:
-    ParagraphSentence:
-      Sentence: 指定建築基準適合判定資格者検定機関の役員及び職員（建築基準適合判定資格者検定委員を含む。第三項において同じ。）並びにこれらの職にあつた者は、建築基準適合判定資格者検定事務に関して知り得た秘密を漏らしてはならない。
-  Paragraph:
-    ParagraphNum: ２
-    ParagraphSentence:
-      Sentence: 前項に定めるもののほか、建築基準適合判定資格者検定委員は、建築基準適合判定資格者検定の問題の作成及び採点に当たつて、厳正を保持し不正な行為のないようにしなければならない。
-  Paragraph:
-    ParagraphNum: ３
-    ParagraphSentence:
-      Sentence: 建築基準適合判定資格者検定事務に従事する指定建築基準適合判定資格者検定機関の役員及び職員は、刑法（明治四十年法律第四十五号）その他の罰則の適用については、法令により公務に従事する職員とみなす。
-Article:
-  ArticleCaption: （建築基準適合判定資格者検定事務規程）
-  ArticleTitle: 第七十七条の九
-  Paragraph:
-    ParagraphSentence:
-      Sentence: 指定建築基準適合判定資格者検定機関は、建築基準適合判定資格者検定事務の実施に関する規程（以下この節において「建築基準適合判定資格者検定事務規程」という。）を定め、国土交通大臣の認可を受けなければならない。
-      Sentence: これを変更しようとするときも、同様とする。
-  Paragraph:
-    ParagraphNum: ２
-    ParagraphSentence:
-      Sentence: 建築基準適合判定資格者検定事務規程で定めるべき事項は、国土交通省令で定める。
-  Paragraph:
-    ParagraphNum: ３
-    ParagraphSentence:
-      Sentence: 国土交通大臣は、第一項の認可をした建築基準適合判定資格者検定事務規程が建築基準適合判定資格者検定事務の公正かつ適確な実施上不適当となつたと認めるときは、その建築基準適合判定資格者検定事務規程を変更すべきことを命ずることができる。
-Article:
-  ArticleCaption: （事業計画等）
-  ArticleTitle: 第七十七条の十
-  Paragraph:
-    ParagraphSentence:
-      Sentence: 指定建築基準適合判定資格者検定機関は、毎事業年度、事業計画及び収支予算を作成し、当該事業年度の開始前に（指定を受けた日の属する事業年度にあつては、その指定を受けた後遅滞なく）、国土交通大臣の認可を受けなければならない。
-      Sentence: これを変更しようとするときも、同様とする。
-  Paragraph:
-    ParagraphNum: ２
-    ParagraphSentence:
-      Sentence: 指定建築基準適合判定資格者検定機関は、毎事業年度、事業報告書及び収支決算書を作成し、当該事業年度の終了後三月以内に国土交通大臣に提出しなければならない。
-Article:
-  ArticleCaption: （帳簿の備付け等）
-  ArticleTitle: 第七十七条の十一
-  Paragraph:
-    ParagraphSentence:
-      Sentence: 指定建築基準適合判定資格者検定機関は、国土交通省令で定めるところにより、建築基準適合判定資格者検定事務に関する事項で国土交通省令で定めるものを記載した帳簿を備え付け、これを保存しなければならない。
-Article:
-  ArticleCaption: （監督命令）
-  ArticleTitle: 第七十七条の十二
-  Paragraph:
-    ParagraphSentence:
-      Sentence: 国土交通大臣は、建築基準適合判定資格者検定事務の公正かつ適確な実施を確保するため必要があると認めるときは、指定建築基準適合判定資格者検定機関に対し、建築基準適合判定資格者検定事務に関し監督上必要な命令をすることができる。
-Article:
-  ArticleCaption: （報告、検査等）
-  ArticleTitle: 第七十七条の十三
-  Paragraph:
-    ParagraphSentence:
-      Sentence: 国土交通大臣は、建築基準適合判定資格者検定事務の公正かつ適確な実施を確保するため必要があると認めるときは、指定建築基準適合判定資格者検定機関に対し建築基準適合判定資格者検定事務に関し必要な報告を求め、又はその職員に、指定建築基準適合判定資格者検定機関の事務所に立ち入り、建築基準適合判定資格者検定事務の状況若しくは設備、帳簿、書類その他の物件を検査させ、若しくは関係者に質問させることができる。
-  Paragraph:
-    ParagraphNum: ２
-    ParagraphSentence:
-      Sentence: 第十五条の二第二項及び第三項の規定は、前項の場合について準用する。
-Article:
-  ArticleCaption: （建築基準適合判定資格者検定事務の休廃止等）
-  ArticleTitle: 第七十七条の十四
-  Paragraph:
-    ParagraphSentence:
-      Sentence: 指定建築基準適合判定資格者検定機関は、国土交通大臣の許可を受けなければ、建築基準適合判定資格者検定事務の全部又は一部を休止し、又は廃止してはならない。
-  Paragraph:
-    ParagraphNum: ２
-    ParagraphSentence:
-      Sentence: 国土交通大臣が前項の規定により建築基準適合判定資格者検定事務の全部の廃止を許可したときは、当該許可に係る指定は、その効力を失う。
-  Paragraph:
-    ParagraphNum: ３
-    ParagraphSentence:
-      Sentence: 国土交通大臣は、第一項の許可をしたときは、その旨を公示しなければならない。
-Article:
-  ArticleCaption: （指定の取消し等）
-  ArticleTitle: 第七十七条の十五
-  Paragraph:
-    ParagraphSentence:
-      Sentence: 国土交通大臣は、指定建築基準適合判定資格者検定機関が第七十七条の三第一号、第二号又は第四号のいずれかに該当するに至つたときは、その指定を取り消さなければならない。
-  Paragraph:
-    ParagraphNum: ２
-    ParagraphSentence:
-      Sentence: 国土交通大臣は、指定建築基準適合判定資格者検定機関が次の各号のいずれかに該当するときは、その指定を取り消し、又は期間を定めて建築基準適合判定資格者検定事務の全部若しくは一部の停止を命ずることができる。
-    Item:
-      ItemTitle: 一
-      ItemSentence:
-        Sentence: 第七十七条の五第二項、第七十七条の七第一項から第三項まで、第七十七条の十、第七十七条の十一又は前条第一項の規定に違反したとき。
-    Item:
-      ItemTitle: 二
-      ItemSentence:
-        Sentence: 第七十七条の九第一項の認可を受けた建築基準適合判定資格者検定事務規程によらないで建築基準適合判定資格者検定事務を行つたとき。
-    Item:
-      ItemTitle: 三
-      ItemSentence:
-        Sentence: 第七十七条の六第二項、第七十七条の七第四項、第七十七条の九第三項又は第七十七条の十二の規定による命令に違反したとき。
-    Item:
-      ItemTitle: 四
-      ItemSentence:
-        Sentence: 第七十七条の四各号に掲げる基準に適合していないと認めるとき。
-    Item:
-      ItemTitle: 五
-      ItemSentence:
-        Sentence: その役員又は建築基準適合判定資格者検定委員が、建築基準適合判定資格者検定事務に関し著しく不適当な行為をしたとき。
-    Item:
-      ItemTitle: 六
-      ItemSentence:
-        Sentence: 不正な手段により指定を受けたとき。
-  Paragraph:
-    ParagraphNum: ３
-    ParagraphSentence:
-      Sentence: 国土交通大臣は、前二項の規定により指定を取り消し、又は前項の規定により建築基準適合判定資格者検定事務の全部若しくは一部の停止を命じたときは、その旨を公示しなければならない。
-Article:
-  ArticleCaption: （国土交通大臣による建築基準適合判定資格者検定の実施）
-  ArticleTitle: 第七十七条の十六
-  Paragraph:
-    ParagraphSentence:
-      Sentence: 国土交通大臣は、指定建築基準適合判定資格者検定機関が第七十七条の十四第一項の規定により建築基準適合判定資格者検定事務の全部若しくは一部を休止したとき、前条第二項の規定により指定建築基準適合判定資格者検定機関に対し建築基準適合判定資格者検定事務の全部若しくは一部の停止を命じたとき、又は指定建築基準適合判定資格者検定機関が天災その他の事由により建築基準適合判定資格者検定事務の全部若しくは一部を実施することが困難となつた場合において必要があると認めるときは、第五条の二第三項の規定にかかわらず、建築基準適合判定資格者検定事務の全部又は一部を自ら行うものとする。
-  Paragraph:
-    ParagraphNum: ２
-    ParagraphSentence:
-      Sentence: 国土交通大臣は、前項の規定により建築基準適合判定資格者検定事務を行い、又は同項の規定により行つている建築基準適合判定資格者検定事務を行わないこととしようとするときは、あらかじめ、その旨を公示しなければならない。
-  Paragraph:
-    ParagraphNum: ３
-    ParagraphSentence:
-      Sentence: 国土交通大臣が、第一項の規定により建築基準適合判定資格者検定事務を行うこととし、第七十七条の十四第一項の規定により建築基準適合判定資格者検定事務の廃止を許可し、又は前条第一項若しくは第二項の規定により指定を取り消した場合における建築基準適合判定資格者検定事務の引継ぎその他の必要な事項は、国土交通省令で定める。
-Article:
-  ArticleCaption: （審査請求）
-  ArticleTitle: 第七十七条の十七
-  Paragraph:
-    ParagraphSentence:
-      Sentence: 指定建築基準適合判定資格者検定機関が行う建築基準適合判定資格者検定事務に係る処分又はその不作為については、国土交通大臣に対し、審査請求をすることができる。
-      Sentence: この場合において、国土交通大臣は、行政不服審査法（平成二十六年法律第六十八号）第二十五条第二項及び第三項、第四十六条第一項及び第二項、第四十七条並びに第四十九条第三項の規定の適用については、指定建築基準適合判定資格者検定機関の上級行政庁とみなす。
+ArticleTitle: 第六十八条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 景観地区内においては、建築物の高さは、景観地区に関する都市計画において建築物の高さの最高限度又は最低限度が定められたときは、当該最高限度以下又は当該最低限度以上でなければならない。
+    Sentence: ただし、次の各号のいずれかに該当する建築物については、この限りでない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 公衆便所、巡査派出所その他これらに類する建築物で、公益上必要なもの
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 特定行政庁が用途上又は構造上やむを得ないと認めて許可したもの
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 景観地区内においては、建築物の壁又はこれに代わる柱は、景観地区に関する都市計画において壁面の位置の制限が定められたときは、建築物の地盤面下の部分を除き、当該壁面の位置の制限に反して建築してはならない。
+    Sentence: ただし、次の各号のいずれかに該当する建築物については、この限りでない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 前項第一号に掲げる建築物
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 学校、駅舎、卸売市場その他これらに類する公益上必要な建築物で、特定行政庁が用途上又は構造上やむを得ないと認めて許可したもの
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 景観地区内においては、建築物の敷地面積は、景観地区に関する都市計画において建築物の敷地面積の最低限度が定められたときは、当該最低限度以上でなければならない。
+    Sentence: ただし、次の各号のいずれかに該当する建築物の敷地については、この限りでない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 第一項第一号に掲げる建築物
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 特定行政庁が用途上又は構造上やむを得ないと認めて許可したもの
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 第五十三条の二第三項の規定は、前項の都市計画において建築物の敷地面積の最低限度が定められ、又は変更された場合に準用する。
+    Sentence: この場合において、同条第三項中「第一項」とあるのは、「第六十八条第三項」と読み替えるものとする。
+Paragraph:
+  ParagraphNum: ５
+  ParagraphSentence:
+    Sentence: 景観地区に関する都市計画において建築物の高さの最高限度、壁面の位置の制限（道路に面する壁面の位置を制限するものを含むものに限る。）及び建築物の敷地面積の最低限度が定められている景観地区（景観法第七十二条第二項の景観地区工作物制限条例で、壁面後退区域（当該壁面の位置の制限として定められた限度の線と敷地境界線との間の土地の区域をいう。）における工作物（土地に定着する工作物以外のものを含む。）の設置の制限（当該壁面後退区域において連続的に有効な空地を確保するため必要なものを含むものに限る。）が定められている区域に限る。）内の建築物で、当該景観地区に関する都市計画の内容に適合し、かつ、敷地内に有効な空地が確保されていること等により、特定行政庁が交通上、安全上、防火上及び衛生上支障がないと認めるものについては、第五十六条の規定は、適用しない。
+Paragraph:
+  ParagraphNum: ６
+  ParagraphSentence:
+    Sentence: 第四十四条第二項の規定は、第一項第二号、第二項第二号又は第三項第二号の規定による許可をする場合に準用する。
+        Section:
+          SectionTitle: 第七節　地区計画等の区域

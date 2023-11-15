@@ -1,6 +1,7 @@
 ArticleCaption: （面積、高さ等の算定方法）
 ArticleTitle: 第二条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 次の各号に掲げる面積、高さ及び階数の算定方法は、当該各号に定めるところによる。
   Item:

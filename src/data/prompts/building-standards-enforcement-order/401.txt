@@ -1,0 +1,14 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この政令は、消防組織法及び消防法の一部を改正する法律（平成十五年法律第八十四号）附則第一条第二号に掲げる規定の施行の日（平成十六年六月一日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+ParagraphSentence:
+  Sentence: この政令は、電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律附則第一条第三号に掲げる規定の施行の日（平成十六年四月一日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

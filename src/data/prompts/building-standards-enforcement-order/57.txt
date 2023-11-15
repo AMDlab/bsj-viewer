@@ -1,6 +1,7 @@
 ArticleCaption: （地階を除く階数が四以上である鉄骨造の建築物等に準ずる建築物）
 ArticleTitle: 第三十六条の二
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 法第二十条第一項第二号の政令で定める建築物は、次に掲げる建築物とする。
   Item:

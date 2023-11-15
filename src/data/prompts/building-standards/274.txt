@@ -1,0 +1,5 @@
+ArticleTitle: 第九十五条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 建築審査会の裁決に不服がある者は、国土交通大臣に対して再審査請求をすることができる。

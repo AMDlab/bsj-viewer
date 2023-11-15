@@ -1,0 +1,8 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この政令は、平成十二年三月二十一日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

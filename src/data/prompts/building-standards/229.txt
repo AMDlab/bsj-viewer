@@ -1,0 +1,5 @@
+ArticleTitle: 第七十七条の五十九の二
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、心身の故障により確認検査の業務を適正に行うことができない者として国土交通省令で定めるものについては、第七十七条の五十八第一項の登録をしないことができる。

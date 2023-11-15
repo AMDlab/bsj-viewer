@@ -1,0 +1,6 @@
+ArticleCaption: （国土交通大臣の認定等に関する経過措置）
+ArticleTitle: 第二条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 改正後の建築基準法施行令（以下「新令」という。）第二十条の五から第二十条の七までの規定による国土交通大臣の認定及びこれに関し必要な手続その他の行為は、この政令の施行前においても、新令の例によりすることができる。

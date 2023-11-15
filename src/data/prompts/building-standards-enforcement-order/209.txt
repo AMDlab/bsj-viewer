@@ -1,0 +1,43 @@
+ArticleCaption: （適用の範囲）
+ArticleTitle: 第百二十九条の三
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この節の規定は、建築物に設ける次に掲げる昇降機に適用する。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 人又は人及び物を運搬する昇降機（次号に掲げるものを除く。）並びに物を運搬するための昇降機でかごの水平投影面積が一平方メートルを超え、又は天井の高さが一・二メートルを超えるもの（以下「エレベーター」という。）
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: エスカレーター
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 物を運搬するための昇降機で、かごの水平投影面積が一平方メートル以下で、かつ、天井の高さが一・二メートル以下のもの（以下「小荷物専用昇降機」という。）
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項の規定にかかわらず、次の各号に掲げる昇降機については、それぞれ当該各号に掲げる規定は、適用しない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Column:
+        Sentence: 特殊な構造又は使用形態のエレベーターで国土交通大臣が定めた構造方法を用いるもの
+      Column:
+        Sentence: 第百二十九条の六、第百二十九条の七、第百二十九条の八第二項第二号、第百二十九条の九、第百二十九条の十第三項及び第四項並びに第百二十九条の十三の三の規定
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Column:
+        Sentence: 特殊な構造又は使用形態のエスカレーターで国土交通大臣が定めた構造方法を用いるもの
+      Column:
+        Sentence: 第百二十九条の十二第一項の規定
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Column:
+        Sentence: 特殊な構造又は使用形態の小荷物専用昇降機で国土交通大臣が定めた構造方法を用いるもの
+      Column:
+        Sentence: 第百二十九条の十三の規定

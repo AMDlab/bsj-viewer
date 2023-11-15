@@ -1,38 +1,319 @@
-ArticleCaption: （設置）
-ArticleTitle: 第百二十六条の二
+ArticleCaption: （鋼材等）
+ArticleTitle: 第九十条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: 法別表第一（い）欄（一）項から（四）項までに掲げる用途に供する特殊建築物で延べ面積が五百平方メートルを超えるもの、階数が三以上で延べ面積が五百平方メートルを超える建築物（建築物の高さが三十一メートル以下の部分にある居室で、床面積百平方メートル以内ごとに、間仕切壁、天井面から五十センチメートル以上下方に突出した垂れ壁その他これらと同等以上に煙の流動を妨げる効力のあるもので不燃材料で造り、又は覆われたもの（以下「防煙壁」という。）によつて区画されたものを除く。）、第百十六条の二第一項第二号に該当する窓その他の開口部を有しない居室又は延べ面積が千平方メートルを超える建築物の居室で、その床面積が二百平方メートルを超えるもの（建築物の高さが三十一メートル以下の部分にある居室で、床面積百平方メートル以内ごとに防煙壁で区画されたものを除く。）には、排煙設備を設けなければならない。
-    Sentence: ただし、次の各号のいずれかに該当する建築物又は建築物の部分については、この限りでない。
-  Item:
-    ItemTitle: 一
-    ItemSentence:
-      Sentence: 法別表第一（い）欄（二）項に掲げる用途に供する特殊建築物のうち、準耐火構造の床若しくは壁又は法第二条第九号の二ロに規定する防火設備で区画された部分で、その床面積が百平方メートル（共同住宅の住戸にあつては、二百平方メートル）以内のもの
-  Item:
-    ItemTitle: 二
-    ItemSentence:
-      Sentence: 学校（幼保連携型認定こども園を除く。）、体育館、ボーリング場、スキー場、スケート場、水泳場又はスポーツの練習場（以下「学校等」という。）
-  Item:
-    ItemTitle: 三
-    ItemSentence:
-      Sentence: 階段の部分、昇降機の昇降路の部分（当該昇降機の乗降のための乗降ロビーの部分を含む。）その他これらに類する建築物の部分
-  Item:
-    ItemTitle: 四
-    ItemSentence:
-      Sentence: 機械製作工場、不燃性の物品を保管する倉庫その他これらに類する用途に供する建築物で主要構造部が不燃材料で造られたものその他これらと同等以上に火災の発生のおそれの少ない構造のもの
-  Item:
-    ItemTitle: 五
-    ItemSentence:
-      Sentence: 火災が発生した場合に避難上支障のある高さまで煙又はガスの降下が生じない建築物の部分として、天井の高さ、壁及び天井の仕上げに用いる材料の種類等を考慮して国土交通大臣が定めるもの
-Paragraph:
-  ParagraphNum: ２
-  ParagraphSentence:
-    Sentence: 次に掲げる建築物の部分は、この節の規定の適用については、それぞれ別の建築物とみなす。
-  Item:
-    ItemTitle: 一
-    ItemSentence:
-      Sentence: 建築物が開口部のない準耐火構造の床若しくは壁又は法第二条第九号の二ロに規定する防火設備でその構造が第百十二条第十九項第一号イ及びロ並びに第二号ロに掲げる要件を満たすものとして、国土交通大臣が定めた構造方法を用いるもの若しくは国土交通大臣の認定を受けたもので区画されている場合における当該区画された部分
-  Item:
-    ItemTitle: 二
-    ItemSentence:
-      Sentence: 建築物の二以上の部分の構造が通常の火災時において相互に煙又はガスによる避難上有害な影響を及ぼさないものとして国土交通大臣が定めた構造方法を用いるものである場合における当該部分
+    Sentence: 鋼材等の許容応力度は、次の表一又は表二の数値によらなければならない。
+  TableStruct:
+    TableStructTitle: 一
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 許容応力度
+        TableColumn:
+          Sentence: 長期に生ずる力に対する許容応力度（単位　一平方ミリメートルにつきニュートン）
+        TableColumn:
+          Sentence: 短期に生ずる力に対する許容応力度（単位　一平方ミリメートルにつきニュートン）
+      TableRow:
+        TableColumn:
+          Sentence: 種類
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 圧縮
+        TableColumn:
+          Sentence: 引張り
+        TableColumn:
+          Sentence: 曲げ
+        TableColumn:
+          Sentence: せん断
+        TableColumn:
+          Sentence: 圧縮
+        TableColumn:
+          Sentence: 引張り
+        TableColumn:
+          Sentence: 曲げ
+        TableColumn:
+          Sentence: せん断
+      TableRow:
+        TableColumn:
+          Sentence: 炭素鋼
+        TableColumn:
+          Sentence: 構造用鋼材
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／（１．５√３）
+        TableColumn:
+          Sentence: 長期に生ずる力に対する圧縮、引張り、曲げ又はせん断の許容応力度のそれぞれの数値の一・五倍とする。
+      TableRow:
+        TableColumn:
+          Sentence: ボルト
+        TableColumn:
+          Sentence: 黒皮
+        TableColumn:
+          Sentence: ―
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+        TableColumn:
+          Sentence: ―
+        TableColumn:
+          Sentence: ―
+      TableRow:
+        TableColumn:
+          Sentence: 仕上げ
+        TableColumn:
+          Sentence: ―
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+        TableColumn:
+          Sentence: ―
+        TableColumn:
+          Sentence: Ｆ／２（Ｆが二四〇を超えるボルトについて、国土交通大臣がこれと異なる数値を定めた場合は、その定めた数値）
+      TableRow:
+        TableColumn:
+          Sentence: 構造用ケーブル
+        TableColumn:
+          Sentence: ―
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+        TableColumn:
+          Sentence: ―
+        TableColumn:
+          Sentence: ―
+      TableRow:
+        TableColumn:
+          Sentence: リベット鋼
+        TableColumn:
+          Sentence: ―
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+        TableColumn:
+          Sentence: ―
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／２
+      TableRow:
+        TableColumn:
+          Sentence: 鋳鋼
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／（１．５√３）
+      TableRow:
+        TableColumn:
+          Sentence: ステンレス鋼
+        TableColumn:
+          Sentence: 構造用鋼材
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／（１．５√３）
+      TableRow:
+        TableColumn:
+          Sentence: ボルト
+        TableColumn:
+          Sentence: ―
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+        TableColumn:
+          Sentence: ―
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／（１．５√３）
+      TableRow:
+        TableColumn:
+          Sentence: 構造用ケーブル
+        TableColumn:
+          Sentence: ―
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+        TableColumn:
+          Sentence: ―
+        TableColumn:
+          Sentence: ―
+      TableRow:
+        TableColumn:
+          Sentence: 鋳鋼
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／（１．５√３）
+      TableRow:
+        TableColumn:
+          Sentence: 鋳鉄
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+        TableColumn:
+          Sentence: ―
+        TableColumn:
+          Sentence: ―
+        TableColumn:
+          Sentence: ―
+      TableRow:
+        TableColumn:
+          Sentence: この表において、Ｆは、鋼材等の種類及び品質に応じて国土交通大臣が定める基準強度（単位　一平方ミリメートルにつきニュートン）を表すものとする。
+  TableStruct:
+    TableStructTitle: 二
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: 種類
+        TableColumn:
+          Sentence: 許容応力度
+        TableColumn:
+          Sentence: 長期に生ずる力に対する許容応力度
+        TableColumn:
+          Sentence: 短期に生ずる力に対する許容応力度
+      TableRow:
+        TableColumn:
+          Sentence: （単位　一平方ミリメートルにつきニュートン）
+        TableColumn:
+          Sentence: （単位　一平方ミリメートルにつきニュートン）
+      TableRow:
+        TableColumn:
+          Sentence: 圧縮
+        TableColumn:
+          Sentence: 引張り
+        TableColumn:
+          Sentence: 圧縮
+        TableColumn:
+          Sentence: 引張り
+      TableRow:
+        TableColumn:
+          Sentence: せん断補強以外に用いる場合
+        TableColumn:
+          Sentence: せん断補強に用いる場合
+        TableColumn:
+          Sentence: せん断補強以外に用いる場合
+        TableColumn:
+          Sentence: せん断補強に用いる場合
+      TableRow:
+        TableColumn:
+          Sentence: 　
+      TableRow:
+        TableColumn:
+          Sentence: 丸鋼
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+          Sentence: （当該数値が一五五を超える場合には、一五五）
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+          Sentence: （当該数値が一五五を超える場合には、一五五）
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+          Sentence: （当該数値が一九五を超える場合には、一九五）
+        TableColumn:
+          Sentence: Ｆ
+        TableColumn:
+          Sentence: Ｆ
+        TableColumn:
+          Sentence: Ｆ（当該数値が二九五を超える場合には、二九五）
+      TableRow:
+        TableColumn:
+          Sentence: 異形鉄筋
+        TableColumn:
+          Sentence: 径二十八ミリメートル以下のもの
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+          Sentence: （当該数値が二一五を超える場合には、二一五）
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+          Sentence: （当該数値が二一五を超える場合には、二一五）
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+          Sentence: （当該数値が一九五を超える場合には、一九五）
+        TableColumn:
+          Sentence: Ｆ
+        TableColumn:
+          Sentence: Ｆ
+        TableColumn:
+          Sentence: Ｆ（当該数値が三九〇を超える場合には、三九〇）
+      TableRow:
+        TableColumn:
+          Sentence: 径二十八ミリメートルを超えるもの
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+          Sentence: （当該数値が一九五を超える場合には、一九五）
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+          Sentence: （当該数値が一九五を超える場合には、一九五）
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+          Sentence: （当該数値が一九五を超える場合には、一九五）
+        TableColumn:
+          Sentence: Ｆ
+        TableColumn:
+          Sentence: Ｆ
+        TableColumn:
+          Sentence: Ｆ（当該数値が三九〇を超える場合には、三九〇）
+      TableRow:
+        TableColumn:
+          Sentence: 鉄線の径が四ミリメートル以上の溶接金網
+        TableColumn:
+          Sentence: ―
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+        TableColumn:
+          Sentence:
+            ArithFormula: Ｆ／１．５
+        TableColumn:
+          Sentence: ―
+        TableColumn:
+          Sentence: Ｆ（ただし、床版に用いる場合に限る。）
+        TableColumn:
+          Sentence: Ｆ
+      TableRow:
+        TableColumn:
+          Sentence: この表において、Ｆは、表一に規定する基準強度を表すものとする。

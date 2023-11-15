@@ -1,6 +1,7 @@
 ArticleCaption: （壁の長さ）
 ArticleTitle: 第五十四条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 組積造の壁の長さは、十メートル以下としなければならない。
 Paragraph:

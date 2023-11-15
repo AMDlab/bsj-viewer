@@ -1,6 +1,7 @@
 ArticleCaption: （無窓の居室等の主要構造部）
 ArticleTitle: 第三十五条の三
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 政令で定める窓その他の開口部を有しない居室は、その居室を区画する主要構造部を耐火構造とし、又は不燃材料で造らなければならない。
     Sentence: ただし、別表第一（い）欄（一）項に掲げる用途に供するものについては、この限りでない。

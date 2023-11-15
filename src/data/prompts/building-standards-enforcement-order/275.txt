@@ -1,0 +1,115 @@
+ArticleCaption: （敷地内の空地の規模等）
+ArticleTitle: 第百三十五条の十七
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第五十二条第八項第二号の政令で定める空地の規模は、次の表（い）欄に掲げる区分に応じて、当該建築物の敷地面積に同表（ろ）欄に掲げる数値を乗じて得た面積とする。
+    Sentence: ただし、地方公共団体は、土地利用の状況等を考慮し、条例で、同表（は）欄に掲げる数値の範囲内で、当該建築物の敷地面積に乗ずべき数値を別に定めることができる。
+  TableStruct:
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: （い）
+        TableColumn:
+          Sentence: （ろ）
+        TableColumn:
+          Sentence: （は）
+      TableRow:
+        TableColumn:
+          Sentence: （一）
+        TableColumn:
+          Sentence: 法第五十三条の規定による建蔽率の最高限度（以下この表において「建蔽率限度」という。）が十分の四・五以下の場合
+        TableColumn:
+          Sentence: 一から建蔽率限度を減じた数値に十分の一・五を加えた数値
+        TableColumn:
+          Sentence: 一から建蔽率限度を減じた数値に十分の一・五を加えた数値を超え、十分の八・五以下の範囲
+      TableRow:
+        TableColumn:
+          Sentence: （二）
+        TableColumn:
+          Sentence: 建蔽率限度が十分の四・五を超え、十分の五以下の場合
+        TableColumn:
+          Sentence: 一から建蔽率限度を減じた数値に十分の一・五を加えた数値を超え、当該減じた数値に十分の三を加えた数値以下の範囲
+      TableRow:
+        TableColumn:
+          Sentence: （三）
+        TableColumn:
+          Sentence: 建蔽率限度が十分の五を超え、十分の五・五以下の場合
+        TableColumn:
+          Sentence: 十分の六・五
+        TableColumn:
+          Sentence: 十分の六・五を超え、一から建蔽率限度を減じた数値に十分の三を加えた数値以下の範囲
+      TableRow:
+        TableColumn:
+          Sentence: （四）
+        TableColumn:
+          Sentence: 建蔽率限度が十分の五・五を超える場合
+        TableColumn:
+          Sentence: 一から建蔽率限度を減じた数値に十分の二を加えた数値
+        TableColumn:
+          Sentence: 一から建蔽率限度を減じた数値に十分の二を加えた数値を超え、当該減じた数値に十分の三を加えた数値以下の範囲
+      TableRow:
+        TableColumn:
+          Sentence: （五）
+        TableColumn:
+          Sentence: 建蔽率限度が定められていない場合
+        TableColumn:
+          Sentence: 十分の二
+        TableColumn:
+          Sentence: 十分の二を超え、十分の三以下の範囲
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 法第五十二条第八項第二号の政令で定める道路に接して有効な部分の規模は、前項の規定による空地の規模に二分の一を乗じて得たものとする。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 法第五十二条第八項第二号の政令で定める敷地面積の規模は、次の表（い）欄に掲げる区分に応じて、同表（ろ）欄に掲げる数値とする。
+    Sentence: ただし、地方公共団体は、街区の形状、宅地の規模その他土地の状況により同欄に掲げる数値によることが不適当であると認める場合においては、条例で、同表（は）欄に掲げる数値の範囲内で、その規模を別に定めることができる。
+  TableStruct:
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: （い）
+        TableColumn:
+          Sentence: （ろ）
+        TableColumn:
+          Sentence: （は）
+      TableRow:
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 地域
+        TableColumn:
+          Sentence: 敷地面積の規模
+          Sentence: （単位　平方メートル）
+        TableColumn:
+          Sentence: 条例で定めることができる敷地面積の規模
+          Sentence: （単位　平方メートル）
+      TableRow:
+        TableColumn:
+          Sentence: （一）
+        TableColumn:
+          Sentence: 第一種住居地域、第二種住居地域、準住居地域又は準工業地域（高層住居誘導地区及び特定行政庁が都道府県都市計画審議会の議を経て指定する区域（以下この表において「高層住居誘導地区等」という。）を除く。）
+        TableColumn:
+          Sentence: 二、〇〇〇
+        TableColumn:
+          Sentence: 五〇〇以上四、〇〇〇未満
+      TableRow:
+        TableColumn:
+          Sentence: （二）
+        TableColumn:
+          Sentence: 近隣商業地域（高層住居誘導地区等を除く。）又は商業地域（特定行政庁が都道府県都市計画審議会の議を経て指定する区域を除く。）
+        TableColumn:
+          Sentence: 一、〇〇〇
+        TableColumn:
+          Sentence: 五〇〇以上二、〇〇〇未満
+      TableRow:
+        TableColumn:
+          Sentence: 備考
+          Sentence: 一　建築物の敷地がこの表（い）欄各項に掲げる地域とこれらの地域として指定されていない区域にわたる場合においては、その全部について、同欄各項に掲げる地域に関する同表の規定を適用する。
+          Sentence: 二　建築物の敷地がこの表（い）欄（一）の項に掲げる地域と同欄（二）の項に掲げる地域にわたる場合においては、その全部について、敷地の属する面積が大きい方の地域に関する同表の規定を適用する。

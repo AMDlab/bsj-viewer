@@ -1,6 +1,7 @@
 ArticleCaption: （耐力壁）
 ArticleTitle: 第七十八条の二
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 耐力壁は、次に定める構造としなければならない。
   Item:

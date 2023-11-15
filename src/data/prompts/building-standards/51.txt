@@ -1,6 +1,7 @@
 ArticleCaption: （長屋又は共同住宅の各戸の界壁）
 ArticleTitle: 第三十条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 長屋又は共同住宅の各戸の界壁は、次に掲げる基準に適合するものとしなければならない。
   Item:

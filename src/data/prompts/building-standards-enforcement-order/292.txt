@@ -1,0 +1,57 @@
+ArticleCaption: （都道府県知事が指定する区域内の建築物に係る制限）
+ArticleTitle: 第百三十六条の二の九
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第六十八条の九第一項の規定に基づく条例による制限は、次の各号に掲げる事項のうち必要なものについて、それぞれ当該各号に適合するものでなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Column:
+        Sentence: 建築物又はその敷地と道路との関係
+      Column:
+        Sentence: 法第四十三条から第四十五条までの規定による制限より厳しいものでないこと。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Column:
+        Sentence: 建築物の容積率の最高限度
+      Column:
+        Sentence: 用途地域の指定のない区域内の建築物についての法第五十二条の規定による制限より厳しいものでないこと。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Column:
+        Sentence: 建築物の建蔽率の最高限度
+      Column:
+        Sentence: 用途地域の指定のない区域内の建築物についての法第五十三条の規定による制限より厳しいものでないこと。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Column:
+        Sentence: 建築物の高さの最高限度
+      Column:
+        Sentence: 地階を除く階数が二である建築物の通常の高さを下回らない数値であること。
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Column:
+        Sentence: 建築物の各部分の高さの最高限度
+      Column:
+        Sentence: 用途地域の指定のない区域内の建築物についての法第五十六条の規定による制限より厳しいものでないこと。
+  Item:
+    ItemTitle: 六
+    ItemSentence:
+      Column:
+        Sentence: 日影による中高層の建築物の高さの制限
+      Column:
+        Sentence: 用途地域の指定のない区域内の建築物についての法第五十六条の二の規定による制限より厳しいものでないこと。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 法第六十八条の九第一項の規定に基づく条例については、第百三十条の二第二項の規定を準用する。
+    Sentence: この場合において、同項中「第三条第二項」とあるのは、「第三条第二項（法第八十六条の九第一項において準用する場合を含む。）」と読み替えるものとする。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 法第六十八条の九第一項の規定に基づく条例には、公益上必要な建築物で用途上又は構造上やむを得ないと認められるものについて、当該条例に定める制限の全部又は一部の適用の除外に関する規定を定めるものとする。

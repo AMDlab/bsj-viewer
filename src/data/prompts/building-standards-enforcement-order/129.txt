@@ -1,21 +1,56 @@
-ArticleCaption: （物品販売業を営む店舗における避難階段等の幅）
-ArticleTitle: 第百二十四条
+ArticleCaption: （積雪荷重）
+ArticleTitle: 第八十六条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: 物品販売業を営む店舗の用途に供する建築物における避難階段、特別避難階段及びこれらに通ずる出入口の幅は、次の各号に定めるところによらなければならない。
-  Item:
-    ItemTitle: 一
-    ItemSentence:
-      Sentence: 各階における避難階段及び特別避難階段の幅の合計は、その直上階以上の階（地階にあつては、当該階以下の階）のうち床面積が最大の階における床面積百平方メートルにつき六十センチメートルの割合で計算した数値以上とすること。
-  Item:
-    ItemTitle: 二
-    ItemSentence:
-      Sentence: 各階における避難階段及び特別避難階段に通ずる出入口の幅の合計は、各階ごとにその階の床面積百平方メートルにつき、地上階にあつては二十七センチメートル、地階にあつては三十六センチメートルの割合で計算した数値以上とすること。
+    Sentence: 積雪荷重は、積雪の単位荷重に屋根の水平投影面積及びその地方における垂直積雪量を乗じて計算しなければならない。
 Paragraph:
   ParagraphNum: ２
   ParagraphSentence:
-    Sentence: 前項に規定する所要幅の計算に関しては、もつぱら一若しくは二の地上階から避難階若しくは地上に通ずる避難階段及び特別避難階段又はこれらに通ずる出入口については、その幅が一・五倍あるものとみなすことができる。
+    Sentence: 前項に規定する積雪の単位荷重は、積雪量一センチメートルごとに一平方メートルにつき二十ニュートン以上としなければならない。
+    Sentence: ただし、特定行政庁は、規則で、国土交通大臣が定める基準に基づいて多雪区域を指定し、その区域につきこれと異なる定めをすることができる。
 Paragraph:
   ParagraphNum: ３
   ParagraphSentence:
-    Sentence: 前二項の規定の適用に関しては、屋上広場は、階とみなす。
+    Sentence: 第一項に規定する垂直積雪量は、国土交通大臣が定める基準に基づいて特定行政庁が規則で定める数値としなければならない。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 屋根の積雪荷重は、屋根に雪止めがある場合を除き、その勾
+    Sentence: 配が六十度以下の場合においては、その勾
+    Sentence: 配に応じて第一項の積雪荷重に次の式によつて計算した屋根形状係数（特定行政庁が屋根ふき材、雪の性状等を考慮して規則でこれと異なる数値を定めた場合においては、その定めた数値）を乗じた数値とし、その勾
+    Sentence: 配が六十度を超える場合においては、零とすることができる。
+  List:
+    ListSentence:
+      Sentence:
+        ArithFormula: μｂ＝√ｃｏｓ（１．５β）
+  List:
+    ListSentence:
+      Sentence: （この式において、μｂ及びβは、それぞれ次の数値を表すものとする。
+  List:
+    ListSentence:
+      Column:
+        Sentence: μｂ
+      Column:
+        Sentence: 屋根形状係数
+  List:
+    ListSentence:
+      Column:
+        Sentence: β
+      Column:
+        Sentence: 屋根勾
+        Sentence: 配（単位
+      Column:
+        Sentence: 度））
+Paragraph:
+  ParagraphNum: ５
+  ParagraphSentence:
+    Sentence: 屋根面における積雪量が不均等となるおそれのある場合においては、その影響を考慮して積雪荷重を計算しなければならない。
+Paragraph:
+  ParagraphNum: ６
+  ParagraphSentence:
+    Sentence: 雪下ろしを行う慣習のある地方においては、その地方における垂直積雪量が一メートルを超える場合においても、積雪荷重は、雪下ろしの実況に応じて垂直積雪量を一メートルまで減らして計算することができる。
+Paragraph:
+  ParagraphNum: ７
+  ParagraphSentence:
+    Sentence: 前項の規定により垂直積雪量を減らして積雪荷重を計算した建築物については、その出入口、主要な居室又はその他の見やすい場所に、その軽減の実況その他必要な事項を表示しなければならない。

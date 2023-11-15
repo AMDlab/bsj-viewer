@@ -1,0 +1,11 @@
+ArticleCaption: （照会及び指示）
+ArticleTitle: 第七十七条の三十二
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 指定確認検査機関は、確認検査の適正な実施のため必要な事項について、特定行政庁に照会することができる。
+    Sentence: この場合において、当該特定行政庁は、当該照会をした者に対して、照会に係る事項の通知その他必要な措置を講ずるものとする。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 特定行政庁は、前条第二項に規定する建築物の確認検査の適正な実施を確保するため必要があると認めるときは、指定確認検査機関に対し、当該確認検査の適正な実施のために必要な措置をとるべきことを指示することができる。

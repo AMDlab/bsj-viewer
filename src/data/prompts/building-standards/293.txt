@@ -1,0 +1,33 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この法律は、都市計画法の施行の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、公布の日から起算して六箇月をこえない範囲内において政令で定める日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、公布の日から起算して一年をこえない範囲内において政令で定める日から施行する。
+      Paragraph:
+ParagraphCaption: （検討）
+ParagraphNum: ２
+ParagraphSentence:
+  Sentence: 政府は、建築基準法の規定による工事の施工の停止命令等の履行を確保するための措置について検討を加えるものとする。
+      Paragraph:
+ParagraphCaption: （罰則に関する経過措置）
+ParagraphNum: １９
+ParagraphSentence:
+  Sentence: この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。
+  Sentence: 附則第十六項に規定する都市計画区域内の建築物、建築物の敷地又は建築物若しくはその敷地の部分について、同項に規定する日までの間にした行為に対する同日後における罰則の適用についても、同様とする。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

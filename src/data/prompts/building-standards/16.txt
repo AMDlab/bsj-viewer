@@ -1,6 +1,7 @@
 ArticleCaption: （建築物に関する中間検査）
 ArticleTitle: 第七条の三
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 建築主は、第六条第一項の規定による工事が次の各号のいずれかに該当する工程（以下「特定工程」という。）を含む場合において、当該特定工程に係る工事を終えたときは、その都度、国土交通省令で定めるところにより、建築主事の検査を申請しなければならない。
   Item:

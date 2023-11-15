@@ -1,102 +1,118 @@
-ArticleCaption: （換気設備）
-ArticleTitle: 第百二十九条の二の五
+ArticleCaption: （耐火性能に関する技術的基準）
+ArticleTitle: 第百七条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: 建築物（換気設備を設けるべき調理室等を除く。以下この条において同じ。）に設ける自然換気設備は、次に定める構造としなければならない。
+    Sentence: 法第二条第七号の政令で定める技術的基準は、次に掲げるものとする。
   Item:
     ItemTitle: 一
     ItemSentence:
-      Sentence: 換気上有効な給気口及び排気筒を有すること。
+      Sentence: 次の表の上欄に掲げる建築物の部分にあつては、当該各部分に通常の火災による火熱が同表の下欄に掲げる当該部分の存する階の区分に応じそれぞれ同欄に掲げる時間加えられた場合に、構造耐力上支障のある変形、溶融、破壊その他の損傷を生じないものであること。
+    TableStruct:
+      Table:
+        TableRow:
+          TableColumn:
+            Sentence: 建築物の部分
+          TableColumn:
+            Sentence: 時間
+        TableRow:
+          TableColumn:
+            Sentence: 最上階及び最上階から数えた階数が二以上で四以内の階
+          TableColumn:
+            Sentence: 最上階から数えた階数が五以上で九以内の階
+          TableColumn:
+            Sentence: 最上階から数えた階数が十以上で十四以内の階
+          TableColumn:
+            Sentence: 最上階から数えた階数が十五以上で十九以内の階
+          TableColumn:
+            Sentence: 最上階から数えた階数が二十以上の階
+        TableRow:
+          TableColumn:
+            Sentence: 壁
+          TableColumn:
+            Sentence: 間仕切壁（耐力壁に限る。）
+          TableColumn:
+            Sentence: 一時間
+          TableColumn:
+            Sentence: 一・五時間
+          TableColumn:
+            Sentence: 二時間
+          TableColumn:
+            Sentence: 二時間
+          TableColumn:
+            Sentence: 二時間
+        TableRow:
+          TableColumn:
+            Sentence: 外壁（耐力壁に限る。）
+          TableColumn:
+            Sentence: 一時間
+          TableColumn:
+            Sentence: 一・五時間
+          TableColumn:
+            Sentence: 二時間
+          TableColumn:
+            Sentence: 二時間
+          TableColumn:
+            Sentence: 二時間
+        TableRow:
+          TableColumn:
+            Sentence: 柱
+          TableColumn:
+            Sentence: 一時間
+          TableColumn:
+            Sentence: 一・五時間
+          TableColumn:
+            Sentence: 二時間
+          TableColumn:
+            Sentence: 二・五時間
+          TableColumn:
+            Sentence: 三時間
+        TableRow:
+          TableColumn:
+            Sentence: 床
+          TableColumn:
+            Sentence: 一時間
+          TableColumn:
+            Sentence: 一・五時間
+          TableColumn:
+            Sentence: 二時間
+          TableColumn:
+            Sentence: 二時間
+          TableColumn:
+            Sentence: 二時間
+        TableRow:
+          TableColumn:
+            Sentence: はり
+          TableColumn:
+            Sentence: 一時間
+          TableColumn:
+            Sentence: 一・五時間
+          TableColumn:
+            Sentence: 二時間
+          TableColumn:
+            Sentence: 二・五時間
+          TableColumn:
+            Sentence: 三時間
+        TableRow:
+          TableColumn:
+            Sentence: 屋根
+          TableColumn:
+            Sentence: 三十分間
+        TableRow:
+          TableColumn:
+            Sentence: 階段
+          TableColumn:
+            Sentence: 三十分間
+        TableRow:
+          TableColumn:
+            Sentence: 備考
+            Sentence: 一　第二条第一項第八号の規定により階数に算入されない屋上部分がある建築物の当該屋上部分は、この表の適用については、建築物の最上階に含まれるものとする。
+            Sentence: 二　この表における階数の算定については、第二条第一項第八号の規定にかかわらず、地階の部分の階数は、全て算入するものとする。
   Item:
     ItemTitle: 二
     ItemSentence:
-      Sentence: 給気口は、居室の天井の高さの二分の一以下の高さの位置に設け、常時外気に開放された構造とすること。
+      Sentence: 前号に掲げるもののほか、壁及び床にあつては、これらに通常の火災による火熱が一時間（非耐力壁である外壁の延焼のおそれのある部分以外の部分にあつては、三十分間）加えられた場合に、当該加熱面以外の面（屋内に面するものに限る。）の温度が当該面に接する可燃物が燃焼するおそれのある温度として国土交通大臣が定める温度（以下「可燃物燃焼温度」という。）以上に上昇しないものであること。
   Item:
     ItemTitle: 三
     ItemSentence:
-      Sentence: 排気口（排気筒の居室に面する開口部をいう。以下この項において同じ。）は、給気口より高い位置に設け、常時開放された構造とし、かつ、排気筒の立上り部分に直結すること。
-  Item:
-    ItemTitle: 四
-    ItemSentence:
-      Sentence: 排気筒は、排気上有効な立上り部分を有し、その頂部は、外気の流れによつて排気が妨げられない構造とし、かつ、直接外気に開放すること。
-  Item:
-    ItemTitle: 五
-    ItemSentence:
-      Sentence: 排気筒には、その頂部及び排気口を除き、開口部を設けないこと。
-  Item:
-    ItemTitle: 六
-    ItemSentence:
-      Sentence: 給気口及び排気口並びに排気筒の頂部には、雨水の浸入又はねずみ、虫、ほこりその他衛生上有害なものの侵入を防ぐための設備を設けること。
-Paragraph:
-  ParagraphNum: ２
-  ParagraphSentence:
-    Sentence: 建築物に設ける機械換気設備は、次に定める構造としなければならない。
-  Item:
-    ItemTitle: 一
-    ItemSentence:
-      Sentence: 換気上有効な給気機及び排気機、換気上有効な給気機及び排気口又は換気上有効な給気口及び排気機を有すること。
-  Item:
-    ItemTitle: 二
-    ItemSentence:
-      Sentence: 給気口及び排気口の位置及び構造は、当該居室内の人が通常活動することが想定される空間における空気の分布を均等にし、かつ、著しく局部的な空気の流れを生じないようにすること。
-  Item:
-    ItemTitle: 三
-    ItemSentence:
-      Sentence: 給気機の外気取入口並びに直接外気に開放された給気口及び排気口には、雨水の浸入又はねずみ、虫、ほこりその他衛生上有害なものの侵入を防ぐための設備を設けること。
-  Item:
-    ItemTitle: 四
-    ItemSentence:
-      Sentence: 直接外気に開放された給気口又は排気口に換気扇を設ける場合には、外気の流れによつて著しく換気能力が低下しない構造とすること。
-  Item:
-    ItemTitle: 五
-    ItemSentence:
-      Sentence: 風道は、空気を汚染するおそれのない材料で造ること。
-Paragraph:
-  ParagraphNum: ３
-  ParagraphSentence:
-    Sentence: 建築物に設ける中央管理方式の空気調和設備の構造は、前項の規定によるほか、居室における次の表の中欄に掲げる事項がそれぞれおおむね同表の下欄に掲げる基準に適合するように空気を浄化し、その温度、湿度又は流量を調節して供給（排出を含む。）をすることができる性能を有し、かつ、安全上、防火上及び衛生上支障がないものとして国土交通大臣が定めた構造方法を用いるものとしなければならない。
-  TableStruct:
-    Table:
-      TableRow:
-        TableColumn:
-          Sentence: （一）
-        TableColumn:
-          Sentence: 浮遊粉じんの量
-        TableColumn:
-          Sentence: 空気一立方メートルにつき〇・一五ミリグラム以下であること。
-      TableRow:
-        TableColumn:
-          Sentence: （二）
-        TableColumn:
-          Sentence: 一酸化炭素の含有率
-        TableColumn:
-          Sentence: 百万分の六以下であること。
-      TableRow:
-        TableColumn:
-          Sentence: （三）
-        TableColumn:
-          Sentence: 炭酸ガスの含有率
-        TableColumn:
-          Sentence: 百万分の千以下であること。
-      TableRow:
-        TableColumn:
-          Sentence: （四）
-        TableColumn:
-          Sentence: 温度
-        TableColumn:
-          Sentence: 一　十八度以上二十八度以下であること。
-          Sentence: 二　居室における温度を外気の温度より低くする場合は、その差を著しくしないものであること。
-      TableRow:
-        TableColumn:
-          Sentence: （五）
-        TableColumn:
-          Sentence: 相対湿度
-        TableColumn:
-          Sentence: 四十パーセント以上七十パーセント以下であること。
-      TableRow:
-        TableColumn:
-          Sentence: （六）
-        TableColumn:
-          Sentence: 気流
-        TableColumn:
-          Sentence: 一秒間につき〇・五メートル以下であること。
+      Sentence: 前二号に掲げるもののほか、外壁及び屋根にあつては、これらに屋内において発生する通常の火災による火熱が一時間（非耐力壁である外壁の延焼のおそれのある部分以外の部分及び屋根にあつては、三十分間）加えられた場合に、屋外に火炎を出す原因となる亀裂その他の損傷を生じないものであること。

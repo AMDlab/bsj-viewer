@@ -1,0 +1,6 @@
+ArticleCaption: （政令への委任）
+ArticleTitle: 第四条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 前二条に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。

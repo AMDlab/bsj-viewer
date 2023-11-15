@@ -1,0 +1,37 @@
+ArticleCaption: （容積率の制限について前面道路の幅員に加算する数値）
+ArticleTitle: 第百三十五条の十八
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第五十二条第九項の政令で定める数値は、次の式によつて計算したものとする。
+  List:
+    ListSentence:
+      Sentence:
+        ArithFormula: Ｗａ＝（１２－Ｗｒ）（７０－Ｌ）／７０
+  List:
+    ListSentence:
+      Sentence: （この式において、Ｗａ、Ｗｒ及びＬは、それぞれ次の数値を表すものとする。
+  List:
+    ListSentence:
+      Column:
+        Sentence: Ｗａ
+      Column:
+        Sentence: 法第五十二条第九項の政令で定める数値（単位
+      Column:
+        Sentence: メートル）
+  List:
+    ListSentence:
+      Column:
+        Sentence: Ｗｒ
+      Column:
+        Sentence: 前面道路の幅員（単位
+      Column:
+        Sentence: メートル）
+  List:
+    ListSentence:
+      Column:
+        Sentence: Ｌ
+      Column:
+        Sentence: 法第五十二条第九項の特定道路からその建築物の敷地が接する前面道路の部分の直近の端までの延長（単位
+      Column:
+        Sentence: メートル））

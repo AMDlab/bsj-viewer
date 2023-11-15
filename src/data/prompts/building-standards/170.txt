@@ -1,0 +1,19 @@
+ArticleCaption: （業務区域の変更）
+ArticleTitle: 第七十七条の二十二
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 指定確認検査機関は、業務区域を増加しようとするときは、国土交通大臣等の認可を受けなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 指定確認検査機関は、業務区域を減少したときは、国土交通省令で定めるところにより、その旨を国土交通大臣等に届け出なければならない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 第七十七条の十八第三項及び第七十七条の二十第一号から第四号までの規定は、第一項の認可について準用する。
+    Sentence: この場合において、第七十七条の十八第三項中「業務区域」とあるのは、「増加しようとする業務区域」と読み替えるものとする。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 国土交通大臣等は、第一項の認可をしたとき又は第二項の規定による届出があつたときは、その旨を公示しなければならない。

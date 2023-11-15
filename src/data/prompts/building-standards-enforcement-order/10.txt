@@ -1,6 +1,7 @@
 ArticleCaption: （受検の申込み）
 ArticleTitle: 第八条の二
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 建築基準適合判定資格者検定（指定建築基準適合判定資格者検定機関が行うものを除く。）の受検の申込みは、住所地又は勤務地の都道府県知事を経由して行わなければならない。
 Paragraph:

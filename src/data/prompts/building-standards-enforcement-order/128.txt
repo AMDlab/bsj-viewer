@@ -1,5 +1,190 @@
-ArticleCaption: （共同住宅の住戸の床面積の算定等）
-ArticleTitle: 第百二十三条の二
+ArticleCaption: （積載荷重）
+ArticleTitle: 第八十五条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: 主要構造部を準耐火構造とした共同住宅の住戸でその階数が二又は三であり、かつ、出入口が一の階のみにあるものの当該出入口のある階以外の階は、その居室の各部分から避難階又は地上に通ずる直通階段の一に至る歩行距離が四十メートル以下である場合においては、第百十九条、第百二十一条第一項第五号及び第六号イ（これらの規定を同条第二項の規定により読み替える場合を含む。）、第百二十二条第一項並びに前条第三項第十二号の規定の適用については、当該出入口のある階にあるものとみなす。
+    Sentence: 建築物の各部の積載荷重は、当該建築物の実況に応じて計算しなければならない。
+    Sentence: ただし、次の表に掲げる室の床の積載荷重については、それぞれ同表の（い）、（ろ）又は（は）の欄に定める数値に床面積を乗じて計算することができる。
+  TableStruct:
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: 室の種類
+        TableColumn:
+          Sentence: 構造計算の対象
+        TableColumn:
+          Sentence: （い）
+        TableColumn:
+          Sentence: （ろ）
+        TableColumn:
+          Sentence: （は）
+      TableRow:
+        TableColumn:
+          Sentence: 床の構造計算をする場合
+        TableColumn:
+          Sentence: 大ばり、柱又は基礎の構造計算をする場合
+        TableColumn:
+          Sentence: 地震力を計算する場合
+      TableRow:
+        TableColumn:
+          Sentence: （単位　一平方メートルにつきニュートン）
+        TableColumn:
+          Sentence: （単位　一平方メートルにつきニュートン）
+        TableColumn:
+          Sentence: （単位　一平方メートルにつきニュートン）
+      TableRow:
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 　
+      TableRow:
+        TableColumn:
+          Sentence: （一）
+        TableColumn:
+          Sentence: 住宅の居室、住宅以外の建築物における寝室又は病室
+        TableColumn:
+          Sentence: 一、八〇〇
+        TableColumn:
+          Sentence: 一、三〇〇
+        TableColumn:
+          Sentence: 六〇〇
+      TableRow:
+        TableColumn:
+          Sentence: （二）
+        TableColumn:
+          Sentence: 事務室
+        TableColumn:
+          Sentence: 二、九〇〇
+        TableColumn:
+          Sentence: 一、八〇〇
+        TableColumn:
+          Sentence: 八〇〇
+      TableRow:
+        TableColumn:
+          Sentence: （三）
+        TableColumn:
+          Sentence: 教室
+        TableColumn:
+          Sentence: 二、三〇〇
+        TableColumn:
+          Sentence: 二、一〇〇
+        TableColumn:
+          Sentence: 一、一〇〇
+      TableRow:
+        TableColumn:
+          Sentence: （四）
+        TableColumn:
+          Sentence: 百貨店又は店舗の売場
+        TableColumn:
+          Sentence: 二、九〇〇
+        TableColumn:
+          Sentence: 二、四〇〇
+        TableColumn:
+          Sentence: 一、三〇〇
+      TableRow:
+        TableColumn:
+          Sentence: （五）
+        TableColumn:
+          Sentence: 劇場、映画館、演芸場、観覧場、公会堂、集会場その他これらに類する用途に供する建築物の客席又は集会室
+        TableColumn:
+          Sentence: 固定席の場合
+        TableColumn:
+          Sentence: 二、九〇〇
+        TableColumn:
+          Sentence: 二、六〇〇
+        TableColumn:
+          Sentence: 一、六〇〇
+      TableRow:
+        TableColumn:
+          Sentence: その他の場合
+        TableColumn:
+          Sentence: 三、五〇〇
+        TableColumn:
+          Sentence: 三、二〇〇
+        TableColumn:
+          Sentence: 二、一〇〇
+      TableRow:
+        TableColumn:
+          Sentence: （六）
+        TableColumn:
+          Sentence: 自動車車庫及び自動車通路
+        TableColumn:
+          Sentence: 五、四〇〇
+        TableColumn:
+          Sentence: 三、九〇〇
+        TableColumn:
+          Sentence: 二、〇〇〇
+      TableRow:
+        TableColumn:
+          Sentence: （七）
+        TableColumn:
+          Sentence: 廊下、玄関又は階段
+        TableColumn:
+          Sentence: （三）から（五）までに掲げる室に連絡するものにあつては、（五）の「その他の場合」の数値による。
+      TableRow:
+        TableColumn:
+          Sentence: （八）
+        TableColumn:
+          Sentence: 屋上広場又はバルコニー
+        TableColumn:
+          Sentence: （一）の数値による。ただし、学校又は百貨店の用途に供する建築物にあつては、（四）の数値による。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 柱又は基礎の垂直荷重による圧縮力を計算する場合においては、前項の表の（ろ）欄の数値は、そのささえる床の数に応じて、これに次の表の数値を乗じた数値まで減らすことができる。
+    Sentence: ただし、同項の表の（五）に掲げる室の床の積載荷重については、この限りでない。
+  TableStruct:
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: ささえる床の数
+        TableColumn:
+          Sentence: 積載荷重を減らすために乗ずべき数値
+      TableRow:
+        TableColumn:
+          Sentence: 二
+        TableColumn:
+          Sentence: 〇・九五
+      TableRow:
+        TableColumn:
+          Sentence: 三
+        TableColumn:
+          Sentence: 〇・九
+      TableRow:
+        TableColumn:
+          Sentence: 四
+        TableColumn:
+          Sentence: 〇・八五
+      TableRow:
+        TableColumn:
+          Sentence: 五
+        TableColumn:
+          Sentence: 〇・八
+      TableRow:
+        TableColumn:
+          Sentence: 六
+        TableColumn:
+          Sentence: 〇・七五
+      TableRow:
+        TableColumn:
+          Sentence: 七
+        TableColumn:
+          Sentence: 〇・七
+      TableRow:
+        TableColumn:
+          Sentence: 八
+        TableColumn:
+          Sentence: 〇・六五
+      TableRow:
+        TableColumn:
+          Sentence: 九以上
+        TableColumn:
+          Sentence: 〇・六
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 倉庫業を営む倉庫における床の積載荷重は、第一項の規定によつて実況に応じて計算した数値が一平方メートルにつき三千九百ニュートン未満の場合においても、三千九百ニュートンとしなければならない。

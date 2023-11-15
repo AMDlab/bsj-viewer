@@ -1,9 +1,12 @@
 ArticleCaption: （都道府県知事が特定行政庁となる建築物）
 ArticleTitle: 第二条の二
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 法第二条第三十五号ただし書の政令で定める建築物のうち法第九十七条の二第一項の規定により建築主事を置く市町村の区域内のものは、第百四十八条第一項に規定する建築物以外の建築物とする。
 Paragraph:
   ParagraphNum: ２
   ParagraphSentence:
     Sentence: 法第二条第三十五号ただし書の政令で定める建築物のうち法第九十七条の三第一項の規定により建築主事を置く特別区の区域内のものは、第百四十九条第一項に規定する建築物とする。
+        Section:
+          SectionTitle: 第二節　建築基準適合判定資格者検定

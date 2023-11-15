@@ -1,5 +1,6 @@
 ArticleCaption: （木材）
 ArticleTitle: 第四十一条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 構造耐力上主要な部分に使用する木材の品質は、節、腐れ、繊維の傾斜、丸身等による耐力上の欠点がないものでなければならない。

@@ -1,0 +1,12 @@
+ArticleCaption: （一団地内の空地及び一団地の面積の規模）
+ArticleTitle: 第百三十六条の十二
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 第百三十六条第一項及び第二項の規定は、法第八十六条第三項及び第四項並びに法第八十六条の二第二項の政令で定める空地について準用する。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 第百三十六条第三項の規定は、法第八十六条第三項の政令で定める一団地の規模、同条第四項の政令で定める一定の一団の土地の区域の規模及び法第八十六条の二第二項の政令で定める公告認定対象区域の規模について準用する。
+      Chapter:
+        ChapterTitle: 第八章　既存の建築物に対する制限の緩和等

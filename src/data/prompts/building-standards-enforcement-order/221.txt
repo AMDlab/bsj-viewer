@@ -1,0 +1,162 @@
+ArticleCaption: （非常用の昇降機の設置及び構造）
+ArticleTitle: 第百二十九条の十三の三
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第三十四条第二項の規定による非常用の昇降機は、エレベーターとし、その設置及び構造は、第百二十九条の四から第百二十九条の十までの規定によるほか、この条に定めるところによらなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項の非常用の昇降機であるエレベーター（以下「非常用エレベーター」という。）の数は、高さ三十一メートルを超える部分の床面積が最大の階における床面積に応じて、次の表に定める数以上とし、二以上の非常用エレベーターを設置する場合には、避難上及び消火上有効な間隔を保つて配置しなければならない。
+  TableStruct:
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: 高さ三十一メートルを超える部分の床面積が最大の階の床面積
+        TableColumn:
+          Sentence: 非常用エレベーターの数
+      TableRow:
+        TableColumn:
+          Sentence: （一）
+        TableColumn:
+          Sentence: 千五百平方メートル以下の場合
+        TableColumn:
+          Sentence: 一
+      TableRow:
+        TableColumn:
+          Sentence: （二）
+        TableColumn:
+          Sentence: 千五百平方メートルを超える場合
+        TableColumn:
+          Sentence: 三千平方メートル以内を増すごとに（一）の数に一を加えた数
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 乗降ロビーは、次に定める構造としなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 各階（屋内と連絡する乗降ロビーを設けることが構造上著しく困難である階で次のイからホまでのいずれかに該当するもの及び避難階を除く。）において屋内と連絡すること。
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 当該階及びその直上階（当該階が、地階である場合にあつては当該階及びその直下階、最上階又は地階の最下階である場合にあつては当該階）が次の（１）又は（２）のいずれかに該当し、かつ、当該階の直下階（当該階が地階である場合にあつては、その直上階）において乗降ロビーが設けられている階
+      Subitem2:
+        Subitem2Title: （１）
+        Subitem2Sentence:
+          Sentence: 階段室、昇降機その他の建築設備の機械室その他これらに類する用途に供する階
+      Subitem2:
+        Subitem2Title: （２）
+        Subitem2Sentence:
+          Sentence: その主要構造部が不燃材料で造られた建築物その他これと同等以上に火災の発生のおそれの少ない構造の建築物の階で、機械製作工場、不燃性の物品を保管する倉庫その他これらに類する用途に供するもの
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 当該階以上の階の床面積の合計が五百平方メートル以下の階
+    Subitem1:
+      Subitem1Title: ハ
+      Subitem1Sentence:
+        Sentence: 避難階の直上階又は直下階
+    Subitem1:
+      Subitem1Title: ニ
+      Subitem1Sentence:
+        Sentence: その主要構造部が不燃材料で造られた建築物の地階（他の非常用エレベーターの乗降ロビーが設けられているものに限る。）で居室を有しないもの
+    Subitem1:
+      Subitem1Title: ホ
+      Subitem1Sentence:
+        Sentence: 当該階の床面積に応じ、次の表に定める数の他の非常用エレベーターの乗降ロビーが屋内と連絡している階
+      TableStruct:
+        Table:
+          TableRow:
+            TableColumn:
+              Sentence: 当該階の床面積
+            TableColumn:
+              Sentence: 当該階で乗降ロビーが屋内と連絡している他の非常用エレベーターの数
+          TableRow:
+            TableColumn:
+              Sentence: （一）
+            TableColumn:
+              Sentence: 千五百平方メートル以下の場合
+            TableColumn:
+              Sentence: 一
+          TableRow:
+            TableColumn:
+              Sentence: （二）
+            TableColumn:
+              Sentence: 千五百平方メートルを超える場合
+            TableColumn:
+              Sentence: 三千平方メートル以内を増すごとに（一）の数に一を加えた数
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: バルコニーを設けること。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 出入口（特別避難階段の階段室に通ずる出入口及び昇降路の出入口を除く。）には、第百二十三条第一項第六号に規定する構造の特定防火設備を設けること。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 窓若しくは排煙設備又は出入口を除き、耐火構造の床及び壁で囲むこと。
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: 天井及び壁の室内に面する部分は、仕上げを不燃材料でし、かつ、その下地を不燃材料で造ること。
+  Item:
+    ItemTitle: 六
+    ItemSentence:
+      Sentence: 予備電源を有する照明設備を設けること。
+  Item:
+    ItemTitle: 七
+    ItemSentence:
+      Sentence: 床面積は、非常用エレベーター一基について十平方メートル以上とすること。
+  Item:
+    ItemTitle: 八
+    ItemSentence:
+      Sentence: 屋内消火栓、連結送水管の放水口、非常コンセント設備等の消火設備を設置できるものとすること。
+  Item:
+    ItemTitle: 九
+    ItemSentence:
+      Sentence: 乗降ロビーには、見やすい方法で、積載量及び最大定員のほか、非常用エレベーターである旨、避難階における避難経路その他避難上必要な事項を明示した標識を掲示し、かつ、非常の用に供している場合においてその旨を明示することができる表示灯その他これに類するものを設けること。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 非常用エレベーターの昇降路は、非常用エレベーター二基以内ごとに、乗降ロビーに通ずる出入口及び機械室に通ずる主索、電線その他のものの周囲を除き、耐火構造の床及び壁で囲まなければならない。
+Paragraph:
+  ParagraphNum: ５
+  ParagraphSentence:
+    Sentence: 避難階においては、非常用エレベーターの昇降路の出入口（第三項に規定する構造の乗降ロビーを設けた場合には、その出入口）から屋外への出口（道又は道に通ずる幅員四メートル以上の通路、空地その他これらに類するものに接している部分に限る。）の一に至る歩行距離は、三十メートル以下としなければならない。
+Paragraph:
+  ParagraphNum: ６
+  ParagraphSentence:
+    Sentence: 非常用エレベーターの籠及びその出入口の寸法並びに籠の積載量は、国土交通大臣の指定する日本産業規格に定める数値以上としなければならない。
+Paragraph:
+  ParagraphNum: ７
+  ParagraphSentence:
+    Sentence: 非常用エレベーターには、籠を呼び戻す装置（各階の乗降ロビー及び非常用エレベーターの籠内に設けられた通常の制御装置の機能を停止させ、籠を避難階又はその直上階若しくは直下階に呼び戻す装置をいう。）を設け、かつ、当該装置の作動は、避難階又はその直上階若しくは直下階の乗降ロビー及び中央管理室において行うことができるものとしなければならない。
+Paragraph:
+  ParagraphNum: ８
+  ParagraphSentence:
+    Sentence: 非常用エレベーターには、籠内と中央管理室とを連絡する電話装置を設けなければならない。
+Paragraph:
+  ParagraphNum: ９
+  ParagraphSentence:
+    Sentence: 非常用エレベーターには、第百二十九条の八第二項第二号及び第百二十九条の十第三項第二号に掲げる装置の機能を停止させ、籠の戸を開いたまま籠を昇降させることができる装置を設けなければならない。
+Paragraph:
+  ParagraphNum: １０
+  ParagraphSentence:
+    Sentence: 非常用エレベーターには、予備電源を設けなければならない。
+Paragraph:
+  ParagraphNum: １１
+  ParagraphSentence:
+    Sentence: 非常用エレベーターの籠の定格速度は、六十メートル以上としなければならない。
+Paragraph:
+  ParagraphNum: １２
+  ParagraphSentence:
+    Sentence: 第二項から前項までの規定によるほか、非常用エレベーターの構造は、その機能を確保するために必要があるものとして国土交通大臣が定めた構造方法を用いるものとしなければならない。
+Paragraph:
+  ParagraphNum: １３
+  ParagraphSentence:
+    Sentence: 第三項第二号の規定は、非常用エレベーターの昇降路又は乗降ロビーの構造が、通常の火災時に生ずる煙が乗降ロビーを通じて昇降路に流入することを有効に防止できるものとして、国土交通大臣が定めた構造方法を用いるもの又は国土交通大臣の認定を受けたものである場合においては、適用しない。
+        Section:
+          SectionTitle: 第三節　避雷設備

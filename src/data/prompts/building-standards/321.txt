@@ -1,0 +1,85 @@
+ArticleCaption: （政令への委任）
+ArticleTitle: 第十五条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 附則第二条から前条までに定めるもののほか、この法律の施行に関して必要な経過措置は、政令で定める。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、公布の日から施行する。
+  Sentence: ただし、第二十六条第三号の改正規定は公布の日から起算して一月を経過した日から、附則第六項の規定は高齢者、身体障害者等が円滑に利用できる特定建築物の建築の促進に関する法律（平成六年法律第四十四号）の施行の日から施行する。
+      Paragraph:
+ParagraphCaption: （特定行政庁が避難上及び延焼防止上支障がないと認めた建築物に関する経過措置）
+ParagraphNum: ２
+ParagraphSentence:
+  Sentence: 第二十六条第三号の改正規定の施行前に改正前の建築基準法第二十六条第三号の規定により特定行政庁が避難上及び延焼防止上支障がないと認めた建築物は、改正後の建築基準法第二十六条第三号の国土交通大臣が定める基準に適合する建築物とみなす。
+      Paragraph:
+ParagraphCaption: （平成四年改正法附則によりなおその効力を有する旧法の規定に係る建築物の延べ面積の算定方法）
+ParagraphNum: ３
+ParagraphSentence:
+  Sentence: 改正後の建築基準法第五十二条第二項及び第三項の規定は、都市計画法及び建築基準法の一部を改正する法律（平成四年法律第八十二号。以下「平成四年改正法」という。）附則第四条の規定によりなおその効力を有するものとされる平成四年改正法第二条の規定による改正前の建築基準法（以下「旧法」という。）第五十二条第一項（第五号を除く。）、第六十八条の三（ただし書及び第二号ロを除く。）及び第八十六条第八項に規定する建築物の延べ面積の算定方法について準用する。
+      Paragraph:
+ParagraphCaption: （罰則に関する経過措置）
+ParagraphNum: ５
+ParagraphSentence:
+  Sentence: この法律（第二十六条第三号の改正規定については、当該改正規定）の施行前にした行為に対する罰則の適用については、なお従前の例による。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。
+      Paragraph:
+ParagraphCaption: （一人建築協定に関する経過措置）
+ParagraphNum: ２
+ParagraphSentence:
+  Sentence: この法律の施行前に第三条の規定による改正前の建築基準法（以下「旧法」という。）第七十六条の三第三項において準用する旧法第七十三条第二項の規定による認可の公告のあった建築協定についての第三条の規定による改正後の建築基準法（以下「新法」という。）第七十六条の三第五項の規定の適用については、同項中「三年」とあるのは、「一年」とする。
+      Paragraph:
+ParagraphCaption: （建築基準法の規定による処分又は手続に関する経過措置）
+ParagraphNum: ３
+ParagraphSentence:
+  Sentence: この法律の施行前に旧法の規定によりされた許可、申請等の処分又は手続は、それぞれ新法の相当規定によりされた処分又は手続とみなす。
+      Paragraph:
+ParagraphCaption: （罰則に関する経過措置）
+ParagraphNum: ４
+ParagraphSentence:
+  Sentence: この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。
+      Paragraph:
+ParagraphCaption: （経過措置）
+ParagraphNum: ６
+ParagraphSentence:
+  Sentence: この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、密集市街地における防災街区の整備の促進に関する法律（平成九年法律第四十九号）の施行の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。
+  Sentence: ただし、第二条、次項及び附則第五項の規定は、公布の日から施行する。
+      Paragraph:
+ParagraphCaption: （罰則に関する経過措置）
+ParagraphNum: ２
+ParagraphSentence:
+  Sentence: 第二条の規定の施行前にした行為に対する罰則の適用については、なお従前の例による。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

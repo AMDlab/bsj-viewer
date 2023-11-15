@@ -1,0 +1,21 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この法律は、公布の日から起算して三月を経過した日から施行する。
+    Sentence: ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Column:
+        Sentence: 第三条及び第七条から第九条までの規定並びに次条及び附則第六条の規定
+      Column:
+        Sentence: 公布の日
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Column:
+        Sentence: 第十一条の規定及び附則第七条から第十六条までの規定
+      Column:
+        Sentence: 公布の日から起算して一月を超えない範囲内において政令で定める日

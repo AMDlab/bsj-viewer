@@ -1,6 +1,7 @@
 ArticleCaption: （構造方法に関する補則）
 ArticleTitle: 第八十条の二
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 第三節から前節までに定めるもののほか、国土交通大臣が、次の各号に掲げる建築物又は建築物の構造部分の構造方法に関し、安全上必要な技術的基準を定めた場合においては、それらの建築物又は建築物の構造部分は、その技術的基準に従つた構造としなければならない。
   Item:

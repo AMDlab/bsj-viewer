@@ -1,6 +1,7 @@
 ArticleCaption: （適用の範囲）
 ArticleTitle: 第四十条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: この節の規定は、木造の建築物又は木造と組積造その他の構造とを併用する建築物の木造の構造部分に適用する。
     Sentence: ただし、茶室、あずまやその他これらに類する建築物又は延べ面積が十平方メートル以内の物置、納屋その他これらに類する建築物については、適用しない。

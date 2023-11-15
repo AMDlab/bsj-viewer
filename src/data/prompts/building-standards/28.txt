@@ -1,6 +1,7 @@
 ArticleCaption: （建築物調査員資格者証）
 ArticleTitle: 第十二条の二
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 国土交通大臣は、次の各号のいずれかに該当する者に対し、建築物調査員資格者証を交付する。
   Item:

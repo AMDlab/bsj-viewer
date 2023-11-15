@@ -1,6 +1,7 @@
 ArticleCaption: （構造耐力）
 ArticleTitle: 第二十条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 建築物は、自重、積載荷重、積雪荷重、風圧、土圧及び水圧並びに地震その他の震動及び衝撃に対して安全な構造のものとして、次の各号に掲げる建築物の区分に応じ、それぞれ当該各号に定める基準に適合するものでなければならない。
   Item:

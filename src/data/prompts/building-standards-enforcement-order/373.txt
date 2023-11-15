@@ -1,0 +1,16 @@
+ArticleCaption: （罰則に関する経過措置）
+ArticleTitle: 第八条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この政令の施行前にした行為及び前条第一項の規定により従前の例によることとされる場合におけるこの政令の施行後にした行為に対する罰則の適用については、なお従前の例による。
+    Sentence: 附則第三条に規定する都市計画区域に係る用途地域内の建築物、建築物の敷地又は建築物若しくはその部分について、この政令の施行の日から起算して三年を経過する日までの間にした行為に対する同日後における罰則の適用についても、同様とする。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この政令は、公布の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

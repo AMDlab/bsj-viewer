@@ -18,10 +18,26 @@ interface IndexMap {
 
 export class RoomHeightChecker extends OBC.Component<string> implements OBC.UI {
   enabled = true;
-  uiElement = new OBC.UIElement<{ main: OBC.Button }>();
+  uiElement = new OBC.UIElement<{
+    main: OBC.Button;
+    window: OBC.FloatingWindow;
+    tree: OBC.TreeView;
+  }>();
 
   private _fragmentsGroup: FragmentsGroup | undefined;
   private _indexMap: IndexMap;
+  private _rooms: {
+    expressID: number;
+    name: string;
+    height: number;
+    uiElement: OBC.SimpleUIComponent;
+  }[] = [];
+  private _selected: OBC.SimpleUIComponent | null = null;
+  private _onClickTreeItem: (ids: OBC.FragmentIdMap) => void = () => {};
+
+  public set onClickTreeItem(value: (ids: OBC.FragmentIdMap) => void) {
+    this._onClickTreeItem = value;
+  }
 
   relationsToProcess = [
     IFCRELDEFINESBYPROPERTIES,
@@ -35,11 +51,33 @@ export class RoomHeightChecker extends OBC.Component<string> implements OBC.UI {
   constructor(components: OBC.Components) {
     super(components);
 
+    const main = new OBC.Button(components);
+    main.materialIcon = 'height';
+    main.tooltip = '居室の高さ判定します。';
+    main.onClick.add(() => (mainwindow.visible = !mainwindow.visible));
+
+    const mainwindow = new OBC.FloatingWindow(components);
+    components.ui.add(mainwindow);
+    mainwindow.title = '部屋一覧';
+    mainwindow.visible = true;
+    mainwindow.domElement.style.width = '700px';
+    mainwindow.children[0].domElement.style.height = '100%';
+
+    const tree = new OBC.TreeView(components);
+    tree.domElement.style.height = '100%';
+    tree.title = 'モデルがありません。';
+    mainwindow.addChild(tree);
+
     const button = new OBC.Button(components);
-    button.materialIcon = 'height';
-    button.tooltip = '居室の高さを確認します。';
+    button.label = '居室高さ判定';
+    button.domElement.style.backgroundColor = 'rgba(255, 255, 255, 0.3)';
+    button.domElement.style.borderRadius = '4px';
+    button.domElement.style.cursor = 'pointer';
+    button.domElement.style.marginLeft = 'auto';
     button.onClick.add(() => this.checkRoomHeight());
-    this.uiElement.set({ main: button });
+    mainwindow.addChild(button);
+
+    this.uiElement.set({ main, window: mainwindow, tree });
     this._indexMap = {};
   }
 
@@ -47,7 +85,36 @@ export class RoomHeightChecker extends OBC.Component<string> implements OBC.UI {
     return 'room-height-checker';
   }
 
+  checkRoomHeight() {
+    if (!this._fragmentsGroup) {
+      alert('モデルがロードされていません。');
+      return;
+    }
+    alert('居室高さ判定を実行します。');
+    fetch(`${process.env.NEXT_PUBLIC_NODE_RED_URL}/room-height-check`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        rooms: this._rooms.map((room) => {
+          return { name: room.name, height: room.height };
+        }),
+      }),
+    })
+      .then((res) => res.json())
+      .then((results) => {
+        results.forEach((result: any) => {
+          const room = this._rooms.find((room) => room.name === result.name);
+          if (room) {
+            room.uiElement.domElement.innerText = `${room?.name}: ${result.result}`;
+            room.uiElement.domElement.style.color = result.result === 'OK' ? 'green' : 'red';
+          }
+        });
+      })
+      .catch(console.error);
+  }
+
   setFragmentGroup(fragmentsGroup: FragmentsGroup) {
+    (this.uiElement.get('tree') as OBC.TreeView).title = fragmentsGroup.name;
     this._fragmentsGroup = fragmentsGroup;
     const properties = fragmentsGroup.properties;
     if (!properties) throw new Error('FragmentsGroup properties not found');
@@ -64,24 +131,26 @@ export class RoomHeightChecker extends OBC.Component<string> implements OBC.UI {
         }
       });
     }
+    this.setRoom();
   }
 
-  private checkRoomHeight() {
+  private setRoom() {
+    if (!this._fragmentsGroup) {
+      alert('モデルがロードされていません。');
+      return;
+    }
     if (!this._fragmentsGroup!.properties) {
       console.log('No properties');
     }
     const map = this._indexMap[this._fragmentsGroup!.uuid];
     if (!map) return null;
-
-    const rooms: { name: string; height: number }[] = [];
+    const tree = this.uiElement.get('tree') as OBC.TreeView;
     Object.values(this._fragmentsGroup!.properties as any).forEach((property: any) => {
-      if (property.constructor.name == 'IfcSite') console.log(property);
       if (property.constructor.name == 'IfcSpace') {
         const space = property as IFC2X3.IfcSpace;
         const indices = map[space.expressID];
         if ((space.InteriorOrExteriorSpace as any).value == 'INTERNAL') {
           const name = space.LongName?.value || '';
-          const height = space.ElevationWithFlooring?.value || 0;
           if (indices) {
             indices.forEach((index) => {
               if (!this._fragmentsGroup!.properties) return;
@@ -91,28 +160,52 @@ export class RoomHeightChecker extends OBC.Component<string> implements OBC.UI {
 
               this.getPsetProperties(pset, this._fragmentsGroup!.properties);
               this.getNestedPsets(pset, this._fragmentsGroup!.properties);
+
+              if (pset.Name.value === 'BSJ_Pset_BCC_Space') {
+                const ceilingHight = pset.HasProperties.find(
+                  (prop: any) => prop.value.Name.value === 'CeilingHight'
+                );
+                const habitable = pset.HasProperties.find(
+                  (prop: any) => prop.value.Name.value === 'Habitable'
+                );
+                if (habitable.value.NominalValue.value) {
+                  const item = new OBC.SimpleUIComponent(
+                    this.components,
+                    `<div class='pl-[22px] my-1 hover:cursor-pointer hover:text-black transition-all'>${name}</div>`,
+                    space.expressID.toString()
+                  );
+                  const fragmentMap: OBC.FragmentIdMap = {};
+                  const data = this._fragmentsGroup!.data[space.expressID];
+                  for (const key of data[0]) {
+                    const fragmentID = this._fragmentsGroup!.keyFragments[key];
+                    if (!fragmentMap[fragmentID]) {
+                      fragmentMap[fragmentID] = new Set();
+                    }
+                    fragmentMap[fragmentID].add(String(space.expressID));
+                  }
+                  item.domElement.onclick = () => {
+                    if (this._selected) {
+                      this._selected.domElement.style.fontWeight = 'normal';
+                    }
+                    this._onClickTreeItem(fragmentMap);
+                    item.domElement.style.fontWeight = 'bold';
+                    this._selected = item;
+                  };
+                  tree.addChild(item);
+                  this._rooms.push({
+                    expressID: space.expressID,
+                    name,
+                    height: ceilingHight.value.NominalValue.value,
+                    uiElement: item,
+                  });
+                }
+              }
             });
           }
-          rooms.push({ name, height });
         }
       }
     });
-    // FIXME: 高さ情報がIFCに入っていないため、仮の値を入力しています。
-    alert(
-      `これらの居室の確認を行います。\n\n${rooms
-        .map((room) => `${room.name}: ${room.height}`)
-        .join('\n')}`
-    );
-    fetch(`${process.env.NEXT_PUBLIC_NODE_RED_URL}/room-height-check`, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ rooms }),
-    })
-      .then((res) => res.json())
-      .then((results) =>
-        alert(`${results.map((result: any) => `${result.name}: ${result.result}`).join('\n')}`)
-      )
-      .catch(console.error);
+    tree.expand();
   }
 
   private setEntityIndex(model: FragmentsGroup, expressID: number) {

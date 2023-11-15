@@ -1,6 +1,7 @@
 ArticleCaption: （維持保全）
 ArticleTitle: 第八条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 建築物の所有者、管理者又は占有者は、その建築物の敷地、構造及び建築設備を常時適法な状態に維持するように努めなければならない。
 Paragraph:

@@ -1,6 +1,7 @@
 ArticleCaption: （建築主事）
 ArticleTitle: 第四条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 政令で指定する人口二十五万以上の市は、その長の指揮監督の下に、第六条第一項の規定による確認に関する事務をつかさどらせるために、建築主事を置かなければならない。
 Paragraph:

@@ -1,0 +1,26 @@
+ArticleCaption: （罰則に関する経過措置）
+ArticleTitle: 第三条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この政令の施行前にした行為に対する罰則の適用については、なお従前の例による。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+ParagraphSentence:
+  Sentence: この政令は、建築士法の一部を改正する法律の施行の日（平成二十七年六月二十五日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+ParagraphSentence:
+  Sentence: この政令は、水防法等の一部を改正する法律の施行の日（平成二十七年七月十九日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+ParagraphSentence:
+  Sentence: この政令は、風俗営業等の規制及び業務の適正化等に関する法律の一部を改正する法律の施行の日（平成二十八年六月二十三日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

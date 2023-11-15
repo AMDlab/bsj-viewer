@@ -1,0 +1,6 @@
+ArticleCaption: （構造計算適合性判定の義務）
+ArticleTitle: 第七十七条の三十五の十一
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 指定構造計算適合性判定機関は、構造計算適合性判定を行うべきことを求められたときは、正当な理由がある場合を除き、遅滞なく、構造計算適合性判定を行わなければならない。

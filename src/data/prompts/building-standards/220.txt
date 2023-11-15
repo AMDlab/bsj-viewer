@@ -1,0 +1,38 @@
+ArticleCaption: （指定の取消し等）
+ArticleTitle: 第七十七条の五十一
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、指定認定機関が第七十七条の三十七各号（第四号を除く。）の一に該当するに至つたときは、その指定を取り消さなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、指定認定機関が次の各号の一に該当するときは、その指定を取り消し、又は期間を定めて認定等の業務の全部若しくは一部の停止を命ずることができる。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 第七十七条の三十九第二項、第七十七条の四十第一項、第七十七条の四十二第一項から第三項まで、第七十七条の四十四、第七十七条の四十六第一項、第七十七条の四十七又は前条第一項の規定に違反したとき。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 第七十七条の四十五第一項の認可を受けた認定等業務規程によらないで認定等を行つたとき。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 第七十七条の四十二第四項、第七十七条の四十五第三項又は第七十七条の四十八の規定による命令に違反したとき。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 第七十七条の三十八各号に掲げる基準に適合していないと認めるとき。
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: 認定等の業務に関し著しく不適当な行為をしたとき、又はその業務に従事する認定員若しくは法人にあつてはその役員が、認定等の業務に関し著しく不適当な行為をしたとき。
+  Item:
+    ItemTitle: 六
+    ItemSentence:
+      Sentence: 不正な手段により指定を受けたとき。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、前二項の規定により指定を取り消し、又は前項の規定による認定等の業務の全部若しくは一部の停止を命じたときは、その旨を公示しなければならない。

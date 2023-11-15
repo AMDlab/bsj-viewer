@@ -1,6 +1,7 @@
 ArticleCaption: （改良便槽）
 ArticleTitle: 第三十一条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 改良便槽は、次に定める構造としなければならない。
   Item:

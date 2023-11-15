@@ -1,0 +1,10 @@
+ArticleCaption: （構造計算適合性判定の委任の解除）
+ArticleTitle: 第七十七条の三十五の二十
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 委任都道府県知事は、指定構造計算適合性判定機関に構造計算適合性判定の全部又は一部を行わせないこととするときは、その六月前までに、その旨を指定構造計算適合性判定機関に通知しなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 委任都道府県知事は、指定構造計算適合性判定機関に構造計算適合性判定の全部又は一部を行わせないこととしたときは、その旨を公示しなければならない。

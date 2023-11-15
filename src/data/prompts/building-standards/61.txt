@@ -1,5 +1,6 @@
 ArticleCaption: （特殊の構造方法又は建築材料）
 ArticleTitle: 第三十八条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: この章の規定及びこれに基づく命令の規定は、その予想しない特殊の構造方法又は建築材料を用いる建築物については、国土交通大臣がその構造方法又は建築材料がこれらの規定に適合するものと同等以上の効力があると認める場合においては、適用しない。

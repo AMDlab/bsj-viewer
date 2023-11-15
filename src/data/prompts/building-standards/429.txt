@@ -1,0 +1,6 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。

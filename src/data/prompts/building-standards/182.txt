@@ -1,0 +1,6 @@
+ArticleCaption: （指定確認検査機関に対する配慮）
+ArticleTitle: 第七十七条の三十三
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 国土交通大臣及び地方公共団体は、指定確認検査機関に対して、確認検査の業務の適確な実施に必要な情報の提供その他の必要な配慮をするものとする。

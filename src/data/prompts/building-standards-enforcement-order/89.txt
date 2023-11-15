@@ -1,6 +1,7 @@
 ArticleCaption: （耐力壁）
 ArticleTitle: 第六十二条の四
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 各階の補強コンクリートブロツク造の耐力壁の中心線により囲まれた部分の水平投影面積は、六十平方メートル以下としなければならない。
 Paragraph:
@@ -18,7 +19,8 @@ Paragraph:
 Paragraph:
   ParagraphNum: ５
   ParagraphSentence:
-    Sentence: 補強コンクリートブロツク造の耐力壁は、前項の規定による縦筋の末端をかぎ状に折り曲げてその縦筋の径の四十倍以上基礎又は基礎ばり及び臥梁又は屋根版に定着する等の方法により、これらと互いにその存在応力を伝えることができる構造としなければならない。
+    Sentence: 補強コンクリートブロツク造の耐力壁は、前項の規定による縦筋の末端をかぎ状に折り曲げてその縦筋の径の四十倍以上基礎又は基礎ばり及び臥梁
+    Sentence: 又は屋根版に定着する等の方法により、これらと互いにその存在応力を伝えることができる構造としなければならない。
 Paragraph:
   ParagraphNum: ６
   ParagraphSentence:

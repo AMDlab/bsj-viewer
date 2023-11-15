@@ -1,0 +1,6 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この政令は、建築物の安全性及び市街地の防災機能の確保等を図るための建築基準法等の一部を改正する法律（以下「改正法」という。）の施行の日（平成十七年六月一日。附則第四条において「施行日」という。）から施行する。

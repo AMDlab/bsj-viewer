@@ -1,5 +1,37 @@
-ArticleCaption: （適用の範囲）
-ArticleTitle: 第百二十七条
+ArticleCaption: （木材）
+ArticleTitle: 第九十五条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: この節の規定は、法第三十五条に掲げる建築物に適用する。
+    Sentence: 木材の繊維方向の材料強度は、次の表の数値によらなければならない。
+    Sentence: ただし、第八十二条の五第二号の規定によつて積雪時の構造計算をするに当たつては、同表の数値に〇・八を乗じて得た数値としなければならない。
+  TableStruct:
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: 材料強度（単位　一平方ミリメートルにつきニュートン）
+      TableRow:
+        TableColumn:
+          Sentence: 圧縮
+        TableColumn:
+          Sentence: 引張り
+        TableColumn:
+          Sentence: 曲げ
+        TableColumn:
+          Sentence: せん断
+      TableRow:
+        TableColumn:
+          Sentence: Ｆｃ
+        TableColumn:
+          Sentence: Ｆｔ
+        TableColumn:
+          Sentence: Ｆｂ
+        TableColumn:
+          Sentence: Ｆｓ
+      TableRow:
+        TableColumn:
+          Sentence: この表において、Ｆｃ、Ｆｔ、Ｆｂ及びＦｓは、それぞれ第八十九条第一項の表に規定する基準強度を表すものとする。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 第八十九条第二項及び第三項の規定は、木材の材料強度について準用する。

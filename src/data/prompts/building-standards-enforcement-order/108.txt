@@ -1,6 +1,7 @@
 ArticleCaption: （柱の構造）
 ArticleTitle: 第七十七条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 構造耐力上主要な部分である柱は、次に定める構造としなければならない。
   Item:

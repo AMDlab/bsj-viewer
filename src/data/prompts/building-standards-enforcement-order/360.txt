@@ -1,0 +1,175 @@
+ArticleCaption: （両罰規定の対象となる多数の者が利用する建築物）
+ArticleTitle: 第百五十条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第百五条第一号の政令で定める建築物は、次に掲げるものとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 法別表第一（い）欄に掲げる用途に供する特殊建築物のうち階数が三以上でその用途に供する部分の床面積の合計が百平方メートルを超え二百平方メートル以下のもの
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 事務所その他これに類する用途に供する建築物（法第六条第一項第一号に掲げる建築物を除く。）のうち階数が五以上で延べ面積が千平方メートルを超えるもの
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+        ParagraphCaption: （施行期日）
+        ParagraphNum: １
+        ParagraphSentence:
+Sentence: この政令中第一章第二節の規定は、公布の日から、その他の規定は、昭和二十五年十一月二十三日から施行する。
+      Paragraph:
+        ParagraphCaption: （防火戸の特例）
+        ParagraphNum: ７
+        ParagraphSentence:
+Sentence: 法第六十四条の規定によつて防火戸を設ける場合においては、特定行政庁が第百十条に規定する防火戸を設けることが著しく困難と認めて消防長又は消防署長の同意を得て指定する区域内にこの政令の施行の日から二年以内に建築する建築物については、左の各号の一に該当する構造の簡易防火戸をもつて同条の規定による乙種防火戸に代えることができる。
+Sentence: この場合においては、第百十条第五項の規定は、適用しない。
+        Item:
+ItemTitle: 一
+ItemSentence:
+  Sentence: 金属板、石綿板、マグネシヤセメント板、防火木材、網入ガラスその他これらに類するものをもつて造られたもので、第百十条第二項第一号又は第四号から第六号までに掲げる構造に該当しないもの
+        Item:
+ItemTitle: 二
+ItemSentence:
+  Sentence: 骨組を木製とし、屋外面に金属板を張つたもの
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+        ParagraphNum: １
+        ParagraphSentence:
+Sentence: この政令は、昭和二十六年十二月一日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+        ParagraphSentence:
+Sentence: この政令は、公布の日から施行し、建築基準法施行令附則第七項の改正規定は、昭和二十六年十一月二十三日から適用する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+        ParagraphSentence:
+Sentence: この政令は、公布の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+        ParagraphNum: １
+        ParagraphSentence:
+Sentence: この政令は、公布の日から施行し、昭和二十七年八月一日から適用する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+        ParagraphSentence:
+Sentence: この政令は、公布の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+        ParagraphSentence:
+Sentence: この政令は、昭和三十一年七月一日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+        ParagraphNum: １
+        ParagraphSentence:
+Sentence: この政令は、地方自治法の一部を改正する法律（昭和三十一年法律第百四十七号）及び地方自治法の一部を改正する法律の施行に伴う関係法律の整理に関する法律（昭和三十一年法律第百四十八号）の施行の日（昭和三十一年九月一日）から施行する。
+      Paragraph:
+        ParagraphNum: ２
+        ParagraphSentence:
+Sentence: この政令による改正後のそれぞれの政令及び勅令の規定による都道府県又は都道府県知事その他の都道府県の機関が処理し、又は管理し、及び執行している事務の地方自治法第二百五十二条の十九第一項の指定都市（以下「指定都市」という。）又は指定都市の市長その他の機関への引継に関し必要な経過措置は、それぞれ地方自治法施行令の一部を改正する政令（昭和三十一年政令第二百五十三号）附則第三項から第十項までに定めるところによる。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+        ParagraphSentence:
+Sentence: この政令は、昭和三十四年一月一日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+        ParagraphCaption: （施行期日）
+        ParagraphNum: １
+        ParagraphSentence:
+Sentence: この政令は、昭和三十四年十二月二十三日から施行する。
+      Paragraph:
+        ParagraphCaption: （乙種防火戸の特例）
+        ParagraphNum: ２
+        ParagraphSentence:
+Sentence: 法第六十四条に規定する建築物の外壁の開口部で延焼のおそれのある部分のうち、隣地境界線、道路中心線又は同一敷地内の二以上の建築物（延べ面積の合計が五百平方メートル以内の建築物は、一の建築物とみなす。）相互の外壁間の中心線から、一階にあつては一メートル以上、二階以上にあつては三メートル以上の距離にある部分に設ける戸で、次の各号の一に該当するものは、当分の間、この政令による改正後の建築基準法施行令（以下「改正後の施行令」という。）第百十条第二項の乙種防火戸とみなす。
+        Item:
+ItemTitle: 一
+ItemSentence:
+  Sentence: 防火塗料を塗布した木材及び網入ガラスで造られたもの
+        Item:
+ItemTitle: 二
+ItemSentence:
+  Sentence: 屋外面に石綿板、石膏
+  Sentence: 板、難燃合板その他これらに類するものを張つたもの
+      Paragraph:
+        ParagraphCaption: （改正前の法第五十三条第一項の規定による許可等）
+        ParagraphNum: ３
+        ParagraphSentence:
+Sentence: 改正後の施行令第百三十条の二第一項第三号又は第四号に規定する法第五十四条ただし書の規定による許可には、建築基準法の一部を改正する法律（昭和三十四年法律第百五十六号）による改正前の建築基準法（以下「改正前の法」という。）第五十三条第一項（改正前の法第八十七条第二項において準用する場合を含む。）の規定による許可が含まれ、改正後の施行令第百三十七条に規定する法第三条第二項には、法第四十九条第一項から第三項までの規定に適合しない事由が容器等の容量によるものである場合を除き、改正前の法第三条第二項及び第三項が含まれるものとする。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+        ParagraphSentence:
+Sentence: この政令は、自治庁設置法の一部を改正する法律の施行の日（昭和三十五年七月一日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+        ParagraphNum: １
+        ParagraphSentence:
+Sentence: この政令は、火薬類取締法の一部を改正する法律（昭和三十五年法律第百四十号）の施行の日（昭和三十六年二月一日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+        ParagraphSentence:
+Sentence: この政令は、昭和三十六年十二月四日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+        ParagraphSentence:
+Sentence: この政令は、公布の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+        ParagraphSentence:
+Sentence: この政令は、公布の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+        ParagraphNum: １
+        ParagraphSentence:
+Sentence: この政令は、建築基準法の一部を改正する法律（昭和三十八年法律第百五十一号）の施行の日（昭和三十九年一月十五日）から施行する。
+      Paragraph:
+        ParagraphNum: ２
+        ParagraphSentence:
+Sentence: この政令の施行前に建築基準法の一部を改正する法律による改正前の建築基準法第五十九条の二第一項の規定により指定された特定街区内における建築物の延べ面積の算定方法については、なお従前の例による。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+        ParagraphCaption: （施行期日）
+        ParagraphNum: １
+        ParagraphSentence:
+Sentence: この政令は、昭和四十年四月一日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+        ParagraphCaption: （施行期日）
+        ParagraphNum: １
+        ParagraphSentence:
+Sentence: この政令は、公布の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+        ParagraphNum: １
+        ParagraphSentence:
+Sentence: この政令は、昭和四十四年五月一日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

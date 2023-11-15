@@ -1,0 +1,15 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この政令は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この政令は、成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律の施行の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

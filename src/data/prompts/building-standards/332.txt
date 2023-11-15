@@ -1,0 +1,8 @@
+ArticleCaption: （検討）
+ArticleTitle: 第十条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 政府は、第二条の規定の施行後十年を経過した場合において、新法第七条の三の規定の施行状況について検討を加え、その結果に基づいて必要な措置を講ずるものとする。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

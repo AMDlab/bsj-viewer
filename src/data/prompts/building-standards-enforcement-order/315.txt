@@ -1,0 +1,87 @@
+ArticleCaption: （構造耐力関係）
+ArticleTitle: 第百三十七条の二
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第三条第二項の規定により法第二十条の規定の適用を受けない建築物（法第八十六条の七第二項の規定により法第二十条の規定の適用を受けない部分を除く。第百三十七条の十二第一項において同じ。）について法第八十六条の七第一項の規定により政令で定める範囲は、増築及び改築については、次の各号に掲げる範囲とし、同項の政令で定める基準は、それぞれ当該各号に定める基準とする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Column:
+        Sentence: 増築又は改築の全て（次号及び第三号に掲げる範囲を除く。）
+      Column:
+        Sentence: 増築又は改築後の建築物の構造方法が次のいずれかに適合するものであること。
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 次に掲げる基準に適合するものであること。
+      Subitem2:
+        Subitem2Title: （１）
+        Subitem2Sentence:
+          Sentence: 第三章第八節の規定に適合すること。
+      Subitem2:
+        Subitem2Title: （２）
+        Subitem2Sentence:
+          Sentence: 増築又は改築に係る部分が第三章第一節から第七節の二まで及び第百二十九条の二の三の規定並びに法第四十条の規定に基づく条例の構造耐力に関する制限を定めた規定に適合すること。
+      Subitem2:
+        Subitem2Title: （３）
+        Subitem2Sentence:
+          Sentence: 増築又は改築に係る部分以外の部分が耐久性等関係規定に適合し、かつ、自重、積載荷重、積雪荷重、風圧、土圧及び水圧並びに地震その他の震動及び衝撃による当該建築物の倒壊及び崩落、屋根ふき材、特定天井、外装材及び屋外に面する帳壁の脱落並びにエレベーターの籠の落下及びエスカレーターの脱落のおそれがないものとして国土交通大臣が定める基準に適合すること。
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 次に掲げる基準に適合するものであること。
+      Subitem2:
+        Subitem2Title: （１）
+        Subitem2Sentence:
+          Sentence: 増築又は改築に係る部分がそれ以外の部分とエキスパンションジョイントその他の相互に応力を伝えない構造方法のみで接すること。
+      Subitem2:
+        Subitem2Title: （２）
+        Subitem2Sentence:
+          Sentence: 増築又は改築に係る部分が第三章及び第百二十九条の二の三の規定並びに法第四十条の規定に基づく条例の構造耐力に関する制限を定めた規定に適合すること。
+      Subitem2:
+        Subitem2Title: （３）
+        Subitem2Sentence:
+          Sentence: 増築又は改築に係る部分以外の部分が耐久性等関係規定に適合し、かつ、自重、積載荷重、積雪荷重、風圧、土圧及び水圧並びに地震その他の震動及び衝撃による当該建築物の倒壊及び崩落、屋根ふき材、特定天井、外装材及び屋外に面する帳壁の脱落並びにエレベーターの籠の落下及びエスカレーターの脱落のおそれがないものとして国土交通大臣が定める基準に適合すること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Column:
+        Sentence: 増築又は改築に係る部分の床面積の合計が基準時における延べ面積の二十分の一（五十平方メートルを超える場合にあつては、五十平方メートル）を超え、二分の一を超えないこと
+      Column:
+        Sentence: 増築又は改築後の建築物の構造方法が次のいずれかに適合するものであること。
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 耐久性等関係規定に適合し、かつ、自重、積載荷重、積雪荷重、風圧、土圧及び水圧並びに地震その他の震動及び衝撃による当該建築物の倒壊及び崩落、屋根ふき材、特定天井、外装材及び屋外に面する帳壁の脱落並びにエレベーターの籠の落下及びエスカレーターの脱落のおそれがないものとして国土交通大臣が定める基準に適合するものであること。
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 第三章第一節から第七節の二まで（第三十六条及び第三十八条第二項から第四項までを除く。）の規定に適合し、かつ、その基礎の補強について国土交通大臣が定める基準に適合するものであること（法第二十条第一項第四号に掲げる建築物である場合に限る。）。
+    Subitem1:
+      Subitem1Title: ハ
+      Subitem1Sentence:
+        Sentence: 前号に定める基準に適合するものであること。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Column:
+        Sentence: 増築又は改築に係る部分の床面積の合計が基準時における延べ面積の二十分の一（五十平方メートルを超える場合にあつては、五十平方メートル）を超えないこと
+      Column:
+        Sentence: 増築又は改築後の建築物の構造方法が次のいずれかに適合するものであること。
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 次に掲げる基準に適合するものであること。
+      Subitem2:
+        Subitem2Title: （１）
+        Subitem2Sentence:
+          Sentence: 増築又は改築に係る部分が第三章及び第百二十九条の二の三の規定並びに法第四十条の規定に基づく条例の構造耐力に関する制限を定めた規定に適合すること。
+      Subitem2:
+        Subitem2Title: （２）
+        Subitem2Sentence:
+          Sentence: 増築又は改築に係る部分以外の部分の構造耐力上の危険性が増大しないこと。
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 前二号に定める基準のいずれかに適合するものであること。

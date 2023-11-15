@@ -1,0 +1,10 @@
+ArticleCaption: （都道府県知事の経由）
+ArticleTitle: 第七十七条の六十三
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 第七十七条の五十八第一項の登録の申請、登録証の交付、訂正、再交付及び返納その他の同項の登録に関する国土交通大臣への書類の提出は、住所地又は勤務地の都道府県知事を経由して行わなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 登録証の交付及び再交付その他の第七十七条の五十八第一項の登録に関する国土交通大臣の書類の交付は、住所地又は勤務地の都道府県知事を経由して行うものとする。

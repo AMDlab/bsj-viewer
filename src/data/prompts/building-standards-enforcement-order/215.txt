@@ -1,0 +1,55 @@
+ArticleCaption: （エレベーターの機械室）
+ArticleTitle: 第百二十九条の九
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: エレベーターの機械室は、次に定める構造としなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 床面積は、昇降路の水平投影面積の二倍以上とすること。
+      Sentence: ただし、機械の配置及び管理に支障がない場合においては、この限りでない。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 床面から天井又ははりの下端までの垂直距離は、かごの定格速度（積載荷重を作用させて上昇する場合の毎分の最高速度をいう。以下この節において同じ。）に応じて、次の表に定める数値以上とすること。
+    TableStruct:
+      Table:
+        TableRow:
+          TableColumn:
+            Sentence: 定格速度
+          TableColumn:
+            Sentence: 垂直距離
+            Sentence: （単位　メートル）
+        TableRow:
+          TableColumn:
+            Sentence: 六十メートル以下の場合
+          TableColumn:
+            Sentence: 二・〇
+        TableRow:
+          TableColumn:
+            Sentence: 六十メートルをこえ、百五十メートル以下の場合
+          TableColumn:
+            Sentence: 二・二
+        TableRow:
+          TableColumn:
+            Sentence: 百五十メートルをこえ、二百十メートル以下の場合
+          TableColumn:
+            Sentence: 二・五
+        TableRow:
+          TableColumn:
+            Sentence: 二百十メートルをこえる場合
+          TableColumn:
+            Sentence: 二・八
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 換気上有効な開口部又は換気設備を設けること。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 出入口の幅及び高さは、それぞれ、七十センチメートル以上及び一・八メートル以上とし、施錠装置を有する鋼製の戸を設けること。
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: 機械室に通ずる階段のけあげ及び踏面は、それぞれ、二十三センチメートル以下及び十五センチメートル以上とし、かつ、当該階段の両側に側壁又はこれに代わるものがない場合においては、手すりを設けること。

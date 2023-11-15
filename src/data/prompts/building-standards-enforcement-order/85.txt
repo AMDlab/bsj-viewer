@@ -1,6 +1,7 @@
 ArticleCaption: （組積造のへい）
 ArticleTitle: 第六十一条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 組積造のへいは、次の各号に定めるところによらなければならない。
   Item:

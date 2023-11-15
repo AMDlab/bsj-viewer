@@ -1,0 +1,75 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この政令は、郵政民営化法等の一部を改正する等の法律（以下「平成二十四年改正法」という。）の施行の日（平成二十四年十月一日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この政令は、公布の日から施行する。
+      Paragraph:
+ParagraphCaption: （罰則に関する経過措置）
+ParagraphNum: ２
+ParagraphSentence:
+  Sentence: この政令の施行前にした行為に対する罰則の適用については、なお従前の例による。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この政令は、平成二十六年四月一日から施行する。
+  Sentence: ただし、次項の規定は、公布の日から施行する。
+      Paragraph:
+ParagraphCaption: （準備行為）
+ParagraphNum: ２
+ParagraphSentence:
+  Sentence: この政令による改正後の建築基準法施行令（以下この項において「新令」という。）第三十九条第三項及び第百二十九条の十二第一項第六号の規定による国土交通大臣の認定並びにこれに関し必要な手続その他の行為は、この政令の施行前においても、新令の規定の例によりすることができる。
+      Paragraph:
+ParagraphCaption: （罰則に関する経過措置）
+ParagraphNum: ３
+ParagraphSentence:
+  Sentence: この政令の施行前にした行為に対する罰則の適用については、なお従前の例による。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+ParagraphSentence:
+  Sentence: この政令は、道路法等の一部を改正する法律の施行の日（平成二十六年六月三十日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この政令は、平成二十六年七月一日から施行する。
+      Paragraph:
+ParagraphCaption: （罰則に関する経過措置）
+ParagraphNum: ２
+ParagraphSentence:
+  Sentence: この政令の施行前にした行為に対する罰則の適用については、なお従前の例による。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+ParagraphSentence:
+  Sentence: この政令は、都市再生特別措置法等の一部を改正する法律の施行の日（平成二十六年八月一日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この政令は、子ども・子育て支援法の施行の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+ParagraphSentence:
+  Sentence: この政令は、土砂災害警戒区域等における土砂災害防止対策の推進に関する法律の一部を改正する法律の施行の日（平成二十七年一月十八日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

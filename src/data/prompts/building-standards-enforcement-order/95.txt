@@ -1,6 +1,7 @@
 ArticleCaption: （材料）
 ArticleTitle: 第六十四条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 鉄骨造の建築物の構造耐力上主要な部分の材料は、炭素鋼若しくはステンレス鋼（この節において「鋼材」という。）又は鋳鉄としなければならない。
 Paragraph:

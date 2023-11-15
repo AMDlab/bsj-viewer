@@ -1,0 +1,16 @@
+ArticleCaption: （罰則に関する経過措置）
+ArticleTitle: 第九条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 施行日前にした行為に対する罰則の適用については、なお従前の例による。
+    Sentence: 附則第七条第二項及び第四項に規定する用途地域の指定のない区域内の建築物について、施行日から起算して三年を経過する日（その日以前に特定行政庁が同条第一項に規定する数値の決定及びその適用をしたとき又は地方公共団体が同条第三項に規定する指定及びその適用をしたときは、それぞれの適用の日の前日）までの間にした行為に対する同日後における罰則の適用についても、同様とする。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、商法等の一部を改正する法律（平成十二年法律第九十号）の施行の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

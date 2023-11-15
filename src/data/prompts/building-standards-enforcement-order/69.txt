@@ -1,6 +1,7 @@
 ArticleCaption: （構造耐力上必要な軸組等）
 ArticleTitle: 第四十六条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 構造耐力上主要な部分である壁、柱及び横架材を木造とした建築物にあつては、すべての方向の水平力に対して安全であるように、各階の張り間方向及びけた行方向に、それぞれ壁を設け又は筋かいを入れた軸組を釣合い良く配置しなければならない。
 Paragraph:

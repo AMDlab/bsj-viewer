@@ -1,6 +1,7 @@
 ArticleCaption: （敷地の衛生及び安全）
 ArticleTitle: 第十九条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 建築物の敷地は、これに接する道の境より高くなければならず、建築物の地盤面は、これに接する周囲の土地より高くなければならない。
     Sentence: ただし、敷地内の排水に支障がない場合又は建築物の用途により防湿の必要がない場合においては、この限りでない。

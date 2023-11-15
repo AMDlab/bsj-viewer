@@ -1,0 +1,6 @@
+ArticleCaption: （商業地域内で営んではならない事業）
+ArticleTitle: 第百三十条の九の六
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法別表第二（ぬ）項第三号（二十）（法第八十七条第二項又は第三項において法第四十八条第十項の規定を準用する場合を含む。）の規定により政令で定める事業は、スエージングマシン又はロールを用いる金属の鍛造とする。

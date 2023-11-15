@@ -1,0 +1,15 @@
+ArticleCaption: （罰則に関する経過措置）
+ArticleTitle: 第三条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この政令の施行前にした行為に対する罰則の適用については、なお従前の例による。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この政令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

@@ -1,6 +1,11 @@
 ArticleCaption: （市町村の条例による制限の緩和）
 ArticleTitle: 第四十一条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 第六条第一項第四号の区域外においては、市町村は、土地の状況により必要と認める場合においては、国土交通大臣の承認を得て、条例で、区域を限り、第十九条、第二十一条、第二十八条、第二十九条及び第三十六条の規定の全部若しくは一部を適用せず、又はこれらの規定による制限を緩和することができる。
     Sentence: ただし、第六条第一項第一号及び第三号の建築物については、この限りでない。
+      Chapter:
+        ChapterTitle: 第三章　都市計画区域等における建築物の敷地、構造、建築設備及び用途
+        Section:
+SectionTitle: 第一節　総則

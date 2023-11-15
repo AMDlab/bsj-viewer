@@ -1,33 +1,14 @@
-ArticleCaption: （手数料）
-ArticleTitle: 第九十七条の四
+ArticleCaption: （秘密保持義務等）
+ArticleTitle: 第七十七条の八
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: 国土交通大臣が行う次に掲げる処分の申請をしようとする者は、国土交通省令で定めるところにより、実費を勘案して国土交通省令で定める額の手数料を国に納めなければならない。
-  Item:
-    ItemTitle: 一
-    ItemSentence:
-      Sentence: 構造方法等の認定
-  Item:
-    ItemTitle: 二
-    ItemSentence:
-      Sentence: 特殊構造方法等認定
-  Item:
-    ItemTitle: 三
-    ItemSentence:
-      Sentence: 型式適合認定
-  Item:
-    ItemTitle: 四
-    ItemSentence:
-      Sentence: 第六十八条の十一第一項の認証又はその更新
-  Item:
-    ItemTitle: 五
-    ItemSentence:
-      Sentence: 第六十八条の二十二第一項の認証又はその更新
+    Sentence: 指定建築基準適合判定資格者検定機関の役員及び職員（建築基準適合判定資格者検定委員を含む。第三項において同じ。）並びにこれらの職にあつた者は、建築基準適合判定資格者検定事務に関して知り得た秘密を漏らしてはならない。
 Paragraph:
   ParagraphNum: ２
   ParagraphSentence:
-    Sentence: 指定認定機関、承認認定機関、指定性能評価機関又は承認性能評価機関が行う前項第三号から第五号までに掲げる処分又は性能評価の申請をしようとする者は、国土交通省令で定めるところにより、実費を勘案して国土交通省令で定める額の手数料を当該指定認定機関、承認認定機関、指定性能評価機関又は承認性能評価機関に納めなければならない。
+    Sentence: 前項に定めるもののほか、建築基準適合判定資格者検定委員は、建築基準適合判定資格者検定の問題の作成及び採点に当たつて、厳正を保持し不正な行為のないようにしなければならない。
 Paragraph:
   ParagraphNum: ３
   ParagraphSentence:
-    Sentence: 前項の規定により指定認定機関、承認認定機関、指定性能評価機関又は承認性能評価機関に納められた手数料は、当該指定認定機関、承認認定機関、指定性能評価機関又は承認性能評価機関の収入とする。
+    Sentence: 建築基準適合判定資格者検定事務に従事する指定建築基準適合判定資格者検定機関の役員及び職員は、刑法（明治四十年法律第四十五号）その他の罰則の適用については、法令により公務に従事する職員とみなす。

@@ -1,5 +1,6 @@
 ArticleCaption: （居室内において衛生上の支障を生ずるおそれがある物質）
 ArticleTitle: 第二十条の五
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 法第二十八条の二第三号の政令で定める物質は、クロルピリホス及びホルムアルデヒドとする。

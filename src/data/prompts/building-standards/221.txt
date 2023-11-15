@@ -1,0 +1,26 @@
+ArticleCaption: （国土交通大臣による認定等の実施）
+ArticleTitle: 第七十七条の五十二
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、指定認定機関が次の各号のいずれかに該当するときは、第六十八条の二十四第二項の規定にかかわらず、当該指定認定機関が休止し、停止を命じられ、又は実施することが困難となつた認定等の業務のうち他の指定認定機関によつて行われないものを自ら行うものとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 第七十七条の五十第一項の規定により認定等の業務の全部又は一部を休止したとき。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 前条第二項の規定により認定等の業務の全部又は一部の停止を命じられたとき。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 天災その他の事由により認定等の業務の全部又は一部を実施することが困難となつた場合において国土交通大臣が必要があると認めるとき。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、前項の規定により認定等の業務を行い、又は同項の規定により行つている認定等の業務を行わないこととしようとするときは、あらかじめ、その旨を公示しなければならない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 国土交通大臣が、第一項の規定により認定等の業務を行うこととし、第七十七条の四十第一項の規定により業務区域の減少を許可し、第七十七条の五十第一項の規定により認定等の業務の廃止を許可し、又は前条第一項若しくは第二項の規定により指定を取り消した場合における認定等の業務の引継ぎその他の必要な事項は、国土交通省令で定める。

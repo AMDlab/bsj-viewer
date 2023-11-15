@@ -1,6 +1,7 @@
 ArticleCaption: （受検資格）
 ArticleTitle: 第二条の三
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 法第五条第三項に規定する政令で定める業務は、次のとおりとする。
   Item:

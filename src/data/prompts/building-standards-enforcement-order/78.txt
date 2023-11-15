@@ -1,6 +1,7 @@
 ArticleCaption: （壁の厚さ）
 ArticleTitle: 第五十五条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 組積造の壁の厚さ（仕上材料の厚さを含まないものとする。以下この節において同じ。）は、その建築物の階数及びその壁の長さ（前条第二項の壁の長さをいう。以下この節において同じ。）に応じて、それぞれ次の表の数値以上としなければならない。
   TableStruct:

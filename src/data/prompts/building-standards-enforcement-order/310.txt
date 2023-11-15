@@ -1,0 +1,30 @@
+ArticleCaption: （簡易な構造の建築物の指定）
+ArticleTitle: 第百三十六条の九
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第八十四条の二の規定により政令で指定する簡易な構造の建築物又は建築物の部分は、次に掲げるもの（建築物の部分にあつては、準耐火構造の壁（これらの壁を貫通する給水管、配電管その他の管の部分及びその周囲の部分の構造が国土交通大臣が定めた構造方法を用いるものに限る。）又は第百二十六条の二第二項第一号に規定する防火設備で区画された部分に限る。）とする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 壁を有しない建築物その他の国土交通大臣が高い開放性を有すると認めて指定する構造の建築物又は建築物の部分（間仕切壁を有しないものに限る。）であつて、次のイからニまでのいずれかに該当し、かつ、階数が一で床面積が三千平方メートル以内であるもの（次条において「開放的簡易建築物」という。）
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 自動車車庫の用途に供するもの
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: スケート場、水泳場、スポーツの練習場その他これらに類する運動施設
+    Subitem1:
+      Subitem1Title: ハ
+      Subitem1Sentence:
+        Sentence: 不燃性の物品の保管その他これと同等以上に火災の発生のおそれの少ない用途に供するもの
+    Subitem1:
+      Subitem1Title: ニ
+      Subitem1Sentence:
+        Sentence: 畜舎、堆肥舎並びに水産物の増殖場及び養殖場
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 屋根及び外壁が帆布その他これに類する材料で造られている建築物又は建築物の部分（間仕切壁を有しないものに限る。）で、前号ロからニまでのいずれかに該当し、かつ、階数が一で床面積が三千平方メートル以内であるもの

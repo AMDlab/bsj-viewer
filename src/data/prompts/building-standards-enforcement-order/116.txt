@@ -1,5 +1,8 @@
 ArticleCaption: （無筋コンクリート造に対する第四節及び第六節の規定の準用）
 ArticleTitle: 第八十条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 無筋コンクリート造の建築物又は無筋コンクリート造とその他の構造とを併用する建築物の無筋コンクリート造の構造部分については、この章の第四節（第五十二条を除く。）の規定並びに第七十一条（第七十九条に関する部分を除く。）、第七十二条及び第七十四条から第七十六条までの規定を準用する。
+        Section:
+          SectionTitle: 第七節の二　構造方法に関する補則

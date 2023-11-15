@@ -1,0 +1,30 @@
+ArticleCaption: （欠格条項）
+ArticleTitle: 第七十七条の五十九
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 次の各号のいずれかに該当する者は、前条第一項の登録を受けることができない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 未成年者
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 禁錮以上の刑に処せられ、又は建築基準法令の規定若しくは建築士法の規定により刑に処せられ、その執行を終わり、又は執行を受けることがなくなつた日から起算して五年を経過しない者
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 第七十七条の六十二第一項第四号又は第二項第三号から第五号までの規定により前条第一項の登録を消除され、その消除の日から起算して五年を経過しない者
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 第七十七条の六十二第二項第三号から第五号までの規定により確認検査の業務を行うことを禁止され、その禁止の期間中に同条第一項第一号の規定により前条第一項の登録を消除され、まだその期間が経過しない者
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: 建築士法第七条第四号に該当する者
+  Item:
+    ItemTitle: 六
+    ItemSentence:
+      Sentence: 公務員で懲戒免職の処分を受け、その処分の日から起算して三年を経過しない者

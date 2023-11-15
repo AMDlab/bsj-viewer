@@ -1,0 +1,12 @@
+ArticleCaption: （特定用途制限地域内の工作物）
+ArticleTitle: 第百四十四条の二の四
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 第百三十八条第三項第六号に掲げるものについては、第百三十条の二の規定を準用する。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 第百三十八条第三項第六号に掲げるものについての法第八十八条第二項において準用する法第八十七条第三項の規定によつて法第四十九条の二の規定に基づく条例の規定を準用する場合における同項第二号に規定する類似の用途の指定については、当該条例で定めるものとする。
+      Chapter:
+        ChapterTitle: 第十章　雑則

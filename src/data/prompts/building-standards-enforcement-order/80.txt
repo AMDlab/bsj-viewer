@@ -1,6 +1,7 @@
 ArticleCaption: （開口部）
 ArticleTitle: 第五十七条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 組積造の壁における窓、出入口その他の開口部は、次の各号に定めるところによらなければならない。
   Item:

@@ -1,0 +1,10 @@
+ArticleCaption: （指定）
+ArticleTitle: 第七十七条の三十六
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 第六十八条の二十四第一項（第八十八条第一項において準用する場合を含む。）の規定による指定（以下この節において単に「指定」という。）は、認定等を行おうとする者（外国にある事務所により行おうとする者を除く。）の申請により行う。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項の申請は、国土交通省令で定めるところにより、国土交通省令で定める区分に従い、認定等の業務を行う区域（以下この節において「業務区域」という。）を定めてしなければならない。

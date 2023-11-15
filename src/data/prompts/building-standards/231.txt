@@ -1,0 +1,27 @@
+ArticleCaption: （死亡等の届出）
+ArticleTitle: 第七十七条の六十一
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 建築基準適合判定資格者が次の各号のいずれかに該当するときは、当該各号に定める者は、当該建築基準適合判定資格者が当該各号に該当するに至つた日（第一号の場合にあつては、その事実を知つた日）から三十日以内に、国土交通大臣にその旨を届け出なければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Column:
+        Sentence: 死亡したとき
+      Column:
+        Sentence: 相続人
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Column:
+        Sentence: 第七十七条の五十九第二号、第五号又は第六号に該当するに至つたとき
+      Column:
+        Sentence: 本人
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Column:
+        Sentence: 心身の故障により確認検査の業務を適正に行うことができない場合に該当するものとして国土交通省令で定める場合に該当するに至つたとき
+      Column:
+        Sentence: 本人又はその法定代理人若しくは同居の親族

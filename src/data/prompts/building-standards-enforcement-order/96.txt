@@ -1,5 +1,6 @@
 ArticleCaption: （圧縮材の有効細長比）
 ArticleTitle: 第六十五条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 構造耐力上主要な部分である鋼材の圧縮材（圧縮力を負担する部材をいう。以下同じ。）の有効細長比は、柱にあつては二百以下、柱以外のものにあつては二百五十以下としなければならない。

@@ -1,0 +1,8 @@
+ArticleCaption: （政令への委任）
+ArticleTitle: 第十三条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 附則第二条及び第十条に定めるもののほか、この法律の施行に関し必要な経過措置その他の事項は、政令で定める。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

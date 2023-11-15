@@ -1,5 +1,65 @@
-ArticleCaption: （適用の除外）
-ArticleTitle: 第百二十九条の十一
+ArticleCaption: （大規模の建築物の主要構造部の性能に関する技術的基準）
+ArticleTitle: 第百九条の五
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: 第百二十九条の七第四号、第百二十九条の八第二項第二号又は前条第三項第一号から第三号までの規定は、乗用エレベーター及び寝台用エレベーター以外のエレベーターのうち、それぞれ昇降路、制御器又は安全装置について安全上支障がないものとして国土交通大臣が定めた構造方法を用いるものについては、適用しない。
+    Sentence: 法第二十一条第一項本文の政令で定める技術的基準は、次の各号のいずれかに掲げるものとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 次に掲げる基準
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 次の表に掲げる建築物の部分にあつては、当該部分に通常の火災による火熱が加えられた場合に、加熱開始後それぞれ同表に掲げる時間構造耐力上支障のある変形、溶融、破壊その他の損傷を生じないものであること。
+      TableStruct:
+        Table:
+          TableRow:
+            TableColumn:
+              Sentence: 壁
+            TableColumn:
+              Sentence: 間仕切壁（耐力壁に限る。）
+            TableColumn:
+              Sentence: 通常火災終了時間（通常火災終了時間が四十五分間未満である場合にあつては、四十五分間。以下この号において同じ。）
+          TableRow:
+            TableColumn:
+              Sentence: 外壁（耐力壁に限る。）
+            TableColumn:
+              Sentence: 通常火災終了時間
+          TableRow:
+            TableColumn:
+              Sentence: 柱
+            TableColumn:
+              Sentence: 通常火災終了時間
+          TableRow:
+            TableColumn:
+              Sentence: 床
+            TableColumn:
+              Sentence: 通常火災終了時間
+          TableRow:
+            TableColumn:
+              Sentence: はり
+            TableColumn:
+              Sentence: 通常火災終了時間
+          TableRow:
+            TableColumn:
+              Sentence: 屋根（軒裏を除く。）
+            TableColumn:
+              Sentence: 三十分間
+          TableRow:
+            TableColumn:
+              Sentence: 階段
+            TableColumn:
+              Sentence: 三十分間
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 壁、床及び屋根の軒裏（外壁によつて小屋裏又は天井裏と防火上有効に遮られているものを除く。以下このロにおいて同じ。）にあつては、これらに通常の火災による火熱が加えられた場合に、加熱開始後通常火災終了時間（非耐力壁である外壁及び屋根の軒裏（いずれも延焼のおそれのある部分以外の部分に限る。）にあつては、三十分間）当該加熱面以外の面（屋内に面するものに限る。）の温度が可燃物燃焼温度以上に上昇しないものであること。
+    Subitem1:
+      Subitem1Title: ハ
+      Subitem1Sentence:
+        Sentence: 外壁及び屋根にあつては、これらに屋内において発生する通常の火災による火熱が加えられた場合に、加熱開始後通常火災終了時間（非耐力壁である外壁（延焼のおそれのある部分以外の部分に限る。）及び屋根にあつては、三十分間）屋外に火炎を出す原因となる亀裂その他の損傷を生じないものであること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 第百七条各号又は第百八条の三第一項第一号イ及びロに掲げる基準

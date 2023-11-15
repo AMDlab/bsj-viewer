@@ -1,0 +1,14 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この政令は、平成十三年七月十五日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+ParagraphSentence:
+  Sentence: この政令は、都市再生特別措置法の施行の日（平成十四年六月一日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

@@ -1,0 +1,171 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この法律は、公布の日から起算して一年をこえない範囲内において政令で定める日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、公布の日から起算して八月をこえない範囲内において各規定につき政令で定める日から施行する。
+      Paragraph:
+ParagraphCaption: （罰則に関する経過措置）
+ParagraphNum: ３
+ParagraphSentence:
+  Sentence: この法律の施行前にした行為に対する罰則の適用については、なお、従前の例による。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、公布の日から起算して六月をこえない範囲内において政令で定める日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、公布の日から起算して六月をこえない範囲内において政令で定める日から施行する。
+      Paragraph:
+ParagraphCaption: （罰則に関する経過措置）
+ParagraphNum: ２
+ParagraphSentence:
+  Sentence: この法律の施行前にした行為に対する罰則の適用については、なお、従前の例による。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、公布の日から起算して三月をこえない範囲内において政令で定める日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、公布の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、昭和三十七年十月一日から施行する。
+      Paragraph:
+ParagraphNum: ２
+ParagraphSentence:
+  Sentence: この法律による改正後の規定は、この附則に特別の定めがある場合を除き、この法律の施行前に生じた事項にも適用する。
+  Sentence: ただし、この法律による改正前の規定によつて生じた効力を妨げない。
+      Paragraph:
+ParagraphNum: ３
+ParagraphSentence:
+  Sentence: この法律の施行の際現に係属している訴訟については、当該訴訟を提起することができない旨を定めるこの法律による改正後の規定にかかわらず、なお従前の例による。
+      Paragraph:
+ParagraphNum: ４
+ParagraphSentence:
+  Sentence: この法律の施行の際現に係属している訴訟の管轄については、当該管轄を専属管轄とする旨のこの法律による改正後の規定にかかわらず、なお従前の例による。
+      Paragraph:
+ParagraphNum: ５
+ParagraphSentence:
+  Sentence: この法律の施行の際現にこの法律による改正前の規定による出訴期間が進行している処分又は裁決に関する訴訟の出訴期間については、なお従前の例による。
+  Sentence: ただし、この法律による改正後の規定による出訴期間がこの法律による改正前の規定による出訴期間より短い場合に限る。
+      Paragraph:
+ParagraphNum: ６
+ParagraphSentence:
+  Sentence: この法律の施行前にされた処分又は裁決に関する当事者訴訟で、この法律による改正により出訴期間が定められることとなつたものについての出訴期間は、この法律の施行の日から起算する。
+      Paragraph:
+ParagraphNum: ７
+ParagraphSentence:
+  Sentence: この法律の施行の際現に係属している処分又は裁決の取消しの訴えについては、当該法律関係の当事者の一方を被告とする旨のこの法律による改正後の規定にかかわらず、なお従前の例による。
+  Sentence: ただし、裁判所は、原告の申立てにより、決定をもつて、当該訴訟を当事者訴訟に変更することを許すことができる。
+      Paragraph:
+ParagraphNum: ８
+ParagraphSentence:
+  Sentence: 前項ただし書の場合には、行政事件訴訟法第十八条後段及び第二十一条第二項から第五項までの規定を準用する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、昭和三十七年十月一日から施行する。
+      Paragraph:
+ParagraphNum: ２
+ParagraphSentence:
+  Sentence: この法律による改正後の規定は、この附則に特別の定めがある場合を除き、この法律の施行前にされた行政庁の処分、この法律の施行前にされた申請に係る行政庁の不作為その他この法律の施行前に生じた事項についても適用する。
+  Sentence: ただし、この法律による改正前の規定によつて生じた効力を妨げない。
+      Paragraph:
+ParagraphNum: ３
+ParagraphSentence:
+  Sentence: この法律の施行前に提起された訴願、審査の請求、異議の申立てその他の不服申立て（以下「訴願等」という。）については、この法律の施行後も、なお従前の例による。
+  Sentence: この法律の施行前にされた訴願等の裁決、決定その他の処分（以下「裁決等」という。）又はこの法律の施行前に提起された訴願等につきこの法律の施行後にされる裁決等にさらに不服がある場合の訴願等についても、同様とする。
+      Paragraph:
+ParagraphNum: ４
+ParagraphSentence:
+  Sentence: 前項に規定する訴願等で、この法律の施行後は行政不服審査法による不服申立てをすることができることとなる処分に係るものは、同法以外の法律の適用については、行政不服審査法による不服申立てとみなす。
+      Paragraph:
+ParagraphNum: ５
+ParagraphSentence:
+  Sentence: 第三項の規定によりこの法律の施行後にされる審査の請求、異議の申立てその他の不服申立ての裁決等については、行政不服審査法による不服申立てをすることができない。
+      Paragraph:
+ParagraphNum: ６
+ParagraphSentence:
+  Sentence: この法律の施行前にされた行政庁の処分で、この法律による改正前の規定により訴願等をすることができるものとされ、かつ、その提起期間が定められていなかつたものについて、行政不服審査法による不服申立てをすることができる期間は、この法律の施行の日から起算する。
+      Paragraph:
+ParagraphNum: ８
+ParagraphSentence:
+  Sentence: この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。
+      Paragraph:
+ParagraphNum: ９
+ParagraphSentence:
+  Sentence: 前八項に定めるもののほか、この法律の施行に関して必要な経過措置は、政令で定める。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、公布の日から起算して六月をこえない範囲内において政令で定める日から施行する。
+  Sentence: ただし、第八十二条、第八十五条及び第九十九条第一項第十二号の改正規定は、公布の日から施行する。
+      Paragraph:
+ParagraphCaption: （罰則に関する経過措置）
+ParagraphNum: ２
+ParagraphSentence:
+  Sentence: この法律の施行前にした行為に対する罰則の適用については、なお、従前の例による。
+      Paragraph:
+ParagraphCaption: （この法律の施行前に指定された特定街区に関する経過措置）
+ParagraphNum: ３
+ParagraphSentence:
+  Sentence: この法律の施行の際この法律による改正前の建築基準法（以下「旧法」という。）第五十九条の二第一項の規定により指定されている同法別表第五（い）欄の各項に掲げる特定街区は、この法律による改正後の建築基準法（以下「新法」という。）第五十九条の三第一項の規定により指定された特定街区と、当該特定街区についての旧法別表第五（ろ）欄の当該各項に掲げる建築物の延べ面積（同一敷地内に二以上の建築物がある場合においては、その延べ面積の合計。以下同じ。）の敷地面積に対する割合並びに同法第五十九条の二第一項の規定により定められた建築物の高さの最高限度及び壁面の位置の制限は、新法第五十九条の三第一項の規定により定められた建築物の延べ面積の敷地面積に対する割合並びに建築物の高さの最高限度及び壁面の位置の制限とみなす。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、公布の日から起算して三月をこえない範囲内において政令で定める日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、昭和四十年四月一日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、公布の日から起算して六月をこえない範囲内において政令で定める日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+ParagraphSentence:
+  Sentence: この法律（第一条を除く。）は、新法の施行の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

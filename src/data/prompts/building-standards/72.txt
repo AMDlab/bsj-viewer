@@ -1,54 +1,9 @@
-SectionTitle: 第六節　景観地区
-Article:
-  ArticleTitle: 第六十八条
-  Paragraph:
-    ParagraphSentence:
-      Sentence: 景観地区内においては、建築物の高さは、景観地区に関する都市計画において建築物の高さの最高限度又は最低限度が定められたときは、当該最高限度以下又は当該最低限度以上でなければならない。
-      Sentence: ただし、次の各号のいずれかに該当する建築物については、この限りでない。
-    Item:
-      ItemTitle: 一
-      ItemSentence:
-        Sentence: 公衆便所、巡査派出所その他これらに類する建築物で、公益上必要なもの
-    Item:
-      ItemTitle: 二
-      ItemSentence:
-        Sentence: 特定行政庁が用途上又は構造上やむを得ないと認めて許可したもの
-  Paragraph:
-    ParagraphNum: ２
-    ParagraphSentence:
-      Sentence: 景観地区内においては、建築物の壁又はこれに代わる柱は、景観地区に関する都市計画において壁面の位置の制限が定められたときは、建築物の地盤面下の部分を除き、当該壁面の位置の制限に反して建築してはならない。
-      Sentence: ただし、次の各号のいずれかに該当する建築物については、この限りでない。
-    Item:
-      ItemTitle: 一
-      ItemSentence:
-        Sentence: 前項第一号に掲げる建築物
-    Item:
-      ItemTitle: 二
-      ItemSentence:
-        Sentence: 学校、駅舎、卸売市場その他これらに類する公益上必要な建築物で、特定行政庁が用途上又は構造上やむを得ないと認めて許可したもの
-  Paragraph:
-    ParagraphNum: ３
-    ParagraphSentence:
-      Sentence: 景観地区内においては、建築物の敷地面積は、景観地区に関する都市計画において建築物の敷地面積の最低限度が定められたときは、当該最低限度以上でなければならない。
-      Sentence: ただし、次の各号のいずれかに該当する建築物の敷地については、この限りでない。
-    Item:
-      ItemTitle: 一
-      ItemSentence:
-        Sentence: 第一項第一号に掲げる建築物
-    Item:
-      ItemTitle: 二
-      ItemSentence:
-        Sentence: 特定行政庁が用途上又は構造上やむを得ないと認めて許可したもの
-  Paragraph:
-    ParagraphNum: ４
-    ParagraphSentence:
-      Sentence: 第五十三条の二第三項の規定は、前項の都市計画において建築物の敷地面積の最低限度が定められ、又は変更された場合に準用する。
-      Sentence: この場合において、同条第三項中「第一項」とあるのは、「第六十八条第三項」と読み替えるものとする。
-  Paragraph:
-    ParagraphNum: ５
-    ParagraphSentence:
-      Sentence: 景観地区に関する都市計画において建築物の高さの最高限度、壁面の位置の制限（道路に面する壁面の位置を制限するものを含むものに限る。）及び建築物の敷地面積の最低限度が定められている景観地区（景観法第七十二条第二項の景観地区工作物制限条例で、壁面後退区域（当該壁面の位置の制限として定められた限度の線と敷地境界線との間の土地の区域をいう。）における工作物（土地に定着する工作物以外のものを含む。）の設置の制限（当該壁面後退区域において連続的に有効な空地を確保するため必要なものを含むものに限る。）が定められている区域に限る。）内の建築物で、当該景観地区に関する都市計画の内容に適合し、かつ、敷地内に有効な空地が確保されていること等により、特定行政庁が交通上、安全上、防火上及び衛生上支障がないと認めるものについては、第五十六条の規定は、適用しない。
-  Paragraph:
-    ParagraphNum: ６
-    ParagraphSentence:
-      Sentence: 第四十四条第二項の規定は、第一項第二号、第二項第二号又は第三項第二号の規定による許可をする場合に準用する。
+ArticleCaption: （壁面線による建築制限）
+ArticleTitle: 第四十七条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 建築物の壁若しくはこれに代る柱又は高さ二メートルをこえる門若しくはへいは、壁面線を越えて建築してはならない。
+    Sentence: ただし、地盤面下の部分又は特定行政庁が建築審査会の同意を得て許可した歩廊の柱その他これに類するものについては、この限りでない。
+        Section:
+          SectionTitle: 第三節　建築物の用途

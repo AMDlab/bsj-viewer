@@ -1,0 +1,74 @@
+ArticleCaption: （煙突及び煙突の支線）
+ArticleTitle: 第百三十九条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 第百三十八条第一項に規定する工作物のうち同項第一号に掲げる煙突（以下この条において単に「煙突」という。）に関する法第八十八条第一項において読み替えて準用する法第二十条第一項の政令で定める技術的基準は、次のとおりとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 次に掲げる基準に適合する構造方法又はこれと同等以上に煙突の崩落及び倒壊を防止することができるものとして国土交通大臣が定めた構造方法を用いること。
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 高さが十六メートルを超える煙突は、鉄筋コンクリート造、鉄骨鉄筋コンクリート造又は鋼造とし、支線を要しない構造とすること。
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 鉄筋コンクリート造の煙突は、鉄筋に対するコンクリートのかぶり厚さを五センチメートル以上とすること。
+    Subitem1:
+      Subitem1Title: ハ
+      Subitem1Sentence:
+        Sentence: 陶管、コンクリート管その他これらに類する管で造られた煙突は、次に定めるところによること。
+      Subitem2:
+        Subitem2Title: （１）
+        Subitem2Sentence:
+          Sentence: 管と管とをセメントモルタルで接合すること。
+      Subitem2:
+        Subitem2Title: （２）
+        Subitem2Sentence:
+          Sentence: 高さが十メートル以下のものにあつては、その煙突を支えることができる支枠又は支枠及び支線を設けて、これに緊結すること。
+      Subitem2:
+        Subitem2Title: （３）
+        Subitem2Sentence:
+          Sentence: 高さが十メートルを超えるものにあつては、その煙突を支えることができる鋼製の支枠を設けて、これに緊結すること。
+    Subitem1:
+      Subitem1Title: ニ
+      Subitem1Sentence:
+        Sentence: 組積造又は無筋コンクリート造の煙突は、その崩落を防ぐことができる鋼材の支枠を設けること。
+    Subitem1:
+      Subitem1Title: ホ
+      Subitem1Sentence:
+        Sentence: 煙突の支線の端部にあつては、鉄筋コンクリート造のくいその他腐食するおそれのない建築物若しくは工作物又は有効なさび止め若しくは防腐の措置を講じたくいに緊結すること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 次項から第四項までにおいて準用する規定（第七章の八の規定を除く。）に適合する構造方法を用いること。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 高さが六十メートルを超える煙突にあつては、その用いる構造方法が、荷重及び外力によつて煙突の各部分に連続的に生ずる力及び変形を把握することその他の国土交通大臣が定める基準に従つた構造計算によつて安全性が確かめられたものとして国土交通大臣の認定を受けたものであること。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 高さが六十メートル以下の煙突にあつては、その用いる構造方法が、次のイ又はロのいずれかに適合すること。
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 国土交通大臣が定める基準に従つた構造計算によつて確かめられる安全性を有すること。
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 前号の国土交通大臣が定める基準に従つた構造計算によつて安全性が確かめられたものとして国土交通大臣の認定を受けたものであること。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 煙突については、第百十五条第一項第六号及び第七号、第五章の四第三節並びに第七章の八の規定を準用する。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 第一項第三号又は第四号ロの規定により国土交通大臣の認定を受けた構造方法を用いる煙突については、前項に規定するもののほか、耐久性等関係規定（第三十六条、第三十六条の二、第三十九条第四項、第四十一条、第四十九条、第七十条及び第七十六条（第七十九条の四及び第八十条において準用する場合を含む。）の規定を除く。）を準用する。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 前項に規定する煙突以外の煙突については、第二項に規定するもののほか、第三十六条の三、第三十七条、第三十八条、第三十九条第一項及び第二項、第五十一条第一項、第五十二条、第三章第五節（第七十条を除く。）、第六節（第七十六条から第七十八条の二までを除く。）及び第六節の二（第七十九条の四（第七十六条から第七十八条の二までの準用に関する部分に限る。）を除く。）、第八十条（第五十一条第一項、第七十一条、第七十二条、第七十四条及び第七十五条の準用に関する部分に限る。）並びに第八十条の二の規定を準用する。

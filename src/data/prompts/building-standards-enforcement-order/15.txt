@@ -1,5 +1,6 @@
 ArticleTitle: 第九条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 法第六条第一項（法第八十七条第一項、法第八十七条の四（法第八十八条第一項及び第二項において準用する場合を含む。）並びに法第八十八条第一項及び第二項において準用する場合を含む。）の政令で定める規定は、次に掲げる法律の規定並びにこれらの規定に基づく命令及び条例の規定で建築物の敷地、構造又は建築設備に係るものとする。
   Item:
@@ -66,3 +67,5 @@ Paragraph:
     ItemTitle: 十六
     ItemSentence:
       Sentence: 特定都市河川浸水被害対策法（平成十五年法律第七十七号）第十条
+        Section:
+          SectionTitle: 第二節の四　特定増改築構造計算基準等

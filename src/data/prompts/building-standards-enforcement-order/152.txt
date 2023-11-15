@@ -1,21 +1,7 @@
-ArticleCaption: （エレベーターの駆動装置及び制御器）
-ArticleTitle: 第百二十九条の八
+ArticleCaption: （主要構造部を準耐火構造等とした建築物の層間変形角）
+ArticleTitle: 第百九条の二の二
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: エレベーターの駆動装置及び制御器は、地震その他の震動によつて転倒し又は移動するおそれがないものとして国土交通大臣が定める方法により設置しなければならない。
-Paragraph:
-  ParagraphNum: ２
-  ParagraphSentence:
-    Sentence: エレベーターの制御器の構造は、次に掲げる基準に適合するものとして、国土交通大臣が定めた構造方法を用いるもの又は国土交通大臣の認定を受けたものとしなければならない。
-  Item:
-    ItemTitle: 一
-    ItemSentence:
-      Sentence: 荷重の変動によりかごの停止位置が著しく移動しないこととするものであること。
-  Item:
-    ItemTitle: 二
-    ItemSentence:
-      Sentence: かご及び昇降路のすべての出入口の戸が閉じた後、かごを昇降させるものであること。
-  Item:
-    ItemTitle: 三
-    ItemSentence:
-      Sentence: エレベーターの保守点検を安全に行うために必要な制御ができるものであること。
+    Sentence: 法第二条第九号の三イに該当する建築物及び第百三十六条の二第一号ロ又は第二号ロに掲げる基準に適合する建築物の地上部分の層間変形角は、百五十分の一以内でなければならない。
+    Sentence: ただし、主要構造部が防火上有害な変形、亀裂その他の損傷を生じないことが計算又は実験によつて確かめられた場合においては、この限りでない。

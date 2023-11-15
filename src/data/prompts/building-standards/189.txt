@@ -1,0 +1,19 @@
+ArticleCaption: （業務区域の変更）
+ArticleTitle: 第七十七条の三十五の六
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 指定構造計算適合性判定機関は、業務区域を増加し、又は減少しようとするときは、国土交通大臣等の認可を受けなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、指定構造計算適合性判定機関が業務区域を減少しようとするときは、当該業務区域の減少により構造計算適合性判定の業務の適正かつ確実な実施が損なわれるおそれがないと認めるときでなければ、前項の認可をしてはならない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 第七十七条の三十五の二第三項及び第七十七条の三十五の四第一号から第四号までの規定は、第一項の認可について準用する。
+    Sentence: この場合において、第七十七条の三十五の二第三項中「業務区域」とあるのは、「増加し、又は減少しようとする業務区域」と読み替えるものとする。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 国土交通大臣等は、第一項の認可をしたときは、その旨を公示しなければならない。

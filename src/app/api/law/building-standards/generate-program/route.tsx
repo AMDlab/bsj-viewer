@@ -9,9 +9,7 @@ const openai = new OpenAI({
 export async function GET(request: Request) {
   try {
     const { searchParams } = new URL(request.url);
-    const model = searchParams.get('model');
     const key = searchParams.get('key');
-    if (!model) return new Response('model is required', { status: 400 });
     if (!key) return new Response('key is required', { status: 400 });
 
     const prompt = promptMapping[key]
@@ -19,7 +17,7 @@ export async function GET(request: Request) {
       .join('\n');
     const fullPrompt = `${prompt}\n\nQ: ${questionMapping[key]}`;
     const response = await openai.chat.completions.create({
-      model,
+      model: process.env.MODEL_NAME!,
       messages: [{ role: 'user', content: fullPrompt }],
     });
 

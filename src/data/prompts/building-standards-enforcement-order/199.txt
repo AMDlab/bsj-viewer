@@ -1,0 +1,85 @@
+ArticleCaption: （制限を受けない特殊建築物等）
+ArticleTitle: 第百二十八条の四
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第三十五条の二の規定により政令で定める特殊建築物は、次に掲げるもの以外のものとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 次の表に掲げる特殊建築物
+    TableStruct:
+      Table:
+        TableRow:
+          TableColumn:
+            Sentence: 用途
+          TableColumn:
+            Sentence: 構造
+          TableColumn:
+            Sentence: 主要構造部を耐火構造とした建築物又は法第二条第九号の三イに該当する建築物（一時間準耐火基準に適合するものに限る。）
+          TableColumn:
+            Sentence: 法第二条第九号の三イ又はロのいずれかに該当する建築物（一時間準耐火基準に適合するものを除く。）
+          TableColumn:
+            Sentence: その他の建築物
+        TableRow:
+          TableColumn:
+            Sentence: 　
+          TableColumn:
+            Sentence: 　
+          TableColumn:
+            Sentence: 　
+          TableColumn:
+            Sentence: 　
+        TableRow:
+          TableColumn:
+            Sentence: （一）
+          TableColumn:
+            Sentence: 法別表第一（い）欄（一）項に掲げる用途
+          TableColumn:
+            Sentence: 客席の床面積の合計が四百平方メートル以上のもの
+          TableColumn:
+            Sentence: 客席の床面積の合計が百平方メートル以上のもの
+          TableColumn:
+            Sentence: 客席の床面積の合計が百平方メートル以上のもの
+        TableRow:
+          TableColumn:
+            Sentence: （二）
+          TableColumn:
+            Sentence: 法別表第一（い）欄（二）項に掲げる用途
+          TableColumn:
+            Sentence: 当該用途に供する三階以上の部分の床面積の合計が三百平方メートル以上のもの
+          TableColumn:
+            Sentence: 当該用途に供する二階の部分（病院又は診療所については、その部分に患者の収容施設がある場合に限る。）の床面積の合計が三百平方メートル以上のもの
+          TableColumn:
+            Sentence: 当該用途に供する部分の床面積の合計が二百平方メートル以上のもの
+        TableRow:
+          TableColumn:
+            Sentence: （三）
+          TableColumn:
+            Sentence: 法別表第一（い）欄（四）項に掲げる用途
+          TableColumn:
+            Sentence: 当該用途に供する三階以上の部分の床面積の合計が千平方メートル以上のもの
+          TableColumn:
+            Sentence: 当該用途に供する二階の部分の床面積の合計が五百平方メートル以上のもの
+          TableColumn:
+            Sentence: 当該用途に供する部分の床面積の合計が二百平方メートル以上のもの
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 自動車車庫又は自動車修理工場の用途に供する特殊建築物
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 地階又は地下工作物内に設ける居室その他これらに類する居室で法別表第一（い）欄（一）項、（二）項又は（四）項に掲げる用途に供するものを有する特殊建築物
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 法第三十五条の二の規定により政令で定める階数が三以上である建築物は、延べ面積が五百平方メートルを超えるもの（学校等の用途に供するものを除く。）以外のものとする。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 法第三十五条の二の規定により政令で定める延べ面積が千平方メートルを超える建築物は、階数が二で延べ面積が千平方メートルを超えるもの又は階数が一で延べ面積が三千平方メートルを超えるもの（学校等の用途に供するものを除く。）以外のものとする。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 法第三十五条の二の規定により政令で定める建築物の調理室、浴室その他の室でかまど、こんろその他火を使用する設備又は器具を設けたものは、階数が二以上の住宅（住宅で事務所、店舗その他これらに類する用途を兼ねるものを含む。以下この項において同じ。）の用途に供する建築物（主要構造部を耐火構造としたものを除く。）の最上階以外の階又は住宅の用途に供する建築物以外の建築物（主要構造部を耐火構造としたものを除く。）に存する調理室、浴室、乾燥室、ボイラー室、作業室その他の室でかまど、こんろ、ストーブ、炉、ボイラー、内燃機関その他火を使用する設備又は器具を設けたもの（次条第六項において「内装の制限を受ける調理室等」という。）以外のものとする。

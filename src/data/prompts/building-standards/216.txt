@@ -1,0 +1,10 @@
+ArticleCaption: （帳簿の備付け等）
+ArticleTitle: 第七十七条の四十七
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 指定認定機関は、国土交通省令で定めるところにより、認定等の業務に関する事項で国土交通省令で定めるものを記載した帳簿を備え付け、これを保存しなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項に定めるもののほか、指定認定機関は、国土交通省令で定めるところにより、認定等の業務に関する書類で国土交通省令で定めるものを保存しなければならない。

@@ -1,0 +1,6 @@
+ArticleCaption: （認定等の義務）
+ArticleTitle: 第七十七条の四十四
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 指定認定機関は、認定等を行うべきことを求められたときは、正当な理由がある場合を除き、遅滞なく、認定等を行わなければならない。

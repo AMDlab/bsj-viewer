@@ -1,0 +1,34 @@
+ArticleCaption: （準工業地域内で営むことができる特殊の方法による事業）
+ArticleTitle: 第百三十条の九の七
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法別表第二（る）項第一号（法第八十七条第二項又は第三項において法第四十八条第十一項の規定を準用する場合を含む。）の規定により政令で定める特殊の方法による事業は、次に掲げるものとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 法別表第二（る）項第一号（五）に掲げる銅アンモニアレーヨンの製造のうち、液化アンモニアガス及びアンモニア濃度が三十パーセントを超えるアンモニア水を用いないもの
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 法別表第二（る）項第一号（十二）に掲げる圧縮ガスの製造のうち、次のいずれかに該当するもの
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 内燃機関の燃料として自動車に充塡するための圧縮天然ガスに係るもの
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 燃料電池又は内燃機関の燃料として自動車に充塡するための圧縮水素に係るものであつて、安全上及び防火上支障がないものとして国土交通大臣が定める基準に適合する製造設備を用いるもの
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 法別表第二（る）項第一号（十六）に掲げる合成繊維の製造のうち、国土交通大臣が安全上及び防火上支障がないと認めて定める物質を原料とするもの又は国土交通大臣が安全上及び防火上支障がないと認めて定める工程によるもの
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 法別表第二（る）項第一号（二十八）に掲げる事業のうち、スエージングマシン又はロールを用いるもの
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: 法別表第二（る）項第一号（三十）に掲げる事業のうち、集じん装置の使用その他国土交通大臣が石綿の粉じんの飛散の防止上有効であると認めて定める方法により行われるもの

@@ -1,0 +1,685 @@
+ArticleCaption: （政令への委任）
+ArticleTitle: 第五条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 前三条に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。
+    AppdxTable:
+      AppdxTableTitle: 別表第一
+      RelatedArticleNum: 　耐火建築物等としなければならない特殊建築物（第六条、第二十一条、第二十七条、第二十八条、第三十五条―第三十五条の三、第九十条の三関係）
+      TableStruct:
+Table:
+  TableRow:
+    TableColumn:
+      Sentence: 　
+    TableColumn:
+      Sentence: （い）
+    TableColumn:
+      Sentence: （ろ）
+    TableColumn:
+      Sentence: （は）
+    TableColumn:
+      Sentence: （に）
+  TableRow:
+    TableColumn:
+      Sentence: 　
+    TableColumn:
+      Sentence: 用途
+    TableColumn:
+      Sentence: （い）欄の用途に供する階
+    TableColumn:
+      Sentence: （い）欄の用途に供する部分（（一）項の場合にあつては客席、（二）項及び（四）項の場合にあつては二階、（五）項の場合にあつては三階以上の部分に限り、かつ、病院及び診療所についてはその部分に患者の収容施設がある場合に限る。）の床面積の合計
+    TableColumn:
+      Sentence: （い）欄の用途に供する部分の床面積の合計
+  TableRow:
+    TableColumn:
+      Sentence: （一）
+    TableColumn:
+      Sentence: 劇場、映画館、演芸場、観覧場、公会堂、集会場その他これらに類するもので政令で定めるもの
+    TableColumn:
+      Sentence: 三階以上の階
+    TableColumn:
+      Sentence: 二百平方メートル（屋外観覧席にあつては、千平方メートル）以上
+    TableColumn:
+      Sentence: 　
+  TableRow:
+    TableColumn:
+      Sentence: （二）
+    TableColumn:
+      Sentence: 病院、診療所（患者の収容施設があるものに限る。）、ホテル、旅館、下宿、共同住宅、寄宿舎その他これらに類するもので政令で定めるもの
+    TableColumn:
+      Sentence: 三階以上の階
+    TableColumn:
+      Sentence: 三百平方メートル以上
+    TableColumn:
+    Sentence:
+  TableRow:
+    TableColumn:
+      Sentence: （三）
+    TableColumn:
+      Sentence: 学校、体育館その他これらに類するもので政令で定めるもの
+    TableColumn:
+      Sentence: 三階以上の階
+    TableColumn:
+      Sentence: 二千平方メートル以上
+    TableColumn:
+    Sentence:
+  TableRow:
+    TableColumn:
+      Sentence: （四）
+    TableColumn:
+      Sentence: 百貨店、マーケット、展示場、キャバレー、カフェー、ナイトクラブ、バー、ダンスホール、遊技場その他これらに類するもので政令で定めるもの
+    TableColumn:
+      Sentence: 三階以上の階
+    TableColumn:
+      Sentence: 五百平方メートル以上
+    TableColumn:
+    Sentence:
+  TableRow:
+    TableColumn:
+      Sentence: （五）
+    TableColumn:
+      Sentence: 倉庫その他これに類するもので政令で定めるもの
+    TableColumn:
+      Sentence: 　
+    TableColumn:
+      Sentence: 二百平方メートル以上
+    TableColumn:
+      Sentence: 千五百平方メートル以上
+  TableRow:
+    TableColumn:
+      Sentence: （六）
+    TableColumn:
+      Sentence: 自動車車庫、自動車修理工場その他これらに類するもので政令で定めるもの
+    TableColumn:
+      Sentence: 三階以上の階
+    TableColumn:
+      Sentence: 　
+    TableColumn:
+      Sentence: 百五十平方メートル以上
+    AppdxTable:
+      AppdxTableTitle: 別表第二
+      RelatedArticleNum: 　用途地域等内の建築物の制限（第二十七条、第四十八条、第六十八条の三関係）
+      TableStruct:
+Table:
+  TableRow:
+    TableColumn:
+      Sentence: （い）
+    TableColumn:
+      Sentence: 第一種低層住居専用地域内に建築することができる建築物
+    TableColumn:
+      Sentence: 一　住宅
+      Sentence: 二　住宅で事務所、店舗その他これらに類する用途を兼ねるもののうち政令で定めるもの
+      Sentence: 三　共同住宅、寄宿舎又は下宿
+      Sentence: 四　学校（大学、高等専門学校、専修学校及び各種学校を除く。）、図書館その他これらに類するもの
+      Sentence: 五　神社、寺院、教会その他これらに類するもの
+      Sentence: 六　老人ホーム、保育所、福祉ホームその他これらに類するもの
+      Sentence: 七　公衆浴場（風俗営業等の規制及び業務の適正化等に関する法律（昭和二十三年法律第百二十二号）第二条第六項第一号に該当する営業（以下この表において「個室付浴場業」という。）に係るものを除く。）
+      Sentence: 八　診療所
+      Sentence: 九　巡査派出所、公衆電話所その他これらに類する政令で定める公益上必要な建築物
+      Sentence: 十　前各号の建築物に附属するもの（政令で定めるものを除く。）
+  TableRow:
+    TableColumn:
+      Sentence: （ろ）
+    TableColumn:
+      Sentence: 第二種低層住居専用地域内に建築することができる建築物
+    TableColumn:
+      Sentence: 一　（い）項第一号から第九号までに掲げるもの
+      Sentence: 二　店舗、飲食店その他これらに類する用途に供するもののうち政令で定めるものでその用途に供する部分の床面積の合計が百五十平方メートル以内のもの（三階以上の部分をその用途に供するものを除く。）
+      Sentence: 三　前二号の建築物に附属するもの（政令で定めるものを除く。）
+  TableRow:
+    TableColumn:
+      Sentence: （は）
+    TableColumn:
+      Sentence: 第一種中高層住居専用地域内に建築することができる建築物
+    TableColumn:
+      Sentence: 一　（い）項第一号から第九号までに掲げるもの
+      Sentence: 二　大学、高等専門学校、専修学校その他これらに類するもの
+      Sentence: 三　病院
+      Sentence: 四　老人福祉センター、児童厚生施設その他これらに類するもの
+      Sentence: 五　店舗、飲食店その他これらに類する用途に供するもののうち政令で定めるものでその用途に供する部分の床面積の合計が五百平方メートル以内のもの（三階以上の部分をその用途に供するものを除く。）
+      Sentence: 六　自動車車庫で床面積の合計が三百平方メートル以内のもの又は都市計画として決定されたもの（三階以上の部分をその用途に供するものを除く。）
+      Sentence: 七　公益上必要な建築物で政令で定めるもの
+      Sentence: 八　前各号の建築物に附属するもの（政令で定めるものを除く。）
+  TableRow:
+    TableColumn:
+      Sentence: （に）
+    TableColumn:
+      Sentence: 第二種中高層住居専用地域内に建築してはならない建築物
+    TableColumn:
+      Sentence: 一　（ほ）項第二号及び第三号、（へ）項第三号から第五号まで、（と）項第四号並びに（り）項第二号及び第三号に掲げるもの
+      Sentence: 二　工場（政令で定めるものを除く。）
+      Sentence: 三　ボーリング場、スケート場、水泳場その他これらに類する政令で定める運動施設
+      Sentence: 四　ホテル又は旅館
+      Sentence: 五　自動車教習所
+      Sentence: 六　政令で定める規模の畜舎
+      Sentence: 七　三階以上の部分を（は）項に掲げる建築物以外の建築物の用途に供するもの（政令で定めるものを除く。）
+      Sentence: 八　（は）項に掲げる建築物以外の建築物の用途に供するものでその用途に供する部分の床面積の合計が千五百平方メートルを超えるもの（政令で定めるものを除く。）
+  TableRow:
+    TableColumn:
+      Sentence: （ほ）
+    TableColumn:
+      Sentence: 第一種住居地域内に建築してはならない建築物
+    TableColumn:
+      Sentence: 一　（へ）項第一号から第五号までに掲げるもの
+      Sentence: 二　マージャン屋、ぱちんこ屋、射的場、勝馬投票券発売所、場外車券売場その他これらに類するもの
+      Sentence: 三　カラオケボックスその他これに類するもの
+      Sentence: 四　（は）項に掲げる建築物以外の建築物の用途に供するものでその用途に供する部分の床面積の合計が三千平方メートルを超えるもの（政令で定めるものを除く。）
+  TableRow:
+    TableColumn:
+      Sentence: （へ）
+    TableColumn:
+      Sentence: 第二種住居地域内に建築してはならない建築物
+    TableColumn:
+      Sentence: 一　（と）項第三号及び第四号並びに（り）項に掲げるもの
+      Sentence: 二　原動機を使用する工場で作業場の床面積の合計が五十平方メートルを超えるもの
+      Sentence: 三　劇場、映画館、演芸場若しくは観覧場又はナイトクラブその他これに類する政令で定めるもの
+      Sentence: 四　自動車車庫で床面積の合計が三百平方メートルを超えるもの又は三階以上の部分にあるもの（建築物に附属するもので政令で定めるもの又は都市計画として決定されたものを除く。）
+      Sentence: 五　倉庫業を営む倉庫
+      Sentence: 六　店舗、飲食店、展示場、遊技場、勝馬投票券発売所、場外車券売場その他これらに類する用途で政令で定めるものに供する建築物でその用途に供する部分の床面積の合計が一万平方メートルを超えるもの
+  TableRow:
+    TableColumn:
+      Sentence: （と）
+    TableColumn:
+      Sentence: 準住居地域内に建築してはならない建築物
+    TableColumn:
+      Sentence: 一　（り）項に掲げるもの
+      Sentence: 二　原動機を使用する工場で作業場の床面積の合計が五十平方メートルを超えるもの（作業場の床面積の合計が百五十平方メートルを超えない自動車修理工場を除く。）
+      Sentence: 三　次に掲げる事業（特殊の機械の使用その他の特殊の方法による事業であつて住居の環境を害するおそれがないものとして政令で定めるものを除く。）を営む工場
+      Sentence: （一）　容量十リットル以上三十リットル以下のアセチレンガス発生器を用いる金属の工作
+      Sentence: （一の二）　印刷用インキの製造
+      Sentence: （二）　出力の合計が〇・七五キロワット以下の原動機を使用する塗料の吹付
+      Sentence: （二の二）　原動機を使用する魚肉の練製品の製造
+      Sentence: （三）　原動機を使用する二台以下の研磨機による金属の乾燥研磨（工具研磨を除く。）
+      Sentence: （四）　コルク、エボナイト若しくは合成樹脂の粉砕若しくは乾燥研磨又は木材の粉砕で原動機を使用するもの
+      Sentence: （四の二）　厚さ〇・五ミリメートル以上の金属板のつち打加工（金属工芸品の製造を目的とするものを除く。）又は原動機を使用する金属のプレス（液圧プレスのうち矯正プレスを使用するものを除く。）若しくはせん断
+      Sentence: （四の三）　印刷用平版の研磨
+      Sentence: （四の四）　糖衣機を使用する製品の製造
+      Sentence: （四の五）　原動機を使用するセメント製品の製造
+      Sentence: （四の六）　ワイヤーフォーミングマシンを使用する金属線の加工で出力の合計が〇・七五キロワットを超える原動機を使用するもの
+      Sentence: （五）　木材の引割若しくはかんな削り、裁縫、機織、撚
+      Sentence: 糸、組ひも、編物、製袋又はやすりの目立で出力の合計が〇・七五キロワットを超える原動機を使用するもの
+      Sentence: （六）　製針又は石材の引割で出力の合計が一・五キロワットを超える原動機を使用するもの
+      Sentence: （七）　出力の合計が二・五キロワットを超える原動機を使用する製粉
+      Sentence: （八）　合成樹脂の射出成形加工
+      Sentence: （九）　出力の合計が十キロワットを超える原動機を使用する金属の切削
+      Sentence: （十）　メッキ
+      Sentence: （十一）　原動機の出力の合計が一・五キロワットを超える空気圧縮機を使用する作業
+      Sentence: （十二）　原動機を使用する印刷
+      Sentence: （十三）　ベンディングマシン（ロール式のものに限る。）を使用する金属の加工
+      Sentence: （十四）　タンブラーを使用する金属の加工
+      Sentence: （十五）　ゴム練用又は合成樹脂練用のロール機（カレンダーロール機を除く。）を使用する作業
+      Sentence: （十六）　（一）から（十五）までに掲げるもののほか、安全上若しくは防火上の危険の度又は衛生上若しくは健康上の有害の度が高いことにより、住居の環境を保護する上で支障があるものとして政令で定める事業
+      Sentence: 四　（る）項第一号（一）から（三）まで、（十一）又は（十二）の物品（（ぬ）項第四号及び（る）項第二号において「危険物」という。）の貯蔵又は処理に供するもので政令で定めるもの
+      Sentence: 五　劇場、映画館、演芸場若しくは観覧場のうち客席の部分の床面積の合計が二百平方メートル以上のもの又はナイトクラブその他これに類する用途で政令で定めるものに供する建築物でその用途に供する部分の床面積の合計が二百平方メートル以上のもの
+      Sentence: 六　前号に掲げるもののほか、劇場、映画館、演芸場若しくは観覧場、ナイトクラブその他これに類する用途で政令で定めるもの又は店舗、飲食店、展示場、遊技場、勝馬投票券発売所、場外車券売場その他これらに類する用途で政令で定めるものに供する建築物でその用途に供する部分（劇場、映画館、演芸場又は観覧場の用途に供する部分にあつては、客席の部分に限る。）の床面積の合計が一万平方メートルを超えるもの
+  TableRow:
+    TableColumn:
+      Sentence: （ち）
+    TableColumn:
+      Sentence: 田園住居地域内に建築することができる建築物
+    TableColumn:
+      Sentence: 一　（い）項第一号から第九号までに掲げるもの
+      Sentence: 二　農産物の生産、集荷、処理又は貯蔵に供するもの（政令で定めるものを除く。）
+      Sentence: 三　農業の生産資材の貯蔵に供するもの
+      Sentence: 四　地域で生産された農産物の販売を主たる目的とする店舗その他の農業の利便を増進するために必要な店舗、飲食店その他これらに類する用途に供するもののうち政令で定めるものでその用途に供する部分の床面積の合計が五百平方メートル以内のもの（三階以上の部分をその用途に供するものを除く。）
+      Sentence: 五　前号に掲げるもののほか、店舗、飲食店その他これらに類する用途に供するもののうち政令で定めるものでその用途に供する部分の床面積の合計が百五十平方メートル以内のもの（三階以上の部分をその用途に供するものを除く。）
+      Sentence: 六　前各号の建築物に附属するもの（政令で定めるものを除く。）
+  TableRow:
+    TableColumn:
+      Sentence: （り）
+    TableColumn:
+      Sentence: 近隣商業地域内に建築してはならない建築物
+    TableColumn:
+      Sentence: 一　（ぬ）項に掲げるもの
+      Sentence: 二　キャバレー、料理店その他これらに類するもの
+      Sentence: 三　個室付浴場業に係る公衆浴場その他これに類する政令で定めるもの
+  TableRow:
+    TableColumn:
+      Sentence: （ぬ）
+    TableColumn:
+      Sentence: 商業地域内に建築してはならない建築物
+    TableColumn:
+      Sentence: 一　（る）項第一号及び第二号に掲げるもの
+      Sentence: 二　原動機を使用する工場で作業場の床面積の合計が百五十平方メートルを超えるもの（日刊新聞の印刷所及び作業場の床面積の合計が三百平方メートルを超えない自動車修理工場を除く。）
+      Sentence: 三　次に掲げる事業（特殊の機械の使用その他の特殊の方法による事業であつて商業その他の業務の利便を害するおそれがないものとして政令で定めるものを除く。）を営む工場
+      Sentence: （一）　玩具煙火の製造
+      Sentence: （二）　アセチレンガスを用いる金属の工作（アセチレンガス発生器の容量三十リットル以下のもの又は溶解アセチレンガスを用いるものを除く。）
+      Sentence: （三）　引火性溶剤を用いるドライクリーニング、ドライダイイング又は塗料の加熱乾燥若しくは焼付（赤外線を用いるものを除く。）
+      Sentence: （四）　セルロイドの加熱加工又は機械のこぎりを使用する加工
+      Sentence: （五）　絵具又は水性塗料の製造
+      Sentence: （六）　出力の合計が〇・七五キロワットを超える原動機を使用する塗料の吹付
+      Sentence: （七）　亜硫酸ガスを用いる物品の漂白
+      Sentence: （八）　骨炭その他動物質炭の製造
+      Sentence: （八の二）　せつけんの製造
+      Sentence: （八の三）　魚粉、フェザーミール、肉骨粉、肉粉若しくは血粉又はこれらを原料とする飼料の製造
+      Sentence: （八の四）　手すき紙の製造
+      Sentence: （九）　羽又は毛の洗浄、染色又は漂白
+      Sentence: （十）　ぼろ、くず綿、くず紙、くず糸、くず毛その他これらに類するものの消毒、選別、洗浄又は漂白
+      Sentence: （十一）　製綿、古綿の再製、起毛、せん毛、反毛又はフェルトの製造で原動機を使用するもの
+      Sentence: （十二）　骨、角、牙、ひづめ若しくは貝殻の引割若しくは乾燥研磨又は三台以上の研磨機による金属の乾燥研磨で原動機を使用するもの
+      Sentence: （十三）　鉱物、岩石、土砂、コンクリート、アスファルト・コンクリート、硫黄、金属、ガラス、れんが、陶磁器、骨又は貝殻の粉砕で原動機を使用するもの
+      Sentence: （十三の二）　レディーミクストコンクリートの製造又はセメントの袋詰で出力の合計が二・五キロワットを超える原動機を使用するもの
+      Sentence: （十四）　墨、懐炉灰又はれん炭の製造
+      Sentence: （十五）　活字若しくは金属工芸品の鋳造又は金属の溶融で容量の合計が五十リットルを超えないるつぼ又は窯を使用するもの（印刷所における活字の鋳造を除く。）
+      Sentence: （十六）　瓦、れんが、土器、陶磁器、人造砥
+      Sentence: 石、るつぼ又はほうろう鉄器の製造
+      Sentence: （十七）　ガラスの製造又は砂吹
+      Sentence: （十七の二）　金属の溶射又は砂吹
+      Sentence: （十七の三）　鉄板の波付加工
+      Sentence: （十七の四）　ドラム缶の洗浄又は再生
+      Sentence: （十八）　スプリングハンマーを使用する金属の鍛造
+      Sentence: （十九）　伸線、伸管又はロールを用いる金属の圧延で出力の合計が四キロワット以下の原動機を使用するもの
+      Sentence: （二十）　（一）から（十九）までに掲げるもののほか、安全上若しくは防火上の危険の度又は衛生上若しくは健康上の有害の度が高いことにより、商業その他の業務の利便を増進する上で支障があるものとして政令で定める事業
+      Sentence: 四　危険物の貯蔵又は処理に供するもので政令で定めるもの
+  TableRow:
+    TableColumn:
+      Sentence: （る）
+    TableColumn:
+      Sentence: 準工業地域内に建築してはならない建築物
+    TableColumn:
+      Sentence: 一　次に掲げる事業（特殊の機械の使用その他の特殊の方法による事業であつて環境の悪化をもたらすおそれのない工業の利便を害するおそれがないものとして政令で定めるものを除く。）を営む工場
+      Sentence: （一）　火薬類取締法（昭和二十五年法律第百四十九号）の火薬類（玩具煙火を除く。）の製造
+      Sentence: （二）　消防法（昭和二十三年法律第百八十六号）第二条第七項に規定する危険物の製造（政令で定めるものを除く。）
+      Sentence: （三）　マッチの製造
+      Sentence: （四）　ニトロセルロース製品の製造
+      Sentence: （五）　ビスコース製品、アセテート又は銅アンモニアレーヨンの製造
+      Sentence: （六）　合成染料若しくはその中間物、顔料又は塗料の製造（漆又は水性塗料の製造を除く。）
+      Sentence: （七）　引火性溶剤を用いるゴム製品又は芳香油の製造
+      Sentence: （八）　乾燥油又は引火性溶剤を用いる擬革紙布又は防水紙布の製造
+      Sentence: （九）　木材を原料とする活性炭の製造（水蒸気法によるものを除く。）
+      Sentence: （十）　石炭ガス類又はコークスの製造
+      Sentence: （十一）　可燃性ガスの製造（政令で定めるものを除く。）
+      Sentence: （十二）　圧縮ガス又は液化ガスの製造（製氷又は冷凍を目的とするものを除く。）
+      Sentence: （十三）　塩素、臭素、ヨード、硫黄、塩化硫黄、弗
+      Sentence: 化水素酸、塩酸、硝酸、硫酸、燐
+      Sentence: 酸、苛性カリ、苛性ソーダ、アンモニア水、炭酸カリ、洗濯ソーダ、ソーダ灰、さらし粉、次硝酸蒼
+      Sentence: 鉛、亜硫酸塩類、チオ硫酸塩類、砒
+      Sentence: 素化合物、鉛化合物、バリウム化合物、銅化合物、水銀化合物、シアン化合物、クロールズルホン酸、クロロホルム、四塩化炭素、ホルマリン、ズルホナール、グリセリン、イヒチオールズルホン酸アンモン、酢酸、石炭酸、安息香酸、タンニン酸、アセトアニリド、アスピリン又はグアヤコールの製造
+      Sentence: （十四）　たんぱく質の加水分解による製品の製造
+      Sentence: （十五）　油脂の採取、硬化又は加熱加工（化粧品の製造を除く。）
+      Sentence: （十六）　ファクチス、合成樹脂、合成ゴム又は合成繊維の製造
+      Sentence: （十七）　肥料の製造
+      Sentence: （十八）　製紙（手すき紙の製造を除く。）又はパルプの製造
+      Sentence: （十九）　製革、にかわの製造又は毛皮若しくは骨の精製
+      Sentence: （二十）　アスファルトの精製
+      Sentence: （二十一）　アスファルト、コールタール、木タール、石油蒸溜
+      Sentence: 産物又はその残りかすを原料とする製造
+      Sentence: （二十二）　セメント、石膏
+      Sentence: 、消石灰、生石灰又はカーバイドの製造
+      Sentence: （二十三）　金属の溶融又は精練（容量の合計が五十リットルを超えないるつぼ若しくは窯を使用するもの又は活字若しくは金属工芸品の製造を目的とするものを除く。）
+      Sentence: （二十四）　炭素粉を原料とする炭素製品若しくは黒鉛製品の製造又は黒鉛の粉砕
+      Sentence: （二十五）　金属厚板又は形鋼の工作で原動機を使用するはつり作業（グラインダーを用いるものを除く。）、びよう打作業又は孔
+      Sentence: 埋作業を伴うもの
+      Sentence: （二十六）　鉄釘類又は鋼球の製造
+      Sentence: （二十七）　伸線、伸管又はロールを用いる金属の圧延で出力の合計が四キロワットを超える原動機を使用するもの
+      Sentence: （二十八）　鍛造機（スプリングハンマーを除く。）を使用する金属の鍛造
+      Sentence: （二十九）　動物の臓器又は排せつ物を原料とする医薬品の製造
+      Sentence: （三十）　石綿を含有する製品の製造又は粉砕
+      Sentence: （三十一）　（一）から（三十）までに掲げるもののほか、安全上若しくは防火上の危険の度又は衛生上若しくは健康上の有害の度が高いことにより、環境の悪化をもたらすおそれのない工業の利便を増進する上で支障があるものとして政令で定める事業
+      Sentence: 二　危険物の貯蔵又は処理に供するもので政令で定めるもの
+      Sentence: 三　個室付浴場業に係る公衆浴場その他これに類する政令で定めるもの
+  TableRow:
+    TableColumn:
+      Sentence: （を）
+    TableColumn:
+      Sentence: 工業地域内に建築してはならない建築物
+    TableColumn:
+      Sentence: 一　（る）項第三号に掲げるもの
+      Sentence: 二　ホテル又は旅館
+      Sentence: 三　キャバレー、料理店その他これらに類するもの
+      Sentence: 四　劇場、映画館、演芸場若しくは観覧場又はナイトクラブその他これに類する政令で定めるもの
+      Sentence: 五　学校（幼保連携型認定こども園を除く。）
+      Sentence: 六　病院
+      Sentence: 七　店舗、飲食店、展示場、遊技場、勝馬投票券発売所、場外車券売場その他これらに類する用途で政令で定めるものに供する建築物でその用途に供する部分の床面積の合計が一万平方メートルを超えるもの
+  TableRow:
+    TableColumn:
+      Sentence: （わ）
+    TableColumn:
+      Sentence: 工業専用地域内に建築してはならない建築物
+    TableColumn:
+      Sentence: 一　（を）項に掲げるもの
+      Sentence: 二　住宅
+      Sentence: 三　共同住宅、寄宿舎又は下宿
+      Sentence: 四　老人ホーム、福祉ホームその他これらに類するもの
+      Sentence: 五　物品販売業を営む店舗又は飲食店
+      Sentence: 六　図書館、博物館その他これらに類するもの
+      Sentence: 七　ボーリング場、スケート場、水泳場その他これらに類する政令で定める運動施設
+      Sentence: 八　マージャン屋、ぱちんこ屋、射的場、勝馬投票券発売所、場外車券売場その他これらに類するもの
+  TableRow:
+    TableColumn:
+      Sentence: （か）
+    TableColumn:
+      Sentence: 用途地域の指定のない区域（都市計画法第七条第一項に規定する市街化調整区域を除く。）内に建築してはならない建築物
+    TableColumn:
+      Sentence: 劇場、映画館、演芸場若しくは観覧場、ナイトクラブその他これに類する用途で政令で定めるもの又は店舗、飲食店、展示場、遊技場、勝馬投票券発売所、場外車券売場その他これらに類する用途で政令で定めるものに供する建築物でその用途に供する部分（劇場、映画館、演芸場又は観覧場の用途に供する部分にあつては、客席の部分に限る。）の床面積の合計が一万平方メートルを超えるもの
+    AppdxTable:
+      AppdxTableTitle: 別表第三
+      RelatedArticleNum: 　前面道路との関係についての建築物の各部分の高さの制限（第五十六条、第九十一条関係）
+      TableStruct:
+Table:
+  TableRow:
+    TableColumn:
+      Sentence: 　
+    TableColumn:
+      Sentence: （い）
+    TableColumn:
+      Sentence: （ろ）
+    TableColumn:
+      Sentence: （は）
+    TableColumn:
+      Sentence: （に）
+  TableRow:
+    TableColumn:
+      Sentence: 　
+    TableColumn:
+      Sentence: 建築物がある地域、地区又は区域
+    TableColumn:
+      Sentence: 第五十二条第一項、第二項、第七項及び第九項の規定による容積率の限度
+    TableColumn:
+      Sentence: 距離
+    TableColumn:
+      Sentence: 数値
+  TableRow:
+    TableColumn:
+      Sentence: 一
+    TableColumn:
+      Sentence: 第一種低層住居専用地域、第二種低層住居専用地域、第一種中高層住居専用地域、第二種中高層住居専用地域若しくは田園住居地域内の建築物又は第一種住居地域、第二種住居地域若しくは準住居地域内の建築物（四の項に掲げる建築物を除く。）
+    TableColumn:
+      Sentence: 十分の二十以下の場合
+    TableColumn:
+      Sentence: 二十メートル
+    TableColumn:
+      Sentence: 一・二五
+  TableRow:
+    TableColumn:
+      Sentence: 十分の二十を超え、十分の三十以下の場合
+    TableColumn:
+      Sentence: 二十五メートル
+  TableRow:
+    TableColumn:
+      Sentence: 十分の三十を超え、十分の四十以下の場合
+    TableColumn:
+      Sentence: 三十メートル
+  TableRow:
+    TableColumn:
+      Sentence: 十分の四十を超える場合
+    TableColumn:
+      Sentence: 三十五メートル
+  TableRow:
+    TableColumn:
+      Sentence: 二
+    TableColumn:
+      Sentence: 近隣商業地域又は商業地域内の建築物
+    TableColumn:
+      Sentence: 十分の四十以下の場合
+    TableColumn:
+      Sentence: 二十メートル
+    TableColumn:
+      Sentence: 一・五
+  TableRow:
+    TableColumn:
+      Sentence: 十分の四十を超え、十分の六十以下の場合
+    TableColumn:
+      Sentence: 二十五メートル
+  TableRow:
+    TableColumn:
+      Sentence: 十分の六十を超え、十分の八十以下の場合
+    TableColumn:
+      Sentence: 三十メートル
+  TableRow:
+    TableColumn:
+      Sentence: 十分の八十を超え、十分の百以下の場合
+    TableColumn:
+      Sentence: 三十五メートル
+  TableRow:
+    TableColumn:
+      Sentence: 十分の百を超え、十分の百十以下の場合
+    TableColumn:
+      Sentence: 四十メートル
+  TableRow:
+    TableColumn:
+      Sentence: 十分の百十を超え、十分の百二十以下の場合
+    TableColumn:
+      Sentence: 四十五メートル
+  TableRow:
+    TableColumn:
+      Sentence: 十分の百二十を超える場合
+    TableColumn:
+      Sentence: 五十メートル
+  TableRow:
+    TableColumn:
+      Sentence: 三
+    TableColumn:
+      Sentence: 準工業地域内の建築物（四の項に掲げる建築物を除く。）又は工業地域若しくは工業専用地域内の建築物
+    TableColumn:
+      Sentence: 十分の二十以下の場合
+    TableColumn:
+      Sentence: 二十メートル
+    TableColumn:
+      Sentence: 一・五
+  TableRow:
+    TableColumn:
+      Sentence: 十分の二十を超え、十分の三十以下の場合
+    TableColumn:
+      Sentence: 二十五メートル
+  TableRow:
+    TableColumn:
+      Sentence: 十分の三十を超え、十分の四十以下の場合
+    TableColumn:
+      Sentence: 三十メートル
+  TableRow:
+    TableColumn:
+      Sentence: 十分の四十を超える場合
+    TableColumn:
+      Sentence: 三十五メートル
+  TableRow:
+    TableColumn:
+      Sentence: 四
+    TableColumn:
+      Sentence: 第一種住居地域、第二種住居地域、準住居地域又は準工業地域内について定められた高層住居誘導地区内の建築物であつて、その住宅の用途に供する部分の床面積の合計がその延べ面積の三分の二以上であるもの
+    TableColumn:
+      Sentence: 　
+    TableColumn:
+      Sentence: 三十五メートル
+    TableColumn:
+      Sentence: 一・五
+  TableRow:
+    TableColumn:
+      Sentence: 五
+    TableColumn:
+      Sentence: 用途地域の指定のない区域内の建築物
+    TableColumn:
+      Sentence: 十分の二十以下の場合
+    TableColumn:
+      Sentence: 二十メートル
+    TableColumn:
+      Sentence: 一・二五又は一・五のうち、特定行政庁が土地利用の状況等を考慮し当該区域を区分して都道府県都市計画審議会の議を経て定めるもの
+  TableRow:
+    TableColumn:
+      Sentence: 十分の二十を超え、十分の三十以下の場合
+    TableColumn:
+      Sentence: 二十五メートル
+  TableRow:
+    TableColumn:
+      Sentence: 十分の三十を超える場合
+    TableColumn:
+      Sentence: 三十メートル
+  TableRow:
+    TableColumn:
+      Sentence: 備考
+      Sentence: 一　建築物がこの表（い）欄に掲げる地域、地区又は区域の二以上にわたる場合においては、同欄中「建築物」とあるのは、「建築物の部分」とする。
+      Sentence: 二　建築物の敷地がこの表（い）欄に掲げる地域、地区又は区域の二以上にわたる場合における同表（は）欄に掲げる距離の適用に関し必要な事項は、政令で定める。
+      Sentence: 三　この表（い）欄一の項に掲げる第一種中高層住居専用地域若しくは第二種中高層住居専用地域（第五十二条第一項第二号の規定により、容積率の限度が十分の四十以上とされている地域に限る。）又は第一種住居地域、第二種住居地域若しくは準住居地域のうち、特定行政庁が都道府県都市計画審議会の議を経て指定する区域内の建築物については、（は）欄一の項中「二十五メートル」とあるのは「二十メートル」と、「三十メートル」とあるのは「二十五メートル」と、「三十五メートル」とあるのは「三十メートル」と、（に）欄一の項中「一・二五」とあるのは「一・五」とする。
+    AppdxTable:
+      AppdxTableTitle: 別表第四
+      RelatedArticleNum: 　日影による中高層の建築物の制限（第五十六条、第五十六条の二関係）
+      TableStruct:
+Table:
+  TableRow:
+    TableColumn:
+      Sentence: 　
+    TableColumn:
+      Sentence: （い）
+    TableColumn:
+      Sentence: （ろ）
+    TableColumn:
+      Sentence: （は）
+    TableColumn:
+      Sentence: （に）
+  TableRow:
+    TableColumn:
+      Sentence: 　
+    TableColumn:
+      Sentence: 地域又は区域
+    TableColumn:
+      Sentence: 制限を受ける建築物
+    TableColumn:
+      Sentence: 平均地盤面からの高さ
+    TableColumn:
+      Sentence: 　
+    TableColumn:
+      Sentence: 敷地境界線からの水平距離が十メートル以内の範囲における日影時間
+    TableColumn:
+      Sentence: 敷地境界線からの水平距離が十メートルを超える範囲における日影時間
+  TableRow:
+    TableColumn:
+      Sentence: 一
+    TableColumn:
+      Sentence: 第一種低層住居専用地域、第二種低層住居専用地域又は田園住居地域
+    TableColumn:
+      Sentence: 軒の高さが七メートルを超える建築物又は地階を除く階数が三以上の建築物
+    TableColumn:
+      Sentence: 一・五メートル
+    TableColumn:
+      Sentence: （一）
+    TableColumn:
+      Sentence: 三時間（道の区域内にあつては、二時間）
+    TableColumn:
+      Sentence: 二時間（道の区域内にあつては、一・五時間）
+  TableRow:
+    TableColumn:
+      Sentence: （二）
+    TableColumn:
+      Sentence: 四時間（道の区域内にあつては、三時間）
+    TableColumn:
+      Sentence: 二・五時間（道の区域内にあつては、二時間）
+  TableRow:
+    TableColumn:
+      Sentence: （三）
+    TableColumn:
+      Sentence: 五時間（道の区域内にあつては、四時間）
+    TableColumn:
+      Sentence: 三時間（道の区域内にあつては、二・五時間）
+  TableRow:
+    TableColumn:
+      Sentence: 二
+    TableColumn:
+      Sentence: 第一種中高層住居専用地域又は第二種中高層住居専用地域
+    TableColumn:
+      Sentence: 高さが十メートルを超える建築物
+    TableColumn:
+      Sentence: 四メートル又は六・五メートル
+    TableColumn:
+      Sentence: （一）
+    TableColumn:
+      Sentence: 三時間（道の区域内にあつては、二時間）
+    TableColumn:
+      Sentence: 二時間（道の区域内にあつては、一・五時間）
+  TableRow:
+    TableColumn:
+      Sentence: （二）
+    TableColumn:
+      Sentence: 四時間（道の区域内にあつては、三時間）
+    TableColumn:
+      Sentence: 二・五時間（道の区域内にあつては、二時間）
+  TableRow:
+    TableColumn:
+      Sentence: （三）
+    TableColumn:
+      Sentence: 五時間（道の区域内にあつては、四時間）
+    TableColumn:
+      Sentence: 三時間（道の区域内にあつては、二・五時間）
+  TableRow:
+    TableColumn:
+      Sentence: 三
+    TableColumn:
+      Sentence: 第一種住居地域、第二種住居地域、準住居地域、近隣商業地域又は準工業地域
+    TableColumn:
+      Sentence: 高さが十メートルを超える建築物
+    TableColumn:
+      Sentence: 四メートル又は六・五メートル
+    TableColumn:
+      Sentence: （一）
+    TableColumn:
+      Sentence: 四時間（道の区域内にあつては、三時間）
+    TableColumn:
+      Sentence: 二・五時間（道の区域内にあつては、二時間）
+  TableRow:
+    TableColumn:
+      Sentence: （二）
+    TableColumn:
+      Sentence: 五時間（道の区域内にあつては、四時間）
+    TableColumn:
+      Sentence: 三時間（道の区域内にあつては、二・五時間）
+  TableRow:
+    TableColumn:
+      Sentence: 四
+    TableColumn:
+      Sentence: 用途地域の指定のない区域
+    TableColumn:
+      Sentence: イ
+    TableColumn:
+      Sentence: 軒の高さが七メートルを超える建築物又は地階を除く階数が三以上の建築物
+    TableColumn:
+      Sentence: 一・五メートル
+    TableColumn:
+      Sentence: （一）
+    TableColumn:
+      Sentence: 三時間（道の区域内にあつては、二時間）
+    TableColumn:
+      Sentence: 二時間（道の区域内にあつては、一・五時間）
+  TableRow:
+    TableColumn:
+      Sentence: （二）
+    TableColumn:
+      Sentence: 四時間（道の区域内にあつては、三時間）
+    TableColumn:
+      Sentence: 二・五時間（道の区域内にあつては、二時間）
+  TableRow:
+    TableColumn:
+      Sentence: （三）
+    TableColumn:
+      Sentence: 五時間（道の区域内にあつては、四時間）
+    TableColumn:
+      Sentence: 三時間（道の区域内にあつては、二・五時間）
+  TableRow:
+    TableColumn:
+      Sentence: ロ
+    TableColumn:
+      Sentence: 高さが十メートルを超える建築物
+    TableColumn:
+      Sentence: 四メートル
+    TableColumn:
+      Sentence: （一）
+    TableColumn:
+      Sentence: 三時間（道の区域内にあつては、二時間）
+    TableColumn:
+      Sentence: 二時間（道の区域内にあつては、一・五時間）
+  TableRow:
+    TableColumn:
+      Sentence: （二）
+    TableColumn:
+      Sentence: 四時間（道の区域内にあつては、三時間）
+    TableColumn:
+      Sentence: 二・五時間（道の区域内にあつては、二時間）
+  TableRow:
+    TableColumn:
+      Sentence: （三）
+    TableColumn:
+      Sentence: 五時間（道の区域内にあつては、四時間）
+    TableColumn:
+      Sentence: 三時間（道の区域内にあつては、二・五時間）
+  TableRow:
+    TableColumn:
+      Sentence: 　この表において、平均地盤面からの高さとは、当該建築物が周囲の地面と接する位置の平均の高さにおける水平面からの高さをいうものとする。

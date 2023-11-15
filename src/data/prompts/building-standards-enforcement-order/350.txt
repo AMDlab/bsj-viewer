@@ -1,0 +1,6 @@
+ArticleCaption: （窓その他の開口部を有しない居室）
+ArticleTitle: 第百四十四条の五
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第四十三条第三項第三号の規定により政令で定める窓その他の開口部を有しない居室は、第百十六条の二に規定するものとする。

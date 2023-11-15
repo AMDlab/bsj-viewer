@@ -1,0 +1,54 @@
+ArticleCaption: （登録の消除等）
+ArticleTitle: 第七十七条の六十二
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、次の各号のいずれかに掲げる場合は、第七十七条の五十八第一項の登録を消除しなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 本人から登録の消除の申請があつたとき。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 前条（第三号に係る部分を除く。次号において同じ。）の規定による届出があつたとき。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 前条の規定による届出がなくて同条第一号又は第二号に該当する事実が判明したとき。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 不正な手段により登録を受けたとき。
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: 第五条第六項又は第五条の二第二項の規定により、建築基準適合判定資格者検定の合格の決定を取り消されたとき。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、建築基準適合判定資格者が次の各号のいずれかに該当するときは、一年以内の期間を定めて確認検査の業務を行うことを禁止し、又はその登録を消除することができる。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 前条（第三号に係る部分に限る。次号において同じ。）の規定による届出があつたとき。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 前条の規定による届出がなくて同条第三号に該当する事実が判明したとき。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 第十八条の三第三項の規定に違反して、確認審査等を実施したとき。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 第七十七条の二十七第一項の認可を受けた確認検査業務規程に違反したとき。
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: 確認検査の業務に関し著しく不適当な行為をしたとき。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、前二項の規定による処分をしたときは、国土交通省令で定めるところにより、その旨を公告しなければならない。

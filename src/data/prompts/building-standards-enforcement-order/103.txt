@@ -1,6 +1,7 @@
 ArticleCaption: （コンクリートの材料）
 ArticleTitle: 第七十二条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 鉄筋コンクリート造に使用するコンクリートの材料は、次の各号に定めるところによらなければならない。
   Item:

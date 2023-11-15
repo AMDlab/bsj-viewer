@@ -1,0 +1,204 @@
+ArticleCaption: （遊戯施設）
+ArticleTitle: 第百四十四条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 第百三十八条第二項第二号又は第三号に掲げる遊戯施設（以下この条において単に「遊戯施設」という。）に関する法第八十八条第一項において読み替えて準用する法第二十条第一項の政令で定める技術的基準は、次のとおりとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 籠、車両その他人を乗せる部分（以下この条において「客席部分」という。）を支え、又は吊
+      Sentence: る構造上主要な部分（以下この条において「主要な支持部分」という。）のうち摩損又は疲労破壊が生ずるおそれのある部分以外の部分の構造は、次に掲げる基準に適合するものとすること。
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 構造耐力上安全なものとして国土交通大臣が定めた構造方法を用いるものであること。
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 高さが六十メートルを超える遊戯施設にあつては、その用いる構造方法が、荷重及び外力によつて主要な支持部分に連続的に生ずる力及び変形を把握することその他の国土交通大臣が定める基準に従つた構造計算によつて安全性が確かめられたものとして国土交通大臣の認定を受けたものであること。
+    Subitem1:
+      Subitem1Title: ハ
+      Subitem1Sentence:
+        Sentence: 高さが六十メートル以下の遊戯施設にあつては、その用いる構造方法が、次の（１）又は（２）のいずれかに適合するものであること。
+      Subitem2:
+        Subitem2Title: （１）
+        Subitem2Sentence:
+          Sentence: 国土交通大臣が定める基準に従つた構造計算によつて確かめられる安全性を有すること。
+      Subitem2:
+        Subitem2Title: （２）
+        Subitem2Sentence:
+          Sentence: ロの国土交通大臣が定める基準に従つた構造計算によつて安全性が確かめられたものとして国土交通大臣の認定を受けたものであること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 軌条又は索条を用いるものにあつては、客席部分が当該軌条又は索条から脱落するおそれのない構造とすること。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 遊戯施設の客席部分の構造は、次に掲げる基準に適合するものとすること。
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 走行又は回転時の衝撃及び非常止め装置の作動時の衝撃が加えられた場合に、客席にいる人を落下させないものとして、国土交通大臣が定めた構造方法を用いるもの又は国土交通大臣の認定を受けたものであること。
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 客席部分は、堅固で、かつ、客席にいる人が他の構造部分に触れることにより危害を受けるおそれのないものとして国土交通大臣が定めた構造方法を用いるものであること。
+    Subitem1:
+      Subitem1Title: ハ
+      Subitem1Sentence:
+        Sentence: 客席部分には、定員を明示した標識を見やすい場所に掲示すること。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 動力が切れた場合、駆動装置に故障が生じた場合その他客席にいる人が危害を受けるおそれのある事故が発生し、又は発生するおそれのある場合に自動的に作動する非常止め装置を設けること。
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: 前号の非常止め装置の構造は、自動的に作動し、かつ、当該客席部分以外の遊戯施設の部分に衝突することなく制止できるものとして、国土交通大臣が定めた構造方法を用いるもの又は国土交通大臣の認定を受けたものとすること。
+  Item:
+    ItemTitle: 六
+    ItemSentence:
+      Sentence: 前各号に定めるもののほか、客席にいる人その他当該遊戯施設の周囲の人の安全を確保することができるものとして国土交通大臣が定めた構造方法を用いるものであること。
+  Item:
+    ItemTitle: 七
+    ItemSentence:
+      Sentence: 次項において読み替えて準用する第百二十九条の四（第一項第一号イを除く。）及び第百二十九条の五第一項の規定に適合する構造方法を用いること。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 遊戯施設については第七章の八の規定を、その主要な支持部分のうち摩損又は疲労破壊が生ずるおそれのある部分については第百二十九条の四（第一項第一号イを除く。）及び第百二十九条の五第一項の規定を準用する。
+    Sentence: この場合において、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句に読み替えるものとする。
+  TableStruct:
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: 第百二十九条の四の見出し、同条第一項（第二号を除く。）、第二項第三号及び第四号並びに第三項（第七号を除く。）並びに第百二十九条の五の見出し及び同条第一項
+        TableColumn:
+          Sentence: エレベーター
+        TableColumn:
+          Sentence: 遊戯施設
+      TableRow:
+        TableColumn:
+          Sentence: 第百二十九条の四第一項
+        TableColumn:
+          Sentence: かご及びかごを支え、又は吊
+          Sentence: る構造上主要な部分（
+        TableColumn:
+          Sentence: 客席部分を支え、又は吊
+          Sentence: る構造上主要な部分（摩損又は疲労破壊を生ずるおそれのある部分に限る。
+      TableRow:
+        TableColumn:
+          Sentence: 第百二十九条の四
+        TableColumn:
+          Sentence: かご及び主要な支持部分
+        TableColumn:
+          Sentence: 主要な支持部分
+      TableRow:
+        TableColumn:
+          Sentence: 第百二十九条の四第一項第一号ロ、第二項第四号並びに第三項第二号及び第四号
+        TableColumn:
+          Sentence: かご
+        TableColumn:
+          Sentence: 客席部分
+      TableRow:
+        TableColumn:
+          Sentence: 第百二十九条の四第一項第一号ロ
+        TableColumn:
+          Sentence: 昇降に
+        TableColumn:
+          Sentence: 走行又は回転に
+      TableRow:
+        TableColumn:
+          Sentence: 第百二十九条の四第一項第一号ロ及び第二項第二号
+        TableColumn:
+          Sentence: 通常の昇降時
+        TableColumn:
+          Sentence: 通常の走行又は回転時
+      TableRow:
+        TableColumn:
+          Sentence: 第百二十九条の四第一項第二号
+        TableColumn:
+          Sentence: かごを主索で吊
+          Sentence: るエレベーター、油圧エレベーターその他国土交通大臣が定めるエレベーター
+        TableColumn:
+          Sentence: 客席部分を主索で吊
+          Sentence: る遊戯施設その他国土交通大臣が定める遊戯施設
+      TableRow:
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 前号イ及びロ
+        TableColumn:
+          Sentence: 前号ロ
+      TableRow:
+        TableColumn:
+          Sentence: 第百二十九条の四第一項第二号及び第二項
+        TableColumn:
+          Sentence: エレベーター強度検証法
+        TableColumn:
+          Sentence: 遊戯施設強度検証法
+      TableRow:
+        TableColumn:
+          Sentence: 第百二十九条の四第一項第三号
+        TableColumn:
+          Sentence: 第一号イ及びロ
+        TableColumn:
+          Sentence: 第一号ロ
+      TableRow:
+        TableColumn:
+          Sentence: 第百二十九条の四第二項
+        TableColumn:
+          Sentence: 、エレベーター
+        TableColumn:
+          Sentence: 、遊戯施設
+      TableRow:
+        TableColumn:
+          Sentence: 第百二十九条の四第二項第一号
+        TableColumn:
+          Sentence: 次条に規定する荷重
+        TableColumn:
+          Sentence: 次条第一項に規定する固定荷重及び国土交通大臣が定める積載荷重
+      TableRow:
+        TableColumn:
+        Sentence:
+        TableColumn:
+          Sentence: 主要な支持部分並びにかごの床版及び枠（以下この条において「主要な支持部分等」という。）
+        TableColumn:
+          Sentence: 主要な支持部分
+      TableRow:
+        TableColumn:
+          Sentence: 第百二十九条の四第二項第二号及び第三号
+        TableColumn:
+          Sentence: 主要な支持部分等
+        TableColumn:
+          Sentence: 主要な支持部分
+      TableRow:
+        TableColumn:
+          Sentence: 第百二十九条の四第二項第二号
+        TableColumn:
+          Sentence: 昇降する
+        TableColumn:
+          Sentence: 走行し、又は回転する
+      TableRow:
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 次条第二項に規定する
+        TableColumn:
+          Sentence: 国土交通大臣が定める
+      TableRow:
+        TableColumn:
+          Sentence: 第百二十九条の四第三項第二号
+        TableColumn:
+          Sentence: 主要な支持部分のうち、摩損又は疲労破壊を生ずるおそれのあるものにあつては、二以上
+        TableColumn:
+          Sentence: 二以上
+      TableRow:
+        TableColumn:
+          Sentence: 第百二十九条の四第三項第七号
+        TableColumn:
+          Sentence: エレベーターで昇降路の壁の全部又は一部を有しないもの
+        TableColumn:
+          Sentence: 遊戯施設

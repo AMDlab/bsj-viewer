@@ -1,0 +1,34 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この法律は、公布の日から起算して六月をこえない範囲内において政令で定める日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、公布の日から起算して六月をこえない範囲内において政令で定める日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、公布の日から起算して一年をこえない範囲内において政令で定める日から施行する。
+      Paragraph:
+ParagraphCaption: （工業専用地域内の建築物の建築面積の敷地面積に対する割合に関する経過措置）
+ParagraphNum: ２
+ParagraphSentence:
+  Sentence: この法律の施行の際現に存する工業専用地域については、当該工業専用地域内の建築物の建築面積の敷地面積に対する割合は、十分の六と定められているものとみなす。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、公布の日から起算して三箇月を経過した日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

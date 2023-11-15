@@ -1,0 +1,18 @@
+ArticleCaption: （屋外への出口）
+ArticleTitle: 第百二十五条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 避難階においては、階段から屋外への出口の一に至る歩行距離は第百二十条に規定する数値以下と、居室（避難上有効な開口部を有するものを除く。）の各部分から屋外への出口の一に至る歩行距離は同条に規定する数値の二倍以下としなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 劇場、映画館、演芸場、観覧場、公会堂又は集会場の客用に供する屋外への出口の戸は、内開きとしてはならない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 物品販売業を営む店舗の避難階に設ける屋外への出口の幅の合計は、床面積が最大の階における床面積百平方メートルにつき六十センチメートルの割合で計算した数値以上としなければならない。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 前条第三項の規定は、前項の場合に準用する。

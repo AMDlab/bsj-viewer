@@ -1,5 +1,8 @@
 ArticleCaption: （居室を有する建築物のホルムアルデヒドに関する技術的基準の特例）
 ArticleTitle: 第二十条の九
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 前二条の規定は、一年を通じて、当該居室内の人が通常活動することが想定される空間のホルムアルデヒドの量を空気一立方メートルにつきおおむね〇・一ミリグラム以下に保つことができるものとして、国土交通大臣の認定を受けた居室については、適用しない。
+        Section:
+          SectionTitle: 第二節　居室の天井の高さ、床の高さ及び防湿方法

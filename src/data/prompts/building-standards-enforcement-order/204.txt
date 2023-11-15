@@ -1,0 +1,10 @@
+ArticleCaption: （別の建築物とみなす部分）
+ArticleTitle: 第百二十九条の二の二
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 第百十七条第二項各号に掲げる建築物の部分は、この章の規定の適用については、それぞれ別の建築物とみなす。
+      Chapter:
+        ChapterTitle: 第五章の四　建築設備等
+        Section:
+SectionTitle: 第一節　建築設備の構造強度

@@ -1,0 +1,21 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、公布の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

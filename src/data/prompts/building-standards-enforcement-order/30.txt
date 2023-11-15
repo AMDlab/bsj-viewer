@@ -1,6 +1,7 @@
 ArticleCaption: （有効面積の算定方法）
 ArticleTitle: 第二十条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 法第二十八条第一項に規定する居室の窓その他の開口部（以下この条において「開口部」という。）で採光に有効な部分の面積は、当該居室の開口部ごとの面積に、それぞれ採光補正係数を乗じて得た面積を合計して算定するものとする。
     Sentence: ただし、国土交通大臣が別に算定方法を定めた建築物の開口部については、その算定方法によることができる。
@@ -93,3 +94,5 @@ Paragraph:
           Sentence: 開口部が道に面しない場合であつて、水平距離が四メートル未満であり、かつ、当該算定値が負数となる場合
         Column:
           Sentence: 零
+        Section:
+          SectionTitle: 第一節の二　開口部の少ない建築物等の換気設備

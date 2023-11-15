@@ -1,0 +1,14 @@
+ArticleCaption: （業務区域の変更）
+ArticleTitle: 第七十七条の四十
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 指定認定機関は、業務区域を増加し、又は減少しようとするときは、国土交通大臣の許可を受けなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 第七十七条の三十八第一号及び第二号の規定は、前項の許可について準用する。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、第一項の許可をしたときは、その旨を公示しなければならない。

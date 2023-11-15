@@ -1,29 +1,112 @@
-ArticleCaption: （構造）
-ArticleTitle: 第百二十六条の五
+ArticleCaption: （高力ボルト接合）
+ArticleTitle: 第九十二条の二
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: 前条の非常用の照明装置は、次の各号のいずれかに定める構造としなければならない。
-  Item:
-    ItemTitle: 一
-    ItemSentence:
-      Sentence: 次に定める構造とすること。
-    Subitem1:
-      Subitem1Title: イ
-      Subitem1Sentence:
-        Sentence: 照明は、直接照明とし、床面において一ルクス以上の照度を確保することができるものとすること。
-    Subitem1:
-      Subitem1Title: ロ
-      Subitem1Sentence:
-        Sentence: 照明器具の構造は、火災時において温度が上昇した場合であつても著しく光度が低下しないものとして国土交通大臣が定めた構造方法を用いるものとすること。
-    Subitem1:
-      Subitem1Title: ハ
-      Subitem1Sentence:
-        Sentence: 予備電源を設けること。
-    Subitem1:
-      Subitem1Title: ニ
-      Subitem1Sentence:
-        Sentence: イからハまでに定めるもののほか、非常の場合の照明を確保するために必要があるものとして国土交通大臣が定めた構造方法を用いるものとすること。
-  Item:
-    ItemTitle: 二
-    ItemSentence:
-      Sentence: 火災時において、停電した場合に自動的に点灯し、かつ、避難するまでの間に、当該建築物の室内の温度が上昇した場合にあつても床面において一ルクス以上の照度を確保することができるものとして、国土交通大臣の認定を受けたものとすること。
+    Sentence: 高力ボルト摩擦接合部の高力ボルトの軸断面に対する許容せん断応力度は、次の表の数値によらなければならない。
+  TableStruct:
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: 種類
+        TableColumn:
+          Sentence: 許容せん断応力度
+        TableColumn:
+          Sentence: 長期に生ずる力に対する許容せん断応力度
+        TableColumn:
+          Sentence: 短期に生ずる力に対する許容せん断応力度
+      TableRow:
+        TableColumn:
+          Sentence: （単位　一平方ミリメートルにつきニュートン）
+        TableColumn:
+          Sentence: （単位　一平方ミリメートルにつきニュートン）
+      TableRow:
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 　
+      TableRow:
+        TableColumn:
+          Sentence: 一面せん断
+        TableColumn:
+          Sentence:
+            ArithFormula: ０．３Ｔ
+              Sub: ｏ
+        TableColumn:
+          Sentence: 長期に生ずる力に対する許容せん断応力度の数値の一・五倍とする。
+      TableRow:
+        TableColumn:
+          Sentence: 二面せん断
+        TableColumn:
+          Sentence:
+            ArithFormula: ０．６Ｔ
+              Sub: ｏ
+      TableRow:
+        TableColumn:
+          Sentence: この表において、
+            ArithFormula: Ｔ
+              Sub: ｏ
+          Sentence: は、高力ボルトの品質に応じて国土交通大臣が定める基準張力（単位　一平方ミリメートルにつきニュートン）を表すものとする。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 高力ボルトが引張力とせん断力とを同時に受けるときの高力ボルト摩擦接合部の高力ボルトの軸断面に対する許容せん断応力度は、前項の規定にかかわらず、次の式により計算したものとしなければならない。
+  List:
+    ListSentence:
+      Sentence:
+        ArithFormula: ｆ
+          Sub: ｓｔ
+        ArithFormula: ＝ｆ
+          Sub: ｓｏ
+        ArithFormula: （１－（σ
+          Sub: ｔ
+        ArithFormula: ／Ｔ
+          Sub: ｏ
+        ArithFormula: ））
+  List:
+    ListSentence:
+      Sentence: （この式において、ｆ
+        Sub: ｓｔ
+      Sentence: 、ｆ
+        Sub: ｓｏ
+      Sentence: 、σ
+        Sub: ｔ
+      Sentence: 及びＴ
+        Sub: ｏ
+      Sentence: は、それぞれ次の数値を表すものとする。
+  List:
+    ListSentence:
+      Column:
+        Sentence: ｆ
+          Sub: ｓｔ
+      Column:
+        Sentence: この項の規定による許容せん断応力度（単位
+      Column:
+        Sentence: 一平方ミリメートルにつきニュートン）
+  List:
+    ListSentence:
+      Column:
+        Sentence: ｆ
+          Sub: ｓｏ
+      Column:
+        Sentence: 前項の規定による許容せん断応力度（単位
+      Column:
+        Sentence: 一平方ミリメートルにつきニュートン）
+  List:
+    ListSentence:
+      Column:
+        Sentence: σ
+          Sub: ｔ
+      Column:
+        Sentence: 高力ボルトに加わる外力により生ずる引張応力度（単位
+      Column:
+        Sentence: 一平方ミリメートルにつきニュートン）
+  List:
+    ListSentence:
+      Column:
+        Sentence: Ｔ
+          Sub: ｏ
+      Column:
+        Sentence: 前項の表に規定する基準張力）

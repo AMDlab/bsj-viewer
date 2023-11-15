@@ -1,0 +1,6 @@
+ArticleCaption: （前面道路との関係についての建築物の各部分の高さの制限の緩和）
+ArticleTitle: 第百三十一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第五十六条第六項の規定による同条第一項第一号及び第二項から第四項までの規定の適用の緩和に関する措置は、次条から第百三十五条の二までに定めるところによる。

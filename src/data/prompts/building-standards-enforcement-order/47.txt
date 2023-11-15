@@ -1,5 +1,8 @@
 ArticleCaption: （特殊の用途に専用する階段）
 ArticleTitle: 第二十七条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 第二十三条から第二十五条までの規定は、昇降機機械室用階段、物見塔用階段その他特殊の用途に専用する階段には、適用しない。
+        Section:
+          SectionTitle: 第四節　便所

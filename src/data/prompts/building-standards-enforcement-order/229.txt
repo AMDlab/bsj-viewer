@@ -1,0 +1,58 @@
+ArticleCaption: （第一種低層住居専用地域内に建築することができる公益上必要な建築物）
+ArticleTitle: 第百三十条の四
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法別表第二（い）項第九号（法第八十七条第二項又は第三項において法第四十八条第一項の規定を準用する場合を含む。）の規定により政令で定める公益上必要な建築物は、次に掲げるものとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 郵便法（昭和二十二年法律第百六十五号）の規定により行う郵便の業務の用に供する施設で延べ面積が五百平方メートル以内のもの
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 地方公共団体の支庁又は支所の用に供する建築物、老人福祉センター、児童厚生施設その他これらに類するもので延べ面積が六百平方メートル以内のもの
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 近隣に居住する者の利用に供する公園に設けられる公衆便所又は休憩所
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 路線バスの停留所の上家
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: 次のイからチまでのいずれかに掲げる施設である建築物で国土交通大臣が指定するもの
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 電気通信事業法（昭和五十九年法律第八十六号）第百二十条第一項に規定する認定電気通信事業者が同項に規定する認定電気通信事業の用に供する施設
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 電気事業法（昭和三十九年法律第百七十号）第二条第一項第十六号に規定する電気事業（同項第二号に規定する小売電気事業を除く。）の用に供する施設
+    Subitem1:
+      Subitem1Title: ハ
+      Subitem1Sentence:
+        Sentence: ガス事業法第二条第二項に規定するガス小売事業又は同条第五項に規定する一般ガス導管事業の用に供する施設
+    Subitem1:
+      Subitem1Title: ニ
+      Subitem1Sentence:
+        Sentence: 液化石油ガスの保安の確保及び取引の適正化に関する法律第二条第三項に規定する液化石油ガス販売事業の用に供する施設
+    Subitem1:
+      Subitem1Title: ホ
+      Subitem1Sentence:
+        Sentence: 水道法第三条第二項に規定する水道事業の用に供する施設
+    Subitem1:
+      Subitem1Title: ヘ
+      Subitem1Sentence:
+        Sentence: 下水道法第二条第三号に規定する公共下水道の用に供する施設
+    Subitem1:
+      Subitem1Title: ト
+      Subitem1Sentence:
+        Sentence: 都市高速鉄道の用に供する施設
+    Subitem1:
+      Subitem1Title: チ
+      Subitem1Sentence:
+        Sentence: 熱供給事業法（昭和四十七年法律第八十八号）第二条第二項に規定する熱供給事業の用に供する施設

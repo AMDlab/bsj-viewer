@@ -1,14 +1,8 @@
-ArticleCaption: （会長）
-ArticleTitle: 第八十一条
+ArticleCaption: （建築物の敷地が地区計画等の区域の内外にわたる場合の措置）
+ArticleTitle: 第六十八条の八
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: 建築審査会に会長を置く。
-    Sentence: 会長は、委員が互選する。
-Paragraph:
-  ParagraphNum: ２
-  ParagraphSentence:
-    Sentence: 会長は、会務を総理し、建築審査会を代表する。
-Paragraph:
-  ParagraphNum: ３
-  ParagraphSentence:
-    Sentence: 会長に事故があるときは、委員のうちからあらかじめ互選された者が、その職務を代理する。
+    Sentence: 第六十八条の二第一項の規定に基づく条例で建築物の容積率の最高限度又は建築物の建蔽率の最高限度が定められた場合において、建築物の敷地が当該条例による制限を受ける区域の内外にわたるときは、当該条例で定められた建築物の容積率の最高限度又は建築物の建蔽率の最高限度を、それぞれ当該建築物の当該条例による制限を受ける区域内にある部分に係る第五十二条第一項及び第二項の規定による建築物の容積率の限度又は第五十三条第一項の規定による建築物の建蔽率の限度とみなして、第五十二条第七項、第十四項及び第十五項又は第五十三条第二項及び第四項から第六項までの規定を適用する。
+        Section:
+          SectionTitle: 第八節　都市計画区域及び準都市計画区域以外の区域内の建築物の敷地及び構造

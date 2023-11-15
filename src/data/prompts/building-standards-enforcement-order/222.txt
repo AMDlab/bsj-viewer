@@ -1,0 +1,6 @@
+ArticleCaption: （設置）
+ArticleTitle: 第百二十九条の十四
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第三十三条の規定による避雷設備は、建築物の高さ二十メートルをこえる部分を雷撃から保護するように設けなければならない。

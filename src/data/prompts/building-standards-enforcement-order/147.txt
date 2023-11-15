@@ -1,42 +1,14 @@
-ArticleCaption: （適用の範囲）
-ArticleTitle: 第百二十九条の三
+ArticleCaption: （防火性能に関する技術的基準）
+ArticleTitle: 第百八条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: この節の規定は、建築物に設ける次に掲げる昇降機に適用する。
+    Sentence: 法第二条第八号の政令で定める技術的基準は、次に掲げるものとする。
   Item:
     ItemTitle: 一
     ItemSentence:
-      Sentence: 人又は人及び物を運搬する昇降機（次号に掲げるものを除く。）並びに物を運搬するための昇降機でかごの水平投影面積が一平方メートルを超え、又は天井の高さが一・二メートルを超えるもの（以下「エレベーター」という。）
+      Sentence: 耐力壁である外壁にあつては、これに建築物の周囲において発生する通常の火災による火熱が加えられた場合に、加熱開始後三十分間構造耐力上支障のある変形、溶融、破壊その他の損傷を生じないものであること。
   Item:
     ItemTitle: 二
     ItemSentence:
-      Sentence: エスカレーター
-  Item:
-    ItemTitle: 三
-    ItemSentence:
-      Sentence: 物を運搬するための昇降機で、かごの水平投影面積が一平方メートル以下で、かつ、天井の高さが一・二メートル以下のもの（以下「小荷物専用昇降機」という。）
-Paragraph:
-  ParagraphNum: ２
-  ParagraphSentence:
-    Sentence: 前項の規定にかかわらず、次の各号に掲げる昇降機については、それぞれ当該各号に掲げる規定は、適用しない。
-  Item:
-    ItemTitle: 一
-    ItemSentence:
-      Column:
-        Sentence: 特殊な構造又は使用形態のエレベーターで国土交通大臣が定めた構造方法を用いるもの
-      Column:
-        Sentence: 第百二十九条の六、第百二十九条の七、第百二十九条の八第二項第二号、第百二十九条の九、第百二十九条の十第三項及び第四項並びに第百二十九条の十三の三の規定
-  Item:
-    ItemTitle: 二
-    ItemSentence:
-      Column:
-        Sentence: 特殊な構造又は使用形態のエスカレーターで国土交通大臣が定めた構造方法を用いるもの
-      Column:
-        Sentence: 第百二十九条の十二第一項の規定
-  Item:
-    ItemTitle: 三
-    ItemSentence:
-      Column:
-        Sentence: 特殊な構造又は使用形態の小荷物専用昇降機で国土交通大臣が定めた構造方法を用いるもの
-      Column:
-        Sentence: 第百二十九条の十三の規定
+      Sentence: 外壁及び軒裏にあつては、これらに建築物の周囲において発生する通常の火災による火熱が加えられた場合に、加熱開始後三十分間当該加熱面以外の面（屋内に面するものに限る。）の温度が可燃物燃焼温度以上に上昇しないものであること。

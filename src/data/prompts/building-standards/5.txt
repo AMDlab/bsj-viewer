@@ -1,6 +1,7 @@
 ArticleCaption: （建築基準適合判定資格者検定事務を行う者の指定）
 ArticleTitle: 第五条の二
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 国土交通大臣は、第七十七条の二から第七十七条の五までの規定の定めるところにより指定する者（以下「指定建築基準適合判定資格者検定機関」という。）に、建築基準適合判定資格者検定の実施に関する事務（以下「建築基準適合判定資格者検定事務」という。）を行わせることができる。
 Paragraph:

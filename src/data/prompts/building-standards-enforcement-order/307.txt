@@ -1,0 +1,10 @@
+ArticleCaption: （建て方）
+ArticleTitle: 第百三十六条の六
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 建築物の建て方を行なうに当たつては、仮筋かいを取り付ける等荷重又は外力による倒壊を防止するための措置を講じなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 鉄骨造の建築物の建て方の仮締は、荷重及び外力に対して安全なものとしなければならない。

@@ -1,0 +1,6 @@
+ArticleCaption: （経過措置の原則）
+ArticleTitle: 第五条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 行政庁の処分その他の行為又は不作為についての不服申立てであってこの法律の施行前にされた行政庁の処分その他の行為又はこの法律の施行前にされた申請に係る行政庁の不作為に係るものについては、この附則に特別の定めがある場合を除き、なお従前の例による。

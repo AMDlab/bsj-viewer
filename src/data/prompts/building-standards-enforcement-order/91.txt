@@ -1,6 +1,7 @@
 ArticleCaption: （目地及び空胴部）
 ArticleTitle: 第六十二条の六
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: コンクリートブロツクは、その目地塗面の全部にモルタルが行きわたるように組積し、鉄筋を入れた空胴部及び縦目地に接する空胴部は、モルタル又はコンクリートで埋めなければならない。
 Paragraph:

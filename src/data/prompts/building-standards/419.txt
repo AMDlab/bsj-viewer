@@ -1,0 +1,8 @@
+ArticleCaption: （調整規定）
+ArticleTitle: 第十二条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 施行日が建築基準法の一部を改正する法律（平成二十六年法律第五十四号）の施行の日前である場合には、附則第七条中「第五条の六第二項」とあるのは、「第五条の四第二項」とする。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

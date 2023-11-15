@@ -1,0 +1,6 @@
+ArticleCaption: （指定区分等の掲示）
+ArticleTitle: 第七十七条の二十八
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 指定確認検査機関は、国土交通省令で定めるところにより、指定の区分、業務区域その他国土交通省令で定める事項を、その事務所において公衆に見やすいように掲示しなければならない。

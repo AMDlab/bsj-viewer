@@ -1,0 +1,166 @@
+ArticleCaption: （危険物の数量）
+ArticleTitle: 第百十六条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第二十七条第三項第二号の規定により政令で定める危険物の数量の限度は、次の表に定めるところによるものとする。
+  TableStruct:
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: 危険物品の種類
+        TableColumn:
+          Sentence: 数量
+      TableRow:
+        TableColumn:
+          Sentence: 常時貯蔵する場合
+        TableColumn:
+          Sentence: 製造所又は他の事業を営む工場において処理する場合
+      TableRow:
+        TableColumn:
+          Sentence: 火薬類（玩具煙火を除く。）
+        TableColumn:
+          Sentence: 火薬
+        TableColumn:
+          Sentence: 二十トン
+        TableColumn:
+          Sentence: 十トン
+      TableRow:
+        TableColumn:
+          Sentence: 爆薬
+        TableColumn:
+          Sentence: 二十トン
+        TableColumn:
+          Sentence: 五トン
+      TableRow:
+        TableColumn:
+          Sentence: 工業雷管及び電気雷管
+        TableColumn:
+          Sentence: 三百万個
+        TableColumn:
+          Sentence: 五十万個
+      TableRow:
+        TableColumn:
+          Sentence: 銃用雷管
+        TableColumn:
+          Sentence: 千万個
+        TableColumn:
+          Sentence: 五百万個
+      TableRow:
+        TableColumn:
+          Sentence: 信号雷管
+        TableColumn:
+          Sentence: 三百万個
+        TableColumn:
+          Sentence: 五十万個
+      TableRow:
+        TableColumn:
+          Sentence: 実包
+        TableColumn:
+          Sentence: 千万個
+        TableColumn:
+          Sentence: 五万個
+      TableRow:
+        TableColumn:
+          Sentence: 空包
+        TableColumn:
+          Sentence: 千万個
+        TableColumn:
+          Sentence: 五万個
+      TableRow:
+        TableColumn:
+          Sentence: 信管及び火管
+        TableColumn:
+          Sentence: 十万個
+        TableColumn:
+          Sentence: 五万個
+      TableRow:
+        TableColumn:
+          Sentence: 導爆線
+        TableColumn:
+          Sentence: 五百キロメートル
+        TableColumn:
+          Sentence: 五百キロメートル
+      TableRow:
+        TableColumn:
+          Sentence: 導火線
+        TableColumn:
+          Sentence: 二千五百キロメートル
+        TableColumn:
+          Sentence: 五百キロメートル
+      TableRow:
+        TableColumn:
+          Sentence: 電気導火線
+        TableColumn:
+          Sentence: 七万個
+        TableColumn:
+          Sentence: 五万個
+      TableRow:
+        TableColumn:
+          Sentence: 信号炎管及び信号火箭
+        TableColumn:
+          Sentence: 二トン
+        TableColumn:
+          Sentence: 二トン
+      TableRow:
+        TableColumn:
+          Sentence: 煙火
+        TableColumn:
+          Sentence: 二トン
+        TableColumn:
+          Sentence: 二トン
+      TableRow:
+        TableColumn:
+          Sentence: その他の火薬又は爆薬を使用した火工品
+        TableColumn:
+          Sentence: 当該火工品の原料をなす火薬又は爆薬の数量に応じて、火薬又は爆薬の数量のそれぞれの限度による。
+      TableRow:
+        TableColumn:
+          Sentence: 消防法第二条第七項に規定する危険物
+        TableColumn:
+          Sentence: 危険物の規制に関する政令（昭和三十四年政令第三百六号）別表第三の類別欄に掲げる類、同表の品名欄に掲げる品名及び同表の性質欄に掲げる性状に応じ、それぞれ同表の指定数量欄に定める数量の十倍の数量
+        TableColumn:
+          Sentence: 危険物の規制に関する政令別表第三の類別欄に掲げる類、同表の品名欄に掲げる品名及び同表の性質欄に掲げる性状に応じ、それぞれ同表の指定数量欄に定める数量の十倍の数量
+      TableRow:
+        TableColumn:
+          Sentence: マッチ
+        TableColumn:
+          Sentence: 三百マッチトン
+        TableColumn:
+          Sentence: 三百マッチトン
+      TableRow:
+        TableColumn:
+          Sentence: 可燃性ガス
+        TableColumn:
+          Sentence: 七百立方メートル
+        TableColumn:
+          Sentence: 二万立方メートル
+      TableRow:
+        TableColumn:
+          Sentence: 圧縮ガス
+        TableColumn:
+          Sentence: 七千立方メートル
+        TableColumn:
+          Sentence: 二十万立方メートル
+      TableRow:
+        TableColumn:
+          Sentence: 液化ガス
+        TableColumn:
+          Sentence: 七十トン
+        TableColumn:
+          Sentence: 二千トン
+      TableRow:
+        TableColumn:
+          Sentence: この表において、可燃性ガス及び圧縮ガスの容積の数値は、温度が零度で圧力が一気圧の状態に換算した数値とする。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 土木工事又はその他の事業に一時的に使用するためにその事業中臨時に貯蔵する危険物の数量の限度及び支燃性又は不燃性の圧縮ガス又は液化ガスの数量の限度は、無制限とする。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 第一項の表に掲げる危険物の二種類以上を同一の建築物に貯蔵しようとする場合においては、第一項に規定する危険物の数量の限度は、それぞれ当該各欄の危険物の数量の限度の数値で貯蔵しようとする危険物の数値を除し、それらの商を加えた数値が一である場合とする。
+      Chapter:
+        ChapterTitle: 第五章　避難施設等
+        Section:
+SectionTitle: 第一節　総則

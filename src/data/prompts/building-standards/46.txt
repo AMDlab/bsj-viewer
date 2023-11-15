@@ -1,6 +1,7 @@
 ArticleCaption: （防火壁等）
 ArticleTitle: 第二十六条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 延べ面積が千平方メートルを超える建築物は、防火上有効な構造の防火壁又は防火床によつて有効に区画し、かつ、各区画の床面積の合計をそれぞれ千平方メートル以内としなければならない。
     Sentence: ただし、次の各号のいずれかに該当する建築物については、この限りでない。

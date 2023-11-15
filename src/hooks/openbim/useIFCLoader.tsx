@@ -16,8 +16,9 @@ export const useIFCLoader = () => {
       absolute: true,
     };
 
-    const ifcButton = fragmentIfcLoaderRef.current.uiElement.get('main');
-    options.toolbar.addChild(ifcButton as OBC.Button);
+    const mainButton = fragmentIfcLoaderRef.current.uiElement.get('main') as OBC.Button;
+    mainButton.tooltip = 'IFCファイルのロード';
+    options.toolbar.addChild(mainButton);
 
     return fragmentIfcLoaderRef.current;
   };

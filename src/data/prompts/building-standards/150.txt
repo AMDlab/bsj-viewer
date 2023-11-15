@@ -1,4 +1,30 @@
-ArticleTitle: 第九十五条
+ArticleCaption: （欠格条項）
+ArticleTitle: 第七十七条の三
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: 建築審査会の裁決に不服がある者は、国土交通大臣に対して再審査請求をすることができる。
+    Sentence: 次の各号のいずれかに該当する者は、第五条の二第一項の規定による指定を受けることができない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 一般社団法人又は一般財団法人以外の者
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 建築基準法令の規定により刑に処せられ、その執行を終わり、又は執行を受けることがなくなつた日から起算して二年を経過しない者
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 第七十七条の十五第一項又は第二項の規定により指定を取り消され、その取消しの日から起算して二年を経過しない者
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: その役員のうちに、イ又はロのいずれかに該当する者がある者
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 第二号に該当する者
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 第七十七条の六第二項の規定による命令により解任され、その解任の日から起算して二年を経過しない者

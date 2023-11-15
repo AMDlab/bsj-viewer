@@ -1,0 +1,6 @@
+ArticleCaption: （手数料に関する経過措置）
+ArticleTitle: 第百六十二条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 施行日前においてこの法律による改正前のそれぞれの法律（これに基づく命令を含む。）の規定により納付すべきであった手数料については、この法律及びこれに基づく政令に別段の定めがあるもののほか、なお従前の例による。

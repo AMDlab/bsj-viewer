@@ -1,0 +1,25 @@
+ArticleCaption: （政令への委任）
+ArticleTitle: 第二十五条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。
+      Paragraph:
+ParagraphCaption: （政令への委任）
+ParagraphNum: ２
+ParagraphSentence:
+  Sentence: この法律の施行に関し必要な経過措置は、政令で定める。
+      Paragraph:
+ParagraphCaption: （検討）
+ParagraphNum: ３
+ParagraphSentence:
+  Sentence: 政府は、この法律の施行後五年を経過した場合において、第一条から第三条までの規定による改正後の規定の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて必要な措置を講ずるものとする。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

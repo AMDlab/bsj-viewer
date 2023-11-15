@@ -1,12 +1,14 @@
 ArticleCaption: （階段に代わる傾斜路）
 ArticleTitle: 第二十六条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 階段に代わる傾斜路は、次の各号に定めるところによらなければならない。
   Item:
     ItemTitle: 一
     ItemSentence:
-      Sentence: 勾配は、八分の一をこえないこと。
+      Sentence:勾
+      Sentence: 配は、八分の一をこえないこと。
   Item:
     ItemTitle: 二
     ItemSentence:

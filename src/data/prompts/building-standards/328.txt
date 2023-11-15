@@ -1,0 +1,6 @@
+ArticleCaption: （書類の閲覧に関する経過措置）
+ArticleTitle: 第六条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 第二条の規定の施行前にされた旧法又はこれに基づく命令若しくは条例の規定による確認以外の処分に関する書類については、新法第九十三条の二（新法第八十八条第二項において準用する場合を含む。）の規定は、適用しない。

@@ -1,6 +1,7 @@
 ArticleCaption: （基礎）
 ArticleTitle: 第三十八条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 建築物の基礎は、建築物に作用する荷重及び外力を安全に地盤に伝え、かつ、地盤の沈下又は変形に対して構造耐力上安全なものとしなければならない。
 Paragraph:

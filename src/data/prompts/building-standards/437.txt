@@ -1,0 +1,21 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。
+    Sentence: ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Column:
+        Sentence: 附則第四条の規定
+      Column:
+        Sentence: 公布の日
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Column:
+        Sentence: 第一条の規定並びに次条並びに附則第三条、第九条及び第十五条（高齢者、障害者等の移動等の円滑化の促進に関する法律（平成十八年法律第九十一号）第二十四条の改正規定に限る。）の規定
+      Column:
+        Sentence: 公布の日から起算して三月を超えない範囲内において政令で定める日

@@ -1,6 +1,7 @@
 ArticleCaption: （鉄筋の継手及び定着）
 ArticleTitle: 第七十三条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 鉄筋の末端は、かぎ状に折り曲げて、コンクリートから抜け出ないように定着しなければならない。
     Sentence: ただし、次の各号に掲げる部分以外の部分に使用する異形鉄筋にあつては、その末端を折り曲げないことができる。

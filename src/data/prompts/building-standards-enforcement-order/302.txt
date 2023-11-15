@@ -1,0 +1,7 @@
+ArticleTitle: 第百三十六条の二の十九
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第七十七条の六十五（法第七十七条の六十六第二項において準用する場合を含む。）の政令で定める手数料の額は、一万二千円とする。
+      Chapter:
+        ChapterTitle: 第七章の八　工事現場の危害の防止

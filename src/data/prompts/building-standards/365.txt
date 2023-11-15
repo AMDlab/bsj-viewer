@@ -1,0 +1,8 @@
+ArticleCaption: （政令への委任）
+ArticleTitle: 第六条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 附則第二条から前条までに定めるもののほか、この法律の施行に関して必要な経過措置は、政令で定める。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

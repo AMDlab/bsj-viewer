@@ -1,0 +1,34 @@
+ArticleCaption: （耐火建築物等としなければならない特殊建築物）
+ArticleTitle: 第百十五条の三
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法別表第一（い）欄の（二）項から（四）項まで及び（六）項（法第八十七条第三項において法第二十七条の規定を準用する場合を含む。）に掲げる用途に類するもので政令で定めるものは、それぞれ次の各号に掲げるものとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Column:
+        Sentence: （二）項の用途に類するもの
+      Column:
+        Sentence: 児童福祉施設等（幼保連携型認定こども園を含む。以下同じ。）
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Column:
+        Sentence: （三）項の用途に類するもの
+      Column:
+        Sentence: 博物館、美術館、図書館、ボーリング場、スキー場、スケート場、水泳場又はスポーツの練習場
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Column:
+        Sentence: （四）項の用途に類するもの
+      Column:
+        Sentence: 公衆浴場、待合、料理店、飲食店又は物品販売業を営む店舗（床面積が十平方メートル以内のものを除く。）
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Column:
+        Sentence: （六）項の用途に類するもの
+      Column:
+        Sentence: 映画スタジオ又はテレビスタジオ

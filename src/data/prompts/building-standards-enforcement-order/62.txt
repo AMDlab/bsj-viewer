@@ -1,6 +1,7 @@
 ArticleCaption: （屋根ふき材等）
 ArticleTitle: 第三十九条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 屋根ふき材、内装材、外装材、帳壁その他これらに類する建築物の部分及び広告塔、装飾塔その他建築物の屋外に取り付けるものは、風圧並びに地震その他の震動及び衝撃によつて脱落しないようにしなければならない。
 Paragraph:
@@ -15,3 +16,5 @@ Paragraph:
   ParagraphNum: ４
   ParagraphSentence:
     Sentence: 特定天井で特に腐食、腐朽その他の劣化のおそれのあるものには、腐食、腐朽その他の劣化しにくい材料又は有効なさび止め、防腐その他の劣化防止のための措置をした材料を使用しなければならない。
+        Section:
+          SectionTitle: 第三節　木造

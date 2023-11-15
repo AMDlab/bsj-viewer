@@ -1,6 +1,7 @@
 ArticleCaption: （建築基準適合判定資格者検定の施行）
 ArticleTitle: 第五条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 建築基準適合判定資格者検定は、毎年一回以上行う。
 Paragraph:

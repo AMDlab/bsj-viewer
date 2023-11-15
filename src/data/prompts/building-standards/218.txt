@@ -1,0 +1,10 @@
+ArticleCaption: （報告、検査等）
+ArticleTitle: 第七十七条の四十九
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、認定等の業務の公正かつ適確な実施を確保するため必要があると認めるときは、指定認定機関に対し認定等の業務に関し必要な報告を求め、又はその職員に、指定認定機関の事務所に立ち入り、認定等の業務の状況若しくは設備、帳簿、書類その他の物件を検査させ、若しくは関係者に質問させることができる。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 第十五条の二第二項及び第三項の規定は、前項の場合について準用する。

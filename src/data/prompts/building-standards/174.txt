@@ -1,0 +1,6 @@
+ArticleCaption: （確認検査の義務）
+ArticleTitle: 第七十七条の二十六
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 指定確認検査機関は、確認検査を行うべきことを求められたときは、正当な理由がある場合を除き、遅滞なく、確認検査を行わなければならない。

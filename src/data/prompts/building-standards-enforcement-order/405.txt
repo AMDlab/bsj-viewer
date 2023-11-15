@@ -1,0 +1,26 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この政令は、景観法の施行の日（平成十六年十二月十七日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この政令は、公布の日から施行する。
+      Paragraph:
+ParagraphCaption: （罰則に関する経過措置）
+ParagraphNum: ２
+ParagraphSentence:
+  Sentence: この政令の施行前にした行為に対する罰則の適用については、なお従前の例による。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+ParagraphSentence:
+  Sentence: この政令は、景観法附則ただし書に規定する規定の施行の日（平成十七年六月一日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

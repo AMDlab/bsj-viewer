@@ -1,6 +1,7 @@
 ArticleCaption: （学校の木造の校舎）
 ArticleTitle: 第四十八条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 学校における壁、柱及び横架材を木造とした校舎は、次に掲げるところによらなければならない。
   Item:

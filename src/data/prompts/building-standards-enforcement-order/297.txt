@@ -1,0 +1,22 @@
+ArticleCaption: （親会社等）
+ArticleTitle: 第百三十六条の二の十四
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第七十七条の十九第十一号の政令で定める者は、法第七十七条の十八第一項又は法第七十七条の三十五の二第一項に規定する指定を受けようとする者に対して、それぞれ次のいずれかの関係（次項において「特定支配関係」という。）を有する者とする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: その総株主（株主総会において決議をすることができる事項の全部につき議決権を行使することができない株主を除く。）又は総出資者の議決権の三分の一を超える数を有していること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: その役員（理事、取締役、執行役、業務を執行する社員又はこれらに準ずる者をいう。以下この項において同じ。）に占める自己の役員又は職員（過去二年間に役員又は職員であつた者を含む。次号において同じ。）の割合が三分の一を超えていること。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: その代表権を有する役員の地位を自己又はその役員若しくは職員が占めていること。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: ある者に対して特定支配関係を有する者に対して特定支配関係を有する者は、その者に対して特定支配関係を有する者とみなして、この条の規定を適用する。

@@ -1,0 +1,182 @@
+ArticleCaption: （危険物の貯蔵又は処理に供する建築物）
+ArticleTitle: 第百三十条の九
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法別表第二（と）項第四号、（ぬ）項第四号及び（る）項第二号（法第八十七条第二項又は第三項において法第四十八条第七項、第十項及び第十一項の規定を準用する場合を含む。）の規定により政令で定める危険物の貯蔵又は処理に供する建築物は、次の表に定める数量を超える危険物（同表に数量の定めのない場合にあつてはその数量を問わないものとし、圧縮ガス又は液化ガスを燃料電池又は内燃機関の燃料として用いる自動車にこれらのガスを充塡するための設備（安全上及び防火上支障がないものとして国土交通大臣が定める基準に適合するものに限る。）により貯蔵し、又は処理される圧縮ガス及び液化ガス、地下貯蔵槽により貯蔵される第一石油類（消防法別表第一の備考十二に規定する第一石油類をいう。以下この項において同じ。）、アルコール類（同表の備考十三に規定するアルコール類をいう。）、第二石油類（同表の備考十四に規定する第二石油類をいう。以下この項において同じ。）、第三石油類（同表の備考十五に規定する第三石油類をいう。以下この項において同じ。）及び第四石油類（同表の備考十六に規定する第四石油類をいう。以下この項において同じ。）並びに国土交通大臣が安全上及び防火上支障がない構造と認めて指定する蓄電池により貯蔵される硫黄及びナトリウムを除く。）の貯蔵又は処理に供する建築物とする。
+  TableStruct:
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: 危険物
+        TableColumn:
+          Sentence: 用途地域
+        TableColumn:
+          Sentence: 準住居地域
+        TableColumn:
+          Sentence: 商業地域
+        TableColumn:
+          Sentence: 準工業地域
+      TableRow:
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 　
+      TableRow:
+        TableColumn:
+          Sentence: （一）
+        TableColumn:
+          Sentence: 火薬類（玩具煙火を除く。）
+        TableColumn:
+          Sentence: 火薬
+        TableColumn:
+          Sentence: 二十キログラム
+        TableColumn:
+          Sentence: 五十キログラム
+        TableColumn:
+          Sentence: 二十トン
+      TableRow:
+        TableColumn:
+          Sentence: 爆薬
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 二十五キログラム
+        TableColumn:
+          Sentence: 十トン
+      TableRow:
+        TableColumn:
+          Sentence: 工業雷管、電気雷管及び信号雷管
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 一万個
+        TableColumn:
+          Sentence: 二百五十万個
+      TableRow:
+        TableColumn:
+          Sentence: 銃用雷管
+        TableColumn:
+          Sentence: 三万個
+        TableColumn:
+          Sentence: 十万個
+        TableColumn:
+          Sentence: 二千五百万個
+      TableRow:
+        TableColumn:
+          Sentence: 実包及び空包
+        TableColumn:
+          Sentence: 二千個
+        TableColumn:
+          Sentence: 三万個
+        TableColumn:
+          Sentence: 千万個
+      TableRow:
+        TableColumn:
+          Sentence: 信管及び火管
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 三万個
+        TableColumn:
+          Sentence: 五十万個
+      TableRow:
+        TableColumn:
+          Sentence: 導爆線
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 一・五キロメートル
+        TableColumn:
+          Sentence: 五百キロメートル
+      TableRow:
+        TableColumn:
+          Sentence: 導火線
+        TableColumn:
+          Sentence: 一キロメートル
+        TableColumn:
+          Sentence: 五キロメートル
+        TableColumn:
+          Sentence: 二千五百キロメートル
+      TableRow:
+        TableColumn:
+          Sentence: 電気導火線
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 三万個
+        TableColumn:
+          Sentence: 十万個
+      TableRow:
+        TableColumn:
+          Sentence: 信号炎管、信号火箭
+          Sentence: 及び煙火
+        TableColumn:
+          Sentence: 二十五キログラム
+        TableColumn:
+          Sentence: 二トン
+      TableRow:
+        TableColumn:
+          Sentence: その他の火薬又は爆薬を使用した火工品
+        TableColumn:
+          Sentence: 当該火工品の原料をなす火薬又は爆薬の数量に応じて、火薬又は爆薬の数量のそれぞれの限度による。
+      TableRow:
+        TableColumn:
+          Sentence: （二）
+        TableColumn:
+          Sentence: マッチ、圧縮ガス、液化ガス又は可燃性ガス
+        TableColumn:
+          Sentence:
+            ArithFormula: Ａ／２０
+        TableColumn:
+          Sentence:
+            ArithFormula: Ａ／１０
+        TableColumn:
+          Sentence:
+            ArithFormula: Ａ／２
+      TableRow:
+        TableColumn:
+          Sentence: （三）
+        TableColumn:
+          Sentence: 第一石油類、第二石油類、第三石油類又は第四石油類
+        TableColumn:
+          Sentence:
+            ArithFormula: Ａ／２
+          Sentence: （危険物の規制に関する政令第二条第一号に規定する屋内貯蔵所のうち位置、構造及び設備について国土交通大臣が定める基準に適合するもの（以下この表において「特定屋内貯蔵所」という。）又は同令第三条第二号イに規定する第一種販売取扱所（以下この表において「第一種販売取扱所」という。）にあつては、
+            ArithFormula: ３Ａ／２
+          Sentence: ）
+        TableColumn:
+          Sentence: Ａ（特定屋内貯蔵所、第一種販売取扱所又は危険物の規制に関する政令第三条第二号ロに規定する第二種販売取扱所（以下この表において「第二種販売取扱所」という。）にあつては、３Ａ）
+        TableColumn:
+          Sentence: ５Ａ
+      TableRow:
+        TableColumn:
+          Sentence: （四）
+        TableColumn:
+          Sentence: （一）から（三）までに掲げる危険物以外のもの
+        TableColumn:
+          Sentence:
+            ArithFormula: Ａ／１０
+          Sentence: （特定屋内貯蔵所又は第一種販売取扱所にあつては、
+            ArithFormula: ３Ａ／１０
+          Sentence: ）
+        TableColumn:
+          Sentence:
+            ArithFormula: Ａ／５
+          Sentence: （特定屋内貯蔵所又は第一種販売取扱所にあつては、
+            ArithFormula: ３Ａ／５
+          Sentence: ）
+        TableColumn:
+          Sentence: ２Ａ（特定屋内貯蔵所、第一種販売取扱所又は第二種販売取扱所にあつては、５Ａ）
+      TableRow:
+        TableColumn:
+          Sentence: この表において、Ａは、（二）に掲げるものについては第百十六条第一項の表中「常時貯蔵する場合」の欄に掲げる数量、（三）及び（四）に掲げるものについては同項の表中「製造所又は他の事業を営む工場において処理する場合」の欄に掲げる数量を表すものとする。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 第百十六条第二項及び第三項の規定は、前項の場合に準用する。
+    Sentence: ただし、同条第三項の規定については、準住居地域又は商業地域における前項の表の（一）に掲げる危険物の貯蔵に関しては、この限りでない。

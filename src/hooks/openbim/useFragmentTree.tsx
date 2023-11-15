@@ -16,7 +16,9 @@ export const useFragmentTree = () => {
   ) => {
     fragmentTreeRef.current = new OBC.FragmentTree(components);
     await fragmentTreeRef.current.init();
-    fragmentTreeRef.current.uiElement.get('window').visible = !!options.visible;
+    const treeWindow = fragmentTreeRef.current.uiElement.get('window') as OBC.FloatingWindow;
+    treeWindow.title = 'モデルツリー';
+    treeWindow.visible = !!options.visible;
 
     fragmentTreeRef.current.onSelected.add((filter) => {
       options.highlighter.highlightByID('select', filter, true, true);
@@ -25,7 +27,6 @@ export const useFragmentTree = () => {
       options.highlighter.highlightByID('hover', filter);
     });
 
-    const treeWindow = fragmentTreeRef.current.uiElement.get('window');
     if (options.position) {
       if (options.position.left) treeWindow.domElement.style.left = `${options.position.left}px`;
       if (options.position.top) treeWindow.domElement.style.top = `${options.position.top}px`;
@@ -36,7 +37,9 @@ export const useFragmentTree = () => {
       if (options.size.height) treeWindow.domElement.style.height = `${options.size.height}px`;
     }
 
-    options.toolbar.addChild(fragmentTreeRef.current.uiElement.get('main'));
+    const mainButton = fragmentTreeRef.current.uiElement.get('main') as OBC.Button;
+    mainButton.tooltip = 'モデルツリー';
+    options.toolbar.addChild(mainButton);
 
     return fragmentTreeRef.current;
   };

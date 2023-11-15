@@ -1,6 +1,7 @@
 ArticleCaption: （換気設備の技術的基準）
 ArticleTitle: 第二十条の二
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 法第二十八条第二項ただし書の政令で定める技術的基準及び同条第三項（法第八十七条第三項において準用する場合を含む。以下この条及び次条第一項において同じ。）の政令で定める法第二十八条第三項に規定する特殊建築物（第一号において「特殊建築物」という。）の居室に設ける換気設備の技術的基準は、次に掲げるものとする。
   Item:
@@ -17,14 +18,24 @@ Paragraph:
           Sentence: 排気筒の有効断面積（平方メートルで表した面積とする。）が、次の式によつて計算した必要有効断面積以上であること。
         List:
           ListSentence:
-            Sentence: Ａ
+            Sentence:
+              ArithFormula: Ａ
+                Sub: ｖ
+              ArithFormula: ＝Ａ
+                Sub: ｆ
+              ArithFormula: ／（２５０√ｈ）
         List:
           ListSentence:
             Sentence: （この式において、Ａ
+              Sub: ｖ
+            Sentence: 、Ａ
+              Sub: ｆ
+            Sentence: 及びｈは、それぞれ次の数値を表すものとする。
         List:
           ListSentence:
             Column:
               Sentence: Ａ
+                Sub: ｖ
             Column:
               Sentence: 必要有効断面積（単位
             Column:
@@ -33,6 +44,7 @@ Paragraph:
           ListSentence:
             Column:
               Sentence: Ａ
+                Sub: ｆ
             Column:
               Sentence: 居室の床面積（当該居室が換気上有効な窓その他の開口部を有する場合においては、当該開口部の換気上有効な面積に二十を乗じて得た面積を当該居室の床面積から減じた面積）（単位
             Column:
@@ -63,10 +75,15 @@ Paragraph:
           Sentence: 有効換気量（立方メートル毎時で表した量とする。（２）において同じ。）が、次の式によつて計算した必要有効換気量以上であること。
         List:
           ListSentence:
-            Sentence: Ｖ＝２０Ａ
+            Sentence:
+              ArithFormula: Ｖ＝２０Ａ
+                Sub: ｆ
+              ArithFormula: ／Ｎ
         List:
           ListSentence:
             Sentence: （この式において、Ｖ、Ａ
+              Sub: ｆ
+            Sentence: 及びＮは、それぞれ次の数値を表すものとする。
         List:
           ListSentence:
             Column:
@@ -79,6 +96,7 @@ Paragraph:
           ListSentence:
             Column:
               Sentence: Ａ
+                Sub: ｆ
             Column:
               Sentence: 居室の床面積（特殊建築物の居室以外の居室が換気上有効な窓その他の開口部を有する場合においては、当該開口部の換気上有効な面積に二十を乗じて得た面積を当該居室の床面積から減じた面積）（単位
             Column:

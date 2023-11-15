@@ -1,6 +1,7 @@
 ArticleCaption: （組積造の施工）
 ArticleTitle: 第五十二条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 組積造に使用するれんが、石、コンクリートブロツクその他の組積材は、組積するに当たつて充分に水洗いをしなければならない。
 Paragraph:

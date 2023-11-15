@@ -1,6 +1,7 @@
 ArticleCaption: （災害危険区域）
 ArticleTitle: 第三十九条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 地方公共団体は、条例で、津波、高潮、出水等による危険の著しい区域を災害危険区域として指定することができる。
 Paragraph:

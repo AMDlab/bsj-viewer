@@ -1,0 +1,10 @@
+ArticleCaption: （指定の更新）
+ArticleTitle: 第七十七条の二十三
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 指定は、五年以上十年以内において政令で定める期間ごとにその更新を受けなければ、その期間の経過によつて、その効力を失う。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 第七十七条の十八から第七十七条の二十までの規定は、前項の指定の更新の場合について準用する。

@@ -1,5 +1,18 @@
-ArticleCaption: （簡易な構造の建築物に対する制限の緩和）
-ArticleTitle: 第八十四条の二
+ArticleCaption: （欠格条項）
+ArticleTitle: 第六十八条の十二
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: 壁を有しない自動車車庫、屋根を帆布としたスポーツの練習場その他の政令で指定する簡易な構造の建築物又は建築物の部分で、政令で定める基準に適合するものについては、第二十二条から第二十六条まで、第二十七条第一項及び第三項、第三十五条の二、第六十一条、第六十二条並びに第六十七条第一項の規定は、適用しない。
+    Sentence: 次の各号のいずれかに該当する者は、前条第一項の規定による認証を受けることができない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 建築基準法令の規定により刑に処せられ、その執行を終わり、又は執行を受けることがなくなつた日から起算して二年を経過しない者
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 第六十八条の二十一第一項若しくは第二項又は第六十八条の二十三第一項若しくは第二項の規定により認証を取り消され、その取消しの日から起算して二年を経過しない者
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 法人であつて、その役員のうちに前二号のいずれかに該当する者があるもの

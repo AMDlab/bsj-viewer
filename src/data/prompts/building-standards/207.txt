@@ -1,0 +1,26 @@
+ArticleCaption: （指定の基準）
+ArticleTitle: 第七十七条の三十八
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、指定の申請が次に掲げる基準に適合していると認めるときでなければ、指定をしてはならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 職員（第七十七条の四十二第一項の認定員を含む。第三号において同じ。）、設備、認定等の業務の実施の方法その他の事項についての認定等の業務の実施に関する計画が、認定等の業務の適確な実施のために適切なものであること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 前号の認定等の業務の実施に関する計画を適確に実施するに足りる経理的及び技術的な基礎を有するものであること。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 法人にあつては役員、第七十七条の二十第五号の国土交通省令で定める構成員又は職員の構成が、法人以外の者にあつてはその者及びその職員の構成が、認定等の業務の公正な実施に支障を及ぼすおそれがないものであること。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 認定等の業務以外の業務を行つている場合には、その業務を行うことによつて認定等の業務の公正な実施に支障を及ぼすおそれがないものであること。
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: 前各号に定めるもののほか、認定等の業務を行うにつき十分な適格性を有するものであること。

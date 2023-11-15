@@ -1,0 +1,6 @@
+ArticleCaption: （容積率の算定の基礎となる延べ面積に昇降路の部分の床面積を算入しない昇降機）
+ArticleTitle: 第百三十五条の十六
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第五十二条第六項第一号の政令で定める昇降機は、エレベーターとする。

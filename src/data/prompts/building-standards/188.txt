@@ -1,0 +1,14 @@
+ArticleCaption: （指定の公示等）
+ArticleTitle: 第七十七条の三十五の五
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 国土交通大臣又は都道府県知事は、指定をしたときは、指定を受けた者（以下この節及び第百条において「指定構造計算適合性判定機関」という。）の名称及び住所並びに業務区域を公示しなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 指定構造計算適合性判定機関は、その名称又は住所を変更しようとするときは、変更しようとする日の二週間前までに、その指定をした国土交通大臣又は都道府県知事（以下この節において「国土交通大臣等」という。）にその旨を届け出なければならない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 国土交通大臣等は、前項の規定による届出があつたときは、その旨を公示しなければならない。

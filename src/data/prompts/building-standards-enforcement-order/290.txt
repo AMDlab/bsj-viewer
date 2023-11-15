@@ -1,0 +1,18 @@
+ArticleCaption: （予定道路の指定の基準）
+ArticleTitle: 第百三十六条の二の七
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第六十八条の七第一項に規定する予定道路の指定は、次に掲げるところに従い、行うものとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 予定道路となる土地の区域及びその周辺の地域における地形、土地利用の動向、道路（法第四十二条に規定する道路をいう。第百四十四条の四において同じ。）の整備の現状及び将来の見通し、建築物の敷地境界線、建築物の位置等を考慮して特に必要なものについて行うこと。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 予定道路となる土地の区域内に建築物の建築等が行われることにより、通行上、安全上、防火上又は衛生上地区計画等の区域の利便又は環境が著しく妨げられることとなる場合において行うこと。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 幅員が四メートル以上となるものについて行うこと。

@@ -1,0 +1,40 @@
+ArticleCaption: （基礎工事用機械等の転倒による危害の防止）
+ArticleTitle: 第百三十六条の四
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 建築工事等において次に掲げる基礎工事用機械（動力を用い、かつ、不特定の場所に自走することができるものに限る。）又は移動式クレーン（吊
+    Sentence: り上げ荷重が〇・五トン以上のものに限る。）を使用する場合においては、敷板、敷角等の使用等によりその転倒による工事現場の周辺への危害を防止するための措置を講じなければならない。
+    Sentence: ただし、地盤の状況等により危害防止上支障がない場合においては、この限りでない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: くい打機
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: くい抜機
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: アース・ドリル
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: リバース・サーキュレーション・ドリル
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: せん孔機（チュービングマシンを有するものに限る。）
+  Item:
+    ItemTitle: 六
+    ItemSentence:
+      Sentence: アース・オーガー
+  Item:
+    ItemTitle: 七
+    ItemSentence:
+      Sentence: ペーパー・ドレーン・マシン
+  Item:
+    ItemTitle: 八
+    ItemSentence:
+      Sentence: 前各号に掲げるもののほか、これらに類するものとして国土交通大臣が定める基礎工事用機械

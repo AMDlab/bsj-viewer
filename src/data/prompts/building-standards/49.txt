@@ -1,6 +1,7 @@
 ArticleCaption: （石綿その他の物質の飛散又は発散に対する衛生上の措置）
 ArticleTitle: 第二十八条の二
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 建築物は、石綿その他の物質の建築材料からの飛散又は発散による衛生上の支障がないよう、次に掲げる基準に適合するものとしなければならない。
   Item:

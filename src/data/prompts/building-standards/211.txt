@@ -1,0 +1,18 @@
+ArticleCaption: （認定員）
+ArticleTitle: 第七十七条の四十二
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 指定認定機関は、認定等を行うときは、国土交通省令で定める方法に従い、認定員に認定等を実施させなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 認定員は、建築技術に関して優れた識見を有する者として国土交通省令で定める要件を備える者のうちから選任しなければならない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 指定認定機関は、認定員を選任し、又は解任したときは、国土交通省令で定めるところにより、その旨を国土交通大臣に届け出なければならない。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、認定員が、第七十七条の四十五第一項の認可を受けた認定等業務規程に違反したとき、認定等の業務に関し著しく不適当な行為をしたとき、又はその在任により指定認定機関が第七十七条の三十八第三号に掲げる基準に適合しなくなつたときは、指定認定機関に対し、その認定員を解任すべきことを命ずることができる。

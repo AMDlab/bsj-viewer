@@ -1,0 +1,16 @@
+ArticleCaption: （準工業地域内で営むことができる可燃性ガスの製造）
+ArticleTitle: 第百三十条の九の八
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法別表第二（る）項第一号（十一）（法第八十七条第二項又は第三項において法第四十八条第十一項の規定を準用する場合を含む。）の規定により政令で定める可燃性ガスの製造は、次に掲げるものとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: アセチレンガスの製造
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: ガス事業法第二条第二項に規定するガス小売事業又は同条第九項に規定するガス製造事業として行われる可燃性ガスの製造
+      Chapter:
+        ChapterTitle: 第七章　建築物の各部分の高さ等

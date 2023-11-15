@@ -1,0 +1,31 @@
+ArticleCaption: （天空率）
+ArticleTitle: 第百三十五条の五
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この章において「天空率」とは、次の式によつて計算した数値をいう。
+  List:
+    ListSentence:
+      Sentence:
+        ArithFormula: Ｒｓ＝（Ａｓ－Ａｂ）／Ａｓ
+  List:
+    ListSentence:
+      Sentence: （この式において、Ｒｓ、Ａｓ及びＡｂは、それぞれ次の数値を表すものとする。
+  List:
+    ListSentence:
+      Column:
+        Sentence: Ｒｓ
+      Column:
+        Sentence: 天空率
+  List:
+    ListSentence:
+      Column:
+        Sentence: Ａｓ
+      Column:
+        Sentence: 地上のある位置を中心としてその水平面上に想定する半球（以下この章において「想定半球」という。）の水平投影面積
+  List:
+    ListSentence:
+      Column:
+        Sentence: Ａｂ
+      Column:
+        Sentence: 建築物及びその敷地の地盤をＡｓの想定半球と同一の想定半球に投影した投影面の水平投影面積）

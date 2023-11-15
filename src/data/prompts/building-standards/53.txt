@@ -1,5 +1,6 @@
 ArticleCaption: （電気設備）
 ArticleTitle: 第三十二条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 建築物の電気設備は、法律又はこれに基く命令の規定で電気工作物に係る建築物の安全及び防火に関するものの定める工法によつて設けなければならない。

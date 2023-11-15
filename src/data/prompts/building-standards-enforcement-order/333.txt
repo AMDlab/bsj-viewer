@@ -1,0 +1,51 @@
+ArticleCaption: （建築物の用途を変更して特殊建築物とする場合に建築主事の確認等を要しない類似の用途）
+ArticleTitle: 第百三十七条の十八
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第八十七条第一項の規定により政令で指定する類似の用途は、当該建築物が次の各号のいずれかに掲げる用途である場合において、それぞれ当該各号に掲げる他の用途とする。
+    Sentence: ただし、第三号若しくは第六号に掲げる用途に供する建築物が第一種低層住居専用地域、第二種低層住居専用地域若しくは田園住居地域内にある場合、第七号に掲げる用途に供する建築物が第一種中高層住居専用地域、第二種中高層住居専用地域若しくは工業専用地域内にある場合又は第九号に掲げる用途に供する建築物が準住居地域若しくは近隣商業地域内にある場合については、この限りでない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 劇場、映画館、演芸場
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 公会堂、集会場
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 診療所（患者の収容施設があるものに限る。）、児童福祉施設等
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: ホテル、旅館
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: 下宿、寄宿舎
+  Item:
+    ItemTitle: 六
+    ItemSentence:
+      Sentence: 博物館、美術館、図書館
+  Item:
+    ItemTitle: 七
+    ItemSentence:
+      Sentence: 体育館、ボーリング場、スケート場、水泳場、スキー場、ゴルフ練習場、バッティング練習場
+  Item:
+    ItemTitle: 八
+    ItemSentence:
+      Sentence: 百貨店、マーケット、その他の物品販売業を営む店舗
+  Item:
+    ItemTitle: 九
+    ItemSentence:
+      Sentence: キャバレー、カフェー、ナイトクラブ、バー
+  Item:
+    ItemTitle: 十
+    ItemSentence:
+      Sentence: 待合、料理店
+  Item:
+    ItemTitle: 十一
+    ItemSentence:
+      Sentence: 映画スタジオ、テレビスタジオ

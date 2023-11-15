@@ -1,6 +1,7 @@
 ArticleCaption: （居室を有する建築物の換気設備についてのホルムアルデヒドに関する技術的基準）
 ArticleTitle: 第二十条の八
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 換気設備についてのホルムアルデヒドに関する法第二十八条の二第三号の政令で定める技術的基準は、次のとおりとする。
   Item:
@@ -17,7 +18,8 @@ Paragraph:
           Sentence: 有効換気量（立方メートル毎時で表した量とする。（２）において同じ。）が、次の式によつて計算した必要有効換気量以上であること。
         List:
           ListSentence:
-            Sentence: Ｖｒ＝ｎＡｈ
+            Sentence:
+              ArithFormula: Ｖｒ＝ｎＡｈ
         List:
           ListSentence:
             Sentence: （この式において、Ｖｒ、ｎ、Ａ及びｈは、それぞれ次の数値を表すものとする。
@@ -69,7 +71,8 @@ Paragraph:
           Sentence: 次の式によつて計算した有効換気換算量がイ（１）の式によつて計算した必要有効換気量以上であるものとして、国土交通大臣が定めた構造方法を用いるもの又は国土交通大臣の認定を受けたものであること。
         List:
           ListSentence:
-            Sentence: Ｖｑ＝Ｑ（（Ｃ－Ｃｐ）／Ｃ）＋Ｖ
+            Sentence:
+              ArithFormula: Ｖｑ＝Ｑ（（Ｃ－Ｃｐ）／Ｃ）＋Ｖ
         List:
           ListSentence:
             Sentence: （この式において、Ｖｑ、Ｑ、Ｃ、Ｃｐ及びＶは、それぞれ次の数値を表すものとする。

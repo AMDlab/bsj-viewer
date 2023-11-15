@@ -1,5 +1,6 @@
 ArticleCaption: （はり等の横架材）
 ArticleTitle: 第四十四条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: はり、けたその他の横架材には、その中央部附近の下側に耐力上支障のある欠込みをしてはならない。

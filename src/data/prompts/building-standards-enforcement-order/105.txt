@@ -1,6 +1,7 @@
 ArticleCaption: （コンクリートの強度）
 ArticleTitle: 第七十四条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 鉄筋コンクリート造に使用するコンクリートの強度は、次に定めるものでなければならない。
   Item:

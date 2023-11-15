@@ -1,6 +1,7 @@
 ArticleCaption: （適用の範囲）
 ArticleTitle: 第七十一条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: この節の規定は、鉄筋コンクリート造の建築物又は鉄筋コンクリート造と鉄骨造その他の構造とを併用する建築物の鉄筋コンクリート造の構造部分に適用する。
 Paragraph:

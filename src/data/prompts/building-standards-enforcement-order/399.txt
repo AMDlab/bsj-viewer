@@ -1,0 +1,6 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この政令は、密集市街地における防災街区の整備の促進に関する法律等の一部を改正する法律の施行の日（平成十五年十二月十九日）から施行する。

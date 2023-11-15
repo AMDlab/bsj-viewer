@@ -1,0 +1,14 @@
+ArticleCaption: （経過措置）
+ArticleTitle: 第三条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 民法の一部を改正する法律（平成十一年法律第百四十九号）附則第三条第三項の規定により従前の例によることとされる準禁治産者及びその保佐人に関するこの法律による改正規定の適用については、次に掲げる改正規定を除き、なお従前の例による。
+  Item:
+    ItemTitle: 一から十一まで
+    ItemSentence:
+      Sentence: 略
+  Item:
+    ItemTitle: 十二
+    ItemSentence:
+      Sentence: 第五十条中建築基準法第八十条の二の改正規定

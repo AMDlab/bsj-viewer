@@ -1,0 +1,15 @@
+ArticleCaption: （認定等業務規程）
+ArticleTitle: 第七十七条の四十五
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 指定認定機関は、認定等の業務に関する規程（以下この節において「認定等業務規程」という。）を定め、国土交通大臣の認可を受けなければならない。
+    Sentence: これを変更しようとするときも、同様とする。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 認定等業務規程で定めるべき事項は、国土交通省令で定める。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、第一項の認可をした認定等業務規程が認定等の公正かつ適確な実施上不適当となつたと認めるときは、その認定等業務規程を変更すべきことを命ずることができる。

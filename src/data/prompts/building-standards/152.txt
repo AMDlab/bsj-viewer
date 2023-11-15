@@ -1,5 +1,14 @@
-ArticleCaption: （権限の委任）
-ArticleTitle: 第九十七条
+ArticleCaption: （指定の公示等）
+ArticleTitle: 第七十七条の五
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: この法律に規定する国土交通大臣の権限は、国土交通省令で定めるところにより、その一部を地方整備局長又は北海道開発局長に委任することができる。
+    Sentence: 国土交通大臣は、第五条の二第一項の規定による指定をしたときは、指定建築基準適合判定資格者検定機関の名称及び住所、建築基準適合判定資格者検定事務を行う事務所の所在地並びに建築基準適合判定資格者検定事務の開始の日を公示しなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 指定建築基準適合判定資格者検定機関は、その名称若しくは住所又は建築基準適合判定資格者検定事務を行う事務所の所在地を変更しようとするときは、変更しようとする日の二週間前までに、その旨を国土交通大臣に届け出なければならない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、前項の規定による届出があつたときは、その旨を公示しなければならない。

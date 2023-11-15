@@ -1,46 +1,6 @@
-ArticleCaption: （エレベーターの昇降路の構造）
-ArticleTitle: 第百二十九条の七
+ArticleCaption: （遮炎性能に関する技術的基準）
+ArticleTitle: 第百九条の二
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: エレベーターの昇降路は、次に定める構造としなければならない。
-  Item:
-    ItemTitle: 一
-    ItemSentence:
-      Sentence: 昇降路外の人又は物が籠又は釣合おもりに触れるおそれのないものとして国土交通大臣が定める基準に適合する壁又は囲い及び出入口（非常口を含む。以下この節において同じ。）の戸を設けること。
-  Item:
-    ItemTitle: 二
-    ItemSentence:
-      Sentence: 構造上軽微な部分を除き、昇降路の壁又は囲い及び出入口の戸は、難燃材料で造り、又は覆うこと。
-      Sentence: ただし、地階又は三階以上の階に居室を有さない建築物に設けるエレベーターの昇降路その他防火上支障のないものとして国土交通大臣が定めるエレベーターの昇降路にあつては、この限りでない。
-  Item:
-    ItemTitle: 三
-    ItemSentence:
-      Sentence: 昇降路の出入口の戸には、籠がその戸の位置に停止していない場合において昇降路外の人又は物の昇降路内への落下を防止することができるものとして国土交通大臣が定める基準に適合する施錠装置を設けること。
-  Item:
-    ItemTitle: 四
-    ItemSentence:
-      Sentence: 出入口の床先と籠の床先との水平距離は、四センチメートル以下とし、乗用エレベーター及び寝台用エレベーターにあつては、籠の床先と昇降路壁との水平距離は、十二・五センチメートル以下とすること。
-  Item:
-    ItemTitle: 五
-    ItemSentence:
-      Sentence: 昇降路内には、次のいずれかに該当するものを除き、突出物を設けないこと。
-    Subitem1:
-      Subitem1Title: イ
-      Subitem1Sentence:
-        Sentence: レールブラケット又は横架材であつて、次に掲げる基準に適合するもの
-      Subitem2:
-        Subitem2Title: （１）
-        Subitem2Sentence:
-          Sentence: 地震時において主索その他の索が触れた場合においても、籠の昇降、籠の出入口の戸の開閉その他のエレベーターの機能に支障が生じないよう金網、鉄板その他これらに類するものが設置されていること。
-      Subitem2:
-        Subitem2Title: （２）
-        Subitem2Sentence:
-          Sentence: （１）に掲げるもののほか、国土交通大臣の定める措置が講じられていること。
-    Subitem1:
-      Subitem1Title: ロ
-      Subitem1Sentence:
-        Sentence: 第百二十九条の二の四第一項第三号ただし書の配管設備で同条の規定に適合するもの
-    Subitem1:
-      Subitem1Title: ハ
-      Subitem1Sentence:
-        Sentence: イ又はロに掲げるもののほか、係合装置その他のエレベーターの構造上昇降路内に設けることがやむを得ないものであつて、地震時においても主索、電線その他のものの機能に支障が生じないように必要な措置が講じられたもの
+    Sentence: 法第二条第九号の二ロの政令で定める技術的基準は、防火設備に通常の火災による火熱が加えられた場合に、加熱開始後二十分間当該加熱面以外の面に火炎を出さないものであることとする。

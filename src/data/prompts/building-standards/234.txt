@@ -1,0 +1,6 @@
+ArticleCaption: （国土交通省令への委任）
+ArticleTitle: 第七十七条の六十四
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 第七十七条の五十八から前条までに規定するもののほか、第七十七条の五十八第一項の登録の申請、登録証の交付、訂正、再交付及び返納その他の同項の登録に関する事項は、国土交通省令で定める。

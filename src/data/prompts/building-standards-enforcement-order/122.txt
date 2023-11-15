@@ -1,42 +1,50 @@
-ArticleCaption: （廊下の幅）
-ArticleTitle: 第百十九条
+ArticleCaption: （保有水平耐力）
+ArticleTitle: 第八十二条の三
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: 廊下の幅は、それぞれ次の表に掲げる数値以上としなければならない。
-  TableStruct:
-    Table:
-      TableRow:
-        TableColumn:
-          Sentence: 廊下の用途
-        TableColumn:
-          Sentence: 廊下の配置
-        TableColumn:
-          Sentence: 両側に居室がある廊下における場合
-        TableColumn:
-          Sentence: その他の廊下における場合
-      TableRow:
-        TableColumn:
-          Sentence: （単位　メートル）
-        TableColumn:
-          Sentence: （単位　メートル）
-      TableRow:
-        TableColumn:
-          Sentence: 　
-        TableColumn:
-          Sentence: 　
-        TableColumn:
-          Sentence: 　
-      TableRow:
-        TableColumn:
-          Sentence: 小学校、中学校、義務教育学校、高等学校又は中等教育学校における児童用又は生徒用のもの
-        TableColumn:
-          Sentence: 二・三
-        TableColumn:
-          Sentence: 一・八
-      TableRow:
-        TableColumn:
-          Sentence: 病院における患者用のもの、共同住宅の住戸若しくは住室の床面積の合計が百平方メートルを超える階における共用のもの又は三室以下の専用のものを除き居室の床面積の合計が二百平方メートル（地階にあつては、百平方メートル）を超える階におけるもの
-        TableColumn:
-          Sentence: 一・六
-        TableColumn:
-          Sentence: 一・二
+    Sentence: 建築物の地上部分については、第一号の規定によつて計算した各階の水平力に対する耐力（以下この条及び第八十二条の五において「保有水平耐力」という。）が、第二号の規定によつて計算した必要保有水平耐力以上であることを確かめなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 第四款に規定する材料強度によつて国土交通大臣が定める方法により保有水平耐力を計算すること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 地震力に対する各階の必要保有水平耐力を次の式によつて計算すること。
+    List:
+      ListSentence:
+        Sentence:
+          ArithFormula: Ｑｕｎ＝Ｄｓ　Ｆｅｓ　Ｑｕｄ
+    List:
+      ListSentence:
+        Sentence: （この式において、Ｑｕｎ、Ｄｓ、Ｆｅｓ及びＱｕｄは、それぞれ次の数値を表すものとする。
+    List:
+      ListSentence:
+        Column:
+          Sentence: Ｑｕｎ
+        Column:
+          Sentence: 各階の必要保有水平耐力（単位
+        Column:
+          Sentence: キロニュートン）
+    List:
+      ListSentence:
+        Column:
+          Sentence: Ｄｓ
+        Column:
+          Sentence: 各階の構造特性を表すものとして、建築物の構造耐力上主要な部分の構造方法に応じた減衰性及び各階の靱
+          Sentence: 性を考慮して国土交通大臣が定める数値
+    List:
+      ListSentence:
+        Column:
+          Sentence: Ｆｅｓ
+        Column:
+          Sentence: 各階の形状特性を表すものとして、各階の剛性率及び偏心率に応じて国土交通大臣が定める方法により算出した数値
+    List:
+      ListSentence:
+        Column:
+          Sentence: Ｑｕｄ
+        Column:
+          Sentence: 地震力によつて各階に生ずる水平力（単位
+        Column:
+          Sentence: キロニュートン））

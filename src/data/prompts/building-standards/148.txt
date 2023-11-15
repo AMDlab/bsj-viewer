@@ -1,5 +1,10 @@
-ArticleCaption: （国土交通省令への委任）
-ArticleTitle: 第九十三条の三
+ArticleCaption: （建築物の借主の地位）
+ArticleTitle: 第七十七条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: この法律に定めるもののほか、この法律の規定に基づく許可その他の処分に関する手続その他この法律の実施のため必要な事項は、国土交通省令で定める。
+    Sentence: 建築協定の目的となつている建築物に関する基準が建築物の借主の権限に係る場合においては、その建築協定については、当該建築物の借主は、土地の所有者等とみなす。
+      Chapter:
+        ChapterTitle: 第四章の二　指定建築基準適合判定資格者検定機関等
+        Section:
+SectionTitle: 第一節　指定建築基準適合判定資格者検定機関

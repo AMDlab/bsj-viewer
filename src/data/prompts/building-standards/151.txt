@@ -1,4 +1,18 @@
-ArticleTitle: 第九十六条
+ArticleCaption: （指定の基準）
+ArticleTitle: 第七十七条の四
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: 削除
+    Sentence: 国土交通大臣は、第五条の二第一項の規定による指定の申請が次に掲げる基準に適合していると認めるときでなければ、その指定をしてはならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 職員（第七十七条の七第一項の建築基準適合判定資格者検定委員を含む。）、設備、建築基準適合判定資格者検定事務の実施の方法その他の事項についての建築基準適合判定資格者検定事務の実施に関する計画が、建築基準適合判定資格者検定事務の適確な実施のために適切なものであること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 前号の建築基準適合判定資格者検定事務の実施に関する計画を適確に実施するに足りる経理的及び技術的な基礎を有するものであること。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 建築基準適合判定資格者検定事務以外の業務を行つている場合には、その業務を行うことによつて建築基準適合判定資格者検定事務の公正な実施に支障を及ぼすおそれがないものであること。

@@ -1,0 +1,6 @@
+ArticleCaption: （業務区域等の掲示）
+ArticleTitle: 第七十七条の三十五の十三
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 指定構造計算適合性判定機関は、国土交通省令で定めるところにより、業務区域その他国土交通省令で定める事項を、その事務所において公衆に見やすいように掲示しなければならない。

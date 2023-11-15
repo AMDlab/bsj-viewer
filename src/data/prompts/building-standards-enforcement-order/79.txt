@@ -1,6 +1,9 @@
-ArticleCaption: （臥梁）
+ArticleCaption: （臥梁
+ArticleCaption: ）
 ArticleTitle: 第五十六条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: 組積造の壁には、その各階の壁頂（切妻壁がある場合においては、その切妻壁の壁頂）に鉄骨造又は鉄筋コンクリート造の臥梁を設けなければならない。
+    Sentence: 組積造の壁には、その各階の壁頂（切妻壁がある場合においては、その切妻壁の壁頂）に鉄骨造又は鉄筋コンクリート造の臥梁
+    Sentence: を設けなければならない。
     Sentence: ただし、その壁頂に鉄筋コンクリート造の屋根版、床版等が接着する場合又は階数が一の建築物で壁の厚さが壁の高さの十分の一以上の場合若しくは壁の長さが五メートル以下の場合においては、この限りでない。

@@ -1,6 +1,7 @@
 ArticleCaption: （外壁内部等の防腐措置等）
 ArticleTitle: 第四十九条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 木造の外壁のうち、鉄網モルタル塗その他軸組が腐りやすい構造である部分の下地には、防水紙その他これに類するものを使用しなければならない。
 Paragraph:

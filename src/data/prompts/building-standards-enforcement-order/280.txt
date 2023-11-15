@@ -1,0 +1,14 @@
+ArticleCaption: （第一種低層住居専用地域等内における外壁の後退距離に対する制限の緩和）
+ArticleTitle: 第百三十五条の二十二
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第五十四条第一項の規定により政令で定める場合は、当該地域に関する都市計画において定められた外壁の後退距離の限度に満たない距離にある建築物又は建築物の部分が次の各号のいずれかに該当する場合とする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 外壁又はこれに代わる柱の中心線の長さの合計が三メートル以下であること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 物置その他これに類する用途に供し、軒の高さが二・三メートル以下で、かつ、床面積の合計が五平方メートル以内であること。

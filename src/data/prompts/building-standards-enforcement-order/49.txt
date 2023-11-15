@@ -1,16 +1,19 @@
 ArticleCaption: （くみ取便所の構造）
 ArticleTitle: 第二十九条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: くみ取便所の構造は、次に掲げる基準に適合するものとして、国土交通大臣が定めた構造方法を用いるもの又は国土交通大臣の認定を受けたものとしなければならない。
   Item:
     ItemTitle: 一
     ItemSentence:
-      Sentence: 屎尿に接する部分から漏水しないものであること。
+      Sentence:屎
+      Sentence: 尿に接する部分から漏水しないものであること。
   Item:
     ItemTitle: 二
     ItemSentence:
-      Sentence: 屎尿の臭気（便器その他構造上やむを得ないものから漏れるものを除く。）が、建築物の他の部分（便所の床下を除く。）又は屋外に漏れないものであること。
+      Sentence:屎
+      Sentence: 尿の臭気（便器その他構造上やむを得ないものから漏れるものを除く。）が、建築物の他の部分（便所の床下を除く。）又は屋外に漏れないものであること。
   Item:
     ItemTitle: 三
     ItemSentence:

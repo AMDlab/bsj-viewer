@@ -1,5 +1,6 @@
 ArticleCaption: （構造部材の耐久）
 ArticleTitle: 第三十七条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 構造耐力上主要な部分で特に腐食、腐朽又は摩損のおそれのあるものには、腐食、腐朽若しくは摩損しにくい材料又は有効なさび止め、防腐若しくは摩損防止のための措置をした材料を使用しなければならない。

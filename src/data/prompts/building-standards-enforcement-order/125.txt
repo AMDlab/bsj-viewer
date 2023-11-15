@@ -1,5 +1,82 @@
-ArticleCaption: （屋外階段の構造）
-ArticleTitle: 第百二十一条の二
+ArticleTitle: 第八十二条の六
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: 前二条の規定による直通階段で屋外に設けるものは、木造（準耐火構造のうち有効な防腐措置を講じたものを除く。）としてはならない。
+    Sentence: 第八十一条第二項第二号イに規定する許容応力度等計算とは、次に定めるところによりする構造計算をいう。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 第八十二条各号、第八十二条の二及び第八十二条の四に定めるところによること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 建築物の地上部分について、次に適合することを確かめること。
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 次の式によつて計算した各階の剛性率が、それぞれ十分の六以上であること。
+      List:
+        ListSentence:
+          Sentence: Ｒｓ＝ｒｓ／ｒ
+          Sentence: ｓ
+      List:
+        ListSentence:
+          Sentence: （この式において、Ｒｓ、ｒｓ及びｒ
+          Sentence: ｓは、それぞれ次の数値を表すものとする。
+      List:
+        ListSentence:
+          Column:
+            Sentence: Ｒｓ
+          Column:
+            Sentence: 各階の剛性率
+      List:
+        ListSentence:
+          Column:
+            Sentence: ｒｓ
+          Column:
+            Sentence: 各階の層間変形角の逆数
+      List:
+        ListSentence:
+          Column:
+            Sentence:ｒ
+            Sentence: ｓ
+          Column:
+            Sentence: 当該建築物についてのｒｓの相加平均）
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 次の式によつて計算した各階の偏心率が、それぞれ百分の十五を超えないこと。
+      List:
+        ListSentence:
+          Sentence: Ｒｅ＝ｅ／ｒｅ
+      List:
+        ListSentence:
+          Sentence: （この式において、Ｒｅ、ｅ及びｒｅは、それぞれ次の数値を表すものとする。
+      List:
+        ListSentence:
+          Column:
+            Sentence: Ｒｅ
+          Column:
+            Sentence: 各階の偏心率
+      List:
+        ListSentence:
+          Column:
+            Sentence: ｅ
+          Column:
+            Sentence: 各階の構造耐力上主要な部分が支える固定荷重及び積載荷重（第八十六条第二項ただし書の規定により特定行政庁が指定する多雪区域にあつては、固定荷重、積載荷重及び積雪荷重）の重心と当該各階の剛心をそれぞれ同一水平面に投影させて結ぶ線を計算しようとする方向と直交する平面に投影させた線の長さ（単位
+          Column:
+            Sentence: センチメートル）
+      List:
+        ListSentence:
+          Column:
+            Sentence: ｒｅ
+          Column:
+            Sentence: 国土交通大臣が定める方法により算出した各階の剛心周りのねじり剛性の数値を当該各階の計算しようとする方向の水平剛性の数値で除した数値の平方根（単位
+          Column:
+            Sentence: センチメートル））
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 前二号に定めるところによるほか、建築物の地上部分について、国土交通大臣がその構造方法に応じ、地震に対し、安全であることを確かめるために必要なものとして定める基準に適合すること。
+          Subsection:
+            SubsectionTitle: 第二款　荷重及び外力

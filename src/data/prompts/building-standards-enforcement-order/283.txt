@@ -1,0 +1,109 @@
+ArticleCaption: （敷地内の空地及び敷地面積の規模）
+ArticleTitle: 第百三十六条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第五十九条の二第一項の規定により政令で定める空地は、法第五十三条の規定により建蔽率の最高限度が定められている場合においては、当該最高限度に応じて、当該空地の面積の敷地面積に対する割合が次の表に定める数値以上であるものとし、同条の規定により建蔽率の最高限度が定められていない場合においては、当該空地の面積の敷地面積に対する割合が十分の二以上であるものとする。
+  TableStruct:
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 法第五十三条の規定による建蔽率の最高限度
+        TableColumn:
+          Sentence: 空地の面積の敷地面積に対する割合
+      TableRow:
+        TableColumn:
+          Sentence: （一）
+        TableColumn:
+          Sentence: 十分の五以下の場合
+        TableColumn:
+          Sentence: 一から法第五十三条の規定による建蔽率の最高限度を減じた数値に十分の一・五を加えた数値
+      TableRow:
+        TableColumn:
+          Sentence: （二）
+        TableColumn:
+          Sentence: 十分の五を超え、十分の五・五以下の場合
+        TableColumn:
+          Sentence: 十分の六・五
+      TableRow:
+        TableColumn:
+          Sentence: （三）
+        TableColumn:
+          Sentence: 十分の五・五を超える場合
+        TableColumn:
+          Sentence: 一から法第五十三条の規定による建蔽率の最高限度を減じた数値に十分の二を加えた数値
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 法第五十九条の二第一項の規定によりその各部分の高さのみを法第五十五条第一項又は法第五十六条の規定による限度を超えるものとする建築物に対する前項の規定の適用については、同項中「十分の二」とあるのは「十分の一・五」と、「十分の一・五」とあるのは「十分の一」と、「十分の六・五」とあるのは「十分の六」とする。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 法第五十九条の二第一項の規定により政令で定める規模は、次の表の（い）欄に掲げる区分に応じて、同表（ろ）欄に掲げる数値とする。
+    Sentence: ただし、特定行政庁は、街区の形状、宅地の規模その他土地の状況により同欄に掲げる数値によることが不適当であると認める場合においては、規則で、同表（は）欄に掲げる数値の範囲内で、その規模を別に定めることができる。
+  TableStruct:
+    Table:
+      TableRow:
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: （い）
+        TableColumn:
+          Sentence: （ろ）
+        TableColumn:
+          Sentence: （は）
+      TableRow:
+        TableColumn:
+          Sentence: 　
+        TableColumn:
+          Sentence: 地域又は区域
+        TableColumn:
+          Sentence: 敷地面積の規模
+          Sentence: （単位　平方メートル）
+        TableColumn:
+          Sentence: 規則で定めることができる敷地面積の規模
+          Sentence: （単位　平方メートル）
+      TableRow:
+        TableColumn:
+          Sentence: （一）
+        TableColumn:
+          Sentence: 第一種低層住居専用地域、第二種低層住居専用地域又は田園住居地域
+        TableColumn:
+          Sentence: 三、〇〇〇
+        TableColumn:
+          Sentence: 一、〇〇〇以上
+          Sentence: 三、〇〇〇未満
+      TableRow:
+        TableColumn:
+          Sentence: （二）
+        TableColumn:
+          Sentence: 第一種中高層住居専用地域、第二種中高層住居専用地域、第一種住居地域、第二種住居地域、準住居地域、準工業地域、工業地域又は工業専用地域
+        TableColumn:
+          Sentence: 二、〇〇〇
+        TableColumn:
+          Sentence: 五〇〇以上
+          Sentence: 二、〇〇〇未満
+      TableRow:
+        TableColumn:
+          Sentence: （三）
+        TableColumn:
+          Sentence: 近隣商業地域又は商業地域
+        TableColumn:
+          Sentence: 一、〇〇〇
+        TableColumn:
+          Sentence: 五〇〇以上
+          Sentence: 一、〇〇〇未満
+      TableRow:
+        TableColumn:
+          Sentence: （四）
+        TableColumn:
+          Sentence: 用途地域の指定のない区域
+        TableColumn:
+          Sentence: 二、〇〇〇
+        TableColumn:
+          Sentence: 一、〇〇〇以上
+          Sentence: 二、〇〇〇未満
+      Chapter:
+        ChapterTitle: 第七章の二　防火地域又は準防火地域内の建築物

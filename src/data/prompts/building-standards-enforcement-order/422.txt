@@ -1,0 +1,31 @@
+ArticleCaption: （経過措置の原則）
+ArticleTitle: 第二条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 行政庁の処分その他の行為又は不作為についての不服申立てであってこの政令の施行前にされた行政庁の処分その他の行為又はこの政令の施行前にされた申請に係る行政庁の不作為に係るものについては、この附則に特別の定めがある場合を除き、なお従前の例による。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+ParagraphSentence:
+  Sentence: この政令は、平成二十八年四月一日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この政令は、建築基準法の一部を改正する法律附則第一条第三号に掲げる規定の施行の日（平成二十八年六月一日）から施行する。
+      Paragraph:
+ParagraphCaption: （型式適合認定に関する経過措置）
+ParagraphNum: ２
+ParagraphSentence:
+  Sentence: この政令の施行前に第一条の規定による改正前の建築基準法施行令第百三十六条の二の十一第一号に掲げる規定に適合するものであることの建築基準法第六十八条の十第一項の認定を受けた型式は、第一条の規定による改正後の建築基準法施行令第百三十六条の二の十一第一号ロに掲げる規定に適合するものであることの同法第六十八条の十第一項の認定を受けているものとみなす。
+      Paragraph:
+ParagraphCaption: （罰則に関する経過措置）
+ParagraphNum: ３
+ParagraphSentence:
+  Sentence: この政令の施行前にした行為に対する罰則の適用については、なお従前の例による。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

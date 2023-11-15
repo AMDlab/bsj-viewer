@@ -1,6 +1,7 @@
 ArticleCaption: （用語の定義）
 ArticleTitle: 第一条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: この政令において次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。
   Item:

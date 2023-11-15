@@ -1,0 +1,6 @@
+ArticleCaption: （指定構造計算適合性判定機関に係る指定の有効期間）
+ArticleTitle: 第百三十六条の二の十六
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第七十七条の三十五の七第一項の政令で定める期間は、五年とする。

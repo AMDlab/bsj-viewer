@@ -1,0 +1,10 @@
+ArticleCaption: （建築審査会の組織）
+ArticleTitle: 第七十九条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 建築審査会は、委員五人以上をもつて組織する。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 委員は、法律、経済、建築、都市計画、公衆衛生又は行政に関しすぐれた経験と知識を有し、公共の福祉に関し公正な判断をすることができる者のうちから、市町村長又は都道府県知事が任命する。

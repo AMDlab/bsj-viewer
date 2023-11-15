@@ -1,0 +1,58 @@
+ArticleCaption: （エレベーターの安全装置）
+ArticleTitle: 第百二十九条の十
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: エレベーターには、制動装置を設けなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項のエレベーターの制動装置の構造は、次に掲げる基準に適合するものとして、国土交通大臣が定めた構造方法を用いるもの又は国土交通大臣の認定を受けたものとしなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: かごが昇降路の頂部又は底部に衝突するおそれがある場合に、自動的かつ段階的に作動し、これにより、かごに生ずる垂直方向の加速度が九・八メートル毎秒毎秒を、水平方向の加速度が五・〇メートル毎秒毎秒を超えることなく安全にかごを制止させることができるものであること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 保守点検をかごの上に人が乗り行うエレベーターにあつては、点検を行う者が昇降路の頂部とかごの間に挟まれることのないよう自動的にかごを制止させることができるものであること。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: エレベーターには、前項に定める制動装置のほか、次に掲げる安全装置を設けなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 次に掲げる場合に自動的にかごを制止する装置
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 駆動装置又は制御器に故障が生じ、かごの停止位置が著しく移動した場合
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 駆動装置又は制御器に故障が生じ、かご及び昇降路のすべての出入口の戸が閉じる前にかごが昇降した場合
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 地震その他の衝撃により生じた国土交通大臣が定める加速度を検知し、自動的に、かごを昇降路の出入口の戸の位置に停止させ、かつ、当該かごの出入口の戸及び昇降路の出入口の戸を開き、又はかご内の人がこれらの戸を開くことができることとする装置
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 停電等の非常の場合においてかご内からかご外に連絡することができる装置
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 乗用エレベーター又は寝台用エレベーターにあつては、次に掲げる安全装置
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 積載荷重に一・一を乗じて得た数値を超えた荷重が作用した場合において警報を発し、かつ、出入口の戸の閉鎖を自動的に制止する装置
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 停電の場合においても、床面で一ルクス以上の照度を確保することができる照明装置
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 前項第一号及び第二号に掲げる装置の構造は、それぞれ、その機能を確保することができるものとして、国土交通大臣が定めた構造方法を用いるもの又は国土交通大臣の認定を受けたものとしなければならない。

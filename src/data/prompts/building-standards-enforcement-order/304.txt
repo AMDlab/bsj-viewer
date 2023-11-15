@@ -1,0 +1,57 @@
+ArticleCaption: （根切り工事、山留め工事等を行う場合の危害の防止）
+ArticleTitle: 第百三十六条の三
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 建築工事等において根切り工事、山留め工事、ウエル工事、ケーソン工事その他基礎工事を行なう場合においては、あらかじめ、地下に埋設されたガス管、ケーブル、水道管及び下水道管の損壊による危害の発生を防止するための措置を講じなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 建築工事等における地階の根切り工事その他の深い根切り工事（これに伴う山留め工事を含む。）は、地盤調査による地層及び地下水の状況に応じて作成した施工図に基づいて行なわなければならない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 建築工事等において建築物その他の工作物に近接して根切り工事その他土地の掘削を行なう場合においては、当該工作物の基礎又は地盤を補強して構造耐力の低下を防止し、急激な排水を避ける等その傾斜又は倒壊による危害の発生を防止するための措置を講じなければならない。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 建築工事等において深さ一・五メートル以上の根切り工事を行なう場合においては、地盤が崩壊するおそれがないとき、及び周辺の状況により危害防止上支障がないときを除き、山留めを設けなければならない。
+    Sentence: この場合において、山留めの根入れは、周辺の地盤の安定を保持するために相当な深さとしなければならない。
+Paragraph:
+  ParagraphNum: ５
+  ParagraphSentence:
+    Sentence: 前項の規定により設ける山留めの切ばり、矢板、腹起しその他の主要な部分は、土圧に対して、次に定める方法による構造計算によつた場合に安全であることが確かめられる最低の耐力以上の耐力を有する構造としなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 次に掲げる方法によつて土圧を計算すること。
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 土質及び工法に応じた数値によること。
+        Sentence: ただし、深さ三メートル以内の根切り工事を行う場合においては、土を水と仮定した場合の圧力の五十パーセントを下らない範囲でこれと異なる数値によることができる。
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 建築物その他の工作物に近接している部分については、イの数値に当該工作物の荷重による影響に相当する数値を加えた数値によること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 前号の規定によつて計算した土圧によつて山留めの主要な部分の断面に生ずる応力度を計算すること。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 前号の規定によつて計算した応力度が、次に定める許容応力度を超えないことを確かめること。
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 木材の場合にあつては、第八十九条（第三項を除く。）又は第九十四条の規定による長期に生ずる力に対する許容応力度と短期に生ずる力に対する許容応力度との平均値。
+        Sentence: ただし、腹起しに用いる木材の許容応力度については、国土交通大臣が定める許容応力度によることができる。
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 鋼材又はコンクリートの場合にあつては、それぞれ第九十条若しくは第九十四条又は第九十一条の規定による短期に生ずる力に対する許容応力度
+Paragraph:
+  ParagraphNum: ６
+  ParagraphSentence:
+    Sentence: 建築工事等における根切り及び山留めについては、その工事の施工中必要に応じて点検を行ない、山留めを補強し、排水を適当に行なう等これを安全な状態に維持するための措置を講ずるとともに、矢板等の抜取りに際しては、周辺の地盤の沈下による危害を防止するための措置を講じなければならない。

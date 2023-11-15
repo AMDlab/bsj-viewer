@@ -1,0 +1,22 @@
+ArticleCaption: （構造計算適合性判定の業務の休廃止等）
+ArticleTitle: 第七十七条の三十五の十八
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 指定構造計算適合性判定機関は、国土交通大臣等の許可を受けなければ、構造計算適合性判定の業務の全部又は一部を休止し、又は廃止してはならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、指定構造計算適合性判定機関の構造計算適合性判定の業務の全部又は一部の休止又は廃止により構造計算適合性判定の業務の適正かつ確実な実施が損なわれるおそれがないと認めるときでなければ、前項の許可をしてはならない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、第一項の許可をしようとするときは、関係委任都道府県知事の意見を聴かなければならない。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 国土交通大臣等が第一項の規定により構造計算適合性判定の業務の全部の廃止を許可したときは、当該許可に係る指定は、その効力を失う。
+Paragraph:
+  ParagraphNum: ５
+  ParagraphSentence:
+    Sentence: 国土交通大臣等は、第一項の許可をしたときは、その旨を公示しなければならない。

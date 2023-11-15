@@ -1,0 +1,8 @@
+ArticleCaption: （政令への委任）
+ArticleTitle: 第十一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この附則に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

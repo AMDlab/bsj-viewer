@@ -1,0 +1,10 @@
+ArticleCaption: （建ぺい率の許可等に関する経過措置）
+ArticleTitle: 第八条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 施行日前に旧建築基準法第五十三条第四項第三号の規定によりされた許可は、新建築基準法第五十三条第五項第三号の規定によりされた許可とみなす。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: この法律の施行の際現に旧建築基準法第五十三条第四項第三号の規定によりされている許可の申請は、新建築基準法第五十三条第五項第三号の規定によりされた許可の申請とみなす。

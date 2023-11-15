@@ -1,0 +1,8 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この政令は、法の施行の日（平成十六年五月十五日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

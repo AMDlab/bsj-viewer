@@ -1,0 +1,26 @@
+ArticleCaption: （一の敷地内にあるとみなされる建築物に対する外壁の開口部に対する制限の特例）
+ArticleTitle: 第八十六条の四
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 次の各号のいずれかに該当する建築物について第二十七条第二項若しくは第三項又は第六十七条第一項の規定を適用する場合においては、第一号イに該当する建築物は耐火建築物と、同号ロに該当する建築物は準耐火建築物とみなす。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 第八十六条第一項又は第三項の規定による認定又は許可を受けて建築等をする建築物で、次のいずれかに該当するもの
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 第二条第九号の二イに該当するもの
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 第二条第九号の三イ又はロのいずれかに該当するもの
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 第八十六条第二項又は第四項の規定による認定又は許可を受けて建築等をする建築物で、前号イ又はロのいずれかに該当するもの（当該認定又は許可に係る公告対象区域内に現に存する建築物が、同号イ又はロのいずれかに該当するものである場合に限る。）
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 第八十六条の二第一項から第三項までの規定による認定又は許可を受けて建築等をする建築物で、第一号イ又はロのいずれかに該当するもの（当該認定又は許可に係る公告対象区域内の他の一敷地内認定建築物又は一敷地内許可建築物が、同号イ又はロのいずれかに該当するものである場合に限る。）

@@ -1,17 +1,61 @@
-ArticleCaption: （窓その他の開口部を有しない居室等）
-ArticleTitle: 第百十六条の二
+ArticleTitle: 第八十一条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: 法第三十五条（法第八十七条第三項において準用する場合を含む。第百二十七条において同じ。）の規定により政令で定める窓その他の開口部を有しない居室は、次の各号に該当する窓その他の開口部を有しない居室とする。
+    Sentence: 法第二十条第一項第一号の政令で定める基準は、次のとおりとする。
   Item:
     ItemTitle: 一
     ItemSentence:
-      Sentence: 面積（第二十条の規定より計算した採光に有効な部分の面積に限る。）の合計が、当該居室の床面積の二十分の一以上のもの
+      Sentence: 荷重及び外力によつて建築物の各部分に連続的に生ずる力及び変形を把握すること。
   Item:
     ItemTitle: 二
     ItemSentence:
-      Sentence: 開放できる部分（天井又は天井から下方八十センチメートル以内の距離にある部分に限る。）の面積の合計が、当該居室の床面積の五十分の一以上のもの
+      Sentence: 前号の規定により把握した力及び変形が当該建築物の各部分の耐力及び変形限度を超えないことを確かめること。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 屋根ふき材、特定天井、外装材及び屋外に面する帳壁が、風圧並びに地震その他の震動及び衝撃に対して構造耐力上安全であることを確かめること。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 前三号に掲げるもののほか、建築物が構造耐力上安全であることを確かめるために必要なものとして国土交通大臣が定める基準に適合すること。
 Paragraph:
   ParagraphNum: ２
   ParagraphSentence:
-    Sentence: ふすま、障子その他随時開放することができるもので仕切られた二室は、前項の規定の適用については、一室とみなす。
+    Sentence: 法第二十条第一項第二号イの政令で定める基準は、次の各号に掲げる建築物の区分に応じ、それぞれ当該各号に定める構造計算によるものであることとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Column:
+        Sentence: 高さが三十一メートルを超える建築物
+      Column:
+        Sentence: 次のイ又はロのいずれかに該当する構造計算
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 保有水平耐力計算又はこれと同等以上に安全性を確かめることができるものとして国土交通大臣が定める基準に従つた構造計算
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 限界耐力計算又はこれと同等以上に安全性を確かめることができるものとして国土交通大臣が定める基準に従つた構造計算
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Column:
+        Sentence: 高さが三十一メートル以下の建築物
+      Column:
+        Sentence: 次のイ又はロのいずれかに該当する構造計算
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 許容応力度等計算又はこれと同等以上に安全性を確かめることができるものとして国土交通大臣が定める基準に従つた構造計算
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 前号に定める構造計算
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 法第二十条第一項第三号イの政令で定める基準は、次条各号及び第八十二条の四に定めるところによる構造計算又はこれと同等以上に安全性を確かめることができるものとして国土交通大臣が定める基準に従つた構造計算によるものであることとする。
+          Subsection:
+            SubsectionTitle: 第一款の二　保有水平耐力計算

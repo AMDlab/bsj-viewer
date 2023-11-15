@@ -1,6 +1,7 @@
 ArticleCaption: （適用の範囲）
 ArticleTitle: 第六十二条の二
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: この節の規定は、補強コンクリートブロツク造の建築物又は補強コンクリートブロツク造と鉄筋コンクリート造その他の構造とを併用する建築物の補強コンクリートブロツク造の構造部分に適用する。
 Paragraph:

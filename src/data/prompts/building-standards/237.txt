@@ -1,0 +1,10 @@
+ArticleCaption: （建築審査会）
+ArticleTitle: 第七十八条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この法律に規定する同意及び第九十四条第一項前段の審査請求に対する裁決についての議決を行わせるとともに、特定行政庁の諮問に応じて、この法律の施行に関する重要事項を調査審議させるために、建築主事を置く市町村及び都道府県に、建築審査会を置く。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 建築審査会は、前項に規定する事務を行う外、この法律の施行に関する事項について、関係行政機関に対し建議することができる。

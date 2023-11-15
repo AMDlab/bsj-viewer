@@ -1,0 +1,32 @@
+ArticleCaption: （法第五十六条第七項第一号の政令で定める位置）
+ArticleTitle: 第百三十五条の九
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第五十六条第七項第一号の政令で定める位置は、前面道路の路面の中心の高さにある次に掲げる位置とする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 当該建築物の敷地（道路高さ制限が適用される範囲内の部分に限る。）の前面道路に面する部分の両端から最も近い当該前面道路の反対側の境界線上の位置
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 前号の位置の間の境界線の延長が当該前面道路の幅員の二分の一を超えるときは、当該位置の間の境界線上に当該前面道路の幅員の二分の一以内の間隔で均等に配置した位置
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 当該建築物の敷地が道路制限勾
+    Sentence: 配が異なる地域等にわたる場合における前項の規定の適用については、同項第一号中「限る。）」とあるのは、「限る。）の道路制限勾
+    Sentence: 配が異なる地域等ごと」とする。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 当該建築物の前面道路が二以上ある場合における第一項の規定の適用については、同項第一号中「限る。）」とあるのは、「限る。）の第百三十二条又は第百三十四条第二項に規定する区域ごと」とする。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 当該建築物の敷地の地盤面が前面道路の路面の中心の高さより一メートル以上高い場合においては、第一項に規定する前面道路の路面の中心は、当該高低差から一メートルを減じたものの二分の一だけ高い位置にあるものとみなす。
+Paragraph:
+  ParagraphNum: ５
+  ParagraphSentence:
+    Sentence: 第百三十五条の二第二項の規則で前面道路の位置の高さが別に定められている場合にあつては、前項の規定にかかわらず、当該高さを第一項に規定する前面道路の路面の中心の高さとみなす。

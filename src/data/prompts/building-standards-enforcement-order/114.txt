@@ -1,6 +1,7 @@
 ArticleCaption: （鉄骨のかぶり厚さ）
 ArticleTitle: 第七十九条の三
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 鉄骨に対するコンクリートのかぶり厚さは、五センチメートル以上としなければならない。
 Paragraph:

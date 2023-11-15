@@ -1,17 +1,57 @@
-ArticleCaption: （冷却塔設備）
-ArticleTitle: 第百二十九条の二の六
+ArticleCaption: （準耐火性能に関する技術的基準）
+ArticleTitle: 第百七条の二
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: 地階を除く階数が十一以上である建築物の屋上に設ける冷房のための冷却塔設備の設置及び構造は、次の各号のいずれかに掲げるものとしなければならない。
+    Sentence: 法第二条第七号の二の政令で定める技術的基準は、次に掲げるものとする。
   Item:
     ItemTitle: 一
     ItemSentence:
-      Sentence: 主要な部分を不燃材料で造るか、又は防火上支障がないものとして国土交通大臣が定めた構造方法を用いるものとすること。
+      Sentence: 次の表に掲げる建築物の部分にあつては、当該部分に通常の火災による火熱が加えられた場合に、加熱開始後それぞれ同表に掲げる時間構造耐力上支障のある変形、溶融、破壊その他の損傷を生じないものであること。
+    TableStruct:
+      Table:
+        TableRow:
+          TableColumn:
+            Sentence: 壁
+          TableColumn:
+            Sentence: 間仕切壁（耐力壁に限る。）
+          TableColumn:
+            Sentence: 四十五分間
+        TableRow:
+          TableColumn:
+            Sentence: 外壁（耐力壁に限る。）
+          TableColumn:
+            Sentence: 四十五分間
+        TableRow:
+          TableColumn:
+            Sentence: 柱
+          TableColumn:
+            Sentence: 四十五分間
+        TableRow:
+          TableColumn:
+            Sentence: 床
+          TableColumn:
+            Sentence: 四十五分間
+        TableRow:
+          TableColumn:
+            Sentence: はり
+          TableColumn:
+            Sentence: 四十五分間
+        TableRow:
+          TableColumn:
+            Sentence: 屋根（軒裏を除く。）
+          TableColumn:
+            Sentence: 三十分間
+        TableRow:
+          TableColumn:
+            Sentence: 階段
+          TableColumn:
+            Sentence: 三十分間
   Item:
     ItemTitle: 二
     ItemSentence:
-      Sentence: 冷却塔の構造に応じ、建築物の他の部分までの距離を国土交通大臣が定める距離以上としたものとすること。
+      Sentence: 壁、床及び軒裏（外壁によつて小屋裏又は天井裏と防火上有効に遮られているものを除く。以下この号において同じ。）にあつては、これらに通常の火災による火熱が加えられた場合に、加熱開始後四十五分間（非耐力壁である外壁及び軒裏（いずれも延焼のおそれのある部分以外の部分に限る。）にあつては、三十分間）当該加熱面以外の面（屋内に面するものに限る。）の温度が可燃物燃焼温度以上に上昇しないものであること。
   Item:
     ItemTitle: 三
     ItemSentence:
-      Sentence: 冷却塔設備の内部が燃焼した場合においても建築物の他の部分を国土交通大臣が定める温度以上に上昇させないものとして国土交通大臣の認定を受けたものとすること。
+      Sentence: 外壁及び屋根にあつては、これらに屋内において発生する通常の火災による火熱が加えられた場合に、加熱開始後四十五分間（非耐力壁である外壁（延焼のおそれのある部分以外の部分に限る。）及び屋根にあつては、三十分間）屋外に火炎を出す原因となる亀裂その他の損傷を生じないものであること。

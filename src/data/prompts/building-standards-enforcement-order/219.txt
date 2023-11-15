@@ -1,0 +1,24 @@
+ArticleCaption: （小荷物専用昇降機の構造）
+ArticleTitle: 第百二十九条の十三
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 小荷物専用昇降機は、次に定める構造としなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 昇降路には昇降路外の人又は物がかご又は釣合おもりに触れるおそれのないものとして国土交通大臣が定める基準に適合する壁又は囲い及び出し入れ口の戸を設けること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 昇降路の壁又は囲い及び出し入れ口の戸は、難燃材料で造り、又は覆うこと。
+      Sentence: ただし、地階又は三階以上の階に居室を有さない建築物に設ける小荷物専用昇降機の昇降路その他防火上支障のないものとして国土交通大臣が定める小荷物専用昇降機の昇降路にあつては、この限りでない。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 昇降路のすべての出し入れ口の戸が閉じた後、かごを昇降させるものであること。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 昇降路の出し入れ口の戸には、かごがその戸の位置に停止していない場合においては、かぎを用いなければ外から開くことができない装置を設けること。
+      Sentence: ただし、当該出し入れ口の下端が当該出し入れ口が設けられる室の床面より高い場合においては、この限りでない。

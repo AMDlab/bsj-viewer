@@ -1,6 +1,7 @@
 ArticleCaption: （床版の構造）
 ArticleTitle: 第七十七条の二
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 構造耐力上主要な部分である床版は、次に定める構造としなければならない。
     Sentence: ただし、第八十二条第四号に掲げる構造計算によつて振動又は変形による使用上の支障が起こらないことが確かめられた場合においては、この限りでない。

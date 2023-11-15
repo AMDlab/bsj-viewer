@@ -1,0 +1,10 @@
+ArticleCaption: （工事用材料の集積）
+ArticleTitle: 第百三十六条の七
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 建築工事等における工事用材料の集積は、その倒壊、崩落等による危害の少ない場所に安全にしなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 建築工事等において山留めの周辺又は架構の上に工事用材料を集積する場合においては、当該山留め又は架構に予定した荷重以上の荷重を与えないようにしなければならない。

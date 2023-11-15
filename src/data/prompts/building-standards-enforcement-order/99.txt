@@ -1,6 +1,7 @@
 ArticleCaption: （高力ボルト、ボルト及びリベット）
 ArticleTitle: 第六十八条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 高力ボルト、ボルト又はリベットの相互間の中心距離は、その径の二・五倍以上としなければならない。
 Paragraph:

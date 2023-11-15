@@ -1,6 +1,7 @@
 ArticleCaption: （指定構造計算適合性判定機関による構造計算適合性判定の実施）
 ArticleTitle: 第十八条の二
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 都道府県知事は、第七十七条の三十五の二から第七十七条の三十五の五までの規定の定めるところにより国土交通大臣又は都道府県知事が指定する者に、第六条の三第一項及び前条第四項の構造計算適合性判定の全部又は一部を行わせることができる。
 Paragraph:

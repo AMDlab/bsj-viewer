@@ -1,6 +1,7 @@
 ArticleCaption: （適用の除外）
 ArticleTitle: 第三条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: この法律並びにこれに基づく命令及び条例の規定は、次の各号のいずれかに該当する建築物については、適用しない。
   Item:

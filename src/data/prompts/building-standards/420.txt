@@ -1,0 +1,16 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。
+    Sentence: ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Column:
+        Sentence: 第一条の規定並びに附則第四条、第五条及び第七条の規定
+      Column:
+        Sentence: 公布の日
+    SupplProvision:
+      SupplProvisionLabel: 附　則

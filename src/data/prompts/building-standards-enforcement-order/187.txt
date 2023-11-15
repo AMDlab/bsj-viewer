@@ -1,0 +1,12 @@
+ArticleCaption: （屋上広場等）
+ArticleTitle: 第百二十六条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 屋上広場又は二階以上の階にあるバルコニーその他これに類するものの周囲には、安全上必要な高さが一・一メートル以上の手すり壁、さく又は金網を設けなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 建築物の五階以上の階を百貨店の売場の用途に供する場合においては、避難の用に供することができる屋上広場を設けなければならない。
+        Section:
+          SectionTitle: 第三節　排煙設備

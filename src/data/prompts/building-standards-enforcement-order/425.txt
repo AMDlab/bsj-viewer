@@ -1,0 +1,8 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この政令は、第五号施行日（平成二十九年四月一日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

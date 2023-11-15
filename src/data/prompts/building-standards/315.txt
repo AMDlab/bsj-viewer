@@ -1,0 +1,9 @@
+ArticleCaption: （罰則に関する経過措置）
+ArticleTitle: 第十一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。
+    Sentence: 附則第四条に規定する都市計画区域に係る用途地域内の建築物、建築物の敷地又は建築物若しくはその敷地の部分について、附則第三条に規定する日までの間にした行為に対する同日後における罰則の適用についても、同様とする。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

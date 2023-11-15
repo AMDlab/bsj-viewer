@@ -1,5 +1,6 @@
 ArticleTitle: 第十三条の三
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 法第八条第二項第一号の政令で定める特殊建築物は、次に掲げるものとする。
   Item:
@@ -14,3 +15,5 @@ Paragraph:
   ParagraphNum: ２
   ParagraphSentence:
     Sentence: 法第八条第二項第二号の政令で定める建築物は、事務所その他これに類する用途に供する建築物（特殊建築物を除く。）のうち階数が三以上で延べ面積が二百平方メートルを超えるものとする。
+        Section:
+          SectionTitle: 第三節の五　建築監視員

@@ -1,13 +1,14 @@
-ArticleCaption: （構造）
-ArticleTitle: 第百二十九条の十五
+ArticleCaption: （延焼するおそれがある外壁の開口部）
+ArticleTitle: 第百十条の二
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: 前条の避雷設備の構造は、次に掲げる基準に適合するものとしなければならない。
+    Sentence: 法第二十七条第一項の政令で定める外壁の開口部は、次に掲げるものとする。
   Item:
     ItemTitle: 一
     ItemSentence:
-      Sentence: 雷撃によつて生ずる電流を建築物に被害を及ぼすことなく安全に地中に流すことができるものとして、国土交通大臣が定めた構造方法を用いるもの又は国土交通大臣の認定を受けたものであること。
+      Sentence: 延焼のおそれのある部分であるもの（法第八十六条の四各号のいずれかに該当する建築物の外壁の開口部を除く。）
   Item:
     ItemTitle: 二
     ItemSentence:
-      Sentence: 避雷設備の雨水等により腐食のおそれのある部分にあつては、腐食しにくい材料を用いるか、又は有効な腐食防止のための措置を講じたものであること。
+      Sentence: 他の外壁の開口部から通常の火災時における火炎が到達するおそれがあるものとして国土交通大臣が定めるもの（前号に掲げるものを除く。）

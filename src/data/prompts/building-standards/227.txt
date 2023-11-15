@@ -1,0 +1,10 @@
+ArticleCaption: （登録）
+ArticleTitle: 第七十七条の五十八
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 建築基準適合判定資格者検定に合格した者は、国土交通大臣の登録を受けることができる。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項の登録は、国土交通大臣が建築基準適合判定資格者登録簿に、氏名、生年月日、住所その他の国土交通省令で定める事項を登載してするものとする。

@@ -1,0 +1,31 @@
+ArticleCaption: （高層住居誘導地区内の建築物及び法第五十二条第八項に規定する建築物の容積率の上限の数値の算出方法）
+ArticleTitle: 第百三十五条の十四
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第五十二条第一項第五号及び第八項の政令で定める方法は、次の式により計算する方法とする。
+  List:
+    ListSentence:
+      Sentence:
+        ArithFormula: Ｖｒ＝３Ｖｃ／（３－Ｒ）
+  List:
+    ListSentence:
+      Sentence: （この式において、Ｖｒ、Ｖｃ及びＲは、それぞれ次の数値を表すものとする。
+  List:
+    ListSentence:
+      Column:
+        Sentence: Ｖｒ
+      Column:
+        Sentence: 法第五十二条第一項第五号又は第八項の政令で定める方法により算出した数値
+  List:
+    ListSentence:
+      Column:
+        Sentence: Ｖｃ
+      Column:
+        Sentence: 建築物がある用途地域に関する都市計画において定められた容積率の数値
+  List:
+    ListSentence:
+      Column:
+        Sentence: Ｒ
+      Column:
+        Sentence: 建築物の住宅の用途に供する部分の床面積の合計のその延べ面積に対する割合）

@@ -1,0 +1,14 @@
+ArticleCaption: （認定等の業務の休廃止等）
+ArticleTitle: 第七十七条の五十
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 指定認定機関は、国土交通大臣の許可を受けなければ、認定等の業務の全部又は一部を休止し、又は廃止してはならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 国土交通大臣が前項の規定により認定等の業務の全部の廃止を許可したときは、当該許可に係る指定は、その効力を失う。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、第一項の許可をしたときは、その旨を公示しなければならない。

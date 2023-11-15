@@ -1,0 +1,55 @@
+ArticleCaption: （建築物に設ける煙突）
+ArticleTitle: 第百十五条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 建築物に設ける煙突は、次に定める構造としなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 煙突の屋上突出部は、屋根面からの垂直距離を六十センチメートル以上とすること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 煙突の高さは、その先端からの水平距離一メートル以内に建築物がある場合で、その建築物に軒がある場合においては、その建築物の軒から六十センチメートル以上高くすること。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 煙突は、次のイ又はロのいずれかに適合するものとすること。
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 次に掲げる基準に適合するものであること。
+      Subitem2:
+        Subitem2Title: （１）
+        Subitem2Sentence:
+          Sentence: 煙突の小屋裏、天井裏、床裏等にある部分は、煙突の上又は周囲にたまるほこりを煙突内の廃ガスその他の生成物の熱により燃焼させないものとして国土交通大臣が定めた構造方法を用いるものとすること。
+      Subitem2:
+        Subitem2Title: （２）
+        Subitem2Sentence:
+          Sentence: 煙突は、建築物の部分である木材その他の可燃材料から十五センチメートル以上離して設けること。
+          Sentence: ただし、厚さが十センチメートル以上の金属以外の不燃材料で造り、又は覆う部分その他当該可燃材料を煙突内の廃ガスその他の生成物の熱により燃焼させないものとして国土交通大臣が定めた構造方法を用いる部分は、この限りでない。
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: その周囲にある建築物の部分（小屋裏、天井裏、床裏等にある部分にあつては、煙突の上又は周囲にたまるほこりを含む。）を煙突内の廃ガスその他の生成物の熱により燃焼させないものとして、国土交通大臣の認定を受けたものであること。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 壁付暖炉のれんが造、石造又はコンクリートブロック造の煙突（屋内にある部分に限る。）には、その内部に陶管の煙道を差し込み、又はセメントモルタルを塗ること。
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: 壁付暖炉の煙突における煙道の屈曲が百二十度以内の場合においては、その屈曲部に掃除口を設けること。
+  Item:
+    ItemTitle: 六
+    ItemSentence:
+      Sentence: 煙突の廃ガスその他の生成物により、腐食又は腐朽のおそれのある部分には、腐食若しくは腐朽しにくい材料を用いるか、又は有効なさび止め若しくは防腐のための措置を講ずること。
+  Item:
+    ItemTitle: 七
+    ItemSentence:
+      Sentence: ボイラーの煙突は、前各号に定めるもののほか、煙道接続口の中心から頂部までの高さがボイラーの燃料消費量（国土交通大臣が経済産業大臣の意見を聴いて定めるものとする。）に応じて国土交通大臣が定める基準に適合し、かつ、防火上必要があるものとして国土交通大臣が定めた構造方法を用いるものであること。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項第一号から第三号までの規定は、廃ガスその他の生成物の温度が低いことその他の理由により防火上支障がないものとして国土交通大臣が定める基準に適合する場合においては、適用しない。

@@ -1,5 +1,7 @@
 ArticleCaption: （漏水検査）
 ArticleTitle: 第三十三条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: 第三十一条の改良便槽並びに前条の屎尿浄化槽及び合併処理浄化槽は、満水して二十四時間以上漏水しないことを確かめなければならない。
+    Sentence: 第三十一条の改良便槽並びに前条の屎
+    Sentence: 尿浄化槽及び合併処理浄化槽は、満水して二十四時間以上漏水しないことを確かめなければならない。

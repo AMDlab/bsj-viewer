@@ -1,6 +1,7 @@
 ArticleCaption: （踊場の位置及び踏幅）
 ArticleTitle: 第二十四条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 前条第一項の表の（一）又は（二）に該当する階段でその高さが三メートルをこえるものにあつては高さ三メートル以内ごとに、その他の階段でその高さが四メートルをこえるものにあつては高さ四メートル以内ごとに踊場を設けなければならない。
 Paragraph:

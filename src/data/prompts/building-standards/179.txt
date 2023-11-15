@@ -1,0 +1,10 @@
+ArticleCaption: （監督命令）
+ArticleTitle: 第七十七条の三十
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 国土交通大臣等は、確認検査の業務の公正かつ適確な実施を確保するため必要があると認めるときは、その指定に係る指定確認検査機関に対し、確認検査の業務に関し監督上必要な命令をすることができる。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 国土交通大臣等は、前項の規定による命令をしたときは、国土交通省令で定めるところにより、その旨を公示しなければならない。

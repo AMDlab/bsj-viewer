@@ -1,0 +1,6 @@
+ArticleCaption: （特例容積率の限度の指定の取消しの申請について同意を得るべき利害関係者）
+ArticleTitle: 第百三十五条の二十四
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第五十七条の三第一項の政令で定める利害関係を有する者は、前条に規定する者（所有権又は借地権を有する者を除く。）とする。

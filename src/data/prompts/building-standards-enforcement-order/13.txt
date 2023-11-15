@@ -1,6 +1,7 @@
 ArticleCaption: （構造計算適合判定資格者検定の基準等）
 ArticleTitle: 第八条の五
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 法第五条の四の規定による構造計算適合判定資格者検定は、建築士の設計に係る建築物の計画が法第六条の三第一項に規定する特定構造計算基準又は特定増改築構造計算基準に適合するかどうかの審査をするために必要な知識及び経験について行う。
 Paragraph:

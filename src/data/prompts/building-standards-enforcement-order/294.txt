@@ -1,0 +1,135 @@
+ArticleCaption: （型式適合認定の対象とする建築物の部分及び一連の規定）
+ArticleTitle: 第百三十六条の二の十一
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第六十八条の十第一項に規定する政令で定める建築物の部分は、次の各号に掲げる建築物の部分とし、同項に規定する政令で定める一連の規定は、それぞれ当該各号に定める規定とする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Column:
+        Sentence: 建築物の部分で、門、塀、改良便槽、屎
+        Sentence: 尿浄化槽及び合併処理浄化槽並びに給水タンク及び貯水タンクその他これらに類するもの（屋上又は屋内にあるものを除く。）以外のもの
+      Column:
+        Sentence: 次のいずれかに掲げる規定
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 次に掲げる全ての規定
+      Subitem2:
+        Subitem2Title: （１）
+        Subitem2Sentence:
+          Sentence: 法第二十条（第一項第一号後段、第二号イ後段及び第三号イ後段に係る部分に限る。）、法第二十一条から法第二十三条まで、法第二十五条から法第二十七条まで、法第二十八条の二（第三号を除く。）、法第二十九条、法第三十条、法第三十五条の二、法第三十五条の三、法第三十七条、法第三章第五節（法第六十一条中門及び塀に係る部分、法第六十四条並びに法第六十六条を除く。）、法第六十七条第一項（門及び塀に係る部分を除く。）及び法第八十四条の二の規定
+      Subitem2:
+        Subitem2Title: （２）
+        Subitem2Sentence:
+          Sentence: 第二章（第一節、第一節の二、第二十条の八及び第四節を除く。）、第三章（第五十二条第一項、第六十一条、第六十二条の八、第七十四条第二項、第七十五条、第七十六条及び第八十条の三を除き、第八十条の二にあつては国土交通大臣が定めた安全上必要な技術的基準のうちその指定する基準に係る部分に限る。）、第四章（第百十五条を除く。）、第五章（第三節、第四節及び第六節を除く。）、第五章の二、第五章の三、第七章の二及び第七章の九の規定
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 次に掲げる全ての規定
+      Subitem2:
+        Subitem2Title: （１）
+        Subitem2Sentence:
+          Sentence: イ（１）に掲げる規定並びに法第二十八条（第一項を除く。）、法第二十八条の二第三号、法第三十一条第一項、法第三十三条及び法第三十四条の規定
+      Subitem2:
+        Subitem2Title: （２）
+        Subitem2Sentence:
+          Sentence: イ（２）に掲げる規定並びに第二章第一節の二、第二十条の八、第二十八条から第三十条まで、第百十五条、第五章第三節及び第四節並びに第五章の四（第百二十九条の二の四第三項第三号を除き、第百二十九条の二の三第二号及び第百二十九条の二の四第二項第六号にあつては国土交通大臣が定めた構造方法のうちその指定する構造方法に係る部分に限る。）の規定
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Column:
+        Sentence: 次の表の建築物の部分の欄の各項に掲げる建築物の部分
+      Column:
+        Sentence: 同表の一連の規定の欄の当該各項に掲げる規定（これらの規定中建築物の部分の構造に係る部分に限る。）
+    TableStruct:
+      Table:
+        TableRow:
+          TableColumn:
+            Sentence: 　
+          TableColumn:
+            Sentence: 建築物の部分
+          TableColumn:
+            Sentence: 一連の規定
+        TableRow:
+          TableColumn:
+            Sentence: （一）
+          TableColumn:
+            Sentence: 防火設備
+          TableColumn:
+            Sentence: イ　法第二条第九号の二ロ、法第二十七条第一項、法第二十八条の二（第三号を除く。）及び法第三十七条の規定
+            Sentence: ロ　第百九条第一項、第百九条の二、第百十条の三、第百十二条第一項、第十二項ただし書、第十九項及び第二十一項、第百十四条第五項、第百三十六条の二第三号イ並びに第百三十七条の十第四号の規定
+        TableRow:
+          TableColumn:
+            Sentence: （二）
+          TableColumn:
+            Sentence: 換気設備
+          TableColumn:
+            Sentence: イ　法第二十八条の二及び法第三十七条の規定
+            Sentence: ロ　第二十条の八第一項第一号（国土交通大臣が定めた構造方法のうちその指定する構造方法に係る部分に限る。）の規定
+        TableRow:
+          TableColumn:
+            Sentence: （三）
+          TableColumn:
+            Sentence:屎
+            Sentence: 尿浄化槽
+          TableColumn:
+            Sentence: イ　法第二十八条の二（第三号を除く。）、法第三十一条第二項及び法第三十七条の規定
+            Sentence: ロ　第三十二条及び第百二十九条の二の三第二号（国土交通大臣が定めた構造方法のうちその指定する構造方法に係る部分に限る。）の規定
+        TableRow:
+          TableColumn:
+            Sentence: （四）
+          TableColumn:
+            Sentence: 合併処理浄化槽
+          TableColumn:
+            Sentence: イ　法第二十八条の二（第三号を除く。）及び法第三十七条の規定
+            Sentence: ロ　第三十二条、第三十五条第一項及び第百二十九条の二の三第二号（国土交通大臣が定めた構造方法のうちその指定する構造方法に係る部分に限る。）の規定
+        TableRow:
+          TableColumn:
+            Sentence: （五）
+          TableColumn:
+            Sentence: 非常用の照明装置
+          TableColumn:
+            Sentence: イ　法第二十八条の二（第三号を除く。）、法第三十五条及び法第三十七条の規定
+            Sentence: ロ　第百二十六条の五の規定
+        TableRow:
+          TableColumn:
+            Sentence: （六）
+          TableColumn:
+            Sentence: 給水タンク又は貯水タンク
+          TableColumn:
+            Sentence: イ　法第二十八条の二（第三号を除く。）及び法第三十七条の規定
+            Sentence: ロ　第百二十九条の二の三第二号（国土交通大臣が定めた構造方法のうちその指定する構造方法に係る部分に限る。）並びに第百二十九条の二の四第一項第四号及び第五号並びに第二項第二号、第三号、第五号及び第六号（国土交通大臣が定めた構造方法のうちその指定する構造方法に係る部分に限る。）の規定
+        TableRow:
+          TableColumn:
+            Sentence: （七）
+          TableColumn:
+            Sentence: 冷却塔設備
+          TableColumn:
+            Sentence: イ　法第二十八条の二（第三号を除く。）及び法第三十七条の規定
+            Sentence: ロ　第百二十九条の二の三第二号（国土交通大臣が定めた構造方法のうちその指定する構造方法に係る部分に限る。）及び第百二十九条の二の六（第二号を除く。）の規定
+        TableRow:
+          TableColumn:
+            Sentence: （八）
+          TableColumn:
+            Sentence: エレベーターの部分で昇降路及び機械室以外のもの
+          TableColumn:
+            Sentence: イ　法第二十八条の二（第三号を除く。）及び法第三十七条の規定
+            Sentence: ロ　第百二十九条の三、第百二十九条の四（第三項第七号を除く。）、第百二十九条の五、第百二十九条の六、第百二十九条の八、第百二十九条の十、第百二十九条の十一並びに第百二十九条の十三の三第六項から第十一項まで及び第十二項（国土交通大臣が定める構造方法のうちその指定する構造方法に係る部分に限る。）の規定
+        TableRow:
+          TableColumn:
+            Sentence: （九）
+          TableColumn:
+            Sentence: エスカレーター
+          TableColumn:
+            Sentence: イ　法第二十八条の二（第三号を除く。）及び法第三十七条の規定
+            Sentence: ロ　第百二十九条の三及び第百二十九条の十二（第一項第一号及び第六号を除く。）の規定
+        TableRow:
+          TableColumn:
+            Sentence: （十）
+          TableColumn:
+            Sentence: 避雷設備
+          TableColumn:
+            Sentence: イ　法第二十八条の二（第三号を除く。）及び法第三十七条の規定
+            Sentence: ロ　第百二十九条の十五の規定

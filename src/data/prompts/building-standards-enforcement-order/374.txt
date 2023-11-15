@@ -1,0 +1,49 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この政令は、廃棄物の処理及び清掃に関する法律の一部を改正する法律の施行の日（平成五年十二月十五日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この政令は、平成六年四月一日から施行する。
+      Paragraph:
+ParagraphCaption: （建設業法施行令の一部改正に伴う経過措置）
+ParagraphNum: ３
+ParagraphSentence:
+  Sentence: この政令の施行前にした建設大臣に対する許可の申請（許可の更新の申請にあっては、更新を受けようとする許可の期間が平成六年九月三十日までに満了するものに限る。）に係る許可手数料及びこの政令の施行前に実施の公告がされた技術検定の学科試験又は実地試験を受けようとする者が納付すべき手数料の額については、なお従前の例による。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+ParagraphSentence:
+  Sentence: この政令は、建築基準法の一部を改正する法律の施行の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この政令は、公布の日から施行する。
+  Sentence: ただし、第三十一条の改正規定及び次項の規定は、公布の日から起算して三月を経過した日から施行する。
+      Paragraph:
+ParagraphCaption: （特定行政庁が衛生上の効果があると認めた改良便槽に関する経過措置）
+ParagraphNum: ２
+ParagraphSentence:
+  Sentence: 第三十一条の改正規定の施行前に改正前の建築基準法施行令第三十一条ただし書の規定により特定行政庁が同条各号に定める構造の改良便槽と同等以上に衛生上の効果があると認めた改良便槽は、改正後の建築基準法施行令第三十一条の建設大臣が定める基準に適合する改良便槽とみなす。
+      Paragraph:
+ParagraphCaption: （特定行政庁が避難上及び延焼防止上支障がないと認めた建築物に関する経過措置）
+ParagraphNum: ３
+ParagraphSentence:
+  Sentence: この政令の施行前に改正前の建築基準法施行令第百十四条第三項第三号の規定により特定行政庁が避難上及び延焼防止上支障がないと認めた建築物は、改正後の建築基準法施行令第百十四条第三項第三号の国土交通大臣が定める基準に適合する建築物とみなす。
+      Paragraph:
+ParagraphCaption: （罰則に関する経過措置）
+ParagraphNum: ４
+ParagraphSentence:
+  Sentence: この政令の施行前にした行為に対する罰則の適用については、なお従前の例による。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

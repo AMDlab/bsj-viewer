@@ -1,0 +1,14 @@
+ArticleCaption: （非常用の昇降機関係）
+ArticleTitle: 第百三十七条の六
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第三条第二項の規定により法第三十四条第二項の規定の適用を受けない高さ三十一メートルを超える建築物について法第八十六条の七第一項の規定により政令で定める範囲は、増築及び改築については、次に定めるところによる。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 増築に係る部分の建築物の高さが三十一メートルを超えず、かつ、増築に係る部分の床面積の合計が基準時における延べ面積の二分の一を超えないこと。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 改築に係る部分の床面積の合計が基準時における延べ面積の五分の一を超えず、かつ、改築に係る部分の建築物の高さが基準時における当該部分の高さを超えないこと。

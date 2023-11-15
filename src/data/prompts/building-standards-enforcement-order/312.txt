@@ -1,0 +1,8 @@
+ArticleCaption: （防火区画等に関する規定の適用の除外）
+ArticleTitle: 第百三十六条の十一
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 第百三十六条の九に規定する建築物又は建築物の部分で前条に規定する基準に適合するものについては、第百十二条、第百十四条及び第五章の二の規定は、適用しない。
+      Chapter:
+        ChapterTitle: 第七章の十　一の敷地とみなすこと等による制限の緩和

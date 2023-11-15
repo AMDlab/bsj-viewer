@@ -1,0 +1,30 @@
+ArticleCaption: （欠格条項）
+ArticleTitle: 第七十七条の三十七
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 次の各号のいずれかに該当する者は、指定を受けることができない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 未成年者
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 破産手続開始の決定を受けて復権を得ない者
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 禁錮以上の刑に処せられ、又は建築基準法令の規定により刑に処せられ、その執行を終わり、又は執行を受けることがなくなつた日から起算して二年を経過しない者
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 第七十七条の五十一第一項若しくは第二項の規定により指定を取り消され、又は第七十七条の五十五第一項若しくは第二項の規定により承認を取り消され、その取消しの日から起算して二年を経過しない者
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: 心身の故障により認定等の業務を適正に行うことができない者として国土交通省令で定めるもの
+  Item:
+    ItemTitle: 六
+    ItemSentence:
+      Sentence: 法人であつて、その役員のうちに前各号のいずれかに該当する者があるもの

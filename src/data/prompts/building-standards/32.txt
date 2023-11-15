@@ -1,6 +1,7 @@
 ArticleCaption: （届出及び統計）
 ArticleTitle: 第十五条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 建築主が建築物を建築しようとする場合又は建築物の除却の工事を施工する者が建築物を除却しようとする場合においては、これらの者は、建築主事を経由して、その旨を都道府県知事に届け出なければならない。
     Sentence: ただし、当該建築物又は当該工事に係る部分の床面積の合計が十平方メートル以内である場合においては、この限りでない。

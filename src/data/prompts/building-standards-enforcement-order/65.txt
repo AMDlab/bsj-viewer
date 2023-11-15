@@ -1,6 +1,7 @@
 ArticleCaption: （土台及び基礎）
 ArticleTitle: 第四十二条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 構造耐力上主要な部分である柱で最下階の部分に使用するものの下部には、土台を設けなければならない。
     Sentence: ただし、次の各号のいずれかに該当する場合においては、この限りでない。

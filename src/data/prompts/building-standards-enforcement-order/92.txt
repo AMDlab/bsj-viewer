@@ -1,5 +1,6 @@
 ArticleCaption: （帳壁）
 ArticleTitle: 第六十二条の七
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 補強コンクリートブロツク造の帳壁は、鉄筋で、木造及び組積造（補強コンクリートブロツク造を除く。）以外の構造耐力上主要な部分に緊結しなければならない。

@@ -1,5 +1,8 @@
 ArticleCaption: （構造耐力上主要な部分等のささえ）
 ArticleTitle: 第六十二条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 組積造である構造耐力上主要な部分又は構造耐力上主要な部分でない組積造の壁で高さが二メートルをこえるものは、木造の構造部分でささえてはならない。
+        Section:
+          SectionTitle: 第四節の二　補強コンクリートブロツク造

@@ -1,0 +1,8 @@
+ArticleCaption: （検討）
+ArticleTitle: 第七条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 政府は、会社法（平成十七年法律第八十六号）及び一般社団法人及び一般財団法人に関する法律（平成十八年法律第四十八号）における法人の役員の資格を成年被後見人又は被保佐人であることを理由に制限する旨の規定について、この法律の公布後一年以内を目途として検討を加え、その結果に基づき、当該規定の削除その他の必要な法制上の措置を講ずるものとする。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

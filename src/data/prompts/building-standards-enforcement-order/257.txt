@@ -1,0 +1,5 @@
+ArticleTitle: 第百三十三条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 削除

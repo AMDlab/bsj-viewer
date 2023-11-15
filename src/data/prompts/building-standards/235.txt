@@ -1,0 +1,8 @@
+ArticleCaption: （手数料）
+ArticleTitle: 第七十七条の六十五
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 第七十七条の五十八第一項の登録又は登録証の訂正若しくは再交付の申請をしようとする者（市町村又は都道府県の職員である者を除く。）は、政令で定めるところにより、実費を勘案して政令で定める額の手数料を国に納めなければならない。
+        Section:
+          SectionTitle: 第二節　構造計算適合判定資格者の登録

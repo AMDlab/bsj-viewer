@@ -1,6 +1,7 @@
 ArticleCaption: （昇降機）
 ArticleTitle: 第三十四条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 建築物に設ける昇降機は、安全な構造で、かつ、その昇降路の周壁及び開口部は、防火上支障がない構造でなければならない。
 Paragraph:

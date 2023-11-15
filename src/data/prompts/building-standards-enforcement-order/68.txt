@@ -1,6 +1,7 @@
 ArticleCaption: （筋かい）
 ArticleTitle: 第四十五条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 引張り力を負担する筋かいは、厚さ一・五センチメートル以上で幅九センチメートル以上の木材又は径九ミリメートル以上の鉄筋を使用したものとしなければならない。
 Paragraph:

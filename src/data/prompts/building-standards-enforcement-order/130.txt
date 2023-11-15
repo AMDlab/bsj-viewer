@@ -1,17 +1,52 @@
-ArticleCaption: （屋外への出口）
-ArticleTitle: 第百二十五条
+ArticleCaption: （風圧力）
+ArticleTitle: 第八十七条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: 避難階においては、階段から屋外への出口の一に至る歩行距離は第百二十条に規定する数値以下と、居室（避難上有効な開口部を有するものを除く。）の各部分から屋外への出口の一に至る歩行距離は同条に規定する数値の二倍以下としなければならない。
+    Sentence: 風圧力は、速度圧に風力係数を乗じて計算しなければならない。
 Paragraph:
   ParagraphNum: ２
   ParagraphSentence:
-    Sentence: 劇場、映画館、演芸場、観覧場、公会堂又は集会場の客用に供する屋外への出口の戸は、内開きとしてはならない。
+    Sentence: 前項の速度圧は、次の式によつて計算しなければならない。
+  List:
+    ListSentence:
+      Sentence:
+        ArithFormula: ｑ＝０．６Ｅ　Ｖ
+          Sub: ０
+          Sup: ２
+  List:
+    ListSentence:
+      Sentence: （この式において、ｑ、Ｅ及びＶ
+        Sub: ０
+      Sentence: は、それぞれ次の数値を表すものとする。
+  List:
+    ListSentence:
+      Column:
+        Sentence: ｑ
+      Column:
+        Sentence: 速度圧（単位
+      Column:
+        Sentence: 一平方メートルにつきニュートン）
+  List:
+    ListSentence:
+      Column:
+        Sentence: Ｅ
+      Column:
+        Sentence: 当該建築物の屋根の高さ及び周辺の地域に存する建築物その他の工作物、樹木その他の風速に影響を与えるものの状況に応じて国土交通大臣が定める方法により算出した数値
+  List:
+    ListSentence:
+      Column:
+        Sentence: Ｖ
+          Sub: ０
+      Column:
+        Sentence: その地方における過去の台風の記録に基づく風害の程度その他の風の性状に応じて三十メートル毎秒から四十六メートル毎秒までの範囲内において国土交通大臣が定める風速（単位
+      Column:
+        Sentence: メートル毎秒））
 Paragraph:
   ParagraphNum: ３
   ParagraphSentence:
-    Sentence: 物品販売業を営む店舗の避難階に設ける屋外への出口の幅の合計は、床面積が最大の階における床面積百平方メートルにつき六十センチメートルの割合で計算した数値以上としなければならない。
+    Sentence: 建築物に近接してその建築物を風の方向に対して有効にさえぎる他の建築物、防風林その他これらに類するものがある場合においては、その方向における速度圧は、前項の規定による数値の二分の一まで減らすことができる。
 Paragraph:
   ParagraphNum: ４
   ParagraphSentence:
-    Sentence: 前条第三項の規定は、前項の場合に準用する。
+    Sentence: 第一項の風力係数は、風洞試験によつて定める場合のほか、建築物又は工作物の断面及び平面の形状に応じて国土交通大臣が定める数値によらなければならない。

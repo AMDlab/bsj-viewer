@@ -1,6 +1,7 @@
 ArticleCaption: （コンクリートの養生）
 ArticleTitle: 第七十五条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: コンクリート打込み中及び打込み後五日間は、コンクリートの温度が二度を下らないようにし、かつ、乾燥、震動等によつてコンクリートの凝結及び硬化が妨げられないように養生しなければならない。
     Sentence: ただし、コンクリートの凝結及び硬化を促進するための特別の措置を講ずる場合においては、この限りでない。

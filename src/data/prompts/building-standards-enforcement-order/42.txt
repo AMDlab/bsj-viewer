@@ -1,5 +1,6 @@
 ArticleTitle: 第二十二条の三
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 法第三十条第一項第一号（法第八十七条第三項において準用する場合を含む。）の政令で定める技術的基準は、次の表の上欄に掲げる振動数の音に対する透過損失がそれぞれ同表の下欄に掲げる数値以上であることとする。
   TableStruct:
@@ -28,3 +29,5 @@ Paragraph:
   ParagraphNum: ２
   ParagraphSentence:
     Sentence: 法第三十条第二項（法第八十七条第三項において準用する場合を含む。）の政令で定める技術的基準は、前項に規定する基準とする。
+        Section:
+          SectionTitle: 第三節　階段

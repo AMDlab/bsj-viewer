@@ -1,0 +1,6 @@
+ArticleCaption: （再開発等促進区等内において高さの制限の緩和を受ける建築物の敷地面積の規模）
+ArticleTitle: 第百三十六条の二の六
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第六十八条の三第三項の政令で定める規模は、三百平方メートルとする。

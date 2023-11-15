@@ -1,0 +1,7 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。
+    Sentence: ただし、第一条（都市再生特別措置法第二十九条第一項、第七十一条第一項第一号、附則第三条及び附則第四条の改正規定に限る。）及び附則第五条の規定は、平成十九年四月一日から施行する。

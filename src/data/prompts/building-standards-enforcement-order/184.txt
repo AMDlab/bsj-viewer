@@ -1,0 +1,22 @@
+ArticleCaption: （物品販売業を営む店舗における避難階段等の幅）
+ArticleTitle: 第百二十四条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 物品販売業を営む店舗の用途に供する建築物における避難階段、特別避難階段及びこれらに通ずる出入口の幅は、次の各号に定めるところによらなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 各階における避難階段及び特別避難階段の幅の合計は、その直上階以上の階（地階にあつては、当該階以下の階）のうち床面積が最大の階における床面積百平方メートルにつき六十センチメートルの割合で計算した数値以上とすること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 各階における避難階段及び特別避難階段に通ずる出入口の幅の合計は、各階ごとにその階の床面積百平方メートルにつき、地上階にあつては二十七センチメートル、地階にあつては三十六センチメートルの割合で計算した数値以上とすること。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項に規定する所要幅の計算に関しては、もつぱら一若しくは二の地上階から避難階若しくは地上に通ずる避難階段及び特別避難階段又はこれらに通ずる出入口については、その幅が一・五倍あるものとみなすことができる。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 前二項の規定の適用に関しては、屋上広場は、階とみなす。

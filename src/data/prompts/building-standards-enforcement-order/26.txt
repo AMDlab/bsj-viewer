@@ -1,6 +1,7 @@
 ArticleCaption: （収用委員会の裁決の申請手続）
 ArticleTitle: 第十五条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 補償金額について不服がある者が、法第十一条第二項（法第八十八条第一項から第三項までにおいて準用する場合を含む。）の規定によつて収用委員会の裁決を求めようとする場合においては、土地収用法（昭和二十六年法律第二百十九号）第九十四条第三項の規定による裁決申請書には、同項各号の規定にかかわらず、次の各号に掲げる事項を記載しなければならない。
   Item:
@@ -36,3 +37,5 @@ Paragraph:
     ItemTitle: 八
     ItemSentence:
       Sentence: 前各号に掲げるものを除くほか、申請者が必要と認める事項
+        Section:
+          SectionTitle: 第五節　定期報告を要する建築物等

@@ -1,5 +1,8 @@
 ArticleCaption: （別の建築物とみなすことができる部分）
 ArticleTitle: 第三十六条の四
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 法第二十条第二項（法第八十八条第一項において準用する場合を含む。）の政令で定める部分は、建築物の二以上の部分がエキスパンションジョイントその他の相互に応力を伝えない構造方法のみで接している場合における当該建築物の部分とする。
+        Section:
+          SectionTitle: 第二節　構造部材等

@@ -1,0 +1,58 @@
+ArticleCaption: （道に関する基準）
+ArticleTitle: 第百四十四条の四
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第四十二条第一項第五号の規定により政令で定める基準は、次の各号に掲げるものとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 両端が他の道路に接続したものであること。
+      Sentence: ただし、次のイからホまでのいずれかに該当する場合においては、袋路状道路（法第四十三条第三項第五号に規定する袋路状道路をいう。以下この条において同じ。）とすることができる。
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 延長（既存の幅員六メートル未満の袋路状道路に接続する道にあつては、当該袋路状道路が他の道路に接続するまでの部分の延長を含む。ハにおいて同じ。）が三十五メートル以下の場合
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 終端が公園、広場その他これらに類するもので自動車の転回に支障がないものに接続している場合
+    Subitem1:
+      Subitem1Title: ハ
+      Subitem1Sentence:
+        Sentence: 延長が三十五メートルを超える場合で、終端及び区間三十五メートル以内ごとに国土交通大臣の定める基準に適合する自動車の転回広場が設けられている場合
+    Subitem1:
+      Subitem1Title: ニ
+      Subitem1Sentence:
+        Sentence: 幅員が六メートル以上の場合
+    Subitem1:
+      Subitem1Title: ホ
+      Subitem1Sentence:
+        Sentence: イからニまでに準ずる場合で、特定行政庁が周囲の状況により避難及び通行の安全上支障がないと認めた場合
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 道が同一平面で交差し、若しくは接続し、又は屈曲する箇所（交差、接続又は屈曲により生ずる内角が百二十度以上の場合を除く。）は、角地の隅角を挟む辺の長さ二メートルの二等辺三角形の部分を道に含む隅切りを設けたものであること。
+      Sentence: ただし、特定行政庁が周囲の状況によりやむを得ないと認め、又はその必要がないと認めた場合においては、この限りでない。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 砂利敷その他ぬかるみとならない構造であること。
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 縦断勾配が十二パーセント以下であり、かつ、階段状でないものであること。
+      Sentence: ただし、特定行政庁が周囲の状況により避難及び通行の安全上支障がないと認めた場合においては、この限りでない。
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: 道及びこれに接する敷地内の排水に必要な側溝、街渠
+      Sentence: その他の施設を設けたものであること。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 地方公共団体は、その地方の気候若しくは風土の特殊性又は土地の状況により必要と認める場合においては、条例で、区域を限り、前項各号に掲げる基準と異なる基準を定めることができる。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 地方公共団体は、前項の規定により第一項各号に掲げる基準を緩和する場合においては、あらかじめ、国土交通大臣の承認を得なければならない。

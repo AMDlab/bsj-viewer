@@ -1,0 +1,23 @@
+ArticleCaption: （確認等を要する建築設備）
+ArticleTitle: 第百四十六条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第八十七条の四（法第八十八条第一項及び第二項において準用する場合を含む。）の規定により政令で指定する建築設備は、次に掲げるものとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: エレベーター及びエスカレーター
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 小荷物専用昇降機（昇降路の出し入れ口の下端が当該出し入れ口が設けられる室の床面より高いことその他の理由により人が危害を受けるおそれのある事故が発生するおそれの少ないものとして国土交通大臣が定めるものを除く。）
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 法第十二条第三項の規定により特定行政庁が指定する建築設備（屎
+      Sentence: 尿浄化槽及び合併処理浄化槽を除く。）
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 第七章の八の規定は、前項各号に掲げる建築設備について準用する。

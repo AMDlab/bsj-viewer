@@ -1,0 +1,15 @@
+ArticleCaption: （会長）
+ArticleTitle: 第八十一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 建築審査会に会長を置く。
+    Sentence: 会長は、委員が互選する。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 会長は、会務を総理し、建築審査会を代表する。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 会長に事故があるときは、委員のうちからあらかじめ互選された者が、その職務を代理する。

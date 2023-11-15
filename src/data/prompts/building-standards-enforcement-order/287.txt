@@ -1,0 +1,26 @@
+ArticleCaption: （建築物の防災都市計画施設に係る間口率及び高さの算定）
+ArticleTitle: 第百三十六条の二の四
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第六十七条第六項に規定する建築物の防災都市計画施設に係る間口率の算定の基礎となる次の各号に掲げる長さの算定方法は、当該各号に定めるところによる。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Column:
+        Sentence: 防災都市計画施設に面する部分の長さ
+      Column:
+        Sentence: 建築物の周囲の地面に接する外壁又はこれに代わる柱の面で囲まれた部分の水平投影の防災都市計画施設に面する長さによる。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Column:
+        Sentence: 敷地の防災都市計画施設に接する部分の長さ
+      Column:
+        Sentence: 敷地の防災都市計画施設に接する部分の水平投影の長さによる。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 法第六十七条第六項に規定する建築物の高さの算定については、建築物の防災都市計画施設に面する方向の鉛直投影の各部分（同項に規定する建築物の防災都市計画施設に係る間口率の最低限度を超える部分を除く。）の防災都市計画施設と敷地との境界線からの高さによる。
+      Chapter:
+        ChapterTitle: 第七章の三　地区計画等の区域

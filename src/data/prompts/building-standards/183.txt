@@ -1,0 +1,14 @@
+ArticleCaption: （確認検査の業務の休廃止等）
+ArticleTitle: 第七十七条の三十四
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 指定確認検査機関は、確認検査の業務の全部又は一部を休止し、又は廃止しようとするときは、国土交通省令で定めるところにより、あらかじめ、その旨を国土交通大臣等に届け出なければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項の規定により確認検査の業務の全部を廃止しようとする届出があつたときは、当該届出に係る指定は、その効力を失う。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 国土交通大臣等は、第一項の規定による届出があつたときは、その旨を公示しなければならない。

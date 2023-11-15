@@ -1,0 +1,10 @@
+ArticleCaption: （秘密保持義務等）
+ArticleTitle: 第七十七条の二十五
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 指定確認検査機関（その者が法人である場合にあつては、その役員。次項において同じ。）及びその職員（確認検査員を含む。次項において同じ。）並びにこれらの者であつた者は、確認検査の業務に関して知り得た秘密を漏らし、又は盗用してはならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 指定確認検査機関及びその職員で確認検査の業務に従事するものは、刑法その他の罰則の適用については、法令により公務に従事する職員とみなす。

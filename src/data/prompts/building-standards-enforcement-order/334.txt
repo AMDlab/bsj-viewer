@@ -1,0 +1,65 @@
+ArticleCaption: （建築物の用途を変更する場合に法第二十七条等の規定を準用しない類似の用途等）
+ArticleTitle: 第百三十七条の十九
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第八十七条第三項第二号の規定により政令で指定する類似の用途は、当該建築物が前条第八号から第十一号まで及び次の各号のいずれかに掲げる用途である場合において、それぞれ当該各号に掲げる他の用途とする。
+    Sentence: ただし、法第四十八条第一項から第十四項までの規定の準用に関しては、この限りでない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 劇場、映画館、演芸場、公会堂、集会場
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 病院、診療所（患者の収容施設があるものに限る。）、児童福祉施設等
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: ホテル、旅館、下宿、共同住宅、寄宿舎
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 博物館、美術館、図書館
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 法第八十七条第三項第三号の規定により政令で定める範囲は、次に定めるものとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 次のイからホまでのいずれかに掲げる用途である場合において、それぞれ当該イからホまでに掲げる用途相互間におけるものであること。
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 法別表第二（に）項第三号から第六号までに掲げる用途
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 法別表第二（ほ）項第二号若しくは第三号、同表（へ）項第四号若しくは第五号又は同表（と）項第三号（一）から（十六）までに掲げる用途
+    Subitem1:
+      Subitem1Title: ハ
+      Subitem1Sentence:
+        Sentence: 法別表第二（り）項第二号又は同表（ぬ）項第三号（一）から（二十）までに掲げる用途
+    Subitem1:
+      Subitem1Title: ニ
+      Subitem1Sentence:
+        Sentence: 法別表第二（る）項第一号（一）から（三十一）までに掲げる用途（この場合において、同号（一）から（三）まで、（十一）及び（十二）中「製造」とあるのは、「製造、貯蔵又は処理」とする。）
+    Subitem1:
+      Subitem1Title: ホ
+      Subitem1Sentence:
+        Sentence: 法別表第二（を）項第五号若しくは第六号又は同表（わ）項第二号から第六号までに掲げる用途
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 法第四十八条第一項から第十四項までの規定に適合しない事由が原動機の出力、機械の台数又は容器等の容量による場合においては、用途変更後のそれらの出力、台数又は容量の合計は、基準時におけるそれらの出力、台数又は容量の合計の一・二倍を超えないこと。
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 用途変更後の法第四十八条第一項から第十四項までの規定に適合しない用途に供する建築物の部分の床面積の合計は、基準時におけるその部分の床面積の合計の一・二倍を超えないこと。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 法第八十七条第三項の規定によつて同項に掲げる条例の規定を準用する場合における同項第二号に規定する類似の用途の指定については、第一項の規定にかかわらず、当該条例で、別段の定めをすることができる。
+      Chapter:
+        ChapterTitle: 第九章　工作物

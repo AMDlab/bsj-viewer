@@ -1,0 +1,41 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この政令は、昭和六十年四月一日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この政令は、許可、認可等民間活動に係る規制の整理及び合理化に関する法律第十二条の規定の施行の日（昭和六十一年三月一日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この政令は、許可、認可等民間活動に係る規制の整理及び合理化に関する法律（昭和六十年法律第百二号）第二十六条の規定の施行の日（昭和六十一年十二月一日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この政令は、昭和六十二年四月一日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この政令は、建築基準法の一部を改正する法律（昭和六十二年法律第六十六号）の施行の日（昭和六十二年十一月十六日）から施行する。
+  Sentence: ただし、第百十四条第二項の改正規定は、昭和六十三年四月一日から施行する。
+      Paragraph:
+ParagraphCaption: （経過措置）
+ParagraphNum: ２
+ParagraphSentence:
+  Sentence: この政令の施行前にした行為に対する罰則の適用については、なお従前の例による。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

@@ -1,0 +1,6 @@
+ArticleCaption: （監督命令）
+ArticleTitle: 第七十七条の四十八
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 国土交通大臣は、認定等の業務の公正かつ適確な実施を確保するため必要があると認めるときは、指定認定機関に対し、認定等の業務に関し監督上必要な命令をすることができる。

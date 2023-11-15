@@ -1,6 +1,10 @@
-ArticleCaption: （許可の条件）
-ArticleTitle: 第九十二条の二
+ArticleCaption: （建築協定の廃止）
+ArticleTitle: 第七十六条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: この法律の規定による許可には、建築物又は建築物の敷地を交通上、安全上、防火上又は衛生上支障がないものとするための条件その他必要な条件を付することができる。
-    Sentence: この場合において、その条件は、当該許可を受けた者に不当な義務を課するものであつてはならない。
+    Sentence: 建築協定区域内の土地の所有者等（当該建築協定の効力が及ばない者を除く。）は、第七十三条第一項の規定による認可を受けた建築協定を廃止しようとする場合においては、その過半数の合意をもつてその旨を定め、これを特定行政庁に申請してその認可を受けなければならない。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 特定行政庁は、前項の認可をした場合においては、遅滞なく、その旨を公告しなければならない。

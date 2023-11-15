@@ -1,0 +1,19 @@
+ArticleCaption: （耐火建築物と同等以上の延焼防止性能を有する建築物等）
+ArticleTitle: 第百三十五条の二十
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第五十三条第三項第一号イの政令で定める建築物は、次に掲げる要件に該当する建築物とする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 外壁の開口部で延焼のおそれのある部分に防火設備が設けられていること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 壁、柱、床その他の建築物の部分及び前号の防火設備が第百三十六条の二第一号ロに掲げる基準に適合し、かつ、法第六十一条に規定する構造方法を用いるもの又は同条の規定による認定を受けたものであること。
+Paragraph:
+  ParagraphNum: ２
+  ParagraphSentence:
+    Sentence: 前項の規定は、法第五十三条第三項第一号ロの政令で定める建築物について準用する。
+    Sentence: この場合において、前項第二号中「第百三十六条の二第一号ロ」とあるのは、「第百三十六条の二第二号ロ」と読み替えるものとする。

@@ -1,6 +1,7 @@
 ArticleCaption: （地階における住宅等の居室の技術的基準）
 ArticleTitle: 第二十二条の二
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 法第二十九条（法第八十七条第三項において準用する場合を含む。）の政令で定める技術的基準は、次に掲げるものとする。
   Item:
@@ -35,8 +36,12 @@ Paragraph:
       Subitem2:
         Subitem2Title: （２）
         Subitem2Sentence:
-          Sentence: 外壁又は床にあつては、直接土に接する部分を耐水材料で造り、かつ、直接土に接する部分と居室に面する部分の間に居室内への水の浸透を防止するための空隙（当該空隙に浸透した水を有効に排出するための設備が設けられているものに限る。）を設けること。
+          Sentence: 外壁又は床にあつては、直接土に接する部分を耐水材料で造り、かつ、直接土に接する部分と居室に面する部分の間に居室内への水の浸透を防止するための空隙
+          Sentence: （当該空隙
+          Sentence: に浸透した水を有効に排出するための設備が設けられているものに限る。）を設けること。
     Subitem1:
       Subitem1Title: ロ
       Subitem1Sentence:
         Sentence: 外壁等の構造が、外壁等の直接土に接する部分から居室内に水が浸透しないものとして、国土交通大臣の認定を受けたものであること。
+        Section:
+          SectionTitle: 第二節の三　長屋又は共同住宅の界壁の遮音構造等

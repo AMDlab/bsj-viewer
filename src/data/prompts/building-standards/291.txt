@@ -1,0 +1,156 @@
+ArticleTitle: 第百七条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 第三十九条第二項、第四十条若しくは第四十三条第三項（これらの規定を第八十七条第二項において準用する場合を含む。）、第四十三条の二（第八十七条第二項において準用する場合を含む。）、第四十九条第一項（第八十七条第二項又は第八十八条第二項において準用する場合を含む。）、第四十九条の二（第八十七条第二項又は第八十八条第二項において準用する場合を含む。）、第五十条（第八十七条第二項又は第八十八条第二項において準用する場合を含む。）、第六十八条の二第一項（第八十七条第二項又は第八十八条第二項において準用する場合を含む。）、第六十八条の九第一項（第八十七条第二項において準用する場合を含む。）又は第六十八条の九第二項の規定に基づく条例には、これに違反した者に対し、五十万円以下の罰金に処する旨の規定を設けることができる。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+        ParagraphCaption: （施行期日）
+        ParagraphNum: １
+        ParagraphSentence:
+Sentence: この法律は、公布の日から起算して三月をこえ六月をこえない期間内において政令で定める日から施行する。
+      Paragraph:
+        ParagraphCaption: （市街地建築物法その他の法令の廃止）
+        ParagraphNum: ２
+        ParagraphSentence:
+Sentence: 左に掲げる法律及び命令は廃止する。
+        Item:
+ItemTitle: 一
+ItemSentence:
+  Sentence: 市街地建築物法（大正八年法律第三十七号）
+        Item:
+ItemTitle: 二
+ItemSentence:
+  Sentence: 市街地建築物法の適用に関する法律（昭和二十二年法律第二百二十八号）
+        Item:
+ItemTitle: 三
+ItemSentence:
+  Sentence: 市街地建築物法施行令（大正九年勅令第四百三十八号）
+        Item:
+ItemTitle: 四
+ItemSentence:
+  Sentence: 市街地建築物法施行規則（大正九年内務省令第三十七号）
+        Item:
+ItemTitle: 五
+ItemSentence:
+  Sentence: 市街地建築物法第十四条の規定に依る特殊建築物耐火構造規則（大正十二年内務省令第十五号）
+        Item:
+ItemTitle: 六
+ItemSentence:
+  Sentence: 特殊建築物規則（昭和十一年内務省令第三十一号）
+        Item:
+ItemTitle: 七
+ItemSentence:
+  Sentence: 特殊建築物に関する東京都令、警視庁令、北海道庁令及び府県令の効力に関する命令（昭和二十三年総理庁令第二号）
+        Item:
+ItemTitle: 八
+ItemSentence:
+  Sentence: 臨時防火建築規則（昭和二十三年建設省令第六号）
+        Item:
+ItemTitle: 九
+ItemSentence:
+  Sentence: 臨時建築制限規則（昭和二十四年建設省令第九号）
+      Paragraph:
+        ParagraphCaption: （この法律施行前に指定された地域及び地区）
+        ParagraphNum: ４
+        ParagraphSentence:
+Sentence: この法律施行の際、市街地建築物法第一条、第二条第二項、第四条第三項、第十一条第二項又は第十五条の規定によつて指定されている住居地域、商業地域、工業地域、住居専用地区、工業専用地区、空地地区、高度地区又は美観地区は、それぞれこの法律第四十八条第一項、第五十条第一項若しくは第三項、第五十六条第一項、第五十九条第一項又は第六十八条第一項の規定によつて指定された住居地域、商業地域、工業地域、住居専用地区、工業専用地区、空地地区、高度地区又は美観地区とみなし、市街地建築物法第十三条並びに市街地建築物法施行規則第百十八条及び臨時防火建築規則第六条の規定によつて指定されている甲種防火地区又は乙種防火地区及び準防火区域は、それぞれこの法律第六十条第一項の規定によつて指定された防火地域又は準防火地域とみなす。
+      Paragraph:
+        ParagraphCaption: （この法律施行前に指定された建築線）
+        ParagraphNum: ５
+        ParagraphSentence:
+Sentence: 市街地建築物法第七条但書の規定によつて指定された建築線で、その間の距離が四メートル以上のものは、その建築線の位置にこの法律第四十二条第一項第五号の規定による道路の位置の指定があつたものとみなす。
+      Paragraph:
+        ParagraphCaption: （この法律施行前の違反行為及び訴願に対する取扱）
+        ParagraphNum: ６
+        ParagraphSentence:
+Sentence: この法律施行前にした附則第二項第一号から第八号までに掲げる法令又はこれらに基いてした処分に違反する行為に対する市街地建築物法第十七条第三号、第十九条及び第二十条の規定の適用については、なお、従前の例による。
+      Paragraph:
+        ParagraphNum: ７
+        ParagraphSentence:
+Sentence: 附則第二項第一号から第八号までに掲げる法令に基いてした処分に対する訴願でこの法律施行前に提起したものの取扱については、なお、従前の例による。
+      Paragraph:
+        ParagraphNum: ８
+        ParagraphSentence:
+Sentence: この法律の施行前にした臨時建築制限規則又はこれに基いて発せられた命令に違反する行為に対する臨時物資需給調整法（昭和二十一年法律第三十二号）の罰則の規定の適用については、なお、従前の例による。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+        ParagraphNum: １
+        ParagraphSentence:
+Sentence: この法律は、昭和二十七年四月一日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+        ParagraphSentence:
+Sentence: この法律は、新法施行の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+        ParagraphNum: １
+        ParagraphSentence:
+Sentence: この法律は、公布の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+        ParagraphNum: １
+        ParagraphSentence:
+Sentence: この法律は、公布の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+        ParagraphSentence:
+Sentence: この法律は、新法施行の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+        ParagraphCaption: （施行期日）
+        ParagraphNum: １
+        ParagraphSentence:
+Sentence: この法律は、公布の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+        ParagraphCaption: （施行期日）
+        ParagraphNum: １
+        ParagraphSentence:
+Sentence: この法律は、昭和二十九年七月一日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+        ParagraphNum: １
+        ParagraphSentence:
+Sentence: この法律は、新法の施行の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+        ParagraphNum: １
+        ParagraphSentence:
+Sentence: この法律は、昭和二十九年七月一日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+        ParagraphSentence:
+Sentence: この法律は、公布の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+        ParagraphNum: １
+        ParagraphSentence:
+Sentence: この法律は、地方自治法の一部を改正する法律（昭和三十一年法律第百四十七号）の施行の日から施行する。
+      Paragraph:
+        ParagraphNum: ２
+        ParagraphSentence:
+Sentence: この法律の施行の際海区漁業調整委員会の委員又は農業委員会の委員の職にある者の兼業禁止及びこの法律の施行に伴う都道府県又は都道府県知事若しくは都道府県の委員会その他の機関が処理し、又は管理し、及び執行している事務の地方自治法第二百五十二条の十九第一項の指定都市（以下「指定都市」という。）又は指定都市の市長若しくは委員会その他の機関への引継に関し必要な経過措置は、それぞれ地方自治法の一部を改正する法律（昭和三十一年法律第百四十七号）附則第四項及び第九項から第十五項までに定めるところによる。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+        ParagraphSentence:
+Sentence: この法律は、公布の日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

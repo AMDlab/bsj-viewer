@@ -1,0 +1,6 @@
+ArticleCaption: （第二種中高層住居専用地域内に建築してはならない畜舎）
+ArticleTitle: 第百三十条の七
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法別表第二（に）項第六号（法第八十七条第二項又は第三項において法第四十八条第四項の規定を準用する場合を含む。）に規定する政令で定める規模の畜舎は、床面積の合計が十五平方メートルを超えるものとする。

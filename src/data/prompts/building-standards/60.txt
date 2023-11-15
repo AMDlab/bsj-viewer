@@ -1,6 +1,7 @@
 ArticleCaption: （建築材料の品質）
 ArticleTitle: 第三十七条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 建築物の基礎、主要構造部その他安全上、防火上又は衛生上重要である政令で定める部分に使用する木材、鋼材、コンクリートその他の建築材料として国土交通大臣が定めるもの（以下この条において「指定建築材料」という。）は、次の各号のいずれかに該当するものでなければならない。
   Item:

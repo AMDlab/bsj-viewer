@@ -1,0 +1,21 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。
+    Sentence: ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Column:
+        Sentence: 第三条、第四条並びに附則第五条から第七条まで及び第十一条の規定
+      Column:
+        Sentence: 公布の日から起算して六月を超えない範囲内において政令で定める日
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Column:
+        Sentence: 次条の規定
+      Column:
+        Sentence: 公布の日から起算して九月を超えない範囲内において政令で定める日

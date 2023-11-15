@@ -1,0 +1,6 @@
+ArticleCaption: （消防長等の同意を要する住宅）
+ArticleTitle: 第百四十七条の三
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第九十三条第一項ただし書の政令で定める住宅は、一戸建ての住宅で住宅の用途以外の用途に供する部分の床面積の合計が延べ面積の二分の一以上であるもの又は五十平方メートルを超えるものとする。

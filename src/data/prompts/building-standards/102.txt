@@ -1,5 +1,8 @@
-ArticleCaption: （土地の共有者等の取扱い）
-ArticleTitle: 第七十六条の二
+ArticleCaption: （第三十八条の準用）
+ArticleTitle: 第六十六条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: 土地の共有者又は共同借地権者は、第七十条第三項（第七十四条第二項において準用する場合を含む。）、第七十五条の二第一項及び第二項並びに前条第一項の規定の適用については、合わせて一の所有者又は借地権者とみなす。
+    Sentence: 第三十八条の規定は、その予想しない特殊の構造方法又は建築材料を用いる建築物に対するこの節の規定及びこれに基づく命令の規定の適用について準用する。
+        Section:
+          SectionTitle: 第五節の二　特定防災街区整備地区

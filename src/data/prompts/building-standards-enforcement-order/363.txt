@@ -1,0 +1,64 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この政令は、公布の日から施行する。
+    Sentence: ただし、第二百九条の七から第二百九条の十二までを削る改正規定、第二百十条から第二百十条の九まで及び第二百十条の十三第一項の改正規定、第二百十条の十九及び第二百十条の二十に係る改正規定、附則第四条及び第五条に係る改正規定、附則第六条の次に一条を加える改正規定並びに次条から附則第二十二条までの規定（以下「特別区に関する改正規定」という。）は、昭和五十年四月一日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この政令は、都市計画法及び建築基準法の一部を改正する法律（昭和四十九年法律第六十七号）の施行の日（昭和五十年四月一日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この政令は、都市再開発法の一部を改正する法律（昭和五十年法律第六十六号）の施行の日（昭和五十年十一月一日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+ParagraphSentence:
+  Sentence: この政令は、学校教育法の一部を改正する法律の施行の日（昭和五十一年一月十一日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この政令は、都市公園等整備緊急措置法及び都市公園法の一部を改正する法律の施行の日（昭和五十一年八月二十三日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この政令は、建築基準法の一部を改正する法律（昭和五十一年法律第八十三号）の施行の日（昭和五十二年十一月一日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この政令は、昭和五十三年六月二十三日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+ParagraphSentence:
+  Sentence: この政令は、昭和五十三年七月一日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この政令は、昭和五十六年六月一日から施行する。
+  Sentence: ただし、第十条第一項の表の改正規定は、昭和五十五年十月一日から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

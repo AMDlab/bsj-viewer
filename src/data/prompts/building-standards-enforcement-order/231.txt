@@ -1,0 +1,26 @@
+ArticleCaption: （第二種低層住居専用地域及び田園住居地域内に建築することができる店舗、飲食店等の建築物）
+ArticleTitle: 第百三十条の五の二
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法別表第二（ろ）項第二号及び（ち）項第五号（法第八十七条第二項又は第三項において法第四十八条第二項及び第八項の規定を準用する場合を含む。）の規定により政令で定める建築物は、次に掲げるものとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 日用品の販売を主たる目的とする店舗又は食堂若しくは喫茶店
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 理髪店、美容院、クリーニング取次店、質屋、貸衣装屋、貸本屋その他これらに類するサービス業を営む店舗
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 洋服店、畳屋、建具屋、自転車店、家庭電気器具店その他これらに類するサービス業を営む店舗で作業場の床面積の合計が五十平方メートル以内のもの（原動機を使用する場合にあつては、その出力の合計が〇・七五キロワット以下のものに限る。）
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 自家販売のために食品製造業を営むパン屋、米屋、豆腐屋、菓子屋その他これらに類するもので作業場の床面積の合計が五十平方メートル以内のもの（原動機を使用する場合にあつては、その出力の合計が〇・七五キロワット以下のものに限る。）
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: 学習塾、華道教室、囲碁教室その他これらに類する施設

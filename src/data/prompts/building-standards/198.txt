@@ -1,0 +1,22 @@
+ArticleCaption: （書類の閲覧）
+ArticleTitle: 第七十七条の三十五の十五
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 指定構造計算適合性判定機関は、国土交通省令で定めるところにより、構造計算適合性判定の業務を行う事務所に次に掲げる書類を備え置き、構造計算適合性判定を受けようとする者その他の関係者の求めに応じ、これを閲覧させなければならない。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 当該指定構造計算適合性判定機関の業務の実績を記載した書類
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: 構造計算適合性判定員の氏名及び略歴を記載した書類
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 構造計算適合性判定の業務に関し生じた損害を賠償するために必要な金額を担保するための保険契約の締結その他の措置を講じている場合にあつては、その内容を記載した書類
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: その他指定構造計算適合性判定機関の業務及び財務に関する書類で国土交通省令で定めるもの

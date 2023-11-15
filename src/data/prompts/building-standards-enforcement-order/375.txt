@@ -1,0 +1,15 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この政令は、ガス事業法の一部を改正する法律（平成六年法律第四十二号）の施行の日（平成七年三月一日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+ParagraphCaption: （施行期日）
+ParagraphNum: １
+ParagraphSentence:
+  Sentence: この政令は、都市再開発法等の一部を改正する法律の一部の施行の日（平成七年五月二十五日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

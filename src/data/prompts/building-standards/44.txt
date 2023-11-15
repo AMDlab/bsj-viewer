@@ -1,5 +1,6 @@
 ArticleCaption: （建築物が第二十二条第一項の市街地の区域の内外にわたる場合の措置）
 ArticleTitle: 第二十四条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 建築物が第二十二条第一項の市街地の区域の内外にわたる場合においては、その全部について同項の市街地の区域内の建築物に関する規定を適用する。

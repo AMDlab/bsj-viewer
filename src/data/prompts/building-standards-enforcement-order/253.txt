@@ -1,0 +1,42 @@
+ArticleCaption: （前面道路との関係についての建築物の各部分の高さの制限に係る建築物の後退距離の算定の特例）
+ArticleTitle: 第百三十条の十二
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: 法第五十六条第二項及び第四項の政令で定める建築物の部分は、次に掲げるものとする。
+  Item:
+    ItemTitle: 一
+    ItemSentence:
+      Sentence: 物置その他これに類する用途に供する建築物の部分で次に掲げる要件に該当するもの
+    Subitem1:
+      Subitem1Title: イ
+      Subitem1Sentence:
+        Sentence: 軒の高さが二・三メートル以下で、かつ、床面積の合計が五平方メートル以内であること。
+    Subitem1:
+      Subitem1Title: ロ
+      Subitem1Sentence:
+        Sentence: 当該部分の水平投影の前面道路に面する長さを敷地の前面道路に接する部分の水平投影の長さで除した数値が五分の一以下であること。
+    Subitem1:
+      Subitem1Title: ハ
+      Subitem1Sentence:
+        Sentence: 当該部分から前面道路の境界線までの水平距離のうち最小のものが一メートル以上であること。
+  Item:
+    ItemTitle: 二
+    ItemSentence:
+      Sentence: ポーチその他これに類する建築物の部分で、前号ロ及びハに掲げる要件に該当し、かつ、高さが五メートル以下であるもの
+  Item:
+    ItemTitle: 三
+    ItemSentence:
+      Sentence: 道路に沿つて設けられる高さが二メートル以下の門又は塀（高さが一・二メートルを超えるものにあつては、当該一・二メートルを超える部分が網状その他これに類する形状であるものに限る。）
+  Item:
+    ItemTitle: 四
+    ItemSentence:
+      Sentence: 隣地境界線に沿つて設けられる門又は塀
+  Item:
+    ItemTitle: 五
+    ItemSentence:
+      Sentence: 歩廊、渡り廊下その他これらに類する建築物の部分で、特定行政庁がその地方の気候若しくは風土の特殊性又は土地の状況を考慮して規則で定めたもの
+  Item:
+    ItemTitle: 六
+    ItemSentence:
+      Sentence: 前各号に掲げるもののほか、建築物の部分で高さが一・二メートル以下のもの

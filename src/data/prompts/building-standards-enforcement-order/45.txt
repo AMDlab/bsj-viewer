@@ -1,6 +1,7 @@
 ArticleCaption: （階段等の手すり等）
 ArticleTitle: 第二十五条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 階段には、手すりを設けなければならない。
 Paragraph:

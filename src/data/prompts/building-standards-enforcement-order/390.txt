@@ -1,0 +1,8 @@
+ArticleCaption: （罰則に関する経過措置）
+ArticleTitle: 第三条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この政令の施行前にした行為に対する罰則の適用については、なお従前の例による。
+    SupplProvision:
+      SupplProvisionLabel: 附　則

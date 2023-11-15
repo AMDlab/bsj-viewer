@@ -1,6 +1,7 @@
 ArticleCaption: （建築設備等検査員資格者証）
 ArticleTitle: 第十二条の三
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
     Sentence: 建築設備等検査員資格者証の種類は、国土交通省令で定める。
 Paragraph:

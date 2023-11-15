@@ -1,21 +1,87 @@
-ArticleCaption: （屋外への出口等の施錠装置の構造等）
-ArticleTitle: 第百二十五条の二
+ArticleCaption: （地震力）
+ArticleTitle: 第八十八条
 Paragraph:
+ParagraphNum:
   ParagraphSentence:
-    Sentence: 次の各号に掲げる出口に設ける戸の施錠装置は、当該建築物が法令の規定により人を拘禁する目的に供せられるものである場合を除き、屋内からかぎを用いることなく解錠できるものとし、かつ、当該戸の近くの見やすい場所にその解錠方法を表示しなければならない。
-  Item:
-    ItemTitle: 一
-    ItemSentence:
-      Sentence: 屋外に設ける避難階段に屋内から通ずる出口
-  Item:
-    ItemTitle: 二
-    ItemSentence:
-      Sentence: 避難階段から屋外に通ずる出口
-  Item:
-    ItemTitle: 三
-    ItemSentence:
-      Sentence: 前二号に掲げる出口以外の出口のうち、維持管理上常時鎖錠状態にある出口で、火災その他の非常の場合に避難の用に供すべきもの
+    Sentence: 建築物の地上部分の地震力については、当該建築物の各部分の高さに応じ、当該高さの部分が支える部分に作用する全体の地震力として計算するものとし、その数値は、当該部分の固定荷重と積載荷重との和（第八十六条第二項ただし書の規定により特定行政庁が指定する多雪区域においては、更に積雪荷重を加えるものとする。）に当該高さにおける地震層せん断力係数を乗じて計算しなければならない。
+    Sentence: この場合において、地震層せん断力係数は、次の式によつて計算するものとする。
+  List:
+    ListSentence:
+      Sentence:
+        ArithFormula: Ｃｉ＝ＺＲｔＡｉＣｏ
+  List:
+    ListSentence:
+      Sentence: （この式において、Ｃｉ、Ｚ、Ｒｔ、Ａｉ及びＣｏは、それぞれ次の数値を表すものとする。
+  List:
+    ListSentence:
+      Column:
+        Sentence: Ｃｉ
+      Column:
+        Sentence: 建築物の地上部分の一定の高さにおける地震層せん断力係数
+  List:
+    ListSentence:
+      Column:
+        Sentence: Ｚ
+      Column:
+        Sentence: その地方における過去の地震の記録に基づく震害の程度及び地震活動の状況その他地震の性状に応じて一・〇から〇・七までの範囲内において国土交通大臣が定める数値
+  List:
+    ListSentence:
+      Column:
+        Sentence: Ｒｔ
+      Column:
+        Sentence: 建築物の振動特性を表すものとして、建築物の弾性域における固有周期及び地盤の種類に応じて国土交通大臣が定める方法により算出した数値
+  List:
+    ListSentence:
+      Column:
+        Sentence: Ａｉ
+      Column:
+        Sentence: 建築物の振動特性に応じて地震層せん断力係数の建築物の高さ方向の分布を表すものとして国土交通大臣が定める方法により算出した数値
+  List:
+    ListSentence:
+      Column:
+        Sentence: Ｃｏ
+      Column:
+        Sentence: 標準せん断力係数）
 Paragraph:
   ParagraphNum: ２
   ParagraphSentence:
-    Sentence: 前項に規定するもののほか、同項の施錠装置の構造及び解錠方法の表示の基準は、国土交通大臣が定める。
+    Sentence: 標準せん断力係数は、〇・二以上としなければならない。
+    Sentence: ただし、地盤が著しく軟弱な区域として特定行政庁が国土交通大臣の定める基準に基づいて規則で指定する区域内における木造の建築物（第四十六条第二項第一号に掲げる基準に適合するものを除く。）にあつては、〇・三以上としなければならない。
+Paragraph:
+  ParagraphNum: ３
+  ParagraphSentence:
+    Sentence: 第八十二条の三第二号の規定により必要保有水平耐力を計算する場合においては、前項の規定にかかわらず、標準せん断力係数は、一・〇以上としなければならない。
+Paragraph:
+  ParagraphNum: ４
+  ParagraphSentence:
+    Sentence: 建築物の地下部分の各部分に作用する地震力は、当該部分の固定荷重と積載荷重との和に次の式に適合する水平震度を乗じて計算しなければならない。
+    Sentence: ただし、地震時における建築物の振動の性状を適切に評価して計算をすることができる場合においては、当該計算によることができる。
+  List:
+    ListSentence:
+      Sentence:
+        ArithFormula: ｋ≧０．１（１－（Ｈ／４０））Ｚ
+  List:
+    ListSentence:
+      Sentence: （この式において、ｋ、Ｈ及びＺは、それぞれ次の数値を表すものとする。
+  List:
+    ListSentence:
+      Column:
+        Sentence: ｋ
+      Column:
+        Sentence: 水平震度
+  List:
+    ListSentence:
+      Column:
+        Sentence: Ｈ
+      Column:
+        Sentence: 建築物の地下部分の各部分の地盤面からの深さ（二十を超えるときは二十とする。）（単位
+      Column:
+        Sentence: メートル）
+  List:
+    ListSentence:
+      Column:
+        Sentence: Ｚ
+      Column:
+        Sentence: 第一項に規定するＺの数値）
+          Subsection:
+            SubsectionTitle: 第三款　許容応力度

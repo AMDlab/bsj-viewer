@@ -1,0 +1,14 @@
+ArticleCaption: （施行期日）
+ArticleTitle: 第一条
+Paragraph:
+ParagraphNum:
+  ParagraphSentence:
+    Sentence: この政令は、我が国及び国際社会の平和及び安全の確保に資するための自衛隊法等の一部を改正する法律の施行の日（平成二十八年三月二十九日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
+      Paragraph:
+      ParagraphNum:
+ParagraphSentence:
+  Sentence: この政令は、都市再生特別措置法等の一部を改正する法律の施行の日（平成二十八年九月一日）から施行する。
+    SupplProvision:
+      SupplProvisionLabel: 附　則
