@@ -7,7 +7,17 @@ const openai = new OpenAI({
 });
 
 const model = 'gpt-3.5-turbo-1106';
-export async function GET() {
+export async function GET(request: Request) {
+  const basicAuth = request.headers.get('authorization');
+  if (!basicAuth) return new Response('Unauthorized', { status: 401 });
+  if (basicAuth) {
+    const authValue = basicAuth.split(' ')[1];
+    const [user, pwd] = atob(authValue).split(':');
+    if (user !== process.env.BASIC_AUTH_USER || pwd !== process.env.BASIC_AUTH_PASSWORD) {
+      return new Response('Unauthorized', { status: 401 });
+    }
+  }
+
   const keys = Object.keys(programMapping);
   try {
     const data = keys.map((key: string) => {

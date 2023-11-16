@@ -65,7 +65,7 @@ export default function Viewer() {
       visible: isWindowVisible,
     });
 
-    setRoomHeightChecker(components, { toolbar, highlighter, size: windowSize });
+    setRoomHeightChecker(components, { toolbar, highlighter, size: { height: 600 } });
     setProgramGenerator(components, { toolbar });
   };
   useOBC(ref, { onInitialized, withGrid: true });
