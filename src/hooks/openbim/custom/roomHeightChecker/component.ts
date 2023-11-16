@@ -16,22 +16,26 @@ interface IndexMap {
   [modelID: string]: { [expressID: string]: Set<number> };
 }
 
+type Room = {
+  expressID: number;
+  name: string;
+  height: number;
+  uiElement: OBC.SimpleUIComponent;
+};
+
 export class RoomHeightChecker extends OBC.Component<string> implements OBC.UI {
   enabled = true;
   uiElement = new OBC.UIElement<{
     main: OBC.Button;
     window: OBC.FloatingWindow;
     tree: OBC.TreeView;
+    check: OBC.CheckboxInput;
   }>();
 
   private _fragmentsGroup: FragmentsGroup | undefined;
   private _indexMap: IndexMap;
-  private _rooms: {
-    expressID: number;
-    name: string;
-    height: number;
-    uiElement: OBC.SimpleUIComponent;
-  }[] = [];
+  private _rooms: Room[] = [];
+  private _unResidentialsRooms: Room[] = [];
   private _selected: OBC.SimpleUIComponent | null = null;
   private _onClickTreeItem: (ids: OBC.FragmentIdMap) => void = () => {};
 
@@ -63,6 +67,22 @@ export class RoomHeightChecker extends OBC.Component<string> implements OBC.UI {
     mainwindow.domElement.style.width = '700px';
     mainwindow.children[0].domElement.style.height = '100%';
 
+    const check = new OBC.CheckboxInput(components);
+    check.label = '非居室も表示';
+    check.domElement.style.marginLeft = '10px';
+    check.onChange.add((data) => {
+      if (data) {
+        this._unResidentialsRooms.forEach((room) => {
+          room.uiElement.visible = true;
+        });
+        return;
+      }
+      this._unResidentialsRooms.forEach((room) => {
+        room.uiElement.visible = false;
+      });
+    });
+    mainwindow.addChild(check);
+
     const tree = new OBC.TreeView(components);
     tree.domElement.style.height = '100%';
     tree.title = 'モデルがありません。';
@@ -77,7 +97,7 @@ export class RoomHeightChecker extends OBC.Component<string> implements OBC.UI {
     button.onClick.add(() => this.checkRoomHeight());
     mainwindow.addChild(button);
 
-    this.uiElement.set({ main, window: mainwindow, tree });
+    this.uiElement.set({ main, window: mainwindow, tree, check });
     this._indexMap = {};
   }
 
@@ -145,6 +165,7 @@ export class RoomHeightChecker extends OBC.Component<string> implements OBC.UI {
     const map = this._indexMap[this._fragmentsGroup!.uuid];
     if (!map) return null;
     const tree = this.uiElement.get('tree') as OBC.TreeView;
+    const check = this.uiElement.get('check') as OBC.CheckboxInput;
     Object.values(this._fragmentsGroup!.properties as any).forEach((property: any) => {
       if (property.constructor.name == 'IfcSpace') {
         const space = property as IFC2X3.IfcSpace;
@@ -168,31 +189,41 @@ export class RoomHeightChecker extends OBC.Component<string> implements OBC.UI {
                 const habitable = pset.HasProperties.find(
                   (prop: any) => prop.value.Name.value === 'Habitable'
                 );
-                if (habitable.value.NominalValue.value) {
-                  const item = new OBC.SimpleUIComponent(
-                    this.components,
-                    `<div class='pl-[22px] my-1 hover:cursor-pointer hover:text-black transition-all'>${name}</div>`,
-                    space.expressID.toString()
-                  );
-                  const fragmentMap: OBC.FragmentIdMap = {};
-                  const data = this._fragmentsGroup!.data[space.expressID];
-                  for (const key of data[0]) {
-                    const fragmentID = this._fragmentsGroup!.keyFragments[key];
-                    if (!fragmentMap[fragmentID]) {
-                      fragmentMap[fragmentID] = new Set();
-                    }
-                    fragmentMap[fragmentID].add(String(space.expressID));
+                const item = new OBC.SimpleUIComponent(
+                  this.components,
+                  `<div class='my-1 hover:cursor-pointer hover:text-black transition-all'>${name}</div>`,
+                  space.expressID.toString()
+                );
+                const fragmentMap: OBC.FragmentIdMap = {};
+                const data = this._fragmentsGroup!.data[space.expressID];
+                for (const key of data[0]) {
+                  const fragmentID = this._fragmentsGroup!.keyFragments[key];
+                  if (!fragmentMap[fragmentID]) {
+                    fragmentMap[fragmentID] = new Set();
                   }
-                  item.domElement.onclick = () => {
-                    if (this._selected) {
-                      this._selected.domElement.style.fontWeight = 'normal';
-                    }
-                    this._onClickTreeItem(fragmentMap);
-                    item.domElement.style.fontWeight = 'bold';
-                    this._selected = item;
-                  };
-                  tree.addChild(item);
+                  fragmentMap[fragmentID].add(String(space.expressID));
+                }
+                item.domElement.onclick = () => {
+                  if (this._selected) {
+                    this._selected.domElement.style.fontWeight = 'normal';
+                  }
+                  this._onClickTreeItem(fragmentMap);
+                  item.domElement.style.fontWeight = 'bold';
+                  this._selected = item;
+                };
+                item.domElement.style.paddingLeft = '35px';
+                tree.addChild(item);
+                if (habitable.value.NominalValue.value) {
                   this._rooms.push({
+                    expressID: space.expressID,
+                    name,
+                    height: ceilingHight.value.NominalValue.value,
+                    uiElement: item,
+                  });
+                } else {
+                  item.visible = check.value;
+                  item.domElement.style.color = 'cadetblue';
+                  this._unResidentialsRooms.push({
                     expressID: space.expressID,
                     name,
                     height: ceilingHight.value.NominalValue.value,
