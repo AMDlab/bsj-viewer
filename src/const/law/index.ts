@@ -19,6 +19,33 @@ export const buildingStandardsEnforcementOrderPromptsDir = join(
 );
 export const programDirName = 'program';
 export const programDir = join(dataDirectoryPath, programDirName);
+export const keyNameMapping: { [key: string]: string } = {
+  floorAreaRatio: '容積率の判定プログラム',
+  roomHeight: '居室の天井の高さの判定プログラム',
+  lightningRod: '避雷設備の判定プログラム',
+  disasterRiskArea: '災害危険区域の判定プログラム',
+  buildingCoverageRatio: '建蔽率の判定プログラム',
+  emergencyStaircase: '避難階段の設置の判定プログラム',
+  premisesPassage: '敷地内の通路の判定プログラム',
+  emergencyEntrance: '非常用の進入口の設置の判定プログラム',
+  roomUnderGround: '地階における住宅等の居室の判定プログラム',
+  firePreventionArea: '防火地域及び準防火地域内の建築物の判定プログラム',
+  stairsHandrail: '大規模の木造建築物等の外壁等の判定プログラム',
+};
+
+export const nameKeyMapping: { [key: string]: string } = {
+  容積率の判定プログラム: 'floorAreaRatio',
+  居室の天井の高さの判定プログラム: 'roomHeight',
+  避雷設備の判定プログラム: 'lightningRod',
+  災害危険区域の判定プログラム: 'disasterRiskArea',
+  建蔽率の判定プログラム: 'buildingCoverageRatio',
+  避難階段の設置の判定プログラム: 'emergencyStaircase',
+  敷地内の通路の判定プログラム: 'premisesPassage',
+  非常用の進入口の設置の判定プログラム: 'emergencyEntrance',
+  地階における住宅等の居室の判定プログラム: 'roomUnderGround',
+  防火地域及び準防火地域内の建築物の判定プログラム: 'firePreventionArea',
+  大規模の木造建築物等の外壁等の判定プログラム: 'stairsHandrail',
+};
 
 export const promptMapping: { [key: string]: string[] } = {
   floorAreaRatio: [join(buildingStandardsPromptsDir, '78.txt')],

@@ -1,4 +1,4 @@
-import { promptMapping } from '@/const/law';
+import { keyNameMapping, nameKeyMapping, promptMapping } from '@/const/law';
 import * as OBC from 'openbim-components';
 
 export class ProgramGenerator extends OBC.Component<string> implements OBC.UI {
@@ -24,15 +24,16 @@ export class ProgramGenerator extends OBC.Component<string> implements OBC.UI {
     components.ui.add(mainwindow);
     mainwindow.title = '審査プログラム生成';
     mainwindow.visible = false;
-    mainwindow.domElement.style.height = '400px';
+    mainwindow.domElement.style.height = '600px';
+    mainwindow.domElement.style.width = '700px';
     mainwindow.domElement.style.left = '430px';
     mainwindow.children[0].domElement.style.height = '100%';
 
     const selector = new OBC.Dropdown(components);
-    selector.addOption(...Object.keys(promptMapping));
-    selector.value = this._selectedKey;
+    selector.addOption(...Object.keys(nameKeyMapping));
+    selector.value = keyNameMapping[this._selectedKey];
     selector.onChange.add((data) => {
-      this._selectedKey = data;
+      this._selectedKey = nameKeyMapping[data];
     });
     const options = selector.domElement.children[2] as any;
     options.style.backgroundColor = 'rgba(0, 0, 0, 0.6)';
@@ -44,6 +45,8 @@ export class ProgramGenerator extends OBC.Component<string> implements OBC.UI {
     textArea.label = '';
     textArea.placeholder = 'OpenAIのレスポンスがここに表示されます。';
     textArea.enabled = false;
+    const input = textArea.domElement.childNodes[3] as any;
+    input.style.height = '380px';
     mainwindow.addChild(textArea);
 
     const button = new OBC.Button(components);
@@ -71,6 +74,10 @@ export class ProgramGenerator extends OBC.Component<string> implements OBC.UI {
     const textArea = this.uiElement.get('text') as OBC.TextArea;
     textArea.value = '生成中…';
     this.uiElement.get('button').enabled = true;
+    if (!this._selectedKey) {
+      alert('対象が選択されていません。');
+      return;
+    }
     fetch(`api/law/building-standards/generate-program?key=${this._selectedKey}`)
       .then((res) => res.json())
       .then((result) => {
